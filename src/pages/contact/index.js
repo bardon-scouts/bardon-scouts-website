@@ -98,6 +98,7 @@ export default class Index extends React.Component {
                     <option value="scouts">Scouts (11-15)</option>
                     <option value="venturers">Venturers (15-18)</option>
                     <option value="rovers">Rover (18-26)</option>
+                    <option value="leader">Leader (18+)</option>
                   </select>
                   </div>
                 </div>
