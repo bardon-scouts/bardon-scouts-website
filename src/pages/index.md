@@ -1,21 +1,24 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Bardon Scouts
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Get ready for adventure
+subheading: Get ready for adventure
 mainpitch:
-  title: Why Kaldi
+  title: Why Join Scouts?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Scouts is fun! Young people will make lots of friends while doing heaps of
+    new things, some of them once-in-a-lifetime opportunities. Scouts engages
+    and inspires young people to develop confidence, resilience and leadership.
+    Our focus is on fun, and we make sure Scouts are ‘learning by doing.’ 
+
+
+
+    Scouts is the worlds largest youth movement with over 28 million youth members. 
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
