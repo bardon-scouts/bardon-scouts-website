@@ -1,21 +1,21 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Bardon Scouts
+image: /img/scouts_muddy.jpg
+heading: Get ready for adventure
+subheading: Get ready for adventure
 mainpitch:
-  title: Why Kaldi
+  title: Why Join Scouts?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Scouts is fun! Young people from 5 to 25 will make lots of friends while
+    doing heaps of new things, some of them once-in-a-lifetime opportunities.
+    Scouts engages and inspires young people to develop confidence, resilience
+    and leadership. Our focus is on fun, and we make sure Scouts are ‘learning
+    by doing.’ 
+
+
+    Scouts is the worlds largest youth movement with over 28 million youth members. 
+description: Bardon Scouts is meets at 11 Bee St, Bardon.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -46,11 +46,8 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: |
+    XXXXXXXXX
 main:
   heading: Great coffee with no compromises
   description: >
