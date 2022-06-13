@@ -91,7 +91,7 @@ export default class Index extends React.Component {
                     Interested in:
                   </label>
                   <div className="control">
-                  <select className="input multiple" name={"interested_in[]"} id={"interested_in"} required={false} multiple>
+                  <select className="input multiple" name={"interested_in[]"} id={"interested_in[]"} required={false} multiple>
                     <option value="joeys">Joeys (5-8)</option>
                     <option value="cubs">Cubs (8-11)</option>
                     <option value="scouts">Scouts (11-15)</option>
