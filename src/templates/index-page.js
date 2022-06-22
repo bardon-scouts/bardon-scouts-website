@@ -45,6 +45,8 @@ export const IndexPageTemplate = ({
                       <p>{description}</p>
                     </div>
                   </div>
+
+                  /*** Featured products
                   <Features gridItems={intro.blurbs} />
                   <div className="columns">
                     <div className="column is-12 has-text-centered">
@@ -53,6 +55,9 @@ export const IndexPageTemplate = ({
                       </Link>
                     </div>
                   </div>
+                  ***/
+
+                  /*** Latest blog posts
                   <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">
                       Latest stories
@@ -64,6 +69,7 @@ export const IndexPageTemplate = ({
                       </Link>
                     </div>
                   </div>
+                  ***/
                 </div>
               </div>
             </div>
