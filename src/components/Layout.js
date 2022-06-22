@@ -48,7 +48,9 @@ const TemplateWrapper = ({ children }) => {
           content={`${withPrefix("/")}img/og-image.jpg`}
         />
       </Helmet>
-      <Navbar />
+      <Link to="/" className="navbar-item" title="Logo">
+        <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
+      </Link>
       <div>{children}</div>
       <Footer />
     </div>
