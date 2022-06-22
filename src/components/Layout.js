@@ -49,7 +49,7 @@ const TemplateWrapper = ({ children }) => {
         />
       </Helmet>
       <Link to="/" className="navbar-item" title="Logo">
-        <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
+        <img src={logo} alt="Scouts Australia" />
       </Link>
       <div>{children}</div>
       <Footer />
