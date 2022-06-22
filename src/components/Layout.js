@@ -1,7 +1,8 @@
 import * as React from "react";
 import { Helmet } from "react-helmet";
 import Footer from "../components/Footer";
-import Navbar from "../components/Navbar";
+import { Link } from "gatsby";
+import logo from "../img/scouts_logo.jpg";
 import "./all.sass";
 import useSiteMetadata from "./SiteMetadata";
 import { withPrefix } from "gatsby";
