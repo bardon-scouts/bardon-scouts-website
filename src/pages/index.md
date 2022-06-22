@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Bardon Scouts
-image: /img/scouts_muddy.jpg
+image: /img/buddha-s-light-cubby-hawk.jpg
 heading: Get ready for adventure
 subheading: Get ready for adventure
 mainpitch:
