@@ -19,11 +19,11 @@ intro:
     - image: /img/bonfire.jpg
       text: |
         Our focus is on fun, and we make sure Scouts are ‘learning by doing.’ 
-    - image: /img/camp.png
+    - image: /img/backpack.jpg
       text: >
         Scouts are active in the community, particularly on ANZAC Day and clean
         up Australia Day.
-    - image: /img/backpack.jpg
+    - image: /img/camp.png
       text: >
         Scouts is the worlds largest youth movement with over 28 million youth
         members.
