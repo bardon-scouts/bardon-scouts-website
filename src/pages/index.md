@@ -12,18 +12,18 @@ mainpitch:
 description: Bardon Scouts is meets at 11 Bee St, Bardon.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/camp.png
       text: >
         Scouts engages and inspires young people to develop confidence,
         resilience and leadership.
-    - image: /img/coffee-gear.png
+    - image: /img/backpack.webp
       text: |
         Our focus is on fun, and we make sure Scouts are ‘learning by doing.’ 
-    - image: /img/tutorials.png
+    - image: /img/torch.webp
       text: >
         Scouts are active in the community, particularly on ANZAC Day and clean
         up Australia Day.
-    - image: /img/meeting-space.png
+    - image: /img/mountain.webp
       text: >
         Scouts is the worlds largest youth movement with over 28 million youth
         members.
