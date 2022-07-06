@@ -9,7 +9,7 @@ mainpitch:
   description: >
     Scouting is fun! Make new friends, try new things and take part in
     once-in-a-lifetime opportunities.
-description: Bardon Scouts is meets at 11 Bee St, Bardon.
+description: Bardon Scouts meets at 11 Bee St, Bardon.
 intro:
   blurbs:
     - image: /img/torch.jpg
