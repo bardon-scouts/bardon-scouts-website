@@ -45,4 +45,20 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
+pricing:
+  heading: Our units
+  description: Bardon Scouts meet at 11 Bee Street, Bardon
+  plans:
+    - description: 6 - 7.30pm Thursdays
+      items: ['a']
+      plan: Joeys
+      price: 5 to 8
+    - description: 6.30 - 8pm Tuesdays
+      items: ['b']
+      plan: Cubs
+      price: 8 to 11
+    - description: 6.30 - 8.30pm Thursdays
+      items: ['c']
+      plan: Scouts
+      price: 11 to 15
 ---

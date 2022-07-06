@@ -15,6 +15,11 @@ const IndexPagePreview = ({ entry, getAsset }) => {
         description={data.description}
         intro={data.intro || { blurbs: [] }}
         mainpitch={data.mainpitch || {}}
+        pricing={{
+        heading: entry.getIn(['data', 'pricing', 'heading']),
+        description: entry.getIn(['data', 'pricing', 'description']),
+        plans: pricingPlans,
+      }}
       />
     )
   } else {

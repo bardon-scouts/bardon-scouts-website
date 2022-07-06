@@ -5,7 +5,7 @@ import { getImage } from "gatsby-plugin-image";
 
 import Layout from "../components/Layout";
 import Features from "../components/Features";
-import BlogRoll from "../components/BlogRoll";
+import Pricing from "../components/Pricing";
 import FullWidthImage from "../components/FullWidthImage";
 import logo from "../img/scouts_logo.jpg";
 
@@ -18,6 +18,7 @@ export const IndexPageTemplate = ({
   mainpitch,
   description,
   intro,
+  pricing,
 }) => {
   const heroImage = getImage(image) || image;
 
@@ -44,18 +45,28 @@ export const IndexPageTemplate = ({
                       <h3 className="has-text-weight-semibold is-size-2">
                         {heading}
                       </h3>
-                      <p>{description}</p>
                     </div>
                   </div>
 
                   <Features gridItems={intro.blurbs} />
-                  <div className="columns">
-                    <div className="column is-12 has-text-centered">
-                      <Link className="btn" to="/products">
-                        See all products
-                      </Link>
+
+                  <p>{description}</p>
+
+                  <section className="section section--gradient">
+                    <div className="container">
+                      <div className="section">
+                        <div className="columns">
+                          <div className="column is-10 is-offset-1">
+                            <h2 className="has-text-weight-semibold is-size-2">
+                              {pricing.heading}
+                            </h2>
+                            <p className="is-size-5">{pricing.description}</p>
+                            <Pricing data={pricing.plans} />
+                          </div>
+                        </div>
+                      </div>
                     </div>
-                  </div>
+                  </section>
 
                 </div>
               </div>
@@ -77,6 +88,11 @@ IndexPageTemplate.propTypes = {
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
+  pricing: PropTypes.shape({
+    heading: PropTypes.string,
+    description: PropTypes.string,
+    plans: PropTypes.array,
+  }),
 };
 
 const IndexPage = ({ data }) => {
@@ -92,6 +108,7 @@ const IndexPage = ({ data }) => {
         mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
         intro={frontmatter.intro}
+        pricing={frontmatter.pricing}
       />
     </Layout>
   );
@@ -135,6 +152,16 @@ export const pageQuery = graphql`
           }
           heading
           description
+        }
+        pricing {
+          heading
+          description
+          plans {
+            description
+            items
+            plan
+            price
+          }
         }
       }
     }
