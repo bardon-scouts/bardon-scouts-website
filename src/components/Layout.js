@@ -49,9 +49,6 @@ const TemplateWrapper = ({ children }) => {
           content={`${withPrefix("/")}img/og-image.jpg`}
         />
       </Helmet>
-      <Link to="/" className="navbar-item" title="Logo">
-        <img src={logo} alt="Scouts Australia" />
-      </Link>
       <div>{children}</div>
       <Footer />
     </div>

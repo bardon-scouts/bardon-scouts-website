@@ -7,6 +7,7 @@ import Layout from "../components/Layout";
 import Features from "../components/Features";
 import BlogRoll from "../components/BlogRoll";
 import FullWidthImage from "../components/FullWidthImage";
+import logo from "../img/scouts_logo.jpg";
 
 // eslint-disable-next-line
 export const IndexPageTemplate = ({
@@ -22,6 +23,7 @@ export const IndexPageTemplate = ({
 
   return (
     <div>
+        <div className="scouts-logo"><img src={logo} alt="Scouts Australia" /></div>
       <FullWidthImage img={heroImage} title={title} subheading={subheading} />
       <section className="section section--gradient">
         <div className="container">
