@@ -23,7 +23,7 @@ intro:
       text: >
         Scouts are active in the community, particularly on ANZAC Day and clean
         up Australia Day.
-    - image: /img/mountain.webp
+    - image: /img/backpack.jpg
       text: >
         Scouts is the worlds largest youth movement with over 28 million youth
         members.
