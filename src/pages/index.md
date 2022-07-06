@@ -27,8 +27,8 @@ intro:
       text: >
         Scouts is the worlds largest youth movement with over 28 million youth
         members.
-  heading: What we offer
-  description: Bardon Scouts
+  heading: Bardon Scouts
+  description: Get ready for adventure
 main:
   heading: Great coffee with no compromises
   description: >
