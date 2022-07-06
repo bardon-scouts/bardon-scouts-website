@@ -12,14 +12,14 @@ mainpitch:
 description: Bardon Scouts is meets at 11 Bee St, Bardon.
 intro:
   blurbs:
-    - image: /img/camp.png
+    - image: /img/torch.jpg
       text: >
         Scouts engages and inspires young people to develop confidence,
         resilience and leadership.
-    - image: /img/backpack.webp
+    - image: /img/bonfire.jpg
       text: |
         Our focus is on fun, and we make sure Scouts are ‘learning by doing.’ 
-    - image: /img/torch.webp
+    - image: /img/camp.png
       text: >
         Scouts are active in the community, particularly on ANZAC Day and clean
         up Australia Day.
