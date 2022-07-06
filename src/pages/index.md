@@ -7,14 +7,8 @@ subheading: Get ready for adventure
 mainpitch:
   title: Why Join Scouts?
   description: >
-    Scouts is fun! Young people from 5 to 25 will make lots of friends while
-    doing heaps of new things, some of them once-in-a-lifetime opportunities.
-    Scouts engages and inspires young people to develop confidence, resilience
-    and leadership. Our focus is on fun, and we make sure Scouts are ‘learning
-    by doing.’ 
-
-
-    Scouts is the worlds largest youth movement with over 28 million youth members. 
+    Scouting is fun! Make new friends, try new things and take part in
+    once-in-a-lifetime opportunities.
 description: Bardon Scouts is meets at 11 Bee St, Bardon.
 intro:
   blurbs:
@@ -46,8 +40,13 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: |
-    XXXXXXXXX
+  description: >-
+    Scouts engages and inspires young people to develop confidence, resilience
+    and leadership. Our focus is on fun, and we make sure Scouts are ‘learning
+    by doing.’ 
+
+
+    Scouts is the worlds largest youth movement with over 28 million youth members. 
 main:
   heading: Great coffee with no compromises
   description: >
