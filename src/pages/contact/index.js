@@ -86,21 +86,6 @@ export default class Index extends React.Component {
                     />
                   </div>
                 </div>
-                <div className="field">
-                  <label className="label" htmlFor={"email"}>
-                    Interested in:
-                  </label>
-                  <div className="control">
-                  <select className="input multiple" name={"interested_in[]"} id={"interested_in[]"} required={false} multiple>
-                    <option value="joeys">Joeys (5-8)</option>
-                    <option value="cubs">Cubs (8-11)</option>
-                    <option value="scouts">Scouts (11-15)</option>
-                    <option value="venturers">Venturers (15-18)</option>
-                    <option value="rovers">Rover (18-26)</option>
-                    <option value="leader">Leader (18+)</option>
-                  </select>
-                  </div>
-                </div>
 
                 <div className="field">
                   <label className="label" htmlFor={"message"}>
@@ -117,10 +102,10 @@ export default class Index extends React.Component {
                   </div>
                 </div>
                 <div className="field">
-                  <button className="button is-link" type="submit">
-                    Send
-                  </button>
+                  <button type="submit">Send</button>
                 </div>
+                <p><a href="/">&lt; Back</a></p>
+
               </form>
             </div>
           </div>
