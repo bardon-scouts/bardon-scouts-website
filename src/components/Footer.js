@@ -6,10 +6,15 @@ import facebook from "../img/social/facebook.svg";
 import instagram from "../img/social/instagram.svg";
 import twitter from "../img/social/twitter.svg";
 import vimeo from "../img/social/vimeo.svg";
+import bardonLogo from "../img/bardon-scouts.png";
 
 const Footer = class extends React.Component {
   render() {
     return (
+    <div>
+        <div className="content">
+            <p className="has-text-centered"><img className="bardon-logo" src={bardonLogo} alt="Bardon Scouts Group" /></p>
+        </div>
       <footer className="footer has-background-black has-text-white-ter">
 
         <ul>
@@ -25,6 +30,7 @@ const Footer = class extends React.Component {
             />
             */}
       </footer>
+    </div>
     );
   }
 };
