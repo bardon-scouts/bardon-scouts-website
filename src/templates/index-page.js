@@ -8,6 +8,7 @@ import Features from "../components/Features";
 import Pricing from "../components/Pricing";
 import FullWidthImage from "../components/FullWidthImage";
 import logo from "../img/scouts_logo.jpg";
+import bardonLogo from "../img/bardon-scouts.png";
 
 // eslint-disable-next-line
 export const IndexPageTemplate = ({
@@ -24,8 +25,9 @@ export const IndexPageTemplate = ({
 
   return (
     <div>
-        <div className="scouts-logo"><img src={logo} alt="Scouts Australia" /></div>
+    <div className="scouts-logo"><img src={logo} alt="Scouts Australia" /></div>
       <FullWidthImage img={heroImage} title={title} subheading={subheading} />
+      <a name="join"></a>
       <section className="section section--gradient">
         <div className="container">
           <div className="section">
@@ -51,20 +53,22 @@ export const IndexPageTemplate = ({
         </form>
       </section>
 
+      <a name="adventure"></a>
       <section className="section section--gradient">
-          <div className="column is-10 is-offset-1">
-            <div className="content">
-              <div className="columns">
-                <div className="column is-12">
-                  <h3 className="has-text-weight-semibold is-size-2">
-                    {heading}
-                  </h3>
-                </div>
+        <div className="container">
+          <div className="section">
+            <div className="columns">
+              <div className="column is-10 is-offset-1">
+                <h3 className="has-text-weight-semibold is-size-2">
+                  {heading}
+                </h3>
               </div>
-
+            </div>
+            <div className="column is-10 is-offset-1">
               <Features gridItems={intro.blurbs} />
             </div>
           </div>
+        </div>
       </section>
 
       <section className="contact">
@@ -73,6 +77,7 @@ export const IndexPageTemplate = ({
         </form>
       </section>
 
+      <a name="units"></a>
       <section id="units" className="section section--gradient">
         <div className="container">
           <div className="section">
@@ -83,6 +88,7 @@ export const IndexPageTemplate = ({
                 </h2>
                 <p className="is-size-5">{pricing.description}</p>
                 <Pricing data={pricing.plans} />
+                <p className="has-text-centered"><img className="bardon-logo" src={bardonLogo} alt="Bardon Scouts Group" /></p>
               </div>
             </div>
           </div>

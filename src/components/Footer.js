@@ -12,14 +12,18 @@ const Footer = class extends React.Component {
     return (
       <footer className="footer has-background-black has-text-white-ter">
 
-        <div className="content">
+        <ul>
+            <li><a href="/#join">Why Join Scouts?</a></li>
+            <li><a href="/#adventure">Get ready for adventure</a></li>
+            <li><a href="/#units">Our units</a></li>
+            <li><a href="/contact">Contact us</a></li>
+        </ul>
           {/*
             <img className="logo"
               src={logo}
               alt="Scouts Australia"
             />
             */}
-        </div>
       </footer>
     );
   }

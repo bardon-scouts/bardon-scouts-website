@@ -10,6 +10,7 @@ $primary-invert: $bardon-invert
 $body-color: #333
 $black: #2b2523
 
+$bardon-light: #65c2bd
 $bardon-mid: #32908a
 $bardon-darker: #218079
 $bardon-invert-mid: #c8321c
@@ -86,6 +87,9 @@ $bardon-invert-mid: #c8321c
 .margin-top-0
   margin-top: 0 !important
 
+img.bardon-logo
+  max-width: 120px
+
 .navbar-item .icon
   color: $primary
 // Override for use of svg's from https://simpleicons.org/
@@ -145,11 +149,6 @@ section.contact
     display: block
     margin: 0 auto
 
-// Footer
-footer img.logo
-  width: 13rem
-  max-width: 300px
-  border-left: 3rem solid white
 
 //Menu overrides
 $menu-item-color: $white-ter
@@ -194,6 +193,24 @@ select.multiple
 
 
 @import "~bulma"
+
+// Footer
+footer
+  padding-bottom: 3em
+  img.logo
+    width: 13rem
+    max-width: 300px
+    border-left: 3rem solid white
+  ul
+    display: flex
+    flex-wrap:  wrap
+    justify-content: space-around
+    padding-bottom: 3em
+    a
+      color: white
+      font-weight: bold
+    a:hover
+      color: $bardon-light
 
 
 // responsiveness
