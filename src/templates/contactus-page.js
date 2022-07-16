@@ -18,7 +18,7 @@ export const ContactUsTemplate = ({ title, content, contentComponent }) => {
           <form
               name="contact"
               method="post"
-              action="/contact/thanks/"
+              action="/thanks/"
               data-netlify="true"
               data-netlify-honeypot="bot-field"
           >
@@ -118,6 +118,11 @@ export const contactUsQuery = graphql`
       html
       frontmatter {
         title
+        image {
+          childImageSharp {
+            gatsbyImageData(quality: 100, layout: FULL_WIDTH)
+          }
+        }
       }
     }
   }
