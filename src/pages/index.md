@@ -6,7 +6,7 @@ pricing:
   heading: Our units
   description: Bardon Scouts meet at 11 Bee Street, Bardon
   plans:
-    - description: 6 - 7.30pm Thursdays
+    - description: 6 - 7.00pm Thursdays
       items:
         - a
       plan: Joeys
