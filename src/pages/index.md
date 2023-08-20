@@ -1,28 +1,9 @@
 ---
 templateKey: index-page
-heading: Get ready for adventure
-subheading: Get ready for adventure
-pricing:
-  heading: Our units
-  description: Bardon Scouts meet at 11 Bee Street, Bardon
-  plans:
-    - description: 6 - 7.00pm Thursdays
-      items:
-        - a
-      plan: Joeys
-      price: 5 to 8
-    - description: 6.30 - 8pm Tuesdays
-      items:
-        - b
-      plan: Cubs
-      price: 8 to 11
-    - description: 6.30 - 8.30pm Thursdays
-      items:
-        - c
-      plan: Scouts
-      price: 11 to 15
 title: Bardon Scouts
 image: /img/buddha-s-light-cubs-bush-walk-2.jpg
+heading: Get ready for adventure
+subheading: Get ready for adventure
 mainpitch:
   title: Why Join Scouts?
   description: >
@@ -64,4 +45,23 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
+pricing:
+  heading: Our units
+  description: Bardon Scouts meet at 11 Bee Street, Bardon
+  plans:
+    - description: 6 - 7pm Thursdays
+      items:
+        - a
+      plan: Joeys
+      price: 5 to 8
+    - description: 6.30 - 8pm Tuesdays
+      items:
+        - b
+      plan: Cubs
+      price: 8 to 11
+    - description: 6.30 - 8.30pm Thursdays
+      items:
+        - c
+      plan: Scouts
+      price: 11 to 15
 ---
