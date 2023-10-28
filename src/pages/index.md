@@ -64,7 +64,7 @@ pricing:
         - c
       plan: Scouts
       price: 11 to 15
-    - plan: Ventruers
+    - plan: Venturers
       price: 14 to 18
       description: 7.00 - 9.00pm Thursdays
 ---
