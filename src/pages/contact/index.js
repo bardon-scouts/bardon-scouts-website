@@ -73,7 +73,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={"email"}>
-                    Email
+                    Email 
                   </label>
                   <div className="control">
                     <input
@@ -82,6 +82,20 @@ export default class Index extends React.Component {
                       name={"email"}
                       onChange={this.handleChange}
                       id={"email"}
+                      required={true}
+                    />
+                  </div>
+                </div><div className="field">
+                  <label className="label" htmlFor={"child_names"}>
+                    Child Name(s)
+                  </label>
+                  <div className="control">
+                    <input
+                      className="input"
+                      type={"child_names"}
+                      name={"child_names"}
+                      onChange={this.handleChange}
+                      id={"child_names"}
                       required={true}
                     />
                   </div>

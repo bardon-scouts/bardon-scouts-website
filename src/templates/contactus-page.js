@@ -58,6 +58,20 @@ export const ContactUsTemplate = ({ title, content, contentComponent }) => {
                 />
               </div>
             </div>
+            <div className="field">
+              <label className="label" htmlFor={"email"}>
+                Email contact-us-page.js
+              </label>
+              <div className="control">
+                <input
+                    className="input"
+                    type={"email"}
+                    name={"email"}
+                    id={"email"}
+                    required={true}
+                />
+              </div>
+            </div>
 
             <div className="field">
               <label className="label" htmlFor={"message"}>

@@ -1,0 +1,14 @@
+<div class="columns is-multiline">
+  {{ range site.Data.features }}
+  <div class="column is-6">
+    <section class="section">
+      <div class="has-text-centered">
+        <div style="width: 120px; display: inline-block;">
+          <img src="{{ .image }}" alt="{{ .text }}">
+        </div>
+      </div>
+      <p class="has-text-centered">{{ .text }}</p>
+    </section>
+  </div>
+  {{ end }}
+</div>

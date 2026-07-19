@@ -1,0 +1,20 @@
+description = "Bardon Scout Group - Get ready for adventure"
+author = "Bardon Scouts"
+
+# Bardon brand colors
+[colors]
+  primary = "#43a09b"       # Bardon teal
+  primaryInvert = "#d9432d" # Bardon red
+  primaryLight = "#65c2bd"
+  primaryMid = "#32908a"
+  primaryDarker = "#218079"
+
+# Contact details
+[contact]
+  address = "11 Bee St, Bardon"
+  email = "info@bardonscouts.org.au"
+
+# Social media
+[social]
+  facebook = "https://facebook.com/bardonscouts"
+  instagram = ""

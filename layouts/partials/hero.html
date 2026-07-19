@@ -1,0 +1,19 @@
+{{ with .Params.hero }}
+<div class="margin-top-0" style="display: grid; align-items: center;">
+  <img
+    src="{{ .image }}"
+    style="grid-area: 1/1; max-height: 400px; width: 100%; object-fit: cover; object-position: top left;"
+    alt="{{ .heading }}"
+  />
+  <div class="splash" style="grid-area: 1/1;">
+    <h1 class="heading has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen">
+      {{ .heading }}
+    </h1>
+    {{ with .subheading }}
+    <h3 class="heading has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen">
+      {{ . }}
+    </h3>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

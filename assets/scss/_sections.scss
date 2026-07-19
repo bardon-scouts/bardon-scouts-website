@@ -1,0 +1,73 @@
+// Units section
+#units {
+  .unit {
+    margin-top: 2em;
+    margin-bottom: 2em;
+
+    h3 {
+      margin-bottom: 1em;
+    }
+
+    p.lead {
+      font-weight: bold;
+    }
+  }
+}
+
+// Scouts logo
+.scouts-logo {
+  position: absolute;
+  top: 6rem;
+  right: 0;
+  z-index: 100;
+  width: 150px;
+  background-color: #fff;
+
+  img {
+    border-right: 2rem solid #fff;
+  }
+}
+
+// Splash (hero text overlay)
+.splash {
+  grid-area: 1/1;
+  position: relative;
+  place-items: start end;
+  display: grid;
+  padding-top: 170px;
+
+  .heading {
+    box-shadow: $bardon 0.5rem 0 0, $bardon -0.5rem 0 0;
+    background-color: $bardon;
+    color: white;
+    line-height: 1;
+    padding: 0.25rem;
+    margin-top: 0.5rem;
+    border-right: 2rem solid $bardon;
+  }
+}
+
+// Full width image containers
+.full-width-image-container {
+  width: 100vw;
+  height: 400px;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin: 2em -50vw;
+  background-size: cover;
+  background-position: bottom;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.full-width-image {
+  width: 100vw;
+  height: 400px;
+  background-size: cover;
+  background-position: bottom;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

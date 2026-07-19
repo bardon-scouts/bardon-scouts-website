@@ -1,0 +1,28 @@
+baseURL = "https://bardonscouts.org.au/"
+languageCode = "en-au"
+title = "Bardon Scouts"
+
+# Enable GitInfo for last modified dates
+enableGitInfo = true
+
+# Markup settings
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allow HTML in markdown
+
+# Image processing
+[imaging]
+  quality = 85
+  resampleFilter = "Lanczos"
+
+# Output formats
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+# Taxonomies
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  section = "sections"

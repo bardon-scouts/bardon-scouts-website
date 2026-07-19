@@ -1,0 +1,65 @@
+// Navbar
+nav.navbar {
+  background: $bardon-invert;
+
+  .navbar-burger {
+    color: white;
+  }
+
+  .navbar-brand {
+    img {
+      max-width: none;
+      width: 96px;
+      height: 42px;
+      margin-top: auto;
+      margin-bottom: auto;
+      margin-left: 1em;
+    }
+  }
+
+  .navbar-menu {
+    margin-left: 2em;
+    background: $bardon-invert;
+
+    a.navbar-item {
+      color: white;
+      font-weight: bold;
+    }
+
+    a.navbar-item:hover {
+      background: $bardon;
+    }
+  }
+
+  .navbar-menu.is-active {
+    display: block;
+    z-index: 1000;
+  }
+}
+
+@media screen and (max-width: 33em) {
+  nav.navbar {
+    a.navbar-menu {
+      margin-left: 0;
+    }
+  }
+}
+
+.navbar .navbar-menu {
+  box-shadow: none !important;
+}
+
+.navbar-item .icon {
+  color: $primary;
+}
+
+// Override for use of svg's from https://simpleicons.org/
+.icon svg {
+  width: 1.5rem;
+  height: 1.5rem;
+  fill: currentColor;
+}
+
+.navbar-brand .navbar-item.logo {
+  padding: 0 1rem;
+}

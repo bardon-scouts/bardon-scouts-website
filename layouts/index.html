@@ -1,0 +1,80 @@
+{{ define "main" }}
+  <!-- Scouts Australia Logo -->
+  <div class="scouts-logo">
+    <img src="/img/scouts_logo.jpg" alt="Scouts Australia">
+  </div>
+
+  <!-- Hero Section -->
+  {{ partial "hero.html" . }}
+
+  <!-- Why Join Section -->
+  <section id="join" class="section section--gradient">
+    <div class="container">
+      <div class="section">
+        <div class="columns">
+          <div class="column is-10 is-offset-1">
+            <div class="content">
+              <div class="tile">
+                <h1 class="title">{{ .Params.mainPitch.title }}</h1>
+              </div>
+              <div class="tile">
+                <h3 class="subtitle">{{ .Params.mainPitch.text }}</h3>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact CTA -->
+  {{ if .Params.contactCTA }}
+  <section class="contact">
+    <form action="/contact">
+      <button type="submit">Contact us</button>
+    </form>
+  </section>
+  {{ end }}
+
+  <!-- Features Section -->
+  <section id="adventure" class="section section--gradient">
+    <div class="container">
+      <div class="section">
+        <div class="columns">
+          <div class="column is-10 is-offset-1">
+            <h3 class="has-text-weight-semibold is-size-2">
+              {{ .Params.hero.heading }}
+            </h3>
+          </div>
+        </div>
+        <div class="column is-10 is-offset-1">
+          {{ partial "features.html" . }}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact CTA -->
+  {{ if .Params.contactCTA }}
+  <section class="contact">
+    <form action="/contact">
+      <button type="submit">Contact us</button>
+    </form>
+  </section>
+  {{ end }}
+
+  <!-- Scout Sections -->
+  <section id="units" class="section section--gradient">
+    <div class="container">
+      <div class="section">
+        <div class="columns">
+          <div class="column is-10 is-offset-1">
+            <h2 class="has-text-weight-semibold is-size-2">Our Units</h2>
+            <p class="is-size-5">Bardon Scouts meet at 11 Bee Street, Bardon</p>
+            {{ partial "sections-list.html" . }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+{{ end }}

@@ -1,0 +1,64 @@
+{{ define "main" }}
+<div class="content">
+  {{ with .Params.image }}
+  <div class="margin-top-0" style="display: grid; align-items: center;">
+    <img
+      src="{{ . }}"
+      style="grid-area: 1/1; max-height: 400px; width: 100%; object-fit: cover; object-position: top left;"
+      alt="{{ $.Title }}"
+    />
+    <div class="splash" style="grid-area: 1/1;">
+      <h1 class="heading has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen">
+        {{ $.Title }}
+      </h1>
+    </div>
+  </div>
+  {{ end }}
+
+  <section class="section section--gradient">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-10 is-offset-1">
+          <!-- Section metadata -->
+          <div class="box">
+            <h2 class="is-size-2 has-text-primary">{{ .Title }}</h2>
+            {{ with .Params.ageRange }}
+              <p><strong>Ages:</strong> {{ . }} years</p>
+            {{ end }}
+            {{ with .Params.meetingDay }}
+              <p><strong>Meets:</strong> {{ . }}s at {{ $.Params.meetingTime }}</p>
+            {{ end }}
+            {{ with .Params.contact }}
+              <p><strong>Contact:</strong> <a href="mailto:{{ . }}">{{ . }}</a></p>
+            {{ end }}
+          </div>
+
+          <!-- Section content -->
+          <div class="content">
+            {{ .Content }}
+          </div>
+
+          <!-- Activities -->
+          {{ with .Params.activities }}
+          <div class="box">
+            <h3>Activities</h3>
+            <ul>
+              {{ range . }}
+                <li>{{ . }}</li>
+              {{ end }}
+            </ul>
+          </div>
+          {{ end }}
+
+          <!-- CTA -->
+          <section class="contact">
+            <form action="/contact">
+              <button type="submit">Contact us to join {{ .Title }}</button>
+            </form>
+          </section>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+{{ end }}

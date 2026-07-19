@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  {{ partial "head.html" . }}
+  <body>
+    {{ partial "navbar.html" . }}
+
+    {{ block "main" . }}
+      <!-- Page content goes here -->
+    {{ end }}
+
+    {{ partial "footer.html" . }}
+
+    <!-- JavaScript -->
+    {{ $js := resources.Get "js/main.js" }}
+    {{ if $js }}
+      {{ $js := $js | resources.Minify | resources.Fingerprint }}
+      <script src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+    {{ end }}
+  </body>
+</html>
