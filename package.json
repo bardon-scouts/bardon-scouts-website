@@ -3,9 +3,7 @@
   "description": "Bardon Scouts website built with Hugo and Decap CMS",
   "version": "2.0.0",
   "author": "Bardon Scouts",
-  "dependencies": {
-    "bulma": "^1.0.2"
-  },
+  "dependencies": {},
   "keywords": [
     "hugo",
     "scouts",
