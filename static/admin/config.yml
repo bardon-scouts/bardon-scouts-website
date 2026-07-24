@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: bardon-scouts/bardon-scouts-website
-  branch: master
+  branch: gatsby-to-hugo-conversion
   commit_messages:
     create: 'Create {{collection}} "{{slug}}"'
     update: 'Update {{collection}} "{{slug}}"'
