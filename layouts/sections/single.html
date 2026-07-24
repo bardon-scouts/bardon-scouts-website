@@ -4,7 +4,7 @@
 
 {{/* Find the matching section in data file */}}
 {{ $section := dict }}
-{{ range site.Data.sections }}
+{{ range site.Data.sections.sections }}
   {{ if eq .slug $slug }}
     {{ $section = . }}
   {{ end }}
