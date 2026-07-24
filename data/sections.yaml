@@ -1,8 +1,8 @@
 - name: Joeys
   slug: joeys
   ageRange: "6 to 8"
-  meetingDay: Monday
-  meetingTime: "6:00 - 7:00pm"
+  meetingDay: Tuesday
+  meetingTime: "6:30 - 7:00pm"
   order: 0
 
 - name: Cubs

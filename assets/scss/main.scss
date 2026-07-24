@@ -20,6 +20,11 @@ h1, h2, h3, h4, h5, h6 {
   color: white !important;
 }
 
+// Section names and primary text should use Bardon teal
+.has-text-primary, .has-text-primary a {
+  color: $bardon !important;
+}
+
 // Ensure content text is readable
 .content {
   color: #4a4a4a;
