@@ -152,6 +152,5 @@ collections:
                 widget: "list"
                 field: { label: "Activity", name: "activity", widget: "string" }
               - { label: "Leader Title", name: "leader", widget: "string", hint: "e.g. Cub Leader (Akela)" }
-              - { label: "Contact Email", name: "contact", widget: "string" }
               - { label: "Display Order", name: "order", widget: "number", value_type: "int", hint: "Lower numbers appear first" }
               - { label: "Content", name: "content", widget: "markdown", hint: "Full page content with headings and details" }

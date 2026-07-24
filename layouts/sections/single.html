@@ -47,9 +47,6 @@
               <p><strong>Meets:</strong> {{ . }}s at {{ $section.meetingTime }}</p>
             {{ end }}
             <p><strong>Where:</strong> Bardon Scout Den, {{ site.Params.contact.address }}</p>
-            {{ with $section.contact }}
-              <p><strong>Contact:</strong> <a href="mailto:{{ . }}">{{ . }}</a></p>
-            {{ end }}
           </div>
 
           {{/* Section content from data file */}}

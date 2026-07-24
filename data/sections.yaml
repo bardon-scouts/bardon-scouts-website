@@ -15,7 +15,6 @@ sections:
       - Making new friends
       - Simple team challenges
     leader: "Joey Scout Leader"
-    contact: "info@bardonscouts.org.au"
     order: 0
     content: |
       ## What We Do
@@ -54,7 +53,6 @@ sections:
       - Community service projects
       - Creative activities and crafts
     leader: "Cub Leader (Akela)"
-    contact: "info@bardonscouts.org.au"
     order: 1
     content: |
       ## What We Do
@@ -93,7 +91,6 @@ sections:
       - Navigation and bushcraft
       - Community service and volunteering
     leader: "Scout Leader"
-    contact: "info@bardonscouts.org.au"
     order: 2
     content: |
       ## What We Do
@@ -132,7 +129,6 @@ sections:
       - Outdoor adventure sports
       - Community service and advocacy
     leader: "Venturer Leader"
-    contact: "info@bardonscouts.org.au"
     order: 3
     content: |
       ## What We Do
