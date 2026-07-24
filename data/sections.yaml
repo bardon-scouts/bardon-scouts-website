@@ -2,12 +2,12 @@ sections:
   - name: Joeys
     slug: joeys
     ageRange: "6 to 8"
-    meetingDay: Monday
-    meetingTime: "6:00 - 7:00pm"
+    meetingDay: Tuesday
+    meetingTime: "6:30 - 7:30pm"
     color: "#4CAF50"
     image: /img/hero.jpg
     description: "Joeys is the starting point for young adventurers to learn, play and grow."
-    tagline: "Joeys (ages 6-8) is where the Scouting adventure begins! Our Joey mob meets every Monday evening for fun, games, and learning through play."
+    tagline: "Joeys (ages 6-8) is where the Scouting adventure begins! Our Joey mob meets every Tuesday evening for fun, games, and learning through play."
     activities:
       - Fun games and activities
       - Basic outdoor skills
