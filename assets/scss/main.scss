@@ -4,6 +4,53 @@
 // Import custom variables (Bardon colors)
 @import "variables";
 
+// Set white background and ensure readable text colors
+body {
+  background-color: #fff;
+  color: #4a4a4a;
+}
+
+// Ensure all headings are dark and readable (except hero text)
+h1, h2, h3, h4, h5, h6 {
+  color: #363636 !important;
+}
+
+// Hero text should be white
+.splash .heading {
+  color: white !important;
+}
+
+// Ensure content text is readable
+.content {
+  color: #4a4a4a;
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #363636 !important;
+  }
+
+  p {
+    color: #4a4a4a;
+  }
+
+  strong, b {
+    color: #363636;
+  }
+}
+
+// Ensure title and subtitle are dark
+.title {
+  color: #363636 !important;
+}
+
+.subtitle {
+  color: #4a4a4a !important;
+}
+
+// Labels and form text
+label, .label {
+  color: #363636 !important;
+}
+
 // Import custom component styles
 @import "navbar";
 @import "footer";
