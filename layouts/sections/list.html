@@ -1,0 +1,31 @@
+{{ define "main" }}
+<section class="section">
+  <div class="container">
+    <div class="content">
+      <div class="columns">
+        <div class="column is-10 is-offset-1">
+          <h1 class="title is-size-2 has-text-weight-bold">
+            {{ .Title }}
+          </h1>
+
+          <div class="content">
+            {{ .Content }}
+          </div>
+
+          <!-- Scout Sections List -->
+          <div id="units" class="section">
+            {{ partial "sections-list.html" . }}
+          </div>
+
+          <!-- Contact CTA -->
+          <section class="contact has-text-centered">
+            <form action="/contact">
+              <button type="submit" class="button is-primary is-large">Contact us</button>
+            </form>
+          </section>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

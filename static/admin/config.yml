@@ -102,7 +102,7 @@ collections:
         widget: "select"
         multiple: true
         required: false
-        options: ["cubs", "scouts", "venturers"]
+        options: ["joeys", "cubs", "scouts", "venturers"]
       - { label: "RSVP Required", name: "rsvp", widget: "boolean", default: false }
       - { label: "Body", name: "body", widget: "markdown" }
 
