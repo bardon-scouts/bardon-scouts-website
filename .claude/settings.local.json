@@ -10,7 +10,20 @@
       "Bash(head:*)",
       "Bash(cat:*)",
       "WebFetch(domain:bardonscouts.org.au)",
-      "Bash(bash)"
+      "Bash(bash)",
+      "Bash(git push:*)",
+      "Bash(netlify watch --help:*)",
+      "Bash(netlify open:admin:*)",
+      "WebFetch(domain:app.netlify.com)",
+      "Bash(git add:*)",
+      "Bash(grep:*)",
+      "Bash(lynx:*)",
+      "Bash(for section in joeys cubs scouts venturers)",
+      "Bash(do echo \"=== $section ===\" grep -oE 'src=\"\"\"\"[^\"\"\"\"]+\\(jpg|png\\)' \"/Users/hamishcurrie/dev/scouts/bardon-scouts-website/public/sections/$section/index.html\")",
+      "Bash(while read img)",
+      "Bash(do if [ ! -f \"/Users/hamishcurrie/dev/scouts/bardon-scouts-website/public$img\" ])",
+      "Bash(then echo \"  MISSING IMAGE: $img\" fi done done)",
+      "Bash(git commit:*)"
     ]
   }
 }
