@@ -1,0 +1,65 @@
+{{ define "main" }}
+<section class="section">
+  <div class="container">
+    <div class="content">
+      <div class="columns">
+        <div class="column is-10 is-offset-1">
+          <h1 class="title is-size-2 has-text-weight-bold">
+            {{ .Title }}
+          </h1>
+
+          <div class="content">
+            {{ .Content }}
+          </div>
+
+          <!-- News Articles -->
+          {{ $paginator := .Paginate (.Pages) 10 }}
+          {{ range $paginator.Pages }}
+          <article class="box">
+            <div class="columns">
+              {{ with .Params.featuredImage }}
+              <div class="column is-one-quarter">
+                <figure class="image">
+                  <img src="{{ . }}" alt="{{ $.Title }}">
+                </figure>
+              </div>
+              {{ end }}
+              <div class="column">
+                <h2 class="title is-size-3 has-text-primary">
+                  <a href="{{ .Permalink }}">{{ .Title }}</a>
+                </h2>
+                <p class="subtitle is-6">
+                  <time datetime="{{ .Date.Format "2006-01-02" }}">
+                    {{ .Date.Format "2 January 2006" }}
+                  </time>
+                </p>
+                {{ with .Params.summary }}
+                  <p>{{ . }}</p>
+                {{ end }}
+                <a href="{{ .Permalink }}" class="button is-primary is-light">Read more →</a>
+              </div>
+            </div>
+          </article>
+          {{ else }}
+          <div class="notification">
+            No news articles yet. Check back soon!
+          </div>
+          {{ end }}
+
+          <!-- Pagination -->
+          {{ if gt $paginator.TotalPages 1 }}
+          <nav class="pagination is-centered" role="navigation" aria-label="pagination">
+            {{ if $paginator.HasPrev }}
+              <a class="pagination-previous" href="{{ $paginator.Prev.URL }}">Previous</a>
+            {{ end }}
+            {{ if $paginator.HasNext }}
+              <a class="pagination-next" href="{{ $paginator.Next.URL }}">Next</a>
+            {{ end }}
+          </nav>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

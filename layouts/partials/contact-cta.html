@@ -1,0 +1,14 @@
+{{/* Contact CTA Button - Shared Partial */}}
+{{/* Usage: {{ partial "contact-cta.html" . }} for default "Contact us" */}}
+{{/* Usage: {{ partial "contact-cta.html" (dict "text" "Custom text") }} for custom text */}}
+<section class="contact has-text-centered">
+  <form action="/contact">
+    <button type="submit" class="button is-primary is-large">
+      {{ if reflect.IsMap . }}
+        {{ with .text }}{{ . }}{{ else }}Contact us{{ end }}
+      {{ else }}
+        Contact us
+      {{ end }}
+    </button>
+  </form>
+</section>

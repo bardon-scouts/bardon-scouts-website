@@ -43,30 +43,6 @@ collections:
           - { label: "Show Contact Button", name: "contactCTA", widget: "boolean", default: true }
           - { label: "Body", name: "body", widget: "markdown", required: false }
 
-  # Scout Sections
-  - name: "sections"
-    label: "Scout Sections"
-    folder: "content/sections"
-    create: false
-    slug: "{{slug}}"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Section Name", name: "sectionName", widget: "string" }
-      - { label: "Age Range", name: "ageRange", widget: "string", hint: "e.g. 8 to 11" }
-      - { label: "Meeting Day", name: "meetingDay", widget: "select", options: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"] }
-      - { label: "Meeting Time", name: "meetingTime", widget: "string", hint: "e.g. 6:30 - 8:00pm" }
-      - { label: "Color", name: "color", widget: "string", required: false, hint: "Hex color code, e.g. #FFC107" }
-      - { label: "Hero Image", name: "image", widget: "image" }
-      - { label: "Description", name: "description", widget: "text" }
-      - label: "Activities"
-        name: "activities"
-        widget: "list"
-        field: { label: "Activity", name: "activity", widget: "string" }
-      - { label: "Leader Title", name: "leader", widget: "string", required: false, hint: "e.g. Cub Leader (Akela)" }
-      - { label: "Contact Email", name: "contact", widget: "string", required: false }
-      - { label: "Weight", name: "weight", widget: "number", default: 1, value_type: "int", required: false, hint: "Display order" }
-      - { label: "Body", name: "body", widget: "markdown" }
-
   # News (replacing Blog)
   - name: "news"
     label: "News"
@@ -149,9 +125,9 @@ collections:
               - { label: "Image", name: "image", widget: "image" }
               - { label: "Text", name: "text", widget: "text" }
 
-  # Data Files - Sections Schedule
+  # Data Files - Scout Sections (Single Source of Truth)
   - name: "data_sections"
-    label: "Sections Schedule"
+    label: "Scout Sections"
     files:
       - file: "data/sections.yaml"
         label: "Sections"
@@ -162,8 +138,19 @@ collections:
             widget: "list"
             fields:
               - { label: "Name", name: "name", widget: "string" }
-              - { label: "Slug", name: "slug", widget: "string" }
-              - { label: "Age Range", name: "ageRange", widget: "string" }
+              - { label: "Slug", name: "slug", widget: "string", hint: "URL-friendly name (e.g. joeys, cubs)" }
+              - { label: "Age Range", name: "ageRange", widget: "string", hint: "e.g. 6 to 8" }
               - { label: "Meeting Day", name: "meetingDay", widget: "select", options: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"] }
-              - { label: "Meeting Time", name: "meetingTime", widget: "string" }
-              - { label: "Display Order", name: "order", widget: "number", value_type: "int" }
+              - { label: "Meeting Time", name: "meetingTime", widget: "string", hint: "e.g. 6:30 - 8:00pm" }
+              - { label: "Color", name: "color", widget: "string", hint: "Hex color code, e.g. #FFC107" }
+              - { label: "Hero Image", name: "image", widget: "image" }
+              - { label: "Description", name: "description", widget: "text", hint: "Short description for cards/lists" }
+              - { label: "Tagline", name: "tagline", widget: "text", hint: "Full intro paragraph shown on section page" }
+              - label: "Activities"
+                name: "activities"
+                widget: "list"
+                field: { label: "Activity", name: "activity", widget: "string" }
+              - { label: "Leader Title", name: "leader", widget: "string", hint: "e.g. Cub Leader (Akela)" }
+              - { label: "Contact Email", name: "contact", widget: "string" }
+              - { label: "Display Order", name: "order", widget: "number", value_type: "int", hint: "Lower numbers appear first" }
+              - { label: "Content", name: "content", widget: "markdown", hint: "Full page content with headings and details" }

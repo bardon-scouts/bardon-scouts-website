@@ -24,11 +24,7 @@
 
   <!-- Contact CTA -->
   {{ if .Params.contactCTA }}
-  <section class="contact">
-    <form action="/contact">
-      <button type="submit">Contact us</button>
-    </form>
-  </section>
+    {{ partial "contact-cta.html" . }}
   {{ end }}
 
   <!-- Features Section -->
@@ -38,7 +34,7 @@
         <div class="columns">
           <div class="column is-10 is-offset-1">
             <h3 class="has-text-weight-semibold is-size-2">
-              {{ .Params.hero.heading }}
+              {{ .Params.hero.subheading }}
             </h3>
           </div>
         </div>
@@ -51,11 +47,7 @@
 
   <!-- Contact CTA -->
   {{ if .Params.contactCTA }}
-  <section class="contact">
-    <form action="/contact">
-      <button type="submit">Contact us</button>
-    </form>
-  </section>
+    {{ partial "contact-cta.html" . }}
   {{ end }}
 
   <!-- Scout Sections -->
@@ -65,7 +57,7 @@
         <div class="columns">
           <div class="column is-10 is-offset-1">
             <h2 class="has-text-weight-semibold is-size-2">Our Units</h2>
-            <p class="is-size-5">Bardon Scouts meet at 11 Bee Street, Bardon</p>
+            <p class="is-size-5">Bardon Scouts meet at {{ site.Params.contact.address }}</p>
             {{ partial "sections-list.html" . }}
           </div>
         </div>

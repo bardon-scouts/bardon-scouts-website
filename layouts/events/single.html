@@ -1,0 +1,56 @@
+{{ define "main" }}
+<div class="content">
+  <section class="section section--gradient">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-10 is-offset-1">
+          <h1 class="title">{{ .Title }}</h1>
+
+          <!-- Event Details Box -->
+          <div class="box">
+            <div class="columns">
+              <div class="column">
+                <p><strong>📅 Date:</strong> {{ .Params.date.Format "Monday, 2 January 2006 at 3:04pm" }}</p>
+                {{ with .Params.endDate }}
+                  <p><strong>⏰ Ends:</strong> {{ .Format "Monday, 2 January 2006 at 3:04pm" }}</p>
+                {{ end }}
+              </div>
+              <div class="column">
+                {{ with .Params.location }}
+                  <p><strong>📍 Location:</strong> {{ . }}</p>
+                {{ end }}
+                {{ with .Params.sections }}
+                  <p><strong>👥 For:</strong>
+                    {{ range $index, $section := . }}
+                      {{if $index}}, {{end}}{{ $section | title }}
+                    {{ end }}
+                  </p>
+                {{ end }}
+              </div>
+            </div>
+            {{ if .Params.rsvp }}
+              <div class="notification is-info is-light">
+                <strong>RSVP Required</strong> - Please contact us to confirm attendance
+              </div>
+            {{ end }}
+          </div>
+
+          <!-- Event Content -->
+          <div class="content">
+            {{ .Content }}
+          </div>
+
+          <hr>
+
+          <!-- Action Buttons -->
+          <div class="has-text-centered">
+            {{ partial "contact-cta.html" (dict "text" "Contact us about this event") }}
+            <br>
+            <a href="/events/" class="button is-light">← Back to Events</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+{{ end }}
