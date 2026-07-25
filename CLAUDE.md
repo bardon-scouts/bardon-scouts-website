@@ -4,9 +4,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Bardon Scouts website - a static site built with Hugo and Decap CMS, deployed on Netlify. Recently converted from Gatsby to Hugo for faster builds (300-600x improvement) and simpler content management.
+Bardon Scouts website - a static site built with Hugo and Sveltia CMS, deployed on Netlify. Recently converted from Gatsby to Hugo for faster builds (300-600x improvement) and simpler content management.
 
-**Tech Stack:** Hugo Extended v0.148.2, Bulma CSS v1.0.2, Decap CMS, Netlify
+**Tech Stack:** Hugo Extended v0.148.2, Bulma CSS v1.0.2, Sveltia CMS, Netlify
 
 **Branch Context:** Currently on `gatsby-to-hugo-conversion` branch (main branch is `master`)
 
@@ -27,10 +27,12 @@ npm start       # hugo server -D
 
 ### CMS Development
 ```bash
-# Start Decap CMS local backend (in separate terminal)
-npx decap-server
+# Sveltia CMS can work with local git directly (no separate server needed)
+# Access http://localhost:1313/admin/ (or dev server port) and login with GitHub
 
-# Then access http://localhost:8080/admin/ and click "Work with local repository"
+# For local-only testing without GitHub, you can still use the legacy backend:
+npx @sveltia/cms-auth@latest
+# Then set local_backend: true in config.yml
 ```
 
 ### Building
@@ -88,7 +90,7 @@ data/                 # YAML data files
 
 static/               # Static assets (copied to public/)
 ├── img/              # Images
-├── admin/            # Decap CMS configuration
+├── admin/            # Sveltia CMS configuration
 │   ├── config.yml    # CMS schema
 │   └── index.html    # CMS entry point
 └── _redirects        # Netlify URL redirects
@@ -123,7 +125,7 @@ config/_default/      # Hugo configuration
 - Contact page has `showForm` parameter to toggle Netlify form
 
 **News & Events:**
-- Managed entirely through Decap CMS
+- Managed entirely through Sveltia CMS
 - Support for featured posts, tags, images
 - Events support multiple sections, RSVP, date ranges
 
@@ -154,7 +156,7 @@ config/_default/      # Hugo configuration
 - `/sections/cubs/`, `/sections/scouts/`, `/sections/venturers/` - Individual sections
 - `/contact/` - Contact form
 - `/news/` - News listing
-- `/admin/` - Decap CMS
+- `/admin/` - Sveltia CMS
 
 **Redirects (from Gatsby conversion):**
 - `/products/*` → `/sections/:splat` (301)
@@ -163,7 +165,7 @@ config/_default/      # Hugo configuration
 
 Configured in `static/_redirects` for Netlify
 
-### Decap CMS Configuration
+### Sveltia CMS Configuration
 
 **Collections** (in `static/admin/config.yml`):
 1. **Homepage** - Edit hero, main pitch, contact CTA
@@ -176,7 +178,7 @@ Configured in `static/_redirects` for Netlify
 
 **Editorial Workflow:** Draft → Review → Ready (publish_mode: editorial_workflow)
 
-**Local Backend:** Enabled - use `npx decap-server` for local CMS testing
+**Local Backend:** Enabled - Sveltia CMS works with local git directly (no separate server needed for most use cases)
 
 **Media Management:** Files uploaded to `static/img/`, referenced as `/img/...`
 
@@ -209,7 +211,7 @@ Configured in `static/_redirects` for Netlify
 - **Hugo Version:** 0.128.2 for Netlify compatibility (extended version)
 - **Forms:** Use `data-netlify="true"` attribute - see `layouts/partials/contact-form.html` for reference
 - **Redirects:** Netlify reads `static/_redirects` file automatically
-- **Identity:** Required for Decap CMS authentication in production
+- **Identity:** Required for Sveltia CMS authentication in production (GitHub OAuth configured)
 
 ### Common Gotchas
 
@@ -224,7 +226,7 @@ Configured in `static/_redirects` for Netlify
 This site was recently converted from Gatsby v4 to Hugo. Key changes:
 - Removed all Gatsby/React dependencies
 - Simplified content model (removed GraphQL layer)
-- Converted Netlify CMS to Decap CMS
+- Migrated from Decap CMS to Sveltia CMS (drop-in replacement, same config)
 - Preserved all URLs with 301 redirects
 - Improved build times from 30-60s to ~100ms
 
@@ -235,4 +237,4 @@ See `CONVERSION-SUMMARY.md` for full migration details.
 **Minimum Version:** 14.15.0 (specified in package.json)
 **Current Version:** 18.20.0 (specified in netlify.toml)
 
-Node.js only needed for Decap CMS local backend (`npx decap-server`) - Hugo itself doesn't require Node.
+Node.js not required for Sveltia CMS (works directly with git) - Hugo itself doesn't require Node either.
