@@ -1,0 +1,20 @@
+# Netlify redirects - 301 permanent redirects for SEO
+
+# Products page renamed to Sections
+/products/*          /sections/:splat     301
+/products            /sections/           301
+
+# Consolidate contact pages
+/contactus/*         /contact/:splat      301
+/contactus           /contact/            301
+
+# Thanks page moved under contact
+/thanks/*            /contact/thanks/:splat  301
+/thanks              /contact/thanks/     301
+
+# Remove old contact subpages
+/contact/file-upload /contact/            301
+/contact/examples    /contact/            301
+
+# Blog to News (if needed in future)
+# /blog/*            /news/:splat         301

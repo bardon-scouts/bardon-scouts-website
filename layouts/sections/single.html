@@ -1,0 +1,78 @@
+{{ define "main" }}
+{{/* Get the section slug from URL */}}
+{{ $slug := .File.BaseFileName }}
+
+{{/* Find the matching section in data file */}}
+{{ $section := dict }}
+{{ range site.Data.sections.sections }}
+  {{ if eq .slug $slug }}
+    {{ $section = . }}
+  {{ end }}
+{{ end }}
+
+<div class="content">
+  {{/* Hero image */}}
+  {{ with $section.image }}
+  <div class="margin-top-0" style="display: grid; align-items: center;">
+    <img
+      src="{{ . }}"
+      style="grid-area: 1/1; max-height: 400px; width: 100%; object-fit: cover; object-position: top left;"
+      alt="{{ $section.name }}"
+    />
+    <div class="splash" style="grid-area: 1/1;">
+      <h1 class="heading has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen">
+        {{ $section.name }}
+      </h1>
+    </div>
+  </div>
+  {{ end }}
+
+  <section class="section section--gradient">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-10 is-offset-1">
+          {{/* Section tagline */}}
+          {{ with $section.tagline }}
+            <p class="is-size-5">{{ . }}</p>
+            <br>
+          {{ end }}
+
+          {{/* Section metadata box */}}
+          <div class="box">
+            <h2 class="is-size-2 has-text-primary">{{ $section.name }}</h2>
+            {{ with $section.ageRange }}
+              <p><strong>Ages:</strong> {{ . }} years</p>
+            {{ end }}
+            {{ with $section.meetingDay }}
+              <p><strong>Meets:</strong> {{ . }}s at {{ $section.meetingTime }}</p>
+            {{ end }}
+            <p><strong>Where:</strong> Bardon Scout Den, {{ site.Params.contact.address }}</p>
+          </div>
+
+          {{/* Section content from data file */}}
+          {{ with $section.content }}
+          <div class="content">
+            {{ . | markdownify }}
+          </div>
+          {{ end }}
+
+          {{/* Activities */}}
+          {{ with $section.activities }}
+          <div class="box">
+            <h3>Activities</h3>
+            <ul>
+              {{ range . }}
+                <li>{{ . }}</li>
+              {{ end }}
+            </ul>
+          </div>
+          {{ end }}
+
+          {{/* CTA */}}
+          {{ partial "contact-cta.html" (dict "text" (printf "Contact us to join %s" $section.name)) }}
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+{{ end }}

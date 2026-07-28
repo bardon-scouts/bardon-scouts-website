@@ -1,0 +1,19 @@
+[[main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+[[main]]
+  name = "Sections"
+  url = "/sections/"
+  weight = 3
+
+[[main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 4

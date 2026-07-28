@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="content">
+  {{ with .Params.hero }}
+    {{ partial "hero.html" $ }}
+  {{ end }}
+
+  <section class="section section--gradient">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-10 is-offset-1">
+          <h1 class="title">{{ .Title }}</h1>
+
+          <div class="content">
+            {{ .Content }}
+          </div>
+
+          {{ if .Params.showForm }}
+            {{ partial "contact-form.html" . }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+{{ end }}

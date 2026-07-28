@@ -1,0 +1,4 @@
+---
+title: "Scouts"
+type: sections
+---

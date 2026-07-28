@@ -1,0 +1,37 @@
+// Footer
+footer.footer {
+  padding: 3rem 0rem 0rem;
+  background-color: transparent;
+  padding-bottom: 3em;
+
+  img.logo {
+    width: 13rem;
+    max-width: 300px;
+    border-left: 3rem solid white;
+    display: block;
+    margin: 0 auto;
+  }
+
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-bottom: 3em;
+
+    a {
+      color: white;
+      font-weight: bold;
+    }
+
+    a:hover {
+      color: $bardon-light;
+    }
+  }
+}
+
+img.bardon-logo {
+  max-width: 120px;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}

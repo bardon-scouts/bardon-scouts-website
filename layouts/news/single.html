@@ -1,0 +1,51 @@
+{{ define "main" }}
+<div class="content">
+  {{ with .Params.featuredImage }}
+  <div class="margin-top-0">
+    <img
+      src="{{ . }}"
+      style="max-height: 400px; width: 100%; object-fit: cover;"
+      alt="{{ $.Title }}"
+    />
+  </div>
+  {{ end }}
+
+  <section class="section section--gradient">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-10 is-offset-1">
+          <h1 class="title">{{ .Title }}</h1>
+
+          <p class="subtitle is-6">
+            <time datetime="{{ .Date.Format "2006-01-02" }}">
+              {{ .Date.Format "2 January 2006" }}
+            </time>
+            {{ with .Params.tags }}
+            <span class="tags">
+              {{ range . }}
+                <span class="tag is-primary is-light">{{ . }}</span>
+              {{ end }}
+            </span>
+            {{ end }}
+          </p>
+
+          {{ with .Params.summary }}
+            <p class="is-size-5"><strong>{{ . }}</strong></p>
+            <br>
+          {{ end }}
+
+          <div class="content">
+            {{ .Content }}
+          </div>
+
+          <hr>
+
+          <div class="has-text-centered">
+            <a href="/news/" class="button is-primary">← Back to News</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+{{ end }}

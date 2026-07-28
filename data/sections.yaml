@@ -1,0 +1,152 @@
+sections:
+  - name: Joeys
+    slug: joeys
+    ageRange: "6 to 8"
+    meetingDay: Tuesday
+    meetingTime: "6:30 - 7:30pm"
+    color: "#4CAF50"
+    image: /img/hero.jpg
+    description: "Joeys is the starting point for young adventurers to learn, play and grow."
+    tagline: "Joeys (ages 6-8) is where the Scouting adventure begins! Our Joey mob meets every Tuesday evening for fun, games, and learning through play."
+    activities:
+      - Fun games and activities
+      - Basic outdoor skills
+      - Creative play and crafts
+      - Making new friends
+      - Simple team challenges
+    leader: "Joey Scout Leader"
+    order: 0
+    content: |
+      ## What We Do
+
+      Joeys is all about learning through play and friendship. Joey Scouts participate in:
+
+      - **Fun and Games** - Active play, indoor and outdoor games
+      - **Creative Activities** - Arts, crafts, storytelling, and imaginative play
+      - **Basic Skills** - Introduction to outdoor skills in a fun, age-appropriate way
+      - **Making Friends** - Building friendships and learning to work as a team
+      - **Community Awareness** - Learning about helping others and our community
+
+      ## Our Program
+
+      The Joey program follows the Australian Scouts program, with activities designed specifically for 6-8 year olds. Joeys explore, discover, and have fun in a safe and supportive environment.
+
+      ## Join Joeys
+
+      If your child is 6-8 years old and ready to start their Scouting journey, Joeys is the perfect place to begin!
+
+      Contact us to arrange a visit or find out more about joining Joeys at Bardon.
+
+  - name: Cubs
+    slug: cubs
+    ageRange: "8 to 11"
+    meetingDay: Tuesday
+    meetingTime: "6:30 - 8:00pm"
+    color: "#FFC107"
+    image: /img/buddha-s-light-cubs-bush-walk-2.jpg
+    description: "Cubs is all about fun, adventure and making friends."
+    tagline: "Cubs (ages 8-11) is where adventure begins! Our Cub pack meets every Tuesday evening for games, activities, and planning exciting adventures."
+    activities:
+      - Camping and outdoor adventures
+      - Games and team challenges
+      - Learning new skills
+      - Community service projects
+      - Creative activities and crafts
+    leader: "Cub Leader (Akela)"
+    order: 1
+    content: |
+      ## What We Do
+
+      Cubs is all about learning through fun and adventure. Cubs participate in:
+
+      - **Outdoor Adventures** - Regular camps, hikes, and outdoor activities
+      - **Skill Development** - Learning practical skills like cooking, first aid, and navigation
+      - **Team Challenges** - Working together to solve problems and complete challenges
+      - **Community Service** - Participating in community events and helping others
+      - **Creative Activities** - Arts, crafts, drama, and music
+
+      ## Our Program
+
+      The Cub program follows the Australian Scouts program, with activities designed specifically for 8-11 year olds. Cubs work towards achievement badges while having fun and making friends.
+
+      ## Join Cubs
+
+      If your child is 8-11 years old and ready for adventure, Cubs is the perfect place to start!
+
+      Contact us to arrange a visit or find out more about joining Cubs at Bardon.
+
+  - name: Scouts
+    slug: scouts
+    ageRange: "11 to 15"
+    meetingDay: Thursday
+    meetingTime: "6:30 - 8:30pm"
+    color: "#4CAF50"
+    image: /img/buddha-s-light-cubs-bush-walk-2.jpg
+    description: "Scouts is where young people challenge themselves, try new things, and have amazing adventures."
+    tagline: "Scouts (ages 11-15) is where the real adventure begins! Our Scout Troop meets every Thursday evening for activities that challenge, inspire, and excite."
+    activities:
+      - Camping and hiking expeditions
+      - Water activities and abseiling
+      - Leadership development
+      - Navigation and bushcraft
+      - Community service and volunteering
+    leader: "Scout Leader"
+    order: 2
+    content: |
+      ## What We Do
+
+      Scouts take the lead in planning and running their own adventures. Activities include:
+
+      - **Adventure Activities** - Camping, hiking, abseiling, canoeing, and more
+      - **Leadership Development** - Taking responsibility and leading activities
+      - **Outdoor Skills** - Navigation, bushcraft, survival skills, and outdoor cooking
+      - **Community Engagement** - ANZAC Day services, community projects, fundraising
+      - **Special Interest Activities** - From technology to sports to environmental conservation
+
+      ## Our Program
+
+      The Scout program is youth-led, with Scouts making decisions about their activities and adventures. Scouts work towards challenging badges and participate in regional and national events.
+
+      ## Join Scouts
+
+      If you're 11-15 years old and ready for adventure, challenge, and making great friends, Scouts is for you!
+
+      Contact us to find out more about joining Scouts at Bardon.
+
+  - name: Venturers
+    slug: venturers
+    ageRange: "14 to 18"
+    meetingDay: Thursday
+    meetingTime: "7:00 - 9:00pm"
+    color: "#E91E63"
+    image: /img/buddha-s-light-cubs-bush-walk-2.jpg
+    description: "Venturers is for older youth seeking bigger challenges, independence, and life-changing experiences."
+    tagline: "Venturers (ages 14-18) is all about big adventures, personal challenge, and preparing for life beyond school. Our Venturer Unit meets every Thursday evening."
+    activities:
+      - Adventurous activities and expeditions
+      - Leadership and project management
+      - International opportunities
+      - Outdoor adventure sports
+      - Community service and advocacy
+    leader: "Venturer Leader"
+    order: 3
+    content: |
+      ## What We Do
+
+      Venturers are fully youth-led, planning and running their own program with adult support. Activities include:
+
+      - **Major Expeditions** - Multi-day hikes, bike tours, interstate and international trips
+      - **Adventure Sports** - Rock climbing, kayaking, caving, snow sports
+      - **Leadership Projects** - Planning and leading activities for younger sections
+      - **Community Leadership** - Service projects, advocacy, and making a difference
+      - **Life Skills** - First aid, outdoor survival, project management, and more
+
+      ## Our Program
+
+      The Venturer program is completely youth-led. Venturers decide what they want to do, plan the details, and make it happen. This develops real-world leadership, teamwork, and project management skills.
+
+      ## Join Venturers
+
+      If you're 14-18 years old and ready for bigger challenges, more independence, and life-changing adventures, Venturers is the place for you!
+
+      Contact us to find out more about joining Venturers at Bardon.
