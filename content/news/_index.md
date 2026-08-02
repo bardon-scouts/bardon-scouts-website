@@ -1,6 +1,14 @@
 ---
 title: "News & Updates"
-description: "Latest news and updates from Bardon Scouts"
+description: "Term dates and upcoming events at Bardon Scouts"
 ---
 
-Stay up to date with the latest news, events, and activities from Bardon Scout Group.
+## Term Dates
+
+<!-- TODO: Add term dates for current year -->
+
+## Upcoming Events
+
+<!-- TODO: Add upcoming events list -->
+
+<!-- NOTE: This page is structured to support future conversion to a blog-style news feed with individual posts -->

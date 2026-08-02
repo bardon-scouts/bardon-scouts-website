@@ -15,4 +15,30 @@ document.addEventListener('DOMContentLoaded', () => {
       $target.classList.toggle('is-active');
     });
   });
+
+  // Navbar dropdown toggle for mobile
+  const dropdowns = document.querySelectorAll('.navbar-item.has-dropdown');
+
+  dropdowns.forEach(dropdown => {
+    const link = dropdown.querySelector('.navbar-link');
+
+    link.addEventListener('click', (e) => {
+      // Only prevent default on mobile (< 1024px)
+      const isMobile = window.matchMedia('(max-width: 1023px)').matches;
+
+      if (isMobile) {
+        e.preventDefault();
+
+        // Toggle this dropdown
+        dropdown.classList.toggle('is-active');
+
+        // Close other dropdowns
+        dropdowns.forEach(other => {
+          if (other !== dropdown) {
+            other.classList.remove('is-active');
+          }
+        });
+      }
+    });
+  });
 });

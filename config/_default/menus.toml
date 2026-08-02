@@ -1,19 +1,111 @@
+# Top-level items
 [[main]]
+  identifier = "home"
   name = "Home"
   url = "/"
   weight = 1
 
 [[main]]
+  identifier = "about"
   name = "About"
   url = "/about/"
   weight = 2
 
 [[main]]
-  name = "Sections"
-  url = "/sections/"
+  identifier = "join"
+  name = "Join Us"
+  url = "/join/"
   weight = 3
 
 [[main]]
+  identifier = "sections"
+  name = "Sections"
+  url = "/sections/"
+  weight = 4
+
+[[main]]
+  identifier = "leaders"
+  name = "Leaders & Volunteers"
+  url = "/leaders/"
+  weight = 5
+
+[[main]]
+  identifier = "news"
+  name = "News"
+  url = "/news/"
+  weight = 6
+
+[[main]]
+  identifier = "contact"
   name = "Contact"
   url = "/contact/"
+  weight = 7
+
+# Join Us dropdown items
+[[main]]
+  name = "How to Join"
+  parent = "join"
+  url = "/join/how-to-join/"
+  weight = 3.1
+
+[[main]]
+  name = "Fees & Costs"
+  parent = "join"
+  url = "/join/fees/"
+  weight = 3.2
+
+[[main]]
+  name = "Uniforms"
+  parent = "join"
+  url = "/join/uniforms/"
+  weight = 3.3
+
+[[main]]
+  name = "Come and Try"
+  parent = "join"
+  url = "/join/come-and-try/"
+  weight = 3.4
+
+[[main]]
+  name = "New Family FAQs"
+  parent = "join"
+  url = "/join/faqs/"
+  weight = 3.5
+
+# Sections dropdown items
+[[main]]
+  name = "Joeys (6-8)"
+  parent = "sections"
+  url = "/sections/joeys/"
+  weight = 1
+
+[[main]]
+  name = "Cubs (8-11)"
+  parent = "sections"
+  url = "/sections/cubs/"
+  weight = 2
+
+[[main]]
+  name = "Scouts (11-15)"
+  parent = "sections"
+  url = "/sections/scouts/"
+  weight = 3
+
+[[main]]
+  name = "Venturers (14-18)"
+  parent = "sections"
+  url = "/sections/venturers/"
   weight = 4
+
+# Leaders & Volunteers dropdown items
+[[main]]
+  name = "Our Leaders"
+  parent = "leaders"
+  url = "/leaders/our-leaders/"
+  weight = 5.1
+
+[[main]]
+  name = "Volunteering"
+  parent = "leaders"
+  url = "/leaders/volunteering/"
+  weight = 5.2
