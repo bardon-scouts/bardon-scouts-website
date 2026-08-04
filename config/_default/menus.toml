@@ -72,6 +72,12 @@
   url = "/join/faqs/"
   weight = 3.5
 
+[[main]]
+  name = "Taking a Break or Finishing Up"
+  parent = "join"
+  url = "/join/taking-a-break/"
+  weight = 3.6
+
 # Sections dropdown items
 [[main]]
   name = "Joeys (6-8)"
