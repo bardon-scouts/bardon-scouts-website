@@ -1,6 +1,7 @@
 ---
 title: "Committee"
 description: "Meet the Bardon Scouts Group Committee"
+type: page
 ---
 
 ## Our Committee
@@ -9,17 +10,19 @@ The Bardon Scouts Group Committee is responsible for the governance and manageme
 
 ### Committee Roles
 
+Our committee includes the following key roles:
+
 #### Group Leader
-[Name and contact information]
+Information coming soon.
 
 #### Treasurer
-[Name and contact information]
+Information coming soon.
 
 #### Secretary
-[Name and contact information]
+Information coming soon.
 
 #### Committee Members
-[List of additional committee members]
+Additional committee member information coming soon.
 
 ### Committee Meetings
 
