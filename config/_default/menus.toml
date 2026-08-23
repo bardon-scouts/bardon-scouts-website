@@ -24,6 +24,12 @@
   weight = 4
 
 [[main]]
+  identifier = "committee"
+  name = "Committee"
+  url = "/committee/"
+  weight = 4.5
+
+[[main]]
   identifier = "leaders"
   name = "Leaders & Volunteers"
   url = "/leaders/"
