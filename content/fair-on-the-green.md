@@ -40,6 +40,22 @@ Gregory Park, Milton State School
 
 If you're planning to attend the fair, come and visit our stall! Whether you're interested in joining Scouts, want to learn more about volunteering, or just want to chat about our adventures, we'd love to see you there.
 
+### Parent Information
+
+**Who can go?**
+All Bardon Scouts members are welcome to attend:
+- Joeys (6-8 years)
+- Cubs (8-11 years)
+- Scouts (11-15 years)
+- Venturers (14-18 years)
+
+**What to bring:**
+- Scout uniform
+- Hat for sun protection
+- Water bottle
+- Spending money for food and activities
+- Folding chair for comfort
+
 ### Why Community Events Matter
 
 Community events like Fair on the Green are important to Scouts because they help us:
