@@ -47,6 +47,13 @@
   url = "/contact/"
   weight = 7
 
+# News dropdown items
+[[main]]
+  name = "Fair on the Green"
+  parent = "news"
+  url = "/fair-on-the-green/"
+  weight = 6.1
+
 # Join Us dropdown items
 [[main]]
   name = "How to Join"
