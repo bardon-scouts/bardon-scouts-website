@@ -90,6 +90,12 @@
   url = "/pizza-and-paddle/"
   weight = 5.54
 
+[[main]]
+  name = "Rock Climbing"
+  parent = "events"
+  url = "/rock-climbing/"
+  weight = 5.55
+
 # Join Us dropdown items
 [[main]]
   name = "How to Join"
