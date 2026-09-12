@@ -126,6 +126,12 @@
   url = "/district-swimming/"
   weight = 5.60
 
+[[main]]
+  name = "Clean Up Australia Day"
+  parent = "events"
+  url = "/clean-up-australia-day/"
+  weight = 5.61
+
 # Join Us dropdown items
 [[main]]
   name = "How to Join"

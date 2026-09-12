@@ -28,6 +28,16 @@ Cuboree is Queensland's premier five-day camping experience for Cub Scouts, held
 
 ---
 
+### [Clean Up Australia Day](/clean-up-australia-day/)
+**When:** First Sunday in March (annually)
+**Who:** Joeys, Cubs, Scouts, Venturers - All sections!
+
+Clean Up Australia Day is Australia's largest community environmental event, and Bardon Scouts proudly participates each year. All sections come together to clean up local parks, streets, and public spaces, demonstrating our commitment to environmental stewardship and community service. Families welcome to join!
+
+[Learn more about Clean Up Australia Day →](/clean-up-australia-day/)
+
+---
+
 ### [Mango Fundraiser](/mango-fundraiser/)
 **When:** October (orders) - December (delivery)
 **Who:** Everyone - support our fundraiser!
