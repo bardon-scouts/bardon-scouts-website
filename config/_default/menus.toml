@@ -102,6 +102,12 @@
   url = "/skillorama/"
   weight = 5.56
 
+[[main]]
+  name = "KnightMoves"
+  parent = "events"
+  url = "/knightmoves/"
+  weight = 5.57
+
 # Join Us dropdown items
 [[main]]
   name = "How to Join"

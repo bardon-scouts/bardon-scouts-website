@@ -38,6 +38,16 @@ The Bardon State School Mayfair is one of Brisbane's most beloved community even
 
 ---
 
+### [KnightMoves](/knightmoves/)
+**When:** Late July or early August (annually)
+**Who:** Scouts (11-15 years) and Venturers (14-18 years)
+
+KnightMoves is Brisbane North Region's premier overnight navigation adventure. Now in its 14th year, this challenging event combines night-time navigation, bushwalking, and themed activity bases in an overnight camping format. Scouts and Venturers navigate through the bush using maps and compasses, finding 25 route markers and completing challenges to earn points for their patrol.
+
+[Learn more about KnightMoves →](/knightmoves/)
+
+---
+
 ### [Operation NightHawk](/operation-nighthawk/)
 **When:** August (second full weekend)
 **Who:** Scouts only (11-15 years)

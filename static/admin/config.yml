@@ -186,6 +186,15 @@ collections:
           - { label: "Type", name: "type", widget: "hidden", default: "page" }
           - { label: "Body", name: "body", widget: "markdown" }
 
+      - file: "content/knightmoves.md"
+        label: "KnightMoves"
+        name: "knightmoves"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
       - file: "content/contact.md"
         label: "Contact"
         name: "contact"
