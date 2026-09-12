@@ -48,6 +48,16 @@ Operation NightHawk is Queensland's premier overnight Scout hike, held annually 
 
 ---
 
+### [Skillorama](/skillorama/)
+**When:** September (annually)
+**Who:** Joey Scouts (6-8 years) and Cub Scouts (8-11 years)
+
+Skillorama is Queensland's biggest day out for young Scouts, held annually at Redcliffe Showgrounds. Up to 1,300 Joeys and Cubs participate in dozens of activity stations designed and built by older Scouts, Venturers, and Rovers. From mud runs and rope bridges to canoeing and craft activities, it's a massive day of adventure celebrating over 50 years of tradition!
+
+[Learn more about Skillorama →](/skillorama/)
+
+---
+
 ### [Fair on the Green](/fair-on-the-green/)
 **When:** August (annually)
 **Who:** Joeys, Cubs, Scouts, Venturers

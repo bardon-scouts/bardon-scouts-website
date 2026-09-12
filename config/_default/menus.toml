@@ -96,6 +96,12 @@
   url = "/rock-climbing/"
   weight = 5.55
 
+[[main]]
+  name = "Skillorama"
+  parent = "events"
+  url = "/skillorama/"
+  weight = 5.56
+
 # Join Us dropdown items
 [[main]]
   name = "How to Join"
