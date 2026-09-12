@@ -84,6 +84,12 @@
   url = "/operation-nighthawk/"
   weight = 5.53
 
+[[main]]
+  name = "Pizza and Paddle"
+  parent = "events"
+  url = "/pizza-and-paddle/"
+  weight = 5.54
+
 # Join Us dropdown items
 [[main]]
   name = "How to Join"
