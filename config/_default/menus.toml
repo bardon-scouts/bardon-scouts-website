@@ -55,6 +55,12 @@
 
 # Events dropdown items
 [[main]]
+  name = "ANZAC Day March"
+  parent = "events"
+  url = "/anzac-day-march/"
+  weight = 5.49
+
+[[main]]
   name = "Mango Fundraiser"
   parent = "events"
   url = "/mango-fundraiser/"

@@ -8,6 +8,16 @@ type: page
 
 Bardon Scouts actively participates in community events and Scout activities throughout the year. These events provide opportunities for our members to engage with the wider community, develop their skills, and create lasting memories.
 
+### [ANZAC Day March](/anzac-day-march/)
+**When:** 25 April (annually)
+**Who:** Joeys, Cubs, Scouts, Venturers
+
+Each ANZAC Day, Bardon Scouts proudly marches in the commemorative service at the Ithaca War Memorial in Paddington. This important tradition honours the service and sacrifice of Australian servicemen and women. All sections participate together in this meaningful community event, marching at 8:15am followed by the service from 8:30-9:00am.
+
+[Learn more about ANZAC Day March →](/anzac-day-march/)
+
+---
+
 ### [Mango Fundraiser](/mango-fundraiser/)
 **When:** October (orders) - December (delivery)
 **Who:** Everyone - support our fundraiser!

@@ -123,6 +123,15 @@ collections:
           - { label: "Type", name: "type", widget: "hidden", default: "page" }
           - { label: "Body", name: "body", widget: "markdown" }
 
+      - file: "content/anzac-day-march.md"
+        label: "ANZAC Day March"
+        name: "anzac-day-march"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
       - file: "content/fair-on-the-green.md"
         label: "Fair on the Green"
         name: "fair-on-the-green"
