@@ -108,6 +108,26 @@ Indoor rock climbing at Rocksports in Fortitude Valley offers Scouts an exciting
 
 ---
 
+### [District Camps](/district-camps/)
+**When:** Throughout the year (varies by section)
+**Who:** Joey Scouts (6-8), Cub Scouts (8-11), Scouts (11-15)
+
+District Camps bring Bardon Scouts together with neighboring groups—Oakleigh, The Gap, and St Johns Wood—for weekend camping adventures. These section-specific camps offer outdoor activities, shared challenges, and opportunities to meet Scouts from across our district while enjoying quality camping experiences at Scout campsites throughout Southeast Queensland.
+
+[Learn more about District Camps →](/district-camps/)
+
+---
+
+### [District Swimming](/district-swimming/)
+**When:** Annually (date announced by district)
+**Who:** Cub Scouts (8-11 years) only
+
+District Swimming is an exciting competition where Bardon Cubs race against neighboring Scout Groups in swimming events. Cubs compete in individual and relay races across various strokes and distances, representing Bardon Scouts with pride while enjoying friendly competition, team spirit, and the chance to win awards for their group!
+
+[Learn more about District Swimming →](/district-swimming/)
+
+---
+
 ## Why We Participate
 
 Community events and Scout activities are an essential part of the Bardon Scouts experience:

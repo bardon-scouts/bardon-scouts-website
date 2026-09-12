@@ -114,6 +114,18 @@
   url = "/cuboree/"
   weight = 5.58
 
+[[main]]
+  name = "District Camps"
+  parent = "events"
+  url = "/district-camps/"
+  weight = 5.59
+
+[[main]]
+  name = "District Swimming"
+  parent = "events"
+  url = "/district-swimming/"
+  weight = 5.60
+
 # Join Us dropdown items
 [[main]]
   name = "How to Join"
