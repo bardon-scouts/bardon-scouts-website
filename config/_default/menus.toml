@@ -55,6 +55,12 @@
 
 # Events dropdown items
 [[main]]
+  name = "Mango Fundraiser"
+  parent = "events"
+  url = "/mango-fundraiser/"
+  weight = 5.50
+
+[[main]]
   name = "Bardon Mayfair"
   parent = "events"
   url = "/bardon-mayfair/"

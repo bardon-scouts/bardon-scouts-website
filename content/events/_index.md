@@ -4,9 +4,19 @@ description: "Community events and activities where Bardon Scouts participates t
 type: page
 ---
 
-## Annual Events
+## Annual Events & Fundraisers
 
 Bardon Scouts actively participates in community events and Scout activities throughout the year. These events provide opportunities for our members to engage with the wider community, develop their skills, and create lasting memories.
+
+### [Mango Fundraiser](/mango-fundraiser/)
+**When:** October (orders) - December (delivery)
+**Who:** Everyone - support our fundraiser!
+
+Fresh North Queensland Kensington Pride mangoes delivered direct from the farm. Order premium 7kg trays for $30 and support Bardon Scouts programs. Orders close 28 October with delivery in early December. A delicious way to support our youth programs!
+
+[Learn more about Mango Fundraiser →](/mango-fundraiser/)
+
+---
 
 ### [Bardon Mayfair](/bardon-mayfair/)
 **When:** June (annually)
