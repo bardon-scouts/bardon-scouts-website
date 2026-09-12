@@ -18,6 +18,16 @@ Each ANZAC Day, Bardon Scouts proudly marches in the commemorative service at th
 
 ---
 
+### [Cuboree](/cuboree/)
+**When:** Every 2-3 years (Next: April 9-13, 2026)
+**Who:** Cub Scouts (8-11 years) only
+
+Cuboree is Queensland's premier five-day camping experience for Cub Scouts, held at Baden-Powell Park in Samford. Over 800 Cubs from across the state come together for non-stop adventure, friendship, and discovery through Special Interest Areas, outdoor adventure skills, and themed activities. Often a Cub's first extended time away from home, Cuboree creates memories that last a lifetime!
+
+[Learn more about Cuboree →](/cuboree/)
+
+---
+
 ### [Mango Fundraiser](/mango-fundraiser/)
 **When:** October (orders) - December (delivery)
 **Who:** Everyone - support our fundraiser!

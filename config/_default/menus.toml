@@ -108,6 +108,12 @@
   url = "/knightmoves/"
   weight = 5.57
 
+[[main]]
+  name = "Cuboree"
+  parent = "events"
+  url = "/cuboree/"
+  weight = 5.58
+
 # Join Us dropdown items
 [[main]]
   name = "How to Join"
