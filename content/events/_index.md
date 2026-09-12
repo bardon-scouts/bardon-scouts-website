@@ -1,0 +1,55 @@
+---
+title: "Events"
+description: "Community events and activities where Bardon Scouts participates throughout the year"
+type: page
+---
+
+## Annual Events
+
+Bardon Scouts actively participates in community events and Scout activities throughout the year. These events provide opportunities for our members to engage with the wider community, develop their skills, and create lasting memories.
+
+### [Bardon Mayfair](/bardon-mayfair/)
+**When:** June (annually)
+**Who:** Joeys, Cubs, Scouts, Venturers
+
+The Bardon State School Mayfair is one of Brisbane's most beloved community events. Held each June, this vibrant fundraiser brings together thousands of families for a day of markets, entertainment, food, and fun. Bardon Scouts runs an information stall showcasing our programs and connecting with local families.
+
+[Learn more about Bardon Mayfair →](/bardon-mayfair/)
+
+---
+
+### [Operation NightHawk](/operation-nighthawk/)
+**When:** August (second full weekend)
+**Who:** Scouts only (11-15 years)
+
+Operation NightHawk is Queensland's premier overnight Scout hike, held annually on the Darling Downs. This legendary event attracts around 1,200 Scouts from across Queensland and Northern NSW for a challenging night-time bush hike featuring navigation, skill bases, and leadership challenges.
+
+[Learn more about Operation NightHawk →](/operation-nighthawk/)
+
+---
+
+### [Fair on the Green](/fair-on-the-green/)
+**When:** August (annually)
+**Who:** Joeys, Cubs, Scouts, Venturers
+
+Milton State School's Fair on the Green is an annual community fundraising event held at Gregory Park in Milton. This family-friendly fair features rides, stalls, live entertainment, food trucks, and an outdoor movie screening. Bardon Scouts participates to connect with the local community and share what Scouting offers.
+
+[Learn more about Fair on the Green →](/fair-on-the-green/)
+
+---
+
+## Why We Participate
+
+Community events and Scout activities are an essential part of the Bardon Scouts experience:
+
+- **Skill Development** - Practical application of skills learned at weekly meetings
+- **Community Connection** - Building relationships within our local community
+- **Character Building** - Developing resilience, teamwork, and leadership
+- **Fun & Adventure** - Creating memories and friendships that last a lifetime
+- **Service** - Supporting local schools and community fundraising efforts
+
+## Get Involved
+
+Want to join us at upcoming events? [Contact us](/contact/) to learn more about joining Bardon Scouts, or come and visit us at any of these events throughout the year!
+
+All events are open to current Bardon Scouts members. New families interested in joining are always welcome to stop by and learn more about our programs.
