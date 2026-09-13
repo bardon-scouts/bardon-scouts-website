@@ -225,6 +225,18 @@
   url = "/sign-in-out/"
   weight = 2.3
 
+[[main]]
+  name = "Code of Conduct"
+  parent = "about"
+  url = "/code-of-conduct/"
+  weight = 2.4
+
+[[main]]
+  name = "Phone Use Policy"
+  parent = "about"
+  url = "/phone-use/"
+  weight = 2.5
+
 # Leaders & Volunteers dropdown items
 [[main]]
   name = "Our Leaders"
