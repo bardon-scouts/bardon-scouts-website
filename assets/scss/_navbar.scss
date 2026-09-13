@@ -48,18 +48,33 @@ nav.navbar {
 
     // Dropdown menu
     .navbar-dropdown {
-      background: $bardon-invert;
+      background-color: $bardon-invert !important;
       border-top: 2px solid $bardon;
 
       a.navbar-item {
-        color: white;
+        color: white !important;
         font-weight: normal;
       }
 
       a.navbar-item:hover {
-        background: $bardon;
-        color: white;
+        background-color: $bardon !important;
+        color: white !important;
       }
+    }
+  }
+
+  // Additional specificity for dropdown items (override Bulma defaults)
+  .navbar-item.has-dropdown .navbar-dropdown {
+    background-color: $bardon-invert !important;
+
+    .navbar-item {
+      color: white !important;
+      background-color: transparent;
+    }
+
+    .navbar-item:hover {
+      background-color: $bardon !important;
+      color: white !important;
     }
   }
 
