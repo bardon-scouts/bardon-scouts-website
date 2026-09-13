@@ -82,12 +82,12 @@ Learn proper climbing techniques, knot tying, safety procedures, and risk assess
 
 ### Who can go?
 Rock climbing events are typically open to all sections, though this may vary by event:
-- Joeys (6-8 years) - Kid-specific walls and bouldering
-- Cubs (8-11 years) - All climbing options with supervision
-- Scouts (11-15 years) - All climbing options
-- Venturers (14-18 years) - All climbing options including advanced routes
+- Joeys - Kid-specific walls and bouldering
+- Cubs - All climbing options with supervision
+- Scouts - All climbing options
+- Venturers - All climbing options including advanced routes
 
-*Specific age requirements and section participation will be confirmed by your Section Leader for each event*
+*Specific section participation will be confirmed by your Section Leader for each event*
 
 ### What to bring:
 - **Comfortable athletic clothing** (pants or leggings recommended, avoid loose clothing)

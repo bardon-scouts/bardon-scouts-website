@@ -44,10 +44,10 @@ If you're planning to attend the fair, come and visit our stall! Whether you're 
 
 **Who can go?**
 All Bardon Scouts members are welcome to attend:
-- Joeys (6-8 years)
-- Cubs (8-11 years)
-- Scouts (11-15 years)
-- Venturers (14-18 years)
+- Joeys
+- Cubs
+- Scouts
+- Venturers
 
 **What to bring:**
 - Scout uniform

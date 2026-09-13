@@ -15,7 +15,7 @@ KnightMoves is an exciting overnight navigation and camping activity organized a
 **When:** Late July or early August (annually)
 **Time:** Saturday afternoon through Sunday morning
 **Where:** Various Scouts Queensland campsites (location changes yearly)
-**Who:** Scouts (11-15 years) and Venturers (14-18 years)
+**Who:** Scouts and Venturers
 
 ## About KnightMoves
 
@@ -134,7 +134,7 @@ KnightMoves provides practical application of essential Scouting skills:
 ## Parent Information
 
 ### Who can go?
-**Scouts (11-15 years)** and **Venturers (14-18 years)**
+**Scouts** and **Venturers**
 
 KnightMoves is designed for Brisbane North Region's Scout and Venturer sections. This overnight navigation event requires participants to have basic map and compass skills and physical fitness for night hiking.
 

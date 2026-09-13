@@ -15,7 +15,7 @@ District Camps bring together Scout Groups from across our local district for we
 **When:** Throughout the year (dates vary by section and district calendar)
 **Duration:** Typically weekend camps (Friday evening to Sunday)
 **Where:** Various Scout campsites across Southeast Queensland
-**Who:** Joey Scouts (6-8 years), Cub Scouts (8-11 years), and Scouts (11-15 years)
+**Who:** Joey Scouts, Cub Scouts, and Scouts
 
 ## About District Camps
 
@@ -184,7 +184,7 @@ District Camps provide comprehensive skill development:
 ## Parent Information
 
 ### Who can go?
-**Joey Scouts (6-8 years), Cub Scouts (8-11 years), and Scouts (11-15 years)**
+**Joey Scouts, Cub Scouts, and Scouts**
 
 District Camps are organized by section, so your child will camp with their age group. Each section has separate camps throughout the year.
 

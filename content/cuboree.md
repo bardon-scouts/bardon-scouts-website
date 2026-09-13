@@ -15,7 +15,7 @@ Cuboree is Queensland's premier camping experience for Cub Scouts—a massive fi
 **When:** Every 2-3 years (Next: Cuboree 2026 - April 9-13, 2026)
 **Duration:** 5 days (Thursday to Monday)
 **Where:** Baden-Powell Park, Samford, Queensland
-**Who:** Cub Scouts (8-11 years) from across Queensland
+**Who:** Cub Scouts from across Queensland
 
 ## About Cuboree
 
@@ -176,7 +176,7 @@ Cuboree provides comprehensive skill development across multiple areas:
 ## Parent Information
 
 ### Who can go?
-**Cub Scouts (8-11 years)** from across Queensland
+**Cub Scouts** from across Queensland
 
 Cubs must meet specific age and membership requirements. Eligibility details are provided during registration. This is an event specifically for the Cub Scout section.
 

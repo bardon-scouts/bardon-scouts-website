@@ -72,10 +72,10 @@ Many families stay to view the wreaths and reflect on the significance of the da
 
 ### Who can go?
 All Bardon Scouts members are welcome and encouraged to attend:
-- Joeys (6-8 years)
-- Cubs (8-11 years)
-- Scouts (11-15 years)
-- Venturers (14-18 years)
+- Joeys
+- Cubs
+- Scouts
+- Venturers
 
 This is an all-sections event that brings together our entire Scout Group.
 

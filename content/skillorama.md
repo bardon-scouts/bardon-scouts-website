@@ -15,7 +15,7 @@ Skillorama is Queensland's premier event for Joey Scouts and Cub Scouts—a mass
 **When:** Annually in September (specific date announced by Scouts Queensland)
 **Time:** 11:00am onwards
 **Where:** Redcliffe Showgrounds, Redcliffe
-**Who:** Joey Scouts (6-8 years) and Cub Scouts (8-11 years)
+**Who:** Joey Scouts and Cub Scouts
 
 ## About Skillorama
 
@@ -110,7 +110,7 @@ The tradition continues each September, bringing together the best of what Scout
 ## Parent Information
 
 ### Who can go?
-**Joey Scouts (6-8 years)** and **Cub Scouts (8-11 years)**
+**Joey Scouts** and **Cub Scouts**
 
 Skillorama is specifically designed for Bardon Scouts' youngest members. Scouts, Venturers, and Rovers attend as activity leaders and helpers.
 

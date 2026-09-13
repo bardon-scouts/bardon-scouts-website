@@ -15,7 +15,7 @@ District Swimming is an exciting competition where Cub Scouts from Bardon compet
 **When:** Annually (date announced by district)
 **Duration:** Typically a half-day or full-day event
 **Where:** Local swimming pool facility
-**Who:** Cub Scouts (8-11 years) only
+**Who:** Cub Scouts only
 
 ## About District Swimming
 
@@ -145,7 +145,7 @@ District Swimming helps Cubs develop:
 ## Parent Information
 
 ### Who can go?
-**Cub Scouts (8-11 years) only**
+**Cub Scouts only**
 
 District Swimming is specifically for the Cub Scout section. Cubs compete in age-appropriate race categories based on their swimming ability.
 

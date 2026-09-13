@@ -64,10 +64,10 @@ Bardon Scouts will be there again, and we'd love to see you! Whether you're a cu
 
 **Who can go?**
 All Bardon Scouts members are welcome to attend:
-- Joeys (6-8 years)
-- Cubs (8-11 years)
-- Scouts (11-15 years)
-- Venturers (14-18 years)
+- Joeys
+- Cubs
+- Scouts
+- Venturers
 
 **What to bring:**
 - Scout uniform
@@ -89,7 +89,7 @@ Being part of events like the Bardon Mayfair aligns perfectly with Scout values:
 
 The Bardon Mayfair is just one of many ways Bardon Scouts engages with our community. Our members participate in weekly meetings, camps, hikes, skill development activities, and service projects throughout the year.
 
-If you'd like to know more about our programs for Joeys (6-8), Cubs (8-11), Scouts (11-15), or Venturers (14-18), please [get in touch](/contact/).
+If you'd like to know more about our programs for Joeys, Cubs, Scouts, or Venturers, please [get in touch](/contact/).
 
 ---
 

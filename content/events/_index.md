@@ -20,7 +20,7 @@ Each ANZAC Day, Bardon Scouts proudly marches in the commemorative service at th
 
 ### [Cuboree](/cuboree/)
 **When:** Every 2-3 years (Next: April 9-13, 2026)
-**Who:** Cub Scouts (8-11 years) only
+**Who:** Cub Scouts only
 
 Cuboree is Queensland's premier five-day camping experience for Cub Scouts, held at Baden-Powell Park in Samford. Over 800 Cubs from across the state come together for non-stop adventure, friendship, and discovery through Special Interest Areas, outdoor adventure skills, and themed activities. Often a Cub's first extended time away from home, Cuboree creates memories that last a lifetime!
 
@@ -60,7 +60,7 @@ The Bardon State School Mayfair is one of Brisbane's most beloved community even
 
 ### [KnightMoves](/knightmoves/)
 **When:** Late July or early August (annually)
-**Who:** Scouts (11-15 years) and Venturers (14-18 years)
+**Who:** Scouts and Venturers
 
 KnightMoves is Brisbane North Region's premier overnight navigation adventure. Now in its 14th year, this challenging event combines night-time navigation, bushwalking, and themed activity bases in an overnight camping format. Scouts and Venturers navigate through the bush using maps and compasses, finding 25 route markers and completing challenges to earn points for their patrol.
 
@@ -70,7 +70,7 @@ KnightMoves is Brisbane North Region's premier overnight navigation adventure. N
 
 ### [Operation NightHawk](/operation-nighthawk/)
 **When:** August (second full weekend)
-**Who:** Scouts only (11-15 years)
+**Who:** Scouts only
 
 Operation NightHawk is Queensland's premier overnight Scout hike, held annually on the Darling Downs. This legendary event attracts around 1,200 Scouts from across Queensland and Northern NSW for a challenging night-time bush hike featuring navigation, skill bases, and leadership challenges.
 
@@ -80,7 +80,7 @@ Operation NightHawk is Queensland's premier overnight Scout hike, held annually 
 
 ### [Skillorama](/skillorama/)
 **When:** September (annually)
-**Who:** Joey Scouts (6-8 years) and Cub Scouts (8-11 years)
+**Who:** Joey Scouts and Cub Scouts
 
 Skillorama is Queensland's biggest day out for young Scouts, held annually at Redcliffe Showgrounds. Up to 1,300 Joeys and Cubs participate in dozens of activity stations designed and built by older Scouts, Venturers, and Rovers. From mud runs and rope bridges to canoeing and craft activities, it's a massive day of adventure celebrating over 50 years of tradition!
 
@@ -100,7 +100,7 @@ Milton State School's Fair on the Green is an annual community fundraising event
 
 ### [Pizza and Paddle](/pizza-and-paddle/)
 **When:** Friday nights (various dates throughout the year)
-**Who:** Scouts only (11-15 years)
+**Who:** Scouts only
 
 Pizza and Paddle at Brownsea Water Activities Centre combines canoeing on the water with pizza under the stars. Running from 6:45pm-10:00pm, Scouts paddle canoes at sunset, practice water skills, and enjoy a social evening with Scouts from across the region. A fun and unique program night!
 
@@ -120,7 +120,7 @@ Indoor rock climbing at Rocksports in Fortitude Valley offers Scouts an exciting
 
 ### [District Camps](/district-camps/)
 **When:** Throughout the year (varies by section)
-**Who:** Joey Scouts (6-8), Cub Scouts (8-11), Scouts (11-15)
+**Who:** Joey Scouts, Cub Scouts, Scouts
 
 District Camps bring Bardon Scouts together with neighboring groups—Oakleigh, The Gap, and St Johns Wood—for weekend camping adventures. These section-specific camps offer outdoor activities, shared challenges, and opportunities to meet Scouts from across our district while enjoying quality camping experiences at Scout campsites throughout Southeast Queensland.
 
@@ -130,7 +130,7 @@ District Camps bring Bardon Scouts together with neighboring groups—Oakleigh, 
 
 ### [District Swimming](/district-swimming/)
 **When:** Annually (date announced by district)
-**Who:** Cub Scouts (8-11 years) only
+**Who:** Cub Scouts only
 
 District Swimming is an exciting competition where Bardon Cubs race against neighboring Scout Groups in swimming events. Cubs compete in individual and relay races across various strokes and distances, representing Bardon Scouts with pride while enjoying friendly competition, team spirit, and the chance to win awards for their group!
 

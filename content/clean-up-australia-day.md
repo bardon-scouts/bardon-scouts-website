@@ -119,10 +119,10 @@ Participating in Clean Up Australia Day helps Scouts develop valuable skills:
 
 ### Who can go?
 **All sections welcome:**
-- **Joeys (6-8 years)** - Supervised collection of safe, light rubbish
-- **Cubs (8-11 years)** - Active participation in clean-up activities
-- **Scouts (11-15 years)** - Full participation in all clean-up tasks
-- **Venturers (14-18 years)** - Leadership roles and challenging tasks
+- **Joeys** - Supervised collection of safe, light rubbish
+- **Cubs** - Active participation in clean-up activities
+- **Scouts** - Full participation in all clean-up tasks
+- **Venturers** - Leadership roles and challenging tasks
 
 **Families encouraged!** Parents, siblings, and families are welcome to participate alongside Scouts.
 
