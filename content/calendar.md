@@ -17,6 +17,8 @@ Scout meetings run during Queensland school terms. Regular meetings are held eac
 **Term 3** - July 14 to September 19
 **Term 4** - October 6 to December 12
 
+**[View Queensland School Term Dates](https://qed.qld.gov.au/about-us/calendar)**
+
 ### Weekly Meeting Times (During School Terms)
 
 **Joey Scouts** - Tuesday 6:30-7:30pm
