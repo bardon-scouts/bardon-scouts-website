@@ -20,4 +20,6 @@ Before your child attends a trial session, please download and complete the Non-
 
 Please bring the completed form with you to the trial session.
 
-<!-- TODO: Add contact information for booking trial visits -->
+## Financial Assistance Available
+
+If cost is a concern, Queensland families may be eligible for a $200 [FairPlay voucher](/join/fairplay-voucher/) to help with membership fees. Learn more about this government program on our [FairPlay Voucher page](/join/fairplay-voucher/).

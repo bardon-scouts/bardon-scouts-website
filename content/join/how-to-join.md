@@ -26,6 +26,12 @@ Once you've trialled and decided to join, we'll provide you with more informatio
 
 After your membership is processed, you'll be ready to start your Scouting adventure! We'll provide you with all the details about regular meeting times, what to bring, and what to expect.
 
+## Financial Assistance Available
+
+Queensland families may be eligible for a **$200 FairPlay voucher** to help with membership fees. This government program is available for all Queensland children aged 5 to 17 years.
+
+**[Learn more about FairPlay vouchers](/join/fairplay-voucher/)**
+
 ## Questions?
 
 If you have any questions about joining, please [contact us](/contact/) or check our [FAQs](/join/faqs/).
