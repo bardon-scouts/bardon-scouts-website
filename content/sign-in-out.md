@@ -28,18 +28,12 @@ For the safety and security of all our Scouts, Bardon Scouts requires parents or
 - Joey Scouts
 - Cub Scouts
 - Scouts
+- Venturers
 
-**Exceptions:**
-- Venturers (14-18 years) - due to their age and independence
-- Rovers (18-25 years) - adult members
+**Venturers - Self Sign-In:**
+Venturers who are driving themselves to Scouts may sign themselves in and out if they have prearranged permission from their parents.
 
 ### Important Information
-
-**Authorized Adults Only**
-Only parents, guardians, or adults specifically authorized by parents may sign children in and out. If someone else will be dropping off or collecting your child, please inform the Section Leader in advance.
-
-**Collection Changes**
-If collection arrangements change during a meeting or event, parents must contact the Section Leader directly to authorize the change. Do not rely on messages passed through other children.
 
 **Late Pick-Up**
 Please collect your child on time. If you're running late, contact your Section Leader as soon as possible. Leaders cannot leave until all children have been safely collected.

@@ -1,12 +1,12 @@
 ---
 title: "Rovers"
-description: "Rover Scouts (18-25 years) - Coming Soon to Bardon Scouts"
+description: "Rover Scouts (18-25 years) at Bardon Scouts"
 type: page
 ---
 
-## Rovers (18-25 Years) - Coming Soon!
+## Rovers (18-25 Years)
 
-We are planning to establish a Rover Scout section at Bardon Scouts for young adults aged 18 to 25 years.
+We are planning to establish a Rover Scout section at Bardon Scouts for young adults aged 18 to 25 years. This section is coming soon!
 
 ### What is Rovers?
 
