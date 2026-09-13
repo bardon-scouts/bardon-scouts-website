@@ -200,6 +200,12 @@
   url = "/sections/venturers/"
   weight = 4
 
+[[main]]
+  name = "Rovers (18-25) - Coming Soon"
+  parent = "sections"
+  url = "/sections/rovers/"
+  weight = 5
+
 # About dropdown items
 [[main]]
   name = "Committee"
@@ -212,6 +218,12 @@
   parent = "about"
   url = "/consent2go/"
   weight = 2.2
+
+[[main]]
+  name = "Sign In and Out"
+  parent = "about"
+  url = "/sign-in-out/"
+  weight = 2.3
 
 # Leaders & Volunteers dropdown items
 [[main]]
