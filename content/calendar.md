@@ -6,25 +6,27 @@ type: page
 
 This calendar provides an overview of regular meetings, annual events, and Queensland school term dates. Specific dates and details for upcoming events will be communicated through [Consent2go](/consent2go/) and [WhatsApp groups](/communication/).
 
-## Regular Weekly Meetings
+## Regular Weekly Meetings & Term Dates
 
-**Joey Scouts** - Tuesday 6:30-7:30pm
-**Cub Scouts** - Tuesday 6:30-8:00pm
-**Scouts** - Thursday 6:30-8:30pm
-**Venturers** - Thursday 7:00-9:00pm
+Scout meetings run during Queensland school terms. Regular meetings are held each week when school is in session, with breaks during school holidays.
 
-Location: 11 Bee Street, Bardon
-
----
-
-## 2026 Queensland School Terms
+### 2026 Queensland School Terms
 
 **Term 1** - January 28 to April 3
 **Term 2** - April 21 to June 27
 **Term 3** - July 14 to September 19
 **Term 4** - October 6 to December 12
 
-Scout meetings typically follow the Queensland school term calendar with some variations. Check [WhatsApp](/communication/) for specific meeting dates.
+### Weekly Meeting Times (During School Terms)
+
+**Joey Scouts** - Tuesday 6:30-7:30pm
+**Cub Scouts** - Tuesday 6:30-8:00pm
+**Scouts** - Thursday 6:30-8:30pm
+**Venturers** - Thursday 7:00-9:00pm
+
+**Location:** 11 Bee Street, Bardon
+
+**Important:** Meetings are held weekly during school terms and do not run during school holidays (except for special events and camps). Check your section's [WhatsApp group](/communication/) for any variations or special meeting changes.
 
 ---
 
