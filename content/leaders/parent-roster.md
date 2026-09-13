@@ -4,8 +4,6 @@ description: "Parent roster expectations for Bardon Scouts families"
 type: page
 ---
 
-## Parent Roster
-
 At Bardon Scouts, we believe that Scouting is a community effort. All parents are expected to contribute to the success of our programs through the parent roster system.
 
 ### What is the Parent Roster?

@@ -4,8 +4,6 @@ description: "How Bardon Scouts communicates with parents and families"
 type: page
 ---
 
-## Communication with Parents
-
 Bardon Scouts uses multiple communication channels to keep parents informed about activities, events, and important information.
 
 ### Our Communication Channels

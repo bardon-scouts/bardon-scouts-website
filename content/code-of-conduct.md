@@ -4,8 +4,6 @@ description: "Code of conduct for parents, adults, and Scouts at Bardon Scouts"
 type: page
 ---
 
-## Code of Conduct
-
 Bardon Scouts is built on a foundation of respect, responsibility, and community. Our Code of Conduct helps ensure a safe, positive, and enjoyable environment for all members, families, and volunteers.
 
 ### For Parents and Adults
