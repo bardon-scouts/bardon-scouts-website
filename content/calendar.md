@@ -34,7 +34,7 @@ Scout meetings run during Queensland school terms. Regular meetings are held eac
 
 ### January
 
-**School Term Starts** - Term 1 begins (late January)
+**Weekly Meetings Start** - January 28 (Term 1)
 
 ---
 
@@ -52,13 +52,13 @@ Scout meetings run during Queensland school terms. Regular meetings are held eac
 
 ### April
 
+**Weekly Meetings End** - April 3 (Term 1)
+
 **[Cuboree](/cuboree/)** (Cubs) - Every 2-3 years (April 9-13, 2026)
 
+**Weekly Meetings Start** - April 21 (Term 2)
+
 **[ANZAC Day March](/anzac-day-march/)** - April 25
-
-**School Term Ends** - Term 1 ends (early April)
-
-**School Term Starts** - Term 2 begins (late April)
 
 ---
 
@@ -70,13 +70,13 @@ Scout meetings run during Queensland school terms. Regular meetings are held eac
 
 **[Bardon Mayfair](/bardon-mayfair/)** - Second Sunday in June (June 8, 2025)
 
-**School Term Ends** - Term 2 ends (late June)
+**Weekly Meetings End** - June 27 (Term 2)
 
 ---
 
 ### July
 
-**School Term Starts** - Term 3 begins (mid-July)
+**Weekly Meetings Start** - July 14 (Term 3)
 
 **[KnightMoves](/knightmoves/)** (Scouts, Venturers) - Late July/early August
 
@@ -94,13 +94,13 @@ Scout meetings run during Queensland school terms. Regular meetings are held eac
 
 **[Skillorama](/skillorama/)** (Joeys, Cubs) - September
 
-**School Term Ends** - Term 3 ends (mid-September)
+**Weekly Meetings End** - September 19 (Term 3)
 
 ---
 
 ### October
 
-**School Term Starts** - Term 4 begins (early October)
+**Weekly Meetings Start** - October 6 (Term 4)
 
 **[Mango Fundraiser](/mango-fundraiser/)** - Orders open in October
 
@@ -114,7 +114,7 @@ Scout meetings run during Queensland school terms. Regular meetings are held eac
 
 **[Mango Fundraiser](/mango-fundraiser/)** - Delivery in early December
 
-**School Term Ends** - Term 4 ends (mid-December)
+**Weekly Meetings End** - December 12 (Term 4)
 
 ---
 
