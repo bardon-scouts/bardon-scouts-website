@@ -4,6 +4,20 @@ description: "Steps to join Bardon Scouts"
 type: page
 ---
 
+## Before You Join
+
+Bardon Scouts is a community-based program that thrives on parent involvement and support. Before joining, it's helpful to understand what's expected of families.
+
+### Parent Involvement
+
+**[Parent Roster](/leaders/parent-roster/)** - All families are expected to assist with one meeting per term and support fundraising activities. This helps our leaders deliver quality programs and builds a strong Scout community.
+
+**[Sign In and Out](/sign-in-out/)** - For safety and security, parents must sign their children in and out at every meeting and event (except Venturers who may self-sign with permission).
+
+**[Volunteer Opportunities](/leaders/volunteering/)** - We encourage parents to get involved beyond the minimum requirements! Whether as an [Adult Supporter](/leaders/adult-supporters/), occasional helper, or [Committee member](/committee/), your involvement enriches the Scouting experience for all our young people.
+
+Scouting works best when families are engaged and supportive. We look forward to welcoming you to our Scout community!
+
 ## Ready to Join?
 
 Joining Bardon Scouts is easy! Follow these steps:
