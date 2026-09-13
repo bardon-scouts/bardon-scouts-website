@@ -22,9 +22,49 @@ Once you've trialled and decided to join, we'll provide you with more informatio
 
 **[Complete Membership Form](https://scoutsqld.com.au/membershipform/)**
 
-### 3. Attend Your First Meeting
+### 3. Learn About Bardon Scouts
 
-After your membership is processed, you'll be ready to start your Scouting adventure! We'll provide you with all the details about regular meeting times, what to bring, and what to expect.
+Before your first meeting, please take time to understand how our Scout Group operates. This helps ensure a smooth start and sets clear expectations for your family.
+
+**Please read and familiarize yourself with:**
+
+- **[Code of Conduct](/code-of-conduct/)** - Expectations for parents and Scouts
+- **[Sign In and Out](/sign-in-out/)** - Safety requirements at every meeting
+- **[Phone Use Policy](/phone-use/)** - No phones during Scout meetings
+- **[Parent Roster](/leaders/parent-roster/)** - Your family's involvement commitment
+- **[Communication](/communication/)** - How we stay in touch with families
+- **[Consent2go](/consent2go/)** - Our permission and payment system
+- **[Uniforms](/join/uniforms/)** - What your child needs to wear
+
+Understanding these policies and procedures helps create a positive Scouting experience for everyone.
+
+### 4. Join the WhatsApp Group
+
+Each section has a WhatsApp group for quick communication and updates. You'll receive an invitation when you join - please accept it promptly to stay informed about:
+
+- Meeting changes and reminders
+- Upcoming events and activities
+- Last-minute updates
+- General announcements
+
+**[Learn more about our communication channels](/communication/)**
+
+### 5. Set Up Consent2go
+
+You'll receive an invitation to set up your Consent2go account. This is essential for:
+
+- Providing permission for activities and events
+- Keeping your child's medical information current
+- Making payments for camps and events
+- Receiving important notifications
+
+Please complete your Consent2go setup as soon as you receive the invitation.
+
+**[Learn more about Consent2go](/consent2go/)**
+
+### 6. Attend Your First Meeting
+
+After completing the above steps, you'll be ready to start your Scouting adventure! We'll provide you with all the details about regular meeting times, what to bring, and what to expect.
 
 ## Financial Assistance Available
 

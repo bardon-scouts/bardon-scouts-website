@@ -237,6 +237,12 @@
   url = "/phone-use/"
   weight = 2.5
 
+[[main]]
+  name = "Communication"
+  parent = "about"
+  url = "/communication/"
+  weight = 2.6
+
 # Leaders & Volunteers dropdown items
 [[main]]
   name = "Our Leaders"
