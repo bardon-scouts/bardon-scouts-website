@@ -208,6 +208,12 @@
 
 # About dropdown items
 [[main]]
+  name = "Calendar"
+  parent = "about"
+  url = "/calendar/"
+  weight = 2.05
+
+[[main]]
   name = "Committee"
   parent = "about"
   url = "/committee/"
