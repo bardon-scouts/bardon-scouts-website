@@ -132,6 +132,12 @@
   url = "/clean-up-australia-day/"
   weight = 5.61
 
+[[main]]
+  name = "Annual Report Presentation"
+  parent = "events"
+  url = "/annual-report-presentation/"
+  weight = 5.62
+
 # Join Us dropdown items
 [[main]]
   name = "How to Join"

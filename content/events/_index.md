@@ -38,6 +38,16 @@ Clean Up Australia Day is Australia's largest community environmental event, and
 
 ---
 
+### [Annual Report Presentation](/annual-report-presentation/)
+**When:** Annually in March
+**Who:** Parents, Leaders, Committee Members, Supporters - All welcome!
+
+The Annual Report Presentation (ARP) is our annual general meeting where we review the past year, celebrate achievements, examine finances, and plan for the future. Hear reports from each section, the committee, and financial overview. This important evening provides transparency and an opportunity for all families to be informed and involved in our group's direction.
+
+[Learn more about Annual Report Presentation →](/annual-report-presentation/)
+
+---
+
 ### [Mango Fundraiser](/mango-fundraiser/)
 **When:** October (orders) - December (delivery)
 **Who:** Everyone - support our fundraiser!

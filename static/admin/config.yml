@@ -231,6 +231,15 @@ collections:
           - { label: "Type", name: "type", widget: "hidden", default: "page" }
           - { label: "Body", name: "body", widget: "markdown" }
 
+      - file: "content/annual-report-presentation.md"
+        label: "Annual Report Presentation"
+        name: "annual-report-presentation"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
       - file: "content/contact.md"
         label: "Contact"
         name: "contact"
