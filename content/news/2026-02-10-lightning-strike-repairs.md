@@ -1,6 +1,6 @@
 ---
 title: "Hall Tree Lightning Strike and Electrical Repairs"
-date: 2026-02-10
+date: 2026-02-01
 summary: "Updates on tree pruning and electrical system replacement following lightning strike"
 featured: false
 tags:

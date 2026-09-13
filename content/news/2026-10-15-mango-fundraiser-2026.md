@@ -1,6 +1,6 @@
 ---
 title: "Mango Fundraiser 2026 Coming Soon!"
-date: 2026-10-15
+date: 2026-10-01
 summary: "Get ready for our annual mango fundraiser - fresh North Queensland mangoes arriving in December!"
 featured: false
 tags:

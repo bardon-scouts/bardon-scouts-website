@@ -1,6 +1,6 @@
 ---
 title: "Scouts Place Third at Operation NightHawk!"
-date: 2026-09-20
+date: 2026-09-01
 summary: "Congratulations to our Scout section for achieving third place at Queensland's premier overnight hike!"
 featured: true
 tags:
