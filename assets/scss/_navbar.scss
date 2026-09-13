@@ -29,6 +29,38 @@ nav.navbar {
     a.navbar-item:hover {
       background: $bardon;
     }
+
+    // Dropdown trigger link
+    a.navbar-link {
+      color: white;
+      font-weight: bold;
+      background: transparent;
+    }
+
+    a.navbar-link:hover {
+      background: $bardon;
+    }
+
+    // Dropdown arrow color
+    .navbar-link::after {
+      border-color: white;
+    }
+
+    // Dropdown menu
+    .navbar-dropdown {
+      background: $bardon-invert;
+      border-top: 2px solid $bardon;
+
+      a.navbar-item {
+        color: white;
+        font-weight: normal;
+      }
+
+      a.navbar-item:hover {
+        background: $bardon;
+        color: white;
+      }
+    }
   }
 
   .navbar-menu.is-active {
