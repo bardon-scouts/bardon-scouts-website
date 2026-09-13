@@ -276,6 +276,24 @@ collections:
           - { label: "Type", name: "type", widget: "hidden", default: "page" }
           - { label: "Body", name: "body", widget: "markdown" }
 
+      - file: "content/leaders/parent-roster.md"
+        label: "Parent Roster"
+        name: "parent-roster"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+      - file: "content/leaders/adult-supporters.md"
+        label: "Adult Supporters"
+        name: "adult-supporters"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
       - file: "content/contact.md"
         label: "Contact"
         name: "contact"

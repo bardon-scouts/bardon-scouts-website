@@ -237,3 +237,15 @@
   parent = "leaders"
   url = "/leaders/volunteering/"
   weight = 5.2
+
+[[main]]
+  name = "Parent Roster"
+  parent = "leaders"
+  url = "/leaders/parent-roster/"
+  weight = 5.3
+
+[[main]]
+  name = "Adult Supporters"
+  parent = "leaders"
+  url = "/leaders/adult-supporters/"
+  weight = 5.4
