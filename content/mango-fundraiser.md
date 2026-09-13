@@ -62,7 +62,7 @@ Excellent for summer salads
 
 ### Health Benefits
 
-Kensington Pride mangoes aren't just delicious—they're nutritious too!
+Kensington Pride mangoes aren't just delicious-they're nutritious too!
 
 **Rich in Vitamins & Minerals:**
 - **Vitamin C** - Supports immune system health
@@ -88,11 +88,11 @@ Allow mangoes to ripen at room temperature for 2-5 days until they give slightly
 Once ripe, store in the refrigerator for up to 5 days to maintain freshness.
 
 **Freezing:**
-Peel, dice, and freeze for smoothies and cooking—frozen mango can last several months!
+Peel, dice, and freeze for smoothies and cooking-frozen mango can last several months!
 
 ## Supporting Bardon Scouts
 
-By purchasing mangoes through our fundraiser, you're not just getting premium fruit—you're supporting:
+By purchasing mangoes through our fundraiser, you're not just getting premium fruit-you're supporting:
 
 - **Youth Programs** - Helping fund activities, camps, and adventures
 - **Equipment & Resources** - Maintaining our Scout Den and purchasing gear

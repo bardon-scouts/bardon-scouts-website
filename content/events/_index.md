@@ -132,7 +132,7 @@ Indoor rock climbing at Rocksports in Fortitude Valley offers Scouts an exciting
 **When:** Throughout the year (varies by section)
 **Who:** Joey Scouts, Cub Scouts, Scouts
 
-District Camps bring Bardon Scouts together with neighboring groups—Oakleigh, The Gap, and St Johns Wood—for weekend camping adventures. These section-specific camps offer outdoor activities, shared challenges, and opportunities to meet Scouts from across our district while enjoying quality camping experiences at Scout campsites throughout Southeast Queensland.
+District Camps bring Bardon Scouts together with neighboring groups-Oakleigh, The Gap, and St Johns Wood-for weekend camping adventures. These section-specific camps offer outdoor activities, shared challenges, and opportunities to meet Scouts from across our district while enjoying quality camping experiences at Scout campsites throughout Southeast Queensland.
 
 [Learn more about District Camps →](/district-camps/)
 

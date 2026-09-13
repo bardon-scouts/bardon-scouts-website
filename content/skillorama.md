@@ -8,7 +8,7 @@ type: page
 
 ## The Best Day Out for Joeys and Cubs
 
-Skillorama is Queensland's premier event for Joey Scouts and Cub Scouts—a massive day of adventure, activities, and fun held annually at Redcliffe Showgrounds. This exciting event brings together thousands of young Scouts from across Southeast Queensland for a day filled with games, challenges, and scouting activities designed and built by older Scouts, Venturers, and Rovers.
+Skillorama is Queensland's premier event for Joey Scouts and Cub Scouts-a massive day of adventure, activities, and fun held annually at Redcliffe Showgrounds. This exciting event brings together thousands of young Scouts from across Southeast Queensland for a day filled with games, challenges, and scouting activities designed and built by older Scouts, Venturers, and Rovers.
 
 ## Event Details
 
@@ -81,7 +81,7 @@ Each Scout Group creates their own unique activity base, competing for "Best Bas
 With dozens of activity stations, there's always something new to try and explore.
 
 **Big Day Out**
-Skillorama is THE biggest event of the year for young Scouts—an unforgettable day of adventure.
+Skillorama is THE biggest event of the year for young Scouts-an unforgettable day of adventure.
 
 **Safe & Supervised**
 All activities are designed and supervised by trained older Scouts and adult leaders.
@@ -105,7 +105,7 @@ Skillorama has been a Queensland Scouting tradition for over 50 years, hosted by
 - **2019** - Last pre-pandemic event with full participation
 - **2015** - Major event with 1,300 Cubs and Joeys participating
 
-The tradition continues each September, bringing together the best of what Scouting offers—youth leadership, outdoor adventure, skill development, and community spirit.
+The tradition continues each September, bringing together the best of what Scouting offers-youth leadership, outdoor adventure, skill development, and community spirit.
 
 ## Parent Information
 
@@ -116,7 +116,7 @@ Skillorama is specifically designed for Bardon Scouts' youngest members. Scouts,
 
 ### What to bring:
 - **Scout uniform** (full uniform with Group scarf)
-- **Hat and sunscreen** (outdoor event—sun protection essential)
+- **Hat and sunscreen** (outdoor event-sun protection essential)
 - **Water bottle** (refill stations available)
 - **Morning tea and lunch** (or money for food vendors)
 - **Closed-toe shoes** (suitable for running and outdoor activities)
@@ -178,7 +178,7 @@ Anzac Avenue, Kippa-Ring/Redcliffe QLD
 **How to Participate:**
 - Event dates announced by Scouts Queensland each year
 - Section Leaders coordinate Group registration
-- Limited capacity—register early to secure your spot
+- Limited capacity-register early to secure your spot
 - Registration fees typically apply (covers event costs, badges, show bag)
 
 **Cost:**
@@ -204,7 +204,7 @@ A highlight of Skillorama is the "Best Base" competition where Scout Groups comp
 
 Past winners have included Dayboro Scouts, Burpengary Scouts, and many other creative Groups from across the region.
 
-While Joeys and Cubs enjoy the activities, they're also witnessing youth leadership in action—seeing what they can aspire to as they progress through Scouting!
+While Joeys and Cubs enjoy the activities, they're also witnessing youth leadership in action-seeing what they can aspire to as they progress through Scouting!
 
 ## After Skillorama
 

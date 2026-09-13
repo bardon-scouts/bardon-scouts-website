@@ -61,7 +61,7 @@ KnightMoves combines navigation challenges with activity bases in an overnight a
 - **Pack Up & Departure** - Break camp and head home
 
 **Navigation Challenge:**
-Each patrol receives a detailed instruction booklet (themed creatively each year—past themes include "Pirates Guide to the Caribbean Sea" and space exploration). Patrols must:
+Each patrol receives a detailed instruction booklet (themed creatively each year-past themes include "Pirates Guide to the Caribbean Sea" and space exploration). Patrols must:
 - Locate 25 route markers along their designated route
 - Decode unique codes at each marker
 - Navigate to themed activity bases ("Islands" or "Planets")
@@ -91,7 +91,7 @@ Successfully completing an overnight navigation hike builds confidence and creat
 Scouts and Venturers lead their patrols, making decisions and taking responsibility.
 
 **Adventure Under the Stars**
-Experience the bush at night—navigating by headlamp and camping under the stars.
+Experience the bush at night-navigating by headlamp and camping under the stars.
 
 **Regional Competition**
 Compete against patrols from across Brisbane North Region for navigation and activity base awards.
@@ -143,9 +143,9 @@ KnightMoves is designed for Brisbane North Region's Scout and Venturer sections.
 - **Sleeping bag** (rated for overnight temperatures)
 - **Sleeping mat** or mattress
 - **Tent** (patrols typically share tents)
-- **Torch/headlamp** (with spare batteries—essential for night navigation!)
+- **Torch/headlamp** (with spare batteries-essential for night navigation!)
 - **Compass** (for navigation)
-- **Water bottles** (hydration essential—2-3 litres capacity)
+- **Water bottles** (hydration essential-2-3 litres capacity)
 - **Food** (Saturday dinner, snacks for overnight, Sunday breakfast)
 - **Plate, cup, cutlery** (for meals)
 - **Warm clothing** (temperatures drop at night)
@@ -218,7 +218,7 @@ All campsites offer:
 - Event details announced by Brisbane North Region each year
 - Section Leaders coordinate Group registration
 - Registration typically opens several months before the event
-- Limited capacity—register early to secure patrol spots
+- Limited capacity-register early to secure patrol spots
 - Registration fee covers campsite costs, activity materials, and event resources
 
 **Cost:**
@@ -230,7 +230,7 @@ All campsites offer:
 - Patrols should register together when possible
 - Participants must have basic navigation skills
 - Physical fitness required for overnight hiking
-- Adult leader volunteers needed—families encouraged to help!
+- Adult leader volunteers needed-families encouraged to help!
 
 ## Awards & Recognition
 

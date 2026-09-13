@@ -6,7 +6,7 @@ type: page
 
 ![District Swimming](/img/district-swimming.jpg)
 
-District Swimming is an exciting competition where Cub Scouts from Bardon compete against Cubs from neighboring Scout Groups in swimming races. This friendly competition brings together our district—Bardon, Oakleigh, The Gap, and St Johns Wood—for a day of aquatic challenges, team spirit, and sporting fun.
+District Swimming is an exciting competition where Cub Scouts from Bardon compete against Cubs from neighboring Scout Groups in swimming races. This friendly competition brings together our district-Bardon, Oakleigh, The Gap, and St Johns Wood-for a day of aquatic challenges, team spirit, and sporting fun.
 
 ## Event Details
 
@@ -204,7 +204,7 @@ Cubs compete in events appropriate to their swimming ability. Events are structu
 - District Swimming details announced by Cub Leaders
 - Registration typically through your Cub Leader
 - Cubs select which events to enter (freestyle, backstroke, relays, etc.)
-- Limited spots may be available—register early
+- Limited spots may be available-register early
 
 **Cost:**
 - Entry fee typically applies to cover pool hire and event costs

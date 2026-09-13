@@ -8,7 +8,7 @@ type: page
 
 ## Making a Difference for Our Environment
 
-Clean Up Australia Day is Australia's largest community-based environmental event, and Bardon Scouts proudly participates each year. This annual event brings together Scouts of all ages—from Joeys to Venturers—to clean up our local parks, waterways, and community spaces while demonstrating our commitment to environmental stewardship and community service.
+Clean Up Australia Day is Australia's largest community-based environmental event, and Bardon Scouts proudly participates each year. This annual event brings together Scouts of all ages-from Joeys to Venturers-to clean up our local parks, waterways, and community spaces while demonstrating our commitment to environmental stewardship and community service.
 
 ## Event Details
 
@@ -53,7 +53,7 @@ Living out the Scout values of helping others and caring for the world around us
 Sections work together, families participate as units, and Scouts collaborate with the wider Bardon community.
 
 **Visible Impact:**
-Scouts can see the immediate, tangible results of their efforts—cleaner parks and streets for everyone to enjoy.
+Scouts can see the immediate, tangible results of their efforts-cleaner parks and streets for everyone to enjoy.
 
 ## What We Do on Clean Up Australia Day
 
@@ -128,7 +128,7 @@ Participating in Clean Up Australia Day helps Scouts develop valuable skills:
 
 ### What to bring:
 - **Scout uniform** (to be worn proudly during the event)
-- **Closed-toe shoes** (sturdy shoes or boots—no sandals!)
+- **Closed-toe shoes** (sturdy shoes or boots-no sandals!)
 - **Hat and sunscreen** (outdoor event, sun protection essential)
 - **Water bottle** (stay hydrated while working)
 - **Hand sanitizer** (for cleaning hands after handling rubbish)
@@ -149,7 +149,7 @@ Participating in Clean Up Australia Day helps Scouts develop valuable skills:
 - **Duration** - Usually 2-4 hours
 - **Supervision** - Scouts remain with their section and leaders throughout
 - **Weather** - Event typically proceeds rain or shine (check with leaders)
-- **Safety first** - Don't pick up dangerous items—report them to leaders
+- **Safety first** - Don't pick up dangerous items-report them to leaders
 - **Current membership** - Financial Scout members for insurance coverage
 
 ### Safety Guidelines:

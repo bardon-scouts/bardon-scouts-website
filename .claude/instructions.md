@@ -52,7 +52,9 @@ Co-Authored-By: Claude <noreply@anthropic.com>
 
 3. **Event Images** - Use `scouts_logo.jpg` as placeholder for event images when creating new event pages.
 
-4. **Security & Privacy - Financial Information** - NEVER include the following on the website to protect against fraud and scams:
+4. **No Em Dashes** - NEVER use em dashes (—) in content. Always use regular hyphens (-) instead. Em dashes are not appropriate for this website's style.
+
+5. **Security & Privacy - Financial Information** - NEVER include the following on the website to protect against fraud and scams:
    - Payment methods or bank account details
    - Invoice due dates or billing months/schedule
    - Specific payment deadlines

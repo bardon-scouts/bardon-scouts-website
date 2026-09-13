@@ -8,7 +8,7 @@ type: page
 
 ## Five Epic Days of Cub Scout Adventure
 
-Cuboree is Queensland's premier camping experience for Cub Scouts—a massive five-day event held every two to three years that brings together hundreds of Cubs from across the state for non-stop fun, friendship, and outdoor adventure. This unforgettable experience is often a Cub Scout's first extended time away from home and creates memories that last a lifetime.
+Cuboree is Queensland's premier camping experience for Cub Scouts-a massive five-day event held every two to three years that brings together hundreds of Cubs from across the state for non-stop fun, friendship, and outdoor adventure. This unforgettable experience is often a Cub Scout's first extended time away from home and creates memories that last a lifetime.
 
 ## Event Details
 
@@ -122,13 +122,13 @@ Each night features:
 ## Why Cubs Love Cuboree
 
 **Independence & Growth**
-For many Cubs, Cuboree is their first extended time away from home—building confidence and independence.
+For many Cubs, Cuboree is their first extended time away from home-building confidence and independence.
 
 **Statewide Friendships**
 Meet hundreds of Cubs from across Queensland and form friendships that extend beyond the event.
 
 **Non-Stop Adventure**
-Five full days of activities mean there's always something exciting happening—no time for boredom!
+Five full days of activities mean there's always something exciting happening-no time for boredom!
 
 **Achievement & Milestones**
 Work toward Milestones and Special Interest Area achievements throughout the event.
@@ -226,7 +226,7 @@ A comprehensive packing list is provided during registration. Typical items incl
 **Important:**
 - Registration coordinated through your Cub Scout Leader
 - Applications close well before the event
-- Limited capacity—register early to secure spots
+- Limited capacity-register early to secure spots
 
 ### First Time Away From Home:
 For many Cubs, Cuboree is their first extended time away from home. Parents can prepare their child by:
@@ -267,7 +267,7 @@ Cuboree maintains comprehensive safety standards:
 - Cubs can order additional items to commemorate their Cuboree experience
 
 **Event Pack:**
-All registered Cubs receive an event pack including shirt, hat, scarf, woggle, and badges—creating lasting mementos of their Cuboree adventure.
+All registered Cubs receive an event pack including shirt, hat, scarf, woggle, and badges-creating lasting mementos of their Cuboree adventure.
 
 **Photos & Memories:**
 - Official event photos typically made available after Cuboree

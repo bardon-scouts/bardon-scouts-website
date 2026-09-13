@@ -40,7 +40,7 @@ Rocksports is Brisbane's first and original indoor rock climbing gym, operating 
 
 ## What to Expect
 
-Rock climbing sessions at Rocksports are designed to be fun, challenging, and safe for all skill levels—from complete beginners to experienced climbers.
+Rock climbing sessions at Rocksports are designed to be fun, challenging, and safe for all skill levels-from complete beginners to experienced climbers.
 
 **Session Structure:**
 1. **Arrival & Registration** - Check in with Section Leaders
@@ -70,13 +70,13 @@ Climbing builds problem-solving skills, focus, and mental resilience as Scouts p
 Conquering a challenging wall or reaching new heights creates a sense of achievement that builds self-confidence.
 
 **Teamwork & Encouragement**
-Scouts cheer each other on, share techniques, and celebrate each other's successes—building camaraderie and teamwork.
+Scouts cheer each other on, share techniques, and celebrate each other's successes-building camaraderie and teamwork.
 
 **Safe Adventure**
 Professional instruction, quality equipment, and controlled environment make indoor climbing a safe introduction to the sport.
 
 **Skill Development**
-Learn proper climbing techniques, knot tying, safety procedures, and risk assessment—skills applicable beyond the climbing wall.
+Learn proper climbing techniques, knot tying, safety procedures, and risk assessment-skills applicable beyond the climbing wall.
 
 ## Parent Information
 
@@ -151,7 +151,7 @@ Rock climbing is an excellent whole-body workout that develops:
 - Section Leaders announce rock climbing dates throughout the year
 - Typically offered once or twice annually
 - Parents notified in advance with booking details
-- Limited spots may be available—early registration recommended
+- Limited spots may be available-early registration recommended
 
 **Travel Arrangements:**
 - Group transportation arrangements confirmed by Section Leaders

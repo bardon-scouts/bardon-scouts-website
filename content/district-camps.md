@@ -8,7 +8,7 @@ type: page
 
 ## Camping with Our District
 
-District Camps bring together Scout Groups from across our local district for weekend camping adventures. Bardon Scouts joins forces with our neighboring groups—Oakleigh, The Gap, and St Johns Wood—for fun-filled weekends of outdoor activities, friendship, and shared Scouting experiences.
+District Camps bring together Scout Groups from across our local district for weekend camping adventures. Bardon Scouts joins forces with our neighboring groups-Oakleigh, The Gap, and St Johns Wood-for fun-filled weekends of outdoor activities, friendship, and shared Scouting experiences.
 
 ## Event Details
 
@@ -189,7 +189,7 @@ District Camps provide comprehensive skill development:
 District Camps are organized by section, so your child will camp with their age group. Each section has separate camps throughout the year.
 
 ### What to bring:
-- **Tent** (if required—sometimes patrols share tents)
+- **Tent** (if required-sometimes patrols share tents)
 - **Sleeping bag** (rated for season)
 - **Sleeping mat** or mattress
 - **Backpack or bag** for gear

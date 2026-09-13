@@ -58,16 +58,16 @@ Pizza and Paddle Nights combine canoeing with a social pizza dinner, making for 
 Learn and practice canoeing techniques in a fun, social environment.
 
 **Outdoor Adventure**
-Experience paddling at dusk and early evening—a unique and memorable activity.
+Experience paddling at dusk and early evening-a unique and memorable activity.
 
 **Social Connections**
 Meet and paddle alongside Scouts from across the Brisbane region.
 
 **Easy Program Night**
-A complete activity night—no planning required! Just turn up, paddle, and enjoy.
+A complete activity night-no planning required! Just turn up, paddle, and enjoy.
 
 **Fun & Different**
-Break up the routine with something special—canoes and pizza make for a great combination!
+Break up the routine with something special-canoes and pizza make for a great combination!
 
 ## Parent Information
 
@@ -159,7 +159,7 @@ For families traveling from distant areas, overnight accommodation is available 
 
 ## Get Involved
 
-Pizza and Paddle is a highlight of the year for many Scouts—combining outdoor adventure, skill development, and social fun in one evening.
+Pizza and Paddle is a highlight of the year for many Scouts-combining outdoor adventure, skill development, and social fun in one evening.
 
 Interested in participating? Speak to your Scout Leader about upcoming Pizza and Paddle dates or [contact Bardon Scouts](/contact/) for more information.
 

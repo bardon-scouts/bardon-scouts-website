@@ -14,7 +14,7 @@ Bardon Scouts regularly participates in this incredible event, giving our Scouts
 
 ## The Challenge
 
-Operation NightHawk is not just a hike—it's an adventure packed with activity bases throughout the bush where Scouts are tested on their leadership and technical skills.
+Operation NightHawk is not just a hike-it's an adventure packed with activity bases throughout the bush where Scouts are tested on their leadership and technical skills.
 
 **What to Expect:**
 - **Night-time Navigation** - Hiking through bushland after dark, using navigation skills
@@ -96,7 +96,7 @@ This event is specifically designed for the Scout section and is not suitable fo
 
 If you're a Scout (11-15 years) at Bardon Scouts and interested in participating in Operation NightHawk, speak to your Scout Leader for details about upcoming events.
 
-This is an experience you won't forget—challenging yourself, supporting your patrol, and being part of one of Queensland's greatest Scout traditions.
+This is an experience you won't forget-challenging yourself, supporting your patrol, and being part of one of Queensland's greatest Scout traditions.
 
 ---
 
