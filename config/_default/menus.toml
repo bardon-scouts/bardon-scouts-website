@@ -158,6 +158,12 @@
   weight = 3.4
 
 [[main]]
+  name = "FairPlay Voucher"
+  parent = "join"
+  url = "/join/fairplay-voucher/"
+  weight = 3.45
+
+[[main]]
   name = "New Family FAQs"
   parent = "join"
   url = "/join/faqs/"
