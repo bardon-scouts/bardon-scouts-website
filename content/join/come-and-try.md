@@ -6,7 +6,11 @@ type: page
 
 ## Free Trial Visit
 
-<!-- TODO: Add information about free trial visits, how to book, what to expect -->
+Interested in trying Scouting? We welcome families to visit Bardon Scouts for a free trial session to see if Scouting is right for your child.
+
+### Important: Please Contact Us Before Visiting
+
+**Sometimes the regular scout meetings are held away from the Bee St Scout Hall.** For this reason, please make sure you [contact us](/contact/) at least one day before you plan to trial to confirm we will be there and to let us know so we can ensure we are ready to answer any questions you have.
 
 ## Required Form
 
