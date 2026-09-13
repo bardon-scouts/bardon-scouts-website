@@ -201,6 +201,12 @@
   url = "/committee/"
   weight = 2.1
 
+[[main]]
+  name = "Consent2go"
+  parent = "about"
+  url = "/consent2go/"
+  weight = 2.2
+
 # Leaders & Volunteers dropdown items
 [[main]]
   name = "Our Leaders"
