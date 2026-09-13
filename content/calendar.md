@@ -35,42 +35,26 @@ Scout meetings run during Queensland school terms. Regular meetings are held eac
 ### January
 
 **School Term Starts** - Term 1 begins (late January)
-- Scout meetings resume for the year
 
 ---
 
 ### February
 
-**Hall Maintenance** - Ongoing facilities care and improvements
-
 ---
 
 ### March
 
-**Clean Up Australia Day** - First Sunday in March
-- All sections participate
-- Community environmental service project
-- [Learn more about Clean Up Australia Day](/clean-up-australia-day/)
+**[Clean Up Australia Day](/clean-up-australia-day/)** - First Sunday in March
 
-**Annual Report Presentation** - March
-- Annual General Meeting
-- All parents, leaders, and committee welcome
-- [Learn more about Annual Report Presentation](/annual-report-presentation/)
+**[Annual Report Presentation](/annual-report-presentation/)** - March
 
 ---
 
 ### April
 
-**Cuboree** - Every 2-3 years (April 9-13, 2026)
-- Cub Scouts only
-- 5-day Queensland state camp
-- Next event: "Shake It Up!" theme at Baden-Powell Park
-- [Learn more about Cuboree](/cuboree/)
+**[Cuboree](/cuboree/)** (Cubs) - Every 2-3 years (April 9-13, 2026)
 
-**ANZAC Day March** - April 25 annually
-- All sections march at Ithaca War Memorial
-- 8:15am assembly, 8:30am march
-- [Learn more about ANZAC Day March](/anzac-day-march/)
+**[ANZAC Day March](/anzac-day-march/)** - April 25
 
 **School Term Ends** - Term 1 ends (early April)
 
@@ -80,16 +64,11 @@ Scout meetings run during Queensland school terms. Regular meetings are held eac
 
 ### May
 
-**Regular Meetings** - Continue through May
-
 ---
 
 ### June
 
-**Bardon Mayfair** - Second Sunday in June (June 8, 2025)
-- Information stall at Bardon State School
-- All sections invited to participate
-- [Learn more about Bardon Mayfair](/bardon-mayfair/)
+**[Bardon Mayfair](/bardon-mayfair/)** - Second Sunday in June (June 8, 2025)
 
 **School Term Ends** - Term 2 ends (late June)
 
@@ -99,36 +78,21 @@ Scout meetings run during Queensland school terms. Regular meetings are held eac
 
 **School Term Starts** - Term 3 begins (mid-July)
 
-**KnightMoves** - Late July/early August
-- Scouts and Venturers
-- Overnight navigation challenge
-- Brisbane North Region event
-- [Learn more about KnightMoves](/knightmoves/)
+**[KnightMoves](/knightmoves/)** (Scouts, Venturers) - Late July/early August
 
 ---
 
 ### August
 
-**Operation NightHawk** - Second full weekend in August
-- Scouts only
-- Overnight navigation hike
-- ~1,200 participants from Southeast Queensland
-- [Learn more about Operation NightHawk](/operation-nighthawk/)
+**[Operation NightHawk](/operation-nighthawk/)** (Scouts) - Second full weekend in August
 
-**Fair on the Green** - Late August (August 29, 2026)
-- All sections participate
-- Milton State School community event
-- [Learn more about Fair on the Green](/fair-on-the-green/)
+**[Fair on the Green](/fair-on-the-green/)** - Late August (August 29, 2026)
 
 ---
 
 ### September
 
-**Skillorama** - September annually
-- Joey Scouts and Cub Scouts
-- Redcliffe Showgrounds
-- 50+ year tradition, up to 1,300 participants
-- [Learn more about Skillorama](/skillorama/)
+**[Skillorama](/skillorama/)** (Joeys, Cubs) - September
 
 **School Term Ends** - Term 3 ends (mid-September)
 
@@ -138,52 +102,31 @@ Scout meetings run during Queensland school terms. Regular meetings are held eac
 
 **School Term Starts** - Term 4 begins (early October)
 
-**Mango Fundraiser Orders Open** - October
-- Orders taken throughout October
-- $30 per 7kg tray
-- [Learn more about Mango Fundraiser](/mango-fundraiser/)
+**[Mango Fundraiser](/mango-fundraiser/)** - Orders open in October
 
 ---
 
 ### November
 
-**Regular Meetings** - Continue through November
-
 ---
 
 ### December
 
-**Mango Fundraiser Delivery** - Early December
-- Delivery of mango orders
-- [Learn more about Mango Fundraiser](/mango-fundraiser/)
+**[Mango Fundraiser](/mango-fundraiser/)** - Delivery in early December
 
 **School Term Ends** - Term 4 ends (mid-December)
-- Scout meetings break for summer holidays
 
 ---
 
 ## Year-Round Activities
 
-**Pizza and Paddle** - Friday nights throughout the year
-- Scouts only
-- Brownsea Water Activities Centre
-- 6:45pm-10:00pm
-- [Learn more about Pizza and Paddle](/pizza-and-paddle/)
+**[Pizza and Paddle](/pizza-and-paddle/)** (Scouts) - Friday nights throughout the year
 
-**Rock Climbing** - Once or twice per year
-- All sections
-- Rocksports Fortitude Valley
-- [Learn more about Rock Climbing](/rock-climbing/)
+**[Rock Climbing](/rock-climbing/)** - Once or twice per year
 
-**District Camps** - Throughout the year
-- Joey Scouts, Cub Scouts, and Scouts
-- With Oakleigh, The Gap, and St Johns Wood groups
-- [Learn more about District Camps](/district-camps/)
+**[District Camps](/district-camps/)** (Joeys, Cubs, Scouts) - Throughout the year
 
-**District Swimming** - Annually
-- Cub Scouts only
-- Competitive swimming gala
-- [Learn more about District Swimming](/district-swimming/)
+**[District Swimming](/district-swimming/)** (Cubs) - Annually
 
 ---
 
