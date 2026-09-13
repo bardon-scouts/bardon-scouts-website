@@ -52,6 +52,21 @@ Co-Authored-By: Claude <noreply@anthropic.com>
 
 3. **Event Images** - Use `scouts_logo.jpg` as placeholder for event images when creating new event pages.
 
+4. **Security & Privacy - Financial Information** - NEVER include the following on the website to protect against fraud and scams:
+   - Payment methods or bank account details
+   - Invoice due dates or billing months/schedule
+   - Specific payment deadlines
+   - Bank transfer instructions
+   - Payment portal URLs (except Consent2go for events)
+
+   **Rationale:** Preventing fraudulent emails that impersonate Bardon Scouts by timing scam emails to coincide with actual invoicing periods. Financial details are communicated privately via invoice only.
+
+   **What IS allowed:**
+   - General fee amounts (e.g., "$344 per six months")
+   - General statement that invoices will be sent
+   - Instruction to check for invoices
+   - Reference to "payment details on invoice"
+
 ### Hugo & Sveltia CMS
 
 - This is a Hugo Extended v0.148.2 static site
