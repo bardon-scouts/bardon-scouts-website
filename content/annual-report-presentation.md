@@ -25,7 +25,7 @@ The ARP is the formal annual meeting of Bardon Scouts Group, similar to an AGM (
 - Review the previous year's achievements and activities
 - Present financial reports and budget
 - Report on equipment and facilities
-- Introduce committee members and elect new positions
+- Announce committee members for the upcoming year
 - Hear from each section about their year's progress
 - Plan for the upcoming year
 - Recognize volunteers and contributors
@@ -58,7 +58,7 @@ The ARP is the formal annual meeting of Bardon Scouts Group, similar to an AGM (
 - Introduction of current committee members
 - Overview of committee activities and decisions
 - Recognition of outgoing committee members
-- Election of new committee positions
+- Announcement of committee members for the upcoming year
 
 **Section Reports**
 Each section presents their year in review:
@@ -102,8 +102,8 @@ All families have the opportunity to be informed, ask questions, and contribute 
 **Recognition**
 The ARP is a time to formally recognize and thank the many volunteers who make Bardon Scouts possible.
 
-**Democratic Process**
-Members participate in electing committee positions and approving important decisions.
+**Community Input**
+Members have the opportunity to provide input and ask questions about the group's direction.
 
 **Planning & Vision**
 The community comes together to discuss and shape the future direction of Bardon Scouts.
@@ -117,7 +117,7 @@ The community comes together to discuss and shape the future direction of Bardon
 - Understand financial management
 - Meet leaders and committee members
 - Ask questions and provide input
-- Participate in elections
+- Hear about upcoming plans and activities
 
 **Leaders & Volunteers**
 - Present section reports
@@ -127,7 +127,7 @@ The community comes together to discuss and shape the future direction of Bardon
 
 **Committee Members**
 - Present reports
-- Stand for election or re-election
+- Share committee activities and decisions
 - Fulfill governance responsibilities
 
 **Supporters & Community Members**
@@ -147,11 +147,9 @@ The community comes together to discuss and shape the future direction of Bardon
 
 **Questions:** Opportunities for questions throughout and at the end
 
-**Voting:** If required, voting procedures explained on the night
+## Committee Announcements
 
-## Committee Elections
-
-The ARP includes elections for committee positions. Positions may include:
+The ARP includes the announcement of committee members for the upcoming year. Positions include:
 
 **Executive Positions:**
 - Group Leader
@@ -166,16 +164,11 @@ The ARP includes elections for committee positions. Positions may include:
 - Communications Officer
 - Other roles as needed
 
-**Nominations:**
-- Call for nominations typically issued before the ARP
-- Nominations may be accepted from the floor
-- Self-nomination or nomination by another member
-- Nominees must consent to nomination
-
-**Voting:**
-- Democratic election process
-- All financial members eligible to vote
-- Voting procedures explained during meeting
+**Committee Membership:**
+- Committee members are announced at the ARP
+- New and continuing members introduced
+- Roles and responsibilities outlined
+- Contact information provided for community members
 
 ## Financial Overview
 
@@ -267,7 +260,7 @@ Following the Annual Report Presentation:
 - Available for reference throughout the year
 
 **New Committee Begins**
-- Newly elected committee members take up positions
+- Announced committee members take up positions
 - Handover from outgoing members
 - Committee meetings scheduled for the year
 
