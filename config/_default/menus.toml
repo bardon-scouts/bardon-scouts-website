@@ -261,6 +261,37 @@
   url = "/terrain/"
   weight = 2.65
 
+# Skills dropdown items
+[[main]]
+  name = "Bushwalking"
+  parent = "skills"
+  url = "/skills/bushwalking/"
+  weight = 5.71
+
+[[main]]
+  name = "Campcraft"
+  parent = "skills"
+  url = "/skills/campcraft/"
+  weight = 5.72
+
+[[main]]
+  name = "First Aid"
+  parent = "skills"
+  url = "/skills/first-aid/"
+  weight = 5.73
+
+[[main]]
+  name = "Pioneering"
+  parent = "skills"
+  url = "/skills/pioneering/"
+  weight = 5.74
+
+[[main]]
+  name = "Water Activities"
+  parent = "skills"
+  url = "/skills/water-activities/"
+  weight = 5.75
+
 # Leaders & Volunteers dropdown items
 [[main]]
   name = "Our Leaders"
