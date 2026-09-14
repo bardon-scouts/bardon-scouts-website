@@ -12,3 +12,7 @@ type: page
 - Safety and emergency response
 - Links to first aid resources and St Johns Ambulance
 -->
+
+## Hypothermia
+
+**[Learn about Hypothermia - Educational Video](https://www.youtube.com/watch?v=OQrSg0t9rXk)**
