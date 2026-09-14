@@ -36,6 +36,12 @@
   weight = 5.5
 
 [[main]]
+  identifier = "skills"
+  name = "Skills"
+  url = "/skills/"
+  weight = 5.7
+
+[[main]]
   identifier = "news"
   name = "News"
   url = "/news/"
@@ -248,6 +254,12 @@
   parent = "about"
   url = "/communication/"
   weight = 2.6
+
+[[main]]
+  name = "Terrain"
+  parent = "about"
+  url = "/terrain/"
+  weight = 2.65
 
 # Leaders & Volunteers dropdown items
 [[main]]

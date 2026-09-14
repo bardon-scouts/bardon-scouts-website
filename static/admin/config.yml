@@ -258,6 +258,24 @@ collections:
           - { label: "Type", name: "type", widget: "hidden", default: "page" }
           - { label: "Body", name: "body", widget: "markdown" }
 
+      - file: "content/terrain.md"
+        label: "Terrain"
+        name: "terrain"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+      - file: "content/skills/_index.md"
+        label: "Skills"
+        name: "skills"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
       - file: "content/join/fairplay-voucher.md"
         label: "FairPlay Voucher"
         name: "fairplay-voucher"
