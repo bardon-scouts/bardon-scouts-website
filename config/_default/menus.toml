@@ -316,3 +316,9 @@
   parent = "leaders"
   url = "/leaders/adult-supporters/"
   weight = 5.4
+
+[[main]]
+  name = "Friends of Bardon Scouts"
+  parent = "leaders"
+  url = "/leaders/friends/"
+  weight = 5.5
