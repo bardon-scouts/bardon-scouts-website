@@ -68,6 +68,13 @@
           </div>
           {{ end }}
 
+          {{/* Markdown content from the section file */}}
+          {{ with .Content }}
+          <div class="content">
+            {{ . }}
+          </div>
+          {{ end }}
+
           {{/* CTA */}}
           {{ partial "contact-cta.html" (dict "text" (printf "Contact us to join %s" $section.name)) }}
         </div>
