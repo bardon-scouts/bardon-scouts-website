@@ -20,7 +20,10 @@ Choose the appropriate shirt for your child's section:
 
 ### 2. Queensland Scarf
 
-All sections wear the same Queensland scarf: [Queensland Scarves](https://scoutshop.com.au/collections/scarves-edging)
+All sections wear a Queensland scarf in maroon with badge:
+
+- **Joeys & Cubs**: [Queensland Youth Scarf](https://scoutshop.com.au/products/queensland-youth-scarf-maroon-with-badge?Title=Default+Title)
+- **Scouts, Venturers & Adults**: [Queensland Leader/Adult Scarf](https://scoutshop.com.au/products/queensland-leader-adult-scarf-maroon-with-badge?Title=Default+Title)
 
 ### 3. Woggle
 
