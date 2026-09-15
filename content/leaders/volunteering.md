@@ -2,6 +2,7 @@
 title: "Volunteering"
 description: "Volunteer with Bardon Scouts and meet the other you"
 type: page
+image: /img/scouts_logo.jpg
 ---
 
 ## Meet the Other You

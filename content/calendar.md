@@ -2,6 +2,7 @@
 title: "Calendar"
 description: "Bardon Scouts annual calendar of events, activities, and term dates"
 type: page
+image: /img/scouts_logo.jpg
 ---
 
 This calendar provides an overview of regular meetings, annual events, and Queensland school term dates. Specific dates and details for upcoming events will be communicated through [Consent2go](/consent2go/) and [WhatsApp groups](/communication/).

@@ -2,6 +2,7 @@
 title: "Pioneering"
 description: "Pioneering and construction skills for Scouts"
 type: page
+image: /img/scouts_logo.jpg
 ---
 
 <!-- TODO: Add Pioneering skills content including:

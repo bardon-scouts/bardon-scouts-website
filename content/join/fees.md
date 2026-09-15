@@ -2,6 +2,7 @@
 title: "Fees & Costs"
 description: "Bardon Scouts fees and costs"
 type: page
+image: /img/scouts_logo.jpg
 ---
 
 ## Membership Fees

@@ -2,6 +2,7 @@
 title: "First Aid"
 description: "First aid skills and training for Scouts"
 type: page
+image: /img/scouts_logo.jpg
 ---
 
 <!-- TODO: Add First Aid skills content including:

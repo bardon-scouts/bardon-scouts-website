@@ -2,6 +2,7 @@
 title: "Sign In and Out"
 description: "Parent sign in and sign out requirements for Bardon Scouts meetings and events"
 type: page
+image: /img/scouts_logo.jpg
 ---
 
 For the safety and security of all our Scouts, Bardon Scouts requires parents or guardians to sign their children in and out at every meeting and event.

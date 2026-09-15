@@ -2,6 +2,7 @@
 title: "Bushwalking"
 description: "Bushwalking and hiking skills for Scouts"
 type: page
+image: /img/scouts_logo.jpg
 ---
 
 <!-- TODO: Add Bushwalking skills content including:

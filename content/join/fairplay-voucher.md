@@ -2,6 +2,7 @@
 title: "FairPlay Voucher"
 description: "Queensland Government FairPlay vouchers for Scouts membership"
 type: page
+image: /img/scouts_logo.jpg
 ---
 
 The Queensland Government's FairPlay voucher program helps families with the cost of getting kids active in sports and recreation activities, including Scouting.

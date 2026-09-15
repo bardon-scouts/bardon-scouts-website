@@ -2,6 +2,7 @@
 title: "About Bardon Scouts"
 description: "Learn about Bardon Scout Group and our values"
 type: page
+image: /img/scouts_logo.jpg
 ---
 
 ## Our Values

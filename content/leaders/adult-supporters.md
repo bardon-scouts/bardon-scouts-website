@@ -2,6 +2,7 @@
 title: "Adult Supporters"
 description: "Adult Supporter volunteers at Bardon Scouts"
 type: page
+image: /img/scouts_logo.jpg
 ---
 
 To run Scout meetings effectively and provide quality programs, Bardon Scouts relies on Adult Supporters - parents willing to volunteer regularly to assist with meetings and activities.

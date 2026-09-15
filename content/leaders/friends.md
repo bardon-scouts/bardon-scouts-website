@@ -2,6 +2,7 @@
 title: "Friends of Bardon Scouts"
 description: "Stay connected with Bardon Scouts as a Friend of the Group"
 type: page
+image: /img/scouts_logo.jpg
 ---
 
 Friends of Bardon Scouts are people who have been part of our Scout Group and want to stay connected with our community. Whether you're a former leader, parent, committee member, or supporter, we value your ongoing connection to Bardon Scouts.

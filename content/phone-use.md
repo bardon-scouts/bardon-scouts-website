@@ -2,6 +2,7 @@
 title: "Phone Use Policy"
 description: "Mobile phone use policy during Scout meetings at Bardon Scouts"
 type: page
+image: /img/scouts_logo.jpg
 ---
 
 ## Phone Use During Scout Meetings

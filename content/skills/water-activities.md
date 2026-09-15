@@ -2,6 +2,7 @@
 title: "Water Activities"
 description: "Water activities and aquatic skills for Scouts"
 type: page
+image: /img/scouts_logo.jpg
 ---
 
 <!-- TODO: Add Water Activities skills content including:

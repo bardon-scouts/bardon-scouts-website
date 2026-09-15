@@ -2,6 +2,7 @@
 title: "How to Join"
 description: "Steps to join Bardon Scouts"
 type: page
+image: /img/scouts_logo.jpg
 ---
 
 ## Ready to Join?

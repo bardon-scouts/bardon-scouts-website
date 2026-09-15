@@ -2,6 +2,7 @@
 title: "Campcraft"
 description: "Camping and outdoor living skills for Scouts"
 type: page
+image: /img/scouts_logo.jpg
 ---
 
 <!-- TODO: Add Campcraft skills content including:
