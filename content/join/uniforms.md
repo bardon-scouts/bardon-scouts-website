@@ -39,10 +39,20 @@ Browse all options: [Woggles](https://scoutshop.com.au/collections/woggles)
 
 All uniform items can be purchased from the [Scouts Australia Shop](https://scoutshop.com.au/).
 
+## Second Hand Uniforms
+
+We store old uniforms at the Bardon Scout Hall to help families save money and reduce waste.
+
+**Donating Uniforms:**
+
+If you have a uniform that is no longer needed, please drop it into the Lost and Found box at the Scout Hall. We will check and store the uniform for future use by other families.
+
+**Getting Second Hand Uniforms:**
+
+If you would like to use a second hand uniform, please visit the Scout Hall and look through the box labeled "Second Hand Uniforms". You're welcome to take what you need.
+
 ## Badge Placement
 
 Need help positioning badges on your uniform? Download our badge placement guide:
 
 **[Download Badge Placement Chart (PDF)](/img/Badge-Placement-Chart.pdf)**
-
-<!-- TODO: Add information about optional uniform items, local supplier details if any, second-hand uniform options -->
