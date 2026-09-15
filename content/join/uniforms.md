@@ -27,7 +27,11 @@ All sections wear a Queensland scarf in maroon with badge:
 
 ### 3. Woggle
 
-A woggle is used to hold the scarf in place: [Woggles](https://scoutshop.com.au/collections/woggles)
+A woggle is used to hold the scarf in place.
+
+**Recommended**: [Queensland Leather Woggle with Badge](https://scoutshop.com.au/products/queensland-leather-woggle-with-badge?Title=Default+Title)
+
+Browse all options: [Woggles](https://scoutshop.com.au/collections/woggles)
 
 ## Where to Buy
 
