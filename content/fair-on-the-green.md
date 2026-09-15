@@ -2,13 +2,13 @@
 title: "Fair on the Green"
 description: "Bardon Scouts at Milton State School's Fair on the Green"
 type: page
+image: /img/fair-on-the-green.jpg
 ---
 
 ## Bardon Scouts at Fair on the Green
 
 Bardon Scouts proudly participated in the Milton State School Fair on the Green this year, joining the local community for a fantastic day of fun, fundraising, and friendship.
 
-![Fair on the Green](/img/fair-on-the-green.jpg)
 
 ### About Fair on the Green
 

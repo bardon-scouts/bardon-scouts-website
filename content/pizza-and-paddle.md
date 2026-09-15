@@ -2,9 +2,9 @@
 title: "Pizza and Paddle"
 description: "Bardon Scouts at Brownsea Water Activities Centre Pizza and Paddle Nights"
 type: page
+image: /img/pizza-and-paddle.jpg
 ---
 
-![Pizza and Paddle](/img/pizza-and-paddle.jpg)
 
 ## Adventure on the Water
 

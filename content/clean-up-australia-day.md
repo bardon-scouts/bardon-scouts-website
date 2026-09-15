@@ -2,9 +2,9 @@
 title: "Clean Up Australia Day"
 description: "Bardon Scouts participating in Clean Up Australia Day - Australia's largest community environmental event"
 type: page
+image: /img/clean-up-australia-day.jpg
 ---
 
-![Clean Up Australia Day](/img/clean-up-australia-day.jpg)
 
 ## Making a Difference for Our Environment
 

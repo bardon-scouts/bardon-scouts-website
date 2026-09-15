@@ -2,9 +2,9 @@
 title: "Cuboree"
 description: "Queensland Cuboree - Five epic days of adventure, friendship, and discovery for Cub Scouts"
 type: page
+image: /img/cuboree.jpg
 ---
 
-![Cuboree](/img/cuboree.jpg)
 
 ## Five Epic Days of Cub Scout Adventure
 

@@ -2,9 +2,9 @@
 title: "Skillorama"
 description: "Joey Scouts and Cub Scouts at Skillorama - Queensland's biggest day out for young Scouts"
 type: page
+image: /img/skillorama.jpg
 ---
 
-![Skillorama](/img/skillorama.jpg)
 
 ## The Best Day Out for Joeys and Cubs
 

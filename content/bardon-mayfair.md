@@ -2,11 +2,11 @@
 title: "Bardon Mayfair"
 description: "Bardon Scouts at the annual Bardon State School Mayfair"
 type: page
+image: /img/bardon-mayfair.jpg
 ---
 
 Bardon Scouts was proud to be part of the recent Bardon State School Mayfair, one of Brisbane's most beloved community events and the school's signature fundraiser.
 
-![Bardon Mayfair](/img/bardon-mayfair.jpg)
 
 ## A Community Tradition
 

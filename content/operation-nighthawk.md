@@ -2,9 +2,9 @@
 title: "Operation NightHawk"
 description: "Bardon Scouts at Operation NightHawk - Queensland's premier overnight Scout hike"
 type: page
+image: /img/operation-nighthawk.jpg
 ---
 
-![Operation NightHawk](/img/operation-nighthawk.jpg)
 
 ## Queensland's Premier Scout Adventure
 

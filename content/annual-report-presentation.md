@@ -2,9 +2,9 @@
 title: "Annual Report Presentation"
 description: "Bardon Scouts Annual Report Presentation - reviewing our year of achievements, finances, and future plans"
 type: page
+image: /img/annual-report-presentation.jpg
 ---
 
-![Annual Report Presentation](/img/annual-report-presentation.jpg)
 
 ## Our Annual General Meeting
 

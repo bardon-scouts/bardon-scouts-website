@@ -2,9 +2,9 @@
 title: "KnightMoves"
 description: "KnightMoves overnight navigation activity for Scouts and Venturers - Brisbane North Region"
 type: page
+image: /img/knightmoves.jpg
 ---
 
-![KnightMoves](/img/knightmoves.jpg)
 
 ## Overnight Navigation Adventure
 

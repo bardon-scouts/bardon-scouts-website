@@ -2,9 +2,9 @@
 title: "Mango Fundraiser"
 description: "Fresh North Queensland Kensington Pride mangoes - Support Bardon Scouts Mango Fundraiser"
 type: page
+image: /img/mango-fundraiser.jpg
 ---
 
-![Mango Fundraiser](/img/mango-fundraiser.jpg)
 
 ## Fresh North Queensland Mangoes
 ### Direct from the farm to you!

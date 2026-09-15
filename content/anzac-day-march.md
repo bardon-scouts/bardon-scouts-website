@@ -2,9 +2,8 @@
 title: "ANZAC Day March"
 description: "Bardon Scouts at the Ithaca War Memorial ANZAC Day March and Service"
 type: page
+image: /img/anzac-day-march.jpg
 ---
-
-![ANZAC Day March](/img/anzac-day-march.jpg)
 
 ## Lest We Forget
 

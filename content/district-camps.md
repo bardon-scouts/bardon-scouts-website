@@ -2,9 +2,9 @@
 title: "District Camps"
 description: "District camping for Joey Scouts, Cub Scouts, and Scouts - camping with neighboring Scout Groups"
 type: page
+image: /img/district-camps.jpg
 ---
 
-![District Camps](/img/district-camps.jpg)
 
 ## Camping with Our District
 

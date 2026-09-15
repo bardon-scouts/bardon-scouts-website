@@ -2,9 +2,9 @@
 title: "Rock Climbing"
 description: "Bardon Scouts Rock Climbing at Rocksports Indoor Climbing Gym, Fortitude Valley"
 type: page
+image: /img/rock-climbing.jpg
 ---
 
-![Rock Climbing](/img/rock-climbing.jpg)
 
 ## Challenge Yourself at Rocksports
 
