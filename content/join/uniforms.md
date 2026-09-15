@@ -33,6 +33,8 @@ A woggle is used to hold the scarf in place.
 
 Browse all options: [Woggles](https://scoutshop.com.au/collections/woggles)
 
+**Tip for Joey & Cub Parents**: It is very common for younger scouts to lose their woggle during meetings while playing games and running about. Once lost, woggles can be hard to locate in the grass. We recommend using a safety pin or similar method to secure the woggle to the scarf, ensuring it cannot come loose during activities.
+
 ## Where to Buy
 
 All uniform items can be purchased from the [Scouts Australia Shop](https://scoutshop.com.au/).
