@@ -53,6 +53,19 @@
   url = "/contact/"
   weight = 7
 
+# Contact dropdown items
+[[main]]
+  name = "Contact Us"
+  parent = "contact"
+  url = "/contact/"
+  weight = 7.1
+
+[[main]]
+  name = "Website Feedback"
+  parent = "contact"
+  url = "/website-feedback/"
+  weight = 7.2
+
 # Events dropdown items
 [[main]]
   name = "ANZAC Day March"
