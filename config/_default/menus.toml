@@ -61,6 +61,12 @@
   weight = 7.1
 
 [[main]]
+  name = "Complaints"
+  parent = "contact"
+  url = "/complaints/"
+  weight = 7.15
+
+[[main]]
   name = "Website Feedback"
   parent = "contact"
   url = "/website-feedback/"

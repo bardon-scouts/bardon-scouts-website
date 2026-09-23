@@ -1,0 +1,82 @@
+<form name="complaints" method="post" action="/complaints/thanks/" data-netlify="true" data-netlify-honeypot="bot-field">
+  <input type="hidden" name="form-name" value="complaints">
+
+  <!-- Honeypot -->
+  <div hidden>
+    <label>
+      Don't fill this out: <input name="bot-field">
+    </label>
+  </div>
+
+  <div class="field">
+    <label class="label" for="name">Your name</label>
+    <div class="control">
+      <input class="input" type="text" name="name" id="name" required>
+    </div>
+  </div>
+
+  <div class="field">
+    <label class="label" for="email">Email</label>
+    <div class="control">
+      <input class="input" type="email" name="email" id="email" required>
+    </div>
+  </div>
+
+  <div class="field">
+    <label class="label" for="phone">Phone (optional)</label>
+    <div class="control">
+      <input class="input" type="tel" name="phone" id="phone">
+    </div>
+  </div>
+
+  <div class="field">
+    <label class="label" for="complaint_type">Type of concern</label>
+    <div class="control">
+      <div class="select is-fullwidth">
+        <select name="complaint_type" id="complaint_type" required>
+          <option value="">Select type...</option>
+          <option value="Safety Concern">Safety Concern</option>
+          <option value="Behavior Issue">Behavior Issue</option>
+          <option value="Program Quality">Program Quality</option>
+          <option value="Communication Issue">Communication Issue</option>
+          <option value="Facilities">Facilities</option>
+          <option value="Other">Other</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class="field">
+    <label class="label" for="when_occurred">When did this occur?</label>
+    <div class="control">
+      <input class="input" type="text" name="when_occurred" id="when_occurred" placeholder="e.g., Last Tuesday meeting, Camp on 15th January" required>
+    </div>
+  </div>
+
+  <div class="field">
+    <label class="label" for="details">Please describe what happened</label>
+    <div class="control">
+      <textarea class="textarea" name="details" id="details" placeholder="Please provide as much detail as possible to help us understand and address the issue." required></textarea>
+    </div>
+  </div>
+
+  <div class="field">
+    <label class="label" for="preferred_contact">Preferred method of contact</label>
+    <div class="control">
+      <div class="select is-fullwidth">
+        <select name="preferred_contact" id="preferred_contact" required>
+          <option value="">Select method...</option>
+          <option value="Email">Email</option>
+          <option value="Phone">Phone</option>
+          <option value="Either">Either</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class="field">
+    <button type="submit">Submit Complaint</button>
+  </div>
+
+  <p><a href="/">&lt; Back</a></p>
+</form>

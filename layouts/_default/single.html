@@ -30,6 +30,10 @@
           {{ if .Params.showFeedbackForm }}
             {{ partial "feedback-form.html" . }}
           {{ end }}
+
+          {{ if .Params.showComplaintsForm }}
+            {{ partial "complaints-form.html" . }}
+          {{ end }}
         </div>
       </div>
     </div>
