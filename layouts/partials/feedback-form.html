@@ -1,0 +1,62 @@
+<form name="website-feedback" method="post" action="/website-feedback/thanks/" data-netlify="true" data-netlify-honeypot="bot-field">
+  <input type="hidden" name="form-name" value="website-feedback">
+
+  <!-- Honeypot -->
+  <div hidden>
+    <label>
+      Don't fill this out: <input name="bot-field">
+    </label>
+  </div>
+
+  <div class="field">
+    <label class="label" for="name">Your name</label>
+    <div class="control">
+      <input class="input" type="text" name="name" id="name" required>
+    </div>
+  </div>
+
+  <div class="field">
+    <label class="label" for="email">Email (optional)</label>
+    <div class="control">
+      <input class="input" type="email" name="email" id="email">
+    </div>
+  </div>
+
+  <div class="field">
+    <label class="label" for="page">Which page are you providing feedback about?</label>
+    <div class="control">
+      <input class="input" type="text" name="page" id="page" placeholder="e.g., Home page, Calendar, Uniforms" required>
+    </div>
+  </div>
+
+  <div class="field">
+    <label class="label" for="feedback_type">What type of feedback is this?</label>
+    <div class="control">
+      <div class="select is-fullwidth">
+        <select name="feedback_type" id="feedback_type" required>
+          <option value="">Select type...</option>
+          <option value="Content Error">Content Error (incorrect information)</option>
+          <option value="Missing Information">Missing Information</option>
+          <option value="Outdated Information">Outdated Information</option>
+          <option value="Broken Link">Broken Link</option>
+          <option value="Suggestion">Suggestion for Improvement</option>
+          <option value="Layout Issue">Layout or Display Issue</option>
+          <option value="Other">Other</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class="field">
+    <label class="label" for="details">Please provide details</label>
+    <div class="control">
+      <textarea class="textarea" name="details" id="details" placeholder="What needs to be changed or improved? Please be as specific as possible." required></textarea>
+    </div>
+  </div>
+
+  <div class="field">
+    <button type="submit">Submit Feedback</button>
+  </div>
+
+  <p><a href="/">&lt; Back</a></p>
+</form>

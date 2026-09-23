@@ -26,6 +26,10 @@
           {{ if .Params.showForm }}
             {{ partial "contact-form.html" . }}
           {{ end }}
+
+          {{ if .Params.showFeedbackForm }}
+            {{ partial "feedback-form.html" . }}
+          {{ end }}
         </div>
       </div>
     </div>
