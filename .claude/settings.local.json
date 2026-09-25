@@ -39,8 +39,13 @@
       "Skill(update-config:*)",
       "Bash(gh issue *)",
       "Bash(git add *)",
-      "Bash(git commit -q -m 'Auto-approve web access and gh issue commands' -m '- Add PreToolUse hook that approves WebFetch and WebSearch *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(git pull *)",
+      "Bash(where hugo *)",
+      "Bash(git commit *)",
+      "Bash(gh api *)",
+      "Bash(git log *)",
+      "Bash(git show *)"
     ],
     "deny": [
       "Read(./.env)",
