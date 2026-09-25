@@ -45,7 +45,10 @@
       "Bash(git commit *)",
       "Bash(gh api *)",
       "Bash(git log *)",
-      "Bash(git show *)"
+      "Bash(git show *)",
+      "Bash(netlify --version)",
+      "Bash(netlify status *)",
+      "Bash(netlify api *)"
     ],
     "deny": [
       "Read(./.env)",
@@ -63,6 +66,15 @@
           {
             "type": "command",
             "command": "cat >/dev/null; echo '{\"hookSpecificOutput\":{\"hookEventName\":\"PreToolUse\",\"permissionDecision\":\"allow\",\"permissionDecisionReason\":\"Web access pre-approved for this project\"}}'"
+          }
+        ]
+      },
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python \"$CLAUDE_PROJECT_DIR/.claude/hooks/approve-curl.py\""
           }
         ]
       }
