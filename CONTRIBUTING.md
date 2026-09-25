@@ -48,13 +48,23 @@ GitHub Issues is the task list. Each person only works on issues assigned to the
 
 ### Checking which commit is deployed
 
-Every page includes a hidden `<meta name="deploy-commit" content="...">` tag with the commit it was built from. To see what's on the dev site:
+Netlify doesn't report build status to GitHub for this repo, so check it one of these ways.
+
+**Netlify CLI.** Log in to the Bardon Scouts Netlify account (`netlify login`, team `bardon-scouts`) and link the folder once with `netlify link --name bardon-scouts-website`. Then:
 
 ```sh
-curl -s https://dev--bardon-scouts-website.netlify.app/ | grep -o 'deploy-commit" content="[^"]*'
+netlify api listSiteDeploys --data '{"site_id":"5134019f-f869-4cf3-91f3-a36e2acd8055","per_page":5}'
 ```
 
-If it matches `git rev-parse HEAD`, your latest push has deployed. Netlify doesn't report build status to GitHub for this repo, so this is the way to tell.
+Each deploy shows its `branch`, `commit_ref` and `state`: `ready` means it worked, `error` means it failed (see `error_message`).
+
+**Deploy stamp.** Every page includes a hidden `<meta name="deploy-commit">` tag with the commit it was built from:
+
+```sh
+curl -s https://dev--bardon-scouts-website.netlify.app/ | grep -oE 'deploy-commit content="?[0-9a-f]{40}'
+```
+
+If it matches `git rev-parse HEAD`, your latest push is live on the dev site.
 
 ### Claude Code slash commands
 

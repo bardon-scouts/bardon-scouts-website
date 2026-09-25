@@ -127,11 +127,17 @@ GitHub Issues is the task list for this project. Both collaborators use Claude C
 - **Dev site:** https://dev--bardon-scouts-website.netlify.app/ (Netlify branch deploy of `dev`, rebuilt on every push)
 - **Production:** https://bardonscouts.org.au/ (deployed from `master`)
 
-Netlify does not post build statuses to GitHub for this repo, so use the deploy stamp instead. Every page has `<meta name="deploy-commit" content="<full commit hash>">`, set from Netlify's `COMMIT_REF`.
+Netlify does not post build statuses to GitHub for this repo. Use the Netlify CLI and the deploy stamp instead.
+
+**Netlify CLI** (must be logged in to the Bardon Scouts Netlify account, team `bardon-scouts`; check with `netlify status`. The repo folder is linked with `netlify link --name bardon-scouts-website`, site ID `5134019f-f869-4cf3-91f3-a36e2acd8055`):
+
+- Deploy state per commit: `netlify api listSiteDeploys --data '{"site_id":"5134019f-f869-4cf3-91f3-a36e2acd8055","per_page":5}'`. Each deploy has `branch`, `commit_ref`, `state` (`ready` = success, `error` = failed, `building`/`enqueued` = in progress) and `error_message`.
+
+**Deploy stamp:** every page has `<meta name="deploy-commit" content="<full commit hash>">`, set from Netlify's `COMMIT_REF`. The HTML is minified, so the quotes around attribute values may be dropped. Search with a pattern that allows for that.
 
 1. Get the full hash of the pushed commit: `git rev-parse HEAD`
-2. Check the stamp on the dev site: `curl -s https://dev--bardon-scouts-website.netlify.app/ | grep -o 'deploy-commit" content="[^"]*'`
-3. If it matches, that commit has deployed successfully. If it still shows an older hash, the deploy is in progress: wait a minute and re-check. If it hasn't changed after about 5 minutes, the deploy probably failed. Mark the issue `blocked` and ask the user to check the Netlify deploy log.
+2. Check the deploy state for that commit with `netlify api listSiteDeploys` (above). If it's `error`, read `error_message`, mark the issue `blocked`, and fix the build before anything else.
+3. Once it's `ready`, confirm the dev site is serving it: `curl -s https://dev--bardon-scouts-website.netlify.app/ | grep -oE 'deploy-commit content="?[0-9a-f]{40}'` should show the same hash.
 4. Only once the hash matches, check the actual change on the dev site (curl or WebFetch the affected pages).
 
 ### Command Reference
