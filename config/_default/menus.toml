@@ -157,6 +157,12 @@
   url = "/annual-report-presentation/"
   weight = 5.62
 
+[[main]]
+  name = "Fishing"
+  parent = "events"
+  url = "/fishing/"
+  weight = 5.63
+
 # Join Us dropdown items
 [[main]]
   name = "How to Join"

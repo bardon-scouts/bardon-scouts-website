@@ -148,6 +148,16 @@ District Swimming is an exciting competition where Bardon Cubs race against neig
 
 ---
 
+### [Fishing](/fishing/)
+**When:** Throughout the year (dates to be announced)
+**Who:** Joeys, Cubs, Scouts, Venturers - all sections
+
+Fishing is a year-round activity open to every section. More details, including locations and what to bring, are coming soon.
+
+[Learn more about Fishing →](/fishing/)
+
+---
+
 ## Why We Participate
 
 Community events and Scout activities are an essential part of the Bardon Scouts experience:
