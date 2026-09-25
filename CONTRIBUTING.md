@@ -44,7 +44,17 @@ GitHub Issues is the task list. Each person only works on issues assigned to the
 2. **Triage** - agree who takes each issue, then assign it and set a priority label.
 3. **Work** - in Claude Code, run `/my-tasks` to see your issues, then `/start-issue <number>`. Or just tell Claude "Work through my assigned GitHub issues".
 4. **Complete** - `/complete-issue <number>` commits and pushes to `dev`, then checks the fix actually worked (re-checks the files, then tests the change on the deployed `dev` site, not a local build). It only closes the issue once that's confirmed. If something can't be verified, the issue stays open with the `needs-review` label.
-5. **Publish** - changes on `dev` get a Netlify deploy preview. Merge `dev` into `master` to publish to the live site.
+5. **Publish** - every push to `dev` is deployed to https://dev--bardon-scouts-website.netlify.app/ for checking. Merge `dev` into `master` to publish to the live site (https://bardonscouts.org.au/).
+
+### Checking which commit is deployed
+
+Every page includes a hidden `<meta name="deploy-commit" content="...">` tag with the commit it was built from. To see what's on the dev site:
+
+```sh
+curl -s https://dev--bardon-scouts-website.netlify.app/ | grep -o 'deploy-commit" content="[^"]*'
+```
+
+If it matches `git rev-parse HEAD`, your latest push has deployed. Netlify doesn't report build status to GitHub for this repo, so this is the way to tell.
 
 ### Claude Code slash commands
 

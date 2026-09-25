@@ -122,6 +122,18 @@ GitHub Issues is the task list for this project. Both collaborators use Claude C
 7. **When discovering bugs or unrelated problems** while working, do not fix them silently. Create a new issue with the `discovered` label plus a type label, and assign it to `@me`:
    `gh issue create --title "..." --body "..." --label bug --label discovered --assignee "@me"`
 
+### Checking the dev deploy
+
+- **Dev site:** https://dev--bardon-scouts-website.netlify.app/ (Netlify branch deploy of `dev`, rebuilt on every push)
+- **Production:** https://bardonscouts.org.au/ (deployed from `master`)
+
+Netlify does not post build statuses to GitHub for this repo, so use the deploy stamp instead. Every page has `<meta name="deploy-commit" content="<full commit hash>">`, set from Netlify's `COMMIT_REF`.
+
+1. Get the full hash of the pushed commit: `git rev-parse HEAD`
+2. Check the stamp on the dev site: `curl -s https://dev--bardon-scouts-website.netlify.app/ | grep -o 'deploy-commit" content="[^"]*'`
+3. If it matches, that commit has deployed successfully. If it still shows an older hash, the deploy is in progress: wait a minute and re-check. If it hasn't changed after about 5 minutes, the deploy probably failed. Mark the issue `blocked` and ask the user to check the Netlify deploy log.
+4. Only once the hash matches, check the actual change on the dev site (curl or WebFetch the affected pages).
+
 ### Command Reference
 
 | Action | Command |

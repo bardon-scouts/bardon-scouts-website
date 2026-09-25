@@ -5,6 +5,11 @@ title = "Bardon Scouts"
 # Enable GitInfo for last modified dates
 enableGitInfo = true
 
+# Allow reading Netlify's COMMIT_REF (plus Hugo's defaults) so each
+# build can be stamped with the commit it was built from
+[security.funcs]
+  getenv = ['^HUGO_', '^CI$', '^COMMIT_REF$']
+
 # Markup settings
 [markup]
   [markup.goldmark]
