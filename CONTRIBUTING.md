@@ -1,103 +1,90 @@
-# CONTRIBUTING
+# Contributing
 
-Contributions are always welcome, no matter how large or small. Before contributing,
-please read the [code of conduct](CODE_OF_CONDUCT.md).
+This site is maintained by Bardon Scout Leaders using Claude Code, with GitHub Issues as the shared task list. Please read the [code of conduct](CODE_OF_CONDUCT.md) before contributing.
 
-## Setup
+## Setup for New Collaborators
 
-> Install yarn on your system: [https://yarnpkg.com/en/docs/install](https://yarnpkg.com/en/docs/install)
+### 1. Install tools
 
-### Install dependencies
+- [Git](https://git-scm.com/downloads)
+- [Hugo Extended](https://gohugo.io/installation/) v0.148.2 or later
+- [GitHub CLI](https://cli.github.com/) (`gh`)
+- [Claude Code](https://claude.com/claude-code)
 
-> Only required on the first run, subsequent runs can use `yarn` to both
-bootstrap and run the development server using `yarn develop`.
-Since this starter using the [netlify-dev](https://www.netlify.com/products/dev/#how-it-works), there could be further issues you, please check the [netlify-dev](https://github.com/netlify/netlify-dev) repository for further information and set up questions. 
-
-```sh
-$ git clone https://github.com/netlify-templates/gatsby-starter-netlify-cms
-$ yarn 
-```
-
-## Available scripts
-
-
-### `build`
-
-Build the static files into the `public` folder, turns lambda functions into a deployable form. 
-
-#### Usage
+### 2. Authenticate the GitHub CLI
 
 ```sh
-$ yarn build
+gh auth login
 ```
 
-### `clean`
+Choose GitHub.com, HTTPS, and log in with your browser. Check it worked with `gh auth status`.
 
-Runs `gatsby clean` command.
+Your GitHub account must be a collaborator on `bardon-scouts/bardon-scouts-website` so issues can be assigned to you.
 
-#### Usage
+### 3. Clone and run the site
 
 ```sh
-yarn clean
+git clone https://github.com/bardon-scouts/bardon-scouts-website.git
+cd bardon-scouts-website
+git checkout dev
+hugo server --buildFuture --buildDrafts --disableFastRender --port 1314
 ```
 
-### `netlify dev`
+Open http://localhost:1314/.
 
-Starts the netlify dev environment, including the gatsby dev environment.
-For more infor check the [Netlify Dev Docs](https://github.com/netlify/cli/blob/master/docs/netlify-dev.md)
+### 4. Open Claude Code in the repository folder
+
+Start Claude Code from the `bardon-scouts-website` folder itself (not a parent folder), so it picks up `CLAUDE.md`, `.claude/instructions.md`, and the slash commands in `.claude/commands/`.
+
+## Workflow
+
+GitHub Issues is the task list. Each person only works on issues assigned to them, which keeps two people (and two Claude Code sessions) from working on the same thing.
+
+1. **Create issues** for anything that needs doing, using the Bug Report or Feature Request template on GitHub, or `/create-bug` and `/create-feature` in Claude Code.
+2. **Triage** - agree who takes each issue, then assign it and set a priority label.
+3. **Work** - in Claude Code, run `/my-tasks` to see your issues, then `/start-issue <number>`. Or just tell Claude "Work through my assigned GitHub issues".
+4. **Complete** - `/complete-issue <number>` commits, pushes to `dev`, and closes the issue with the commit reference.
+5. **Publish** - changes on `dev` get a Netlify deploy preview. Merge `dev` into `master` to publish to the live site.
+
+### Claude Code slash commands
+
+| Command | What it does |
+|---|---|
+| `/my-tasks` | List my open assigned issues |
+| `/create-bug` | Create a bug report interactively |
+| `/create-feature` | Create a feature request interactively |
+| `/start-issue <number>` | Assign to me, add `in-progress`, comment "Starting work" |
+| `/complete-issue <number>` | Commit, push, close with commit reference |
+
+The full rules Claude follows are in [.claude/instructions.md](.claude/instructions.md).
+
+### Useful `gh` commands
 
 ```sh
-netlify dev
+gh issue list --assignee "@me" --state open      # my tasks
+gh issue list --state open                        # everything open
+gh issue list --search "no:assignee"             # needs triage
+gh issue view 12 --comments                       # read an issue
+gh issue edit 12 --add-assignee hamish-username   # assign to someone
 ```
 
-### `develop` or `start`
+### Labels
 
-Runs the `clean` script and starts the gatsby develop server using the command `gatsby develop`. We recomend using this command when you don't need Netlify specific features
+| Group | Labels | Meaning |
+|---|---|---|
+| Status | `in-progress`, `blocked`, `needs-review`, `ready` | Where the issue is up to |
+| Type | `bug`, `enhancement`, `content`, `documentation` | What kind of change |
+| Priority | `priority-high`, `priority-medium`, `priority-low` | How urgent |
+| Source | `website-feedback`, `complaint`, `discovered` | Where it came from (`discovered` = found while working on something else) |
 
-#### Usage
+## Commit Messages
 
-```sh
-yarn develop
+Use a short summary line, include the issue number, and add detail below a blank line if needed:
+
 ```
-### `test`
+Update Cubs meeting time (#12)
 
-Not implmented yet
-
-#### Usage
-
-```sh
-yarn test
-```
-
-### `format`
-
-Formats code and docs according to our style guidelines using `prettier`
-
-#### Usage
-
-```sh
-yarn format
+Cubs now meet Tuesday 6:30pm. Updated the section page and homepage schedule.
 ```
 
-
-## Pull Requests
-
-We actively welcome your pull requests!
-
-If you need help with Git or our workflow, please ask on [Gitter.im](https://gitter.im/netlify/NetlifyCMS). We want your contributions even if you're just learning Git. Our maintainers are happy to help!
-
-Netlify CMS uses the [Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow) + [Feature Branches](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow). Additionally, PR's should be [rebased](https://www.atlassian.com/git/tutorials/merging-vs-rebasing) on master when opened, and again before merging.
-
-1. Fork the repo.
-2. Create a branch from `master`. If you're addressing a specific issue, prefix your branch name with the issue number.
-2. If you've added code that should be tested, add tests.
-3. If you've changed APIs, update the documentation.
-4. Run `yarn test` and ensure the test suite passes. (Not applicable yet)
-5. Use `yarn format` to format and lint your code.
-6. PR's must be rebased before merge (feel free to ask for help).
-7. PR should be reviewed by two maintainers prior to merging.
-
-## License
-
-By contributing to the Gatsby - Netlify CMS starter, you agree that your contributions will be licensed
-under its [MIT license](LICENSE).
+Do not include Claude Code attribution lines. See [.claude/instructions.md](.claude/instructions.md) for content standards.

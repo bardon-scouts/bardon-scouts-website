@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+**Shared collaborator rules (commit format, content standards, GitHub Issues workflow) are in `.claude/instructions.md` and must be followed:**
+
+@.claude/instructions.md
+
 ## Project Overview
 
 Bardon Scouts website - a static site built with Hugo and Sveltia CMS, deployed on Netlify. Recently converted from Gatsby to Hugo for faster builds (300-600x improvement) and simpler content management.

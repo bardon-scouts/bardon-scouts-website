@@ -94,6 +94,58 @@ Co-Authored-By: Claude <noreply@anthropic.com>
 - Hugo server runs with: `hugo server --buildFuture --buildDrafts --disableFastRender --port 1314`
 - Auto-commit and push changes after completing tasks
 
+## GitHub Issues Workflow
+
+GitHub Issues is the task list for this project. Both collaborators use Claude Code independently, so the workflow is assignment-based to avoid conflicts. Use the GitHub CLI (`gh`) for all issue operations - do not set up or use GitHub MCP servers.
+
+`@me` always resolves to whoever is authenticated with `gh` on the current machine, so the same rules work for both collaborators.
+
+### Rules
+
+1. **Only work on issues assigned to `@me`.** Never start, edit, or close an issue assigned to someone else. If an unassigned issue is requested, assign it to `@me` first. If it is assigned to someone else, stop and ask the user.
+2. **When starting work** on an issue:
+   - Assign to self: `gh issue edit <number> --add-assignee "@me"`
+   - Add the in-progress label: `gh issue edit <number> --add-label "in-progress" --remove-label "ready"`
+   - Comment: `gh issue comment <number> --body "Starting work"`
+3. **During work**, add a short progress comment at meaningful milestones (e.g. approach decided, main change done, blocked on a question).
+4. **If blocked**, add the `blocked` label, remove `in-progress`, and comment explaining what is needed.
+5. **When completing** an issue:
+   - Commit with the issue number in the summary line, e.g. `Update Cubs meeting time (#12)`, and push to `dev`
+   - Close with the commit reference: `gh issue close <number> --comment "Completed in commit <hash>" --reason completed`
+   - Remove the `in-progress` label
+6. **When discovering bugs or unrelated problems** while working, do not fix them silently. Create a new issue with the `discovered` label plus a type label, and assign it to `@me`:
+   `gh issue create --title "..." --body "..." --label bug --label discovered --assignee "@me"`
+
+### Command Reference
+
+| Action | Command |
+|---|---|
+| Check my tasks | `gh issue list --assignee "@me" --state open` |
+| View an issue | `gh issue view <number> --comments` |
+| Create issue | `gh issue create --title "..." --body "..." --label bug --assignee "@me"` |
+| Update issue | `gh issue edit <number> --add-label "in-progress"` |
+| Add comment | `gh issue comment <number> --body "..."` |
+| Close issue | `gh issue close <number> --comment "Completed in commit <hash>" --reason completed` |
+
+### Slash Commands
+
+Defined in `.claude/commands/`:
+
+- `/my-tasks` - List my assigned open issues
+- `/create-bug` - Interactively create a bug issue
+- `/create-feature` - Interactively create a feature request
+- `/start-issue <number>` - Assign to me, add in-progress label, comment "Starting work"
+- `/complete-issue <number>` - Commit, push, and close with completion message
+
+### Labels
+
+- **Status:** `in-progress`, `blocked`, `needs-review`, `ready`
+- **Type:** `bug`, `enhancement`, `content`, `documentation`
+- **Priority:** `priority-high`, `priority-medium`, `priority-low`
+- **Source:** `website-feedback`, `complaint`, `discovered`
+
+When working through "my assigned issues", take them in priority order (high, medium, low, then unlabelled) and skip anything labelled `blocked`.
+
 ## Additional Notes
 
 If you have questions or need clarification on these instructions, ask the user before proceeding.
