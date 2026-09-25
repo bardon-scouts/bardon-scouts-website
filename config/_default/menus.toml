@@ -163,6 +163,12 @@
   url = "/fishing/"
   weight = 5.63
 
+[[main]]
+  name = "Group Camp"
+  parent = "events"
+  url = "/group-camp/"
+  weight = 5.64
+
 # Join Us dropdown items
 [[main]]
   name = "How to Join"

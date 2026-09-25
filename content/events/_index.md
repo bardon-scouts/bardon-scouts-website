@@ -158,6 +158,16 @@ Fishing is a year-round activity open to every section. More details, including 
 
 ---
 
+### [Group Camp](/group-camp/)
+**When:** October (annually)
+**Who:** Joeys, Cubs, Scouts, Venturers - all sections, plus adult helpers
+
+Group Camp is two nights away with the whole of Bardon Scouts. Every section camps together in tents, with pioneering, cooking and swimming on the program. Adult helpers with a valid blue card are welcome.
+
+[Learn more about Group Camp →](/group-camp/)
+
+---
+
 ## Why We Participate
 
 Community events and Scout activities are an essential part of the Bardon Scouts experience:
