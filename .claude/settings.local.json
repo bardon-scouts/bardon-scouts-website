@@ -14,22 +14,33 @@
       "Bash(grep:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "Bash(git push:*)",
+      "Bash(git push)",
       "Bash(git status)",
       "Bash(git diff:*)",
       "Bash(git log:*)",
-      "Bash(gh *)",
-      "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" *)",
+      "Bash(gh issue list:*)",
+      "Bash(gh issue view:*)",
+      "Bash(gh issue comment:*)",
+      "Bash(gh issue edit:*)",
+      "Bash(gh issue close:*)",
+      "Bash(gh issue create:*)",
+      "Bash(gh pr:*)",
+      "Bash(where:*)",
       "Bash(netlify watch --help:*)",
       "Bash(netlify open:admin:*)",
-      "WebFetch(domain:bardonscouts.org.au)",
-      "WebFetch(domain:app.netlify.com)",
-      "WebFetch(domain:*)",
+      "WebFetch",
+      "WebSearch",
       "Edit(/content/**)",
       "Edit(/layouts/**)",
       "Edit(/assets/**)",
       "Edit(/config/**)",
-      "Edit(/static/**)"
+      "Edit(/static/**)",
+      "Skill(update-config)",
+      "Skill(update-config:*)",
+      "Bash(gh issue *)",
+      "Bash(git add *)",
+      "Bash(git commit -q -m 'Auto-approve web access and gh issue commands' -m '- Add PreToolUse hook that approves WebFetch and WebSearch *)",
+      "Bash(git push *)"
     ],
     "deny": [
       "Read(./.env)",
@@ -38,5 +49,18 @@
       "Bash(git push --force:*)"
     ],
     "ask": []
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "WebFetch|WebSearch",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cat >/dev/null; echo '{\"hookSpecificOutput\":{\"hookEventName\":\"PreToolUse\",\"permissionDecision\":\"allow\",\"permissionDecisionReason\":\"Web access pre-approved for this project\"}}'"
+          }
+        ]
+      }
+    ]
   }
 }
