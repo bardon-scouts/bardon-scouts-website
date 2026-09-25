@@ -111,9 +111,15 @@ GitHub Issues is the task list for this project. Both collaborators use Claude C
 4. **If blocked**, add the `blocked` label, remove `in-progress`, and comment explaining what is needed.
 5. **When completing** an issue:
    - Commit with the issue number in the summary line, e.g. `Update Cubs meeting time (#12)`, and push to `dev`
-   - Close with the commit reference: `gh issue close <number> --comment "Completed in commit <hash>" --reason completed`
+   - **Verify before closing** (see rule 6). Never close an issue on the strength of having made the change.
+   - Close with the commit reference and a summary of how it was verified: `gh issue close <number> --comment "Completed in commit <hash>. Verified by: ..." --reason completed`
    - Remove the `in-progress` label
-6. **When discovering bugs or unrelated problems** while working, do not fix them silently. Create a new issue with the `discovered` label plus a type label, and assign it to `@me`:
+6. **Verify the fix actually worked.** An issue is not done until the result has been confirmed and tested, and your own working has been double-checked:
+   - **Re-check after committing.** Re-run the checks against the committed files, not your memory of the edits. For example, if the issue is to remove every em dash, search the whole site again after the commit and confirm zero remain. If the issue lists items (a checklist, a count, file and line numbers), confirm every one and state the final count in the closing comment.
+   - **Check the build.** Once the build for the commit has finished, confirm it succeeded and the change appears correctly on the built site (local `hugo` build and/or the Netlify `dev` branch deploy). Template, layout, style or config changes must always be checked on a build.
+   - **Double-check your working.** Look for places the first pass could have missed: other files, `data/`, `layouts/`, other spellings or forms of the same thing. Re-check any numbers you report.
+   - **If you can't verify** (for example no build is available), do not close the issue. Add the `needs-review` label, remove `in-progress`, and comment with what was done, what still needs checking, and why.
+7. **When discovering bugs or unrelated problems** while working, do not fix them silently. Create a new issue with the `discovered` label plus a type label, and assign it to `@me`:
    `gh issue create --title "..." --body "..." --label bug --label discovered --assignee "@me"`
 
 ### Command Reference
@@ -135,7 +141,7 @@ Defined in `.claude/commands/`:
 - `/create-bug` - Interactively create a bug issue
 - `/create-feature` - Interactively create a feature request
 - `/start-issue <number>` - Assign to me, add in-progress label, comment "Starting work"
-- `/complete-issue <number>` - Commit, push, and close with completion message
+- `/complete-issue <number>` - Commit, push, verify the fix, then close (or mark `needs-review` if it can't be verified)
 
 ### Labels
 
