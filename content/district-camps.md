@@ -1,6 +1,6 @@
 ---
 title: "District Camps"
-description: "District camping for Joey Scouts, Cub Scouts, and Scouts - camping with neighboring Scout Groups"
+description: "District camping for Joey Scouts, Cubs, and Scouts - camping with neighboring Scout Groups"
 type: page
 image: /img/district-camps.jpg
 ---
@@ -15,7 +15,7 @@ District Camps bring together Scout Groups from across our local district for we
 **When:** Throughout the year (dates vary by section and district calendar)
 **Duration:** Typically weekend camps (Friday evening to Sunday)
 **Where:** Various Scout campsites across Southeast Queensland
-**Who:** Joey Scouts, Cub Scouts, and Scouts
+**Who:** Joey Scouts, Cubs, and Scouts
 
 ## About District Camps
 

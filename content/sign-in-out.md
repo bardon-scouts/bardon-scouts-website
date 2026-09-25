@@ -25,7 +25,7 @@ For the safety and security of all our Scouts, Bardon Scouts requires parents or
 
 **Required for:**
 - Joey Scouts
-- Cub Scouts
+- Cubs
 - Scouts
 - Venturers
 

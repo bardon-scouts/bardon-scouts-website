@@ -23,7 +23,7 @@ Scout meetings run during Queensland school terms. Regular meetings are held eac
 ### Weekly Meeting Times (During School Terms)
 
 **Joey Scouts** - Tuesday 6:30-7:30pm
-**Cub Scouts** - Tuesday 6:30-8:00pm
+**Cubs** - Tuesday 6:30-8:00pm
 **Scouts** - Thursday 6:30-8:30pm
 **Venturers** - Thursday 7:00-9:00pm
 

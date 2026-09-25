@@ -20,9 +20,9 @@ Each ANZAC Day, Bardon Scouts proudly marches in the commemorative service at th
 
 ### [Cuboree](/cuboree/)
 **When:** Every 2-3 years (Next: April 9-13, 2026)
-**Who:** Cub Scouts only
+**Who:** Cubs only
 
-Cuboree is Queensland's premier five-day camping experience for Cub Scouts, held at Baden-Powell Park in Samford. Over 800 Cubs from across the state come together for non-stop adventure, friendship, and discovery through Special Interest Areas, outdoor adventure skills, and themed activities. Often a Cub's first extended time away from home, Cuboree creates memories that last a lifetime!
+Cuboree is Queensland's premier five-day camping experience for Cubs, held at Baden-Powell Park in Samford. Over 800 Cubs from across the state come together for non-stop adventure, friendship, and discovery through Special Interest Areas, outdoor adventure skills, and themed activities. Often a Cub's first extended time away from home, Cuboree creates memories that last a lifetime!
 
 [Learn more about Cuboree →](/cuboree/)
 
@@ -90,7 +90,7 @@ Operation NightHawk is Queensland's premier overnight Scout hike, held annually 
 
 ### [Skillorama](/skillorama/)
 **When:** September (annually)
-**Who:** Joey Scouts and Cub Scouts
+**Who:** Joey Scouts and Cubs
 
 Skillorama is Queensland's biggest day out for young Scouts, held annually at Redcliffe Showgrounds. Up to 1,300 Joeys and Cubs participate in dozens of activity stations designed and built by older Scouts, Venturers, and Rovers. From mud runs and rope bridges to canoeing and craft activities, it's a massive day of adventure celebrating over 50 years of tradition!
 
@@ -130,7 +130,7 @@ Indoor rock climbing at Rocksports in Fortitude Valley offers Scouts an exciting
 
 ### [District Camps](/district-camps/)
 **When:** Throughout the year (varies by section)
-**Who:** Joey Scouts, Cub Scouts, Scouts
+**Who:** Joey Scouts, Cubs, Scouts
 
 District Camps bring Bardon Scouts together with neighboring groups-Oakleigh, The Gap, and St Johns Wood-for weekend camping adventures. These section-specific camps offer outdoor activities, shared challenges, and opportunities to meet Scouts from across our district while enjoying quality camping experiences at Scout campsites throughout Southeast Queensland.
 
@@ -140,7 +140,7 @@ District Camps bring Bardon Scouts together with neighboring groups-Oakleigh, Th
 
 ### [District Swimming](/district-swimming/)
 **When:** Annually (date announced by district)
-**Who:** Cub Scouts only
+**Who:** Cubs only
 
 District Swimming is an exciting competition where Bardon Cubs race against neighboring Scout Groups in swimming events. Cubs compete in individual and relay races across various strokes and distances, representing Bardon Scouts with pride while enjoying friendly competition, team spirit, and the chance to win awards for their group!
 

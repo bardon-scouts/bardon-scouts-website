@@ -1,23 +1,23 @@
 ---
 title: "District Swimming"
-description: "Cub Scout District Swimming Competition - racing against neighboring Scout Groups"
+description: "Cub District Swimming Competition - racing against neighboring Scout Groups"
 type: page
 image: /img/district-swimming.jpg
 ---
 
 
-District Swimming is an exciting competition where Cub Scouts from Bardon compete against Cubs from neighboring Scout Groups in swimming races. This friendly competition brings together our district-Bardon, Oakleigh, The Gap, and St Johns Wood-for a day of aquatic challenges, team spirit, and sporting fun.
+District Swimming is an exciting competition where Cubs from Bardon compete against Cubs from neighboring Scout Groups in swimming races. This friendly competition brings together our district-Bardon, Oakleigh, The Gap, and St Johns Wood-for a day of aquatic challenges, team spirit, and sporting fun.
 
 ## Event Details
 
 **When:** Annually (date announced by district)
 **Duration:** Typically a half-day or full-day event
 **Where:** Local swimming pool facility
-**Who:** Cub Scouts only
+**Who:** Cubs only
 
 ## About District Swimming
 
-District Swimming is a competitive swimming gala organized at the district level, giving Cub Scouts the opportunity to represent their group in friendly races against Cubs from neighboring Scout Groups. The event combines individual swimming races with team competitions, all in the spirit of Scouting fun and camaraderie.
+District Swimming is a competitive swimming gala organized at the district level, giving Cubs the opportunity to represent their group in friendly races against Cubs from neighboring Scout Groups. The event combines individual swimming races with team competitions, all in the spirit of Scouting fun and camaraderie.
 
 **Our District Competitors:**
 Cubs from four groups compete together:
@@ -143,7 +143,7 @@ District Swimming helps Cubs develop:
 ## Parent Information
 
 ### Who can go?
-**Cub Scouts only**
+**Cubs only**
 
 District Swimming is specifically for the Cub Scout section. Cubs compete in age-appropriate race categories based on their swimming ability.
 
@@ -259,7 +259,7 @@ Recognition may also be given for:
 
 ## Get Involved
 
-District Swimming is a fantastic opportunity for Cub Scouts to challenge themselves, represent their group, and have fun competing in a supportive environment!
+District Swimming is a fantastic opportunity for Cubs to challenge themselves, represent their group, and have fun competing in a supportive environment!
 
 Interested in participating in District Swimming? Speak to your Cub Leader about the next district swimming competition, training tips, and registration details, or [contact Bardon Scouts](/contact/) for more information.
 

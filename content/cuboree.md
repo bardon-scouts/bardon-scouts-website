@@ -1,6 +1,6 @@
 ---
 title: "Cuboree"
-description: "Queensland Cuboree - Five epic days of adventure, friendship, and discovery for Cub Scouts"
+description: "Queensland Cuboree - Five epic days of adventure, friendship, and discovery for Cubs"
 type: page
 image: /img/cuboree.jpg
 ---
@@ -8,18 +8,18 @@ image: /img/cuboree.jpg
 
 ## Five Epic Days of Cub Scout Adventure
 
-Cuboree is Queensland's premier camping experience for Cub Scouts-a massive five-day event held every two to three years that brings together hundreds of Cubs from across the state for non-stop fun, friendship, and outdoor adventure. This unforgettable experience is often a Cub Scout's first extended time away from home and creates memories that last a lifetime.
+Cuboree is Queensland's premier camping experience for Cubs-a massive five-day event held every two to three years that brings together hundreds of Cubs from across the state for non-stop fun, friendship, and outdoor adventure. This unforgettable experience is often a Cub's first extended time away from home and creates memories that last a lifetime.
 
 ## Event Details
 
 **When:** Every 2-3 years (Next: Cuboree 2026 - April 9-13, 2026)
 **Duration:** 5 days (Thursday to Monday)
 **Where:** Baden-Powell Park, Samford, Queensland
-**Who:** Cub Scouts from across Queensland
+**Who:** Cubs from across Queensland
 
 ## About Cuboree
 
-Cuboree is a celebration of Cub Scouting on a grand scale. The event brings together over 800 Cub Scouts for five days of adventurous, challenging, and inclusive activities designed to build confidence, independence, and teamwork while ticking off Milestones and developing Outdoor Adventure Skills.
+Cuboree is a celebration of Cub Scouting on a grand scale. The event brings together over 800 Cubs for five days of adventurous, challenging, and inclusive activities designed to build confidence, independence, and teamwork while ticking off Milestones and developing Outdoor Adventure Skills.
 
 **What Makes Cuboree Special:**
 - **State-Wide Event** - Cubs from across Queensland come together
@@ -71,7 +71,7 @@ The entire event is divided into three Subcamps, each creating its own community
 Each Subcamp contains 6 Units, which are groups of Cubs and leaders working together throughout the event.
 
 **Patrols Within Units**
-Each Unit consists of 6 Patrols of 6 Cub Scouts each, creating small teams that work together on activities and challenges.
+Each Unit consists of 6 Patrols of 6 Cubs each, creating small teams that work together on activities and challenges.
 
 This tiered structure ensures:
 - Manageable group sizes for activities
@@ -176,7 +176,7 @@ Cuboree provides comprehensive skill development across multiple areas:
 ## Parent Information
 
 ### Who can go?
-**Cub Scouts** from across Queensland
+**Cubs** from across Queensland
 
 Cubs must meet specific age and membership requirements. Eligibility details are provided during registration. This is an event specifically for the Cub Scout section.
 

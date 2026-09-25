@@ -26,7 +26,7 @@ Become a role model helping young people develop skills for life and reach their
 ## Volunteer Roles at Bardon Scouts
 
 **Section Volunteers**
-Work directly with Joey Scouts, Cub Scouts, Scouts, or Venturers, planning and leading weekly activities and special events.
+Work directly with Joey Scouts, Cubs, Scouts, or Venturers, planning and leading weekly activities and special events.
 
 **Adult Supporters**
 Participate flexibly in activities and events without the commitment of being a regular leader. Perfect for parents who want to help occasionally.

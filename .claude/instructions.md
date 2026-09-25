@@ -46,15 +46,26 @@ Co-Authored-By: Claude <noreply@anthropic.com>
 
 ### Content Standards
 
-1. **No Age Ranges on Event Pages** - Event pages should NOT include age ranges (e.g., "6-8 years", "Cub Scouts (8-11)"). Use section names only (e.g., "Joey Scouts", "Cub Scouts").
+1. **Section Terminology** - Use these short names consistently:
+   - Joey Scouts → **Joeys** (unless specifically referring to "Joey Scouts" as the formal section name)
+   - Cub Scouts → **Cubs** (never "Cub Scouts")
+   - Scouts → **Scouts** (correct as-is)
+   - Venturers → **Venturers** (correct as-is)
 
-2. **No Redundant Headings** - Avoid repeating the page title in the first ## heading. Let the page title serve as the H1, and start content immediately or with a different heading.
+   **Examples:**
+   - ✅ "Cubs participate in..."
+   - ✅ "Joey Scouts and Cubs attend..."
+   - ❌ "Cub Scouts participate in..."
 
-3. **Event Images** - Use `scouts_logo.jpg` as placeholder for event images when creating new event pages.
+2. **No Age Ranges on Event Pages** - Event pages should NOT include age ranges (e.g., "6-8 years", "Cub Scouts (8-11)"). Use section names only (e.g., "Joey Scouts", "Cubs").
 
-4. **No Em Dashes** - NEVER use em dashes (—) in content. Always use regular hyphens (-) instead. Em dashes are not appropriate for this website's style.
+3. **No Redundant Headings** - Avoid repeating the page title in the first ## heading. Let the page title serve as the H1, and start content immediately or with a different heading.
 
-5. **Security & Privacy - Financial Information** - NEVER include the following on the website to protect against fraud and scams:
+4. **Event Images** - Use `scouts_logo.jpg` as placeholder for event images when creating new event pages.
+
+5. **No Em Dashes** - NEVER use em dashes (—) in content. Always use regular hyphens (-) instead. Em dashes are not appropriate for this website's style.
+
+6. **Security & Privacy - Financial Information** - NEVER include the following on the website to protect against fraud and scams:
    - Payment methods or bank account details
    - Invoice due dates or billing months/schedule
    - Specific payment deadlines
