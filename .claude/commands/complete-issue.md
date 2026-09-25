@@ -1,7 +1,7 @@
 ---
 description: Commit, push, verify, and close a GitHub issue as completed
 argument-hint: <issue-number>
-allowed-tools: Bash(gh issue view:*), Bash(gh issue edit:*), Bash(gh issue close:*), Bash(gh issue comment:*), Bash(gh api:*), Bash(git status), Bash(git diff:*), Bash(git add:*), Bash(git commit:*), Bash(git push), Bash(git log:*), Bash(git rev-parse:*), Bash(hugo:*), Read, Grep, Glob, WebFetch
+allowed-tools: Bash(gh issue view:*), Bash(gh issue edit:*), Bash(gh issue close:*), Bash(gh issue comment:*), Bash(gh api:*), Bash(git status), Bash(git diff:*), Bash(git add:*), Bash(git commit:*), Bash(git push), Bash(git log:*), Bash(git rev-parse:*), Read, Grep, Glob, WebFetch
 ---
 
 Complete issue #$ARGUMENTS, following the verification rules in `.claude/instructions.md`.
@@ -12,7 +12,7 @@ Complete issue #$ARGUMENTS, following the verification rules in `.claude/instruc
 4. **Verify the fix** against the committed files:
    - Re-run every check the issue needs (searches, counts, checklist items) and confirm each one passes. Do not rely on memory of the edits.
    - Double-check for anything missed: other files, `data/`, `layouts/`, other spellings or forms.
-   - Once the build for the commit has finished, confirm it succeeded and the change appears correctly on the built site (local `hugo` build and/or the Netlify `dev` branch deploy).
+   - Once Netlify has deployed the commit to the `dev` branch deploy, confirm the deploy succeeded and check the change on the deployed `dev` site (e.g. with WebFetch). Do not build or run the site locally. Only the deployed `dev` site counts.
 5. **If everything is verified**, close the issue:
    - `gh issue edit $ARGUMENTS --remove-label "in-progress"`
    - `gh issue close $ARGUMENTS --comment "Completed in commit <hash>. Verified by: <what was checked and the results>" --reason completed`

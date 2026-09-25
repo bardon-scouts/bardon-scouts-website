@@ -116,9 +116,9 @@ GitHub Issues is the task list for this project. Both collaborators use Claude C
    - Remove the `in-progress` label
 6. **Verify the fix actually worked.** An issue is not done until the result has been confirmed and tested, and your own working has been double-checked:
    - **Re-check after committing.** Re-run the checks against the committed files, not your memory of the edits. For example, if the issue is to remove every em dash, search the whole site again after the commit and confirm zero remain. If the issue lists items (a checklist, a count, file and line numbers), confirm every one and state the final count in the closing comment.
-   - **Check the build.** Once the build for the commit has finished, confirm it succeeded and the change appears correctly on the built site (local `hugo` build and/or the Netlify `dev` branch deploy). Template, layout, style or config changes must always be checked on a build.
+   - **Test on the deployed `dev` site, not locally.** Once Netlify has finished deploying the commit to the `dev` branch deploy, confirm the deploy succeeded and check the change on the live `dev` site (e.g. with WebFetch). Do not build or run the site locally to verify. A local build doesn't count as verification. Every change must be checked on the deployed `dev` site, including content-only changes.
    - **Double-check your working.** Look for places the first pass could have missed: other files, `data/`, `layouts/`, other spellings or forms of the same thing. Re-check any numbers you report.
-   - **If you can't verify** (for example no build is available), do not close the issue. Add the `needs-review` label, remove `in-progress`, and comment with what was done, what still needs checking, and why.
+   - **If you can't verify** (for example the `dev` deploy failed or isn't available), do not close the issue. Add the `needs-review` label, remove `in-progress`, and comment with what was done, what still needs checking, and why.
 7. **When discovering bugs or unrelated problems** while working, do not fix them silently. Create a new issue with the `discovered` label plus a type label, and assign it to `@me`:
    `gh issue create --title "..." --body "..." --label bug --label discovered --assignee "@me"`
 

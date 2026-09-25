@@ -43,7 +43,7 @@ GitHub Issues is the task list. Each person only works on issues assigned to the
 1. **Create issues** for anything that needs doing, using the Bug Report or Feature Request template on GitHub, or `/create-bug` and `/create-feature` in Claude Code.
 2. **Triage** - agree who takes each issue, then assign it and set a priority label.
 3. **Work** - in Claude Code, run `/my-tasks` to see your issues, then `/start-issue <number>`. Or just tell Claude "Work through my assigned GitHub issues".
-4. **Complete** - `/complete-issue <number>` commits and pushes to `dev`, then checks the fix actually worked (re-checks the files and the build). It only closes the issue once that's confirmed. If something can't be verified, the issue stays open with the `needs-review` label.
+4. **Complete** - `/complete-issue <number>` commits and pushes to `dev`, then checks the fix actually worked (re-checks the files, then tests the change on the deployed `dev` site, not a local build). It only closes the issue once that's confirmed. If something can't be verified, the issue stays open with the `needs-review` label.
 5. **Publish** - changes on `dev` get a Netlify deploy preview. Merge `dev` into `master` to publish to the live site.
 
 ### Claude Code slash commands
