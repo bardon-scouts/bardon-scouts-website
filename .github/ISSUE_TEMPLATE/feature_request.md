@@ -1,36 +1,23 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+name: Feature Request
+about: Suggest a new feature or improvement for the Bardon Scouts website
+title: '[FEATURE] '
+labels: 'enhancement'
 assignees: ''
-
 ---
 
----
-name: Feature request
-about: Suggest an idea for this project
-
----
-
-<!-- Please don't delete this template or we'll close your issue -->
-
-## Feature request
-
-<!-- Issues which contain questions or support requests will be closed. -->
-<!-- Before creating an issue please make sure you are using the latest version of webpack. -->
-<!-- Check if this feature need to be implemented in a plugin or loader instead -->
-<!-- If yes: file the issue on the plugin/loader repo -->
-<!-- Features related to the development server should be filed on this repo instead -->
-
-**What is the expected behavior?**
+## Location
+<!-- Which page or section would this feature affect? -->
+<!-- Example: Home page, Calendar page, Join Us section, etc. -->
 
 
-**What is motivation or use case for adding/changing the behavior?**
+## Description
+<!-- What feature or improvement would you like to see? -->
 
 
-**How should this be implemented in your opinion?**
+## Why
+<!-- Why is this feature needed? What problem does it solve? -->
 
 
-**Are you willing to work on this yourself?**
-yes
+## Additional Instructions
+<!-- Any other context, examples, or information that would help implement this feature -->
