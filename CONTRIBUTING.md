@@ -43,19 +43,20 @@ GitHub Issues is the task list. Each person only works on issues assigned to the
 1. **Create issues** for anything that needs doing, using the Bug Report or Feature Request template on GitHub, or `/create-bug` and `/create-feature` in Claude Code.
 2. **Triage** - agree who takes each issue, then assign it and set a priority label.
 3. **Work** - in Claude Code, run `/my-tasks` to see your issues, then `/start-issue <number>`. Or just tell Claude "Work through my assigned GitHub issues".
-4. **Submit for review** - `/submit-for-review <number>` commits and pushes to `dev`, then checks the fix actually worked (re-checks the files, then tests the change on the deployed `dev` site, not a local build). Once it's verified, Claude adds the `ready-for-review` label and posts a comment explaining what changed, how it was checked, and links to the dev pages. **Claude never closes issues.**
+4. **Submit for review** - `/submit-for-review <number>` commits and pushes to `dev`, then checks the fix actually worked (re-checks the files, then tests the change on the deployed `dev` site, not a local build). Once it's verified, Claude posts a comment explaining what changed, how it was checked, and links to the dev pages, then adds the **`needs-review`** label. **Claude never closes issues.**
 5. **Review** - you check the change on the dev site:
    - **Acceptable:** close the issue.
-   - **Not acceptable:** add a comment on the issue saying what needs to change. Claude detects it the next time it checks (`/check-feedback`, `/my-tasks`, or "work through my issues"). It then moves the issue to `changes-requested`, reworks it and resubmits it for review.
+   - **Not acceptable:** comment on the issue saying what needs to change, then **remove the `needs-review` label**. That hands it back to Claude, which reads every comment since it last asked for review, reworks the issue and resubmits it.
 6. **Publish** - every push to `dev` is deployed to https://dev--bardon-scouts-website.netlify.app/ for checking. Merge `dev` into `master` to publish to the live site (https://bardonscouts.org.au/).
 
-### What's waiting for my review?
+### Who has the issue? The `needs-review` label decides
 
-Bookmark this GitHub filter: [open issues labelled `ready-for-review`](https://github.com/bardon-scouts/bardon-scouts-website/issues?q=is%3Aopen+label%3Aready-for-review). Or run `/review-queue` in Claude Code, which also shows the dev links and anything Claude has asked you to check yourself.
+- **Has `needs-review`:** it's waiting on you, either to review finished work or to answer a question when it's also labelled `blocked`. Claude won't touch it.
+- **No `needs-review`:** it's Claude's to work on. Remove the label whenever you want Claude to pick an issue back up.
 
-### How Claude tells your comments from its own
+### What's waiting for me?
 
-Claude posts to GitHub through your account, so every comment Claude writes ends with *Posted by Claude Code* (plus a hidden marker). **Any comment without that line is treated as coming from a person**, so just write your feedback normally and don't copy Claude's footer into your own comments.
+Bookmark this GitHub filter: [open issues labelled `needs-review`](https://github.com/bardon-scouts/bardon-scouts-website/issues?q=is%3Aopen+label%3Aneeds-review). Or run `/review-queue` in Claude Code, which also shows the dev links and anything Claude has asked you to check or answer.
 
 ### Checking which commit is deployed
 
@@ -81,13 +82,13 @@ If it matches `git rev-parse HEAD`, your latest push is live on the dev site.
 
 | Command | What it does |
 |---|---|
-| `/my-tasks` | List my open issues, with anything I've given feedback on shown first |
-| `/review-queue` | List issues waiting for me to review and close |
-| `/check-feedback` | Find issues I've commented on since Claude last acted, and plan the rework |
+| `/my-tasks` | List my open issues: returned from review first, then Claude's work, then what's waiting on me |
+| `/review-queue` | List issues labelled `needs-review` (waiting on me) |
+| `/check-feedback` | Find issues I've handed back from review and summarise my feedback |
 | `/create-bug` | Create a bug report interactively |
 | `/create-feature` | Create a feature request interactively |
 | `/start-issue <number>` | Assign to me, add `in-progress`, comment "Starting work" |
-| `/submit-for-review <number>` | Commit, push, verify on dev, then label `ready-for-review` with a summary (never closes) |
+| `/submit-for-review <number>` | Commit, push, verify on dev, post a summary, then add `needs-review` (never closes) |
 
 The full rules Claude follows are in [.claude/instructions.md](.claude/instructions.md).
 
@@ -95,7 +96,7 @@ The full rules Claude follows are in [.claude/instructions.md](.claude/instructi
 
 ```sh
 gh issue list --assignee "@me" --state open      # my tasks
-gh issue list --state open --label ready-for-review   # waiting for review
+gh issue list --state open --label needs-review   # waiting on me
 gh issue list --state open                        # everything open
 gh issue list --search "no:assignee"             # needs triage
 gh issue view 12 --comments                       # read an issue
@@ -106,7 +107,7 @@ gh issue edit 12 --add-assignee hamish-username   # assign to someone
 
 | Group | Labels | Meaning |
 |---|---|---|
-| Status | `ready`, `in-progress`, `blocked`, `ready-for-review`, `changes-requested` | Where the issue is up to. `ready-for-review` = done and verified on dev, waiting for you to close. `changes-requested` = you commented, Claude is reworking it |
+| Status | `ready`, `in-progress`, `blocked`, `needs-review` | Where the issue is up to. `needs-review` = waiting on you; remove it to hand the issue back to Claude |
 | Type | `bug`, `enhancement`, `content`, `documentation` | What kind of change |
 | Priority | `priority-high`, `priority-medium`, `priority-low` | How urgent |
 | Source | `website-feedback`, `complaint`, `discovered` | Where it came from (`discovered` = found while working on something else) |

@@ -1,18 +1,22 @@
 ---
-description: Find my issues where someone has commented since Claude last acted, and address the feedback
-allowed-tools: Bash(gh issue list:*), Bash(gh issue view:*), Bash(gh issue edit:*), Bash(gh issue comment:*)
+description: Find my issues returned from review and summarise the feedback on each
+allowed-tools: Bash(gh issue list:*), Bash(gh issue view:*), Bash(gh api:*)
 ---
 
-1. Run the feedback check:
+1. List Claude's queue (open, assigned to me, without `needs-review`):
 
    ```
-   gh issue list --assignee "@me" --state open --json number,title,labels,comments --jq '.[] | select((.comments | length) > 0 and ((.comments[-1].body | contains("<!-- claude-code -->")) | not)) | "#\(.number) \(.title) | last comment: \(.comments[-1].createdAt)"'
+   gh issue list --assignee "@me" --state open --search "-label:needs-review" --json number,title
    ```
 
-2. If nothing is returned, say there is no new feedback and stop.
-3. For each issue returned, run `gh issue view <number> --comments` and read every comment posted after the newest `<!-- claude-code -->` comment. That is the feedback.
-4. List the issues with a short summary of each piece of feedback, and say what you plan to change for each.
-5. Unless the user has asked you to go ahead, **stop here** and ask which to work on. When told to proceed, follow the "addressing feedback" rule in `.claude/instructions.md`:
-   - `gh issue edit <number> --add-label "changes-requested" --remove-label "ready-for-review"`
-   - Comment (with the `<!-- claude-code -->` footer) acknowledging the feedback and what will change. If the feedback is unclear, ask in that comment and stop.
-   - Rework, verify on the dev site, then resubmit with `/submit-for-review <number>`.
+2. For each issue, find when `needs-review` was last added:
+
+   ```
+   gh api repos/bardon-scouts/bardon-scouts-website/issues/<number>/timeline --paginate --jq '.[] | select(.event == "labeled" and .label.name == "needs-review") | .created_at'
+   ```
+
+   No output means it has never been reviewed. Skip it, because it's new work, not feedback. Otherwise the **last** line is when it was last handed over.
+
+3. For each returned issue, run `gh issue view <number> --comments` and read every comment posted **after** that time. That is the feedback.
+4. List the returned issues with a short summary of the feedback on each and what you plan to change. If there are none, say there is no feedback waiting.
+5. Unless the user has asked you to go ahead, **stop here** and ask which to work on. When told to proceed, follow rule 4 ("returned from review") in `.claude/instructions.md`, then resubmit with `/submit-for-review <number>`.
