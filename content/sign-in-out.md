@@ -24,7 +24,7 @@ For the safety and security of all our Scouts, Bardon Scouts requires parents or
 ### Who Must Sign In and Out
 
 **Required for:**
-- Joey Scouts
+- Joeys
 - Cubs
 - Scouts
 - Venturers

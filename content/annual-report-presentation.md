@@ -62,7 +62,7 @@ The ARP is the formal annual meeting of Bardon Scouts Group, similar to an AGM (
 
 **Section Reports**
 Each section presents their year in review:
-- **Joey Scouts** - Achievements, highlights, and member growth
+- **Joeys** - Achievements, highlights, and member growth
 - **Cubs** - Activities, camps, and skill development
 - **Scouts** - Adventures, leadership, and progression
 - **Venturers** - Challenges, projects, and achievements
@@ -199,7 +199,7 @@ The Treasurer's report provides a comprehensive financial overview:
 
 Each section shares their year's highlights and achievements:
 
-**Joey Scouts** - First adventures, new skills, and growing confidence
+**Joeys** - First adventures, new skills, and growing confidence
 **Cubs** - Camps, badges, and outdoor exploration
 **Scouts** - Leadership development, challenging hikes, and independence
 **Venturers** - Community service, advanced activities, and youth leadership

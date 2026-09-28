@@ -6,7 +6,7 @@ image: /img/cuboree.jpg
 ---
 
 
-## Five Epic Days of Cub Scout Adventure
+## Five Epic Days of Cub Adventure
 
 Cuboree is Queensland's premier camping experience for Cubs-a massive five-day event held every two to three years that brings together hundreds of Cubs from across the state for non-stop fun, friendship, and outdoor adventure. This unforgettable experience is often a Cub's first extended time away from home and creates memories that last a lifetime.
 
@@ -19,7 +19,7 @@ Cuboree is Queensland's premier camping experience for Cubs-a massive five-day e
 
 ## About Cuboree
 
-Cuboree is a celebration of Cub Scouting on a grand scale. The event brings together over 800 Cubs for five days of adventurous, challenging, and inclusive activities designed to build confidence, independence, and teamwork while ticking off Milestones and developing Outdoor Adventure Skills.
+Cuboree is a celebration of Cubs on a grand scale. The event brings together over 800 Cubs for five days of adventurous, challenging, and inclusive activities designed to build confidence, independence, and teamwork while ticking off Milestones and developing Outdoor Adventure Skills.
 
 **What Makes Cuboree Special:**
 - **State-Wide Event** - Cubs from across Queensland come together
@@ -140,7 +140,7 @@ From abseiling to joy flights, Cubs experience activities they'll remember for l
 Living, camping, and adventuring with your patrol creates strong bonds and teamwork.
 
 **Scale & Energy**
-Being part of an 800+ Cub Scout event creates incredible energy and excitement.
+Being part of an 800+ Cub event creates incredible energy and excitement.
 
 ## Skills Developed
 
@@ -178,7 +178,7 @@ Cuboree provides comprehensive skill development across multiple areas:
 ### Who can go?
 **Cubs** from across Queensland
 
-Cubs must meet specific age and membership requirements. Eligibility details are provided during registration. This is an event specifically for the Cub Scout section.
+Cubs must meet specific age and membership requirements. Eligibility details are provided during registration. This is an event specifically for Cubs.
 
 ### What's included:
 Registration includes:
@@ -224,7 +224,7 @@ A comprehensive packing list is provided during registration. Typical items incl
 - **Withdrawal policies** available on the Cuboree website
 
 **Important:**
-- Registration coordinated through your Cub Scout Leader
+- Registration coordinated through your Cub Leader
 - Applications close well before the event
 - Limited capacity-register early to secure spots
 
@@ -276,7 +276,7 @@ All registered Cubs receive an event pack including shirt, hat, scarf, woggle, a
 
 ## Event History
 
-Cuboree has been a Queensland Cub Scouting tradition for decades, held every two to three years to give as many Cubs as possible the opportunity to attend during their time in the section.
+Cuboree has been a Queensland Cubs tradition for decades, held every two to three years to give as many Cubs as possible the opportunity to attend during their time in the section.
 
 **Recent Events:**
 - **Cuboree 2026** - "Shake It Up!" at Baden-Powell Park (April 9-13, 2026)
@@ -288,7 +288,7 @@ The event has grown significantly over the years, now regularly hosting over 800
 
 ## Get Involved
 
-Cuboree is a once-in-Cub-Scouting-lifetime opportunity that creates unforgettable memories and friendships!
+Cuboree is a once-in-a-lifetime opportunity for Cubs that creates unforgettable memories and friendships!
 
 Interested in attending the next Cuboree? Speak to your Cub Leader about registration details and eligibility, or [contact Bardon Scouts](/contact/) for more information.
 
@@ -307,7 +307,7 @@ Cuboree relies on adult volunteers to support activities, catering, and supervis
 **Questions?**
 For questions about Bardon Scouts participation, speak to your Cub Leader or [contact us](/contact/).
 
-## More Cub Scout Adventures
+## More Cub Adventures
 
 If your Cub loves the idea of Cuboree, they might also enjoy:
 

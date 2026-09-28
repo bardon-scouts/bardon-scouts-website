@@ -145,7 +145,7 @@ District Swimming helps Cubs develop:
 ### Who can go?
 **Cubs only**
 
-District Swimming is specifically for the Cub Scout section. Cubs compete in age-appropriate race categories based on their swimming ability.
+District Swimming is specifically for Cubs. Cubs compete in age-appropriate race categories based on their swimming ability.
 
 ### Swimming Requirements:
 - **Must be able to swim** - Cubs should be comfortable swimming independently
@@ -188,7 +188,7 @@ District Swimming events maintain comprehensive safety:
 ✓ **Qualified Lifeguards** - On duty throughout the event
 ✓ **Leader Supervision** - Cub Leaders from all groups present
 ✓ **Pool Safety** - Racing in controlled pool environment
-✓ **Age-Appropriate** - Races designed for Cub Scout abilities
+✓ **Age-Appropriate** - Races designed for Cubs' abilities
 ✓ **First Aid** - First aid trained leaders and kits available
 ✓ **Warm-Up Time** - Supervised warm-up before competition
 ✓ **Rest Periods** - Breaks between races to prevent fatigue
@@ -266,7 +266,7 @@ Interested in participating in District Swimming? Speak to your Cub Leader about
 **Parent Volunteers:**
 District Swimming events need volunteers for timekeeping, race marshalling, and supporting Cubs. If you're interested in helping, speak to your Cub Leader about volunteer opportunities!
 
-## More Cub Scout Events
+## More Cub Events
 
 If your Cub enjoys District Swimming, they might also enjoy:
 

@@ -7,9 +7,9 @@ type: sections
 
 <!-- TODO: Add Joey-specific program and activities content -->
 
-## Joey Scout Events
+## Joey Events
 
-Joey Scouts participate in these annual events and activities:
+Joeys participate in these annual events and activities:
 
 - **[ANZAC Day March](/anzac-day-march/)**
 - **[Bardon Mayfair](/bardon-mayfair/)**

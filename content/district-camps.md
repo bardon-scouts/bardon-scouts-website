@@ -1,6 +1,6 @@
 ---
 title: "District Camps"
-description: "District camping for Joey Scouts, Cubs, and Scouts - camping with neighboring Scout Groups"
+description: "District camping for Joeys, Cubs and Scouts - camping with neighboring Scout Groups"
 type: page
 image: /img/district-camps.jpg
 ---
@@ -15,7 +15,7 @@ District Camps bring together Scout Groups from across our local district for we
 **When:** Throughout the year (dates vary by section and district calendar)
 **Duration:** Typically weekend camps (Friday evening to Sunday)
 **Where:** Various Scout campsites across Southeast Queensland
-**Who:** Joey Scouts, Cubs, and Scouts
+**Who:** Joeys, Cubs and Scouts
 
 ## About District Camps
 
@@ -41,7 +41,7 @@ Bardon Scouts camps with fellow groups in our district:
 
 District Camps are organized by section, ensuring age-appropriate activities and supervision.
 
-### Joey Scout District Camps
+### Joey District Camps
 
 **Ages:** 6-8 years
 
@@ -59,7 +59,7 @@ Joey District Camps provide young Scouts with their first multi-group camping ex
 - Wide games and team challenges
 - Outdoor cooking experiences
 
-### Cub Scout District Camps
+### Cub District Camps
 
 **Ages:** 8-11 years
 
@@ -184,7 +184,7 @@ District Camps provide comprehensive skill development:
 ## Parent Information
 
 ### Who can go?
-**Joey Scouts, Cub Scouts, and Scouts**
+**Joeys, Cubs and Scouts**
 
 District Camps are organized by section, so your child will camp with their age group. Each section has separate camps throughout the year.
 

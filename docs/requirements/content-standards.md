@@ -9,7 +9,7 @@ Rules for all written content on the site, on top of the lvlup-workflow writing 
 ### Section names
 
 - Use **Joeys**, **Cubs**, **Scouts** and **Venturers**.
-- "Joey Scouts" is allowed only when referring to the formal section name.
+- "Joey Scouts" and "Venturer Scouts" are allowed only for formal names, such as the "Joey Scout Leader" title or a Scout Shop product. Otherwise write "Joeys" and "Venturers".
 - Never write "Cub Scouts" or "Cub Scout". Use "Cubs", or "Cub Leader" rather than "Cub Scout Leader". The only exception is an external product name, such as the Scout Shop's "Cub Scout Uniform" link.
 - Rovers is a planned section; refer to it as coming soon.
 
@@ -38,5 +38,6 @@ Allowed:
 ## How to check
 
 - Search `content/` and `data/` for "Cub Scout". The only match allowed is the Scout Shop product link.
+- Search for "Joey Scout" and "Venturer Scout". Matches should only be formal names (the leader title, Scout Shop product links).
 - Search for bank details, BSB, account numbers, "due", "deadline" and invoice months on any page that mentions fees.
 - Run the plugin's `style-check` on changed content.

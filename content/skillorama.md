@@ -1,6 +1,6 @@
 ---
 title: "Skillorama"
-description: "Joey Scouts and Cubs at Skillorama - Queensland's biggest day out for young Scouts"
+description: "Joeys and Cubs at Skillorama - Queensland's biggest day out for young Scouts"
 type: page
 image: /img/skillorama.jpg
 ---
@@ -8,18 +8,18 @@ image: /img/skillorama.jpg
 
 ## The Best Day Out for Joeys and Cubs
 
-Skillorama is Queensland's premier event for Joey Scouts and Cubs-a massive day of adventure, activities, and fun held annually at Redcliffe Showgrounds. This exciting event brings together thousands of young Scouts from across Southeast Queensland for a day filled with games, challenges, and scouting activities designed and built by older Scouts, Venturers, and Rovers.
+Skillorama is Queensland's premier event for Joeys and Cubs-a massive day of adventure, activities, and fun held annually at Redcliffe Showgrounds. This exciting event brings together thousands of young Scouts from across Southeast Queensland for a day filled with games, challenges, and scouting activities designed and built by older Scouts, Venturers, and Rovers.
 
 ## Event Details
 
 **When:** Annually in September (specific date announced by Scouts Queensland)
 **Time:** 11:00am onwards
 **Where:** Redcliffe Showgrounds, Redcliffe
-**Who:** Joey Scouts and Cubs
+**Who:** Joeys and Cubs
 
 ## About Skillorama
 
-Celebrating over 50 years of tradition, Skillorama is a unique Scouting event where Scouts, Venturer Scouts, and Rover Scouts from across Southeast Queensland come together to design, build, and run activity stations specifically for Joeys and Cubs.
+Celebrating over 50 years of tradition, Skillorama is a unique Scouting event where Scouts, Venturers and Rovers from across Southeast Queensland come together to design, build, and run activity stations specifically for Joeys and Cubs.
 
 **What Makes Skillorama Special:**
 - **Youth-Led Activities** - Older Scouts create and manage all activity bases
@@ -110,7 +110,7 @@ The tradition continues each September, bringing together the best of what Scout
 ## Parent Information
 
 ### Who can go?
-**Joey Scouts** and **Cub Scouts**
+**Joeys** and **Cubs**
 
 Skillorama is specifically designed for Bardon Scouts' youngest members. Scouts, Venturers, and Rovers attend as activity leaders and helpers.
 
@@ -218,7 +218,7 @@ Many Joeys and Cubs cite Skillorama as their favourite Scouting event of the yea
 
 ## Get Involved
 
-Skillorama is a must-attend event for Joey Scouts and Cubs in Southeast Queensland!
+Skillorama is a must-attend event for Joeys and Cubs in Southeast Queensland!
 
 Interested in participating? Speak to your Joey or Cub Leader about registration details for this year's Skillorama, or [contact Bardon Scouts](/contact/) for more information.
 
