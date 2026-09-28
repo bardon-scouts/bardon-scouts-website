@@ -13,10 +13,6 @@
   },
   "permissions": {
     "allow": [
-      "Bash(netlify status)",
-      "Bash(netlify status *)",
-      "Bash(netlify api listSiteDeploys *)",
-      "Bash(netlify --version)",
       "Edit(/content/**)",
       "Edit(/layouts/**)",
       "Edit(/assets/**)",
