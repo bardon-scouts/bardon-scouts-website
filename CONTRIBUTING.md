@@ -8,9 +8,10 @@ The process (GitHub Issues, testing before review, writing style, commit rules) 
 
 In short:
 
-1. **Create an issue** for anything that needs doing (GitHub's Bug Report or Feature Request template, or `/create-bug` / `/create-feature` in Claude Code), and assign it.
-2. **Claude works on it:** ask Claude to "work through my issues", or run `/start-issue <number>`. Claude tests the result on the dev site, posts a summary on the issue, and adds the **`needs-review`** label.
-3. **You review it** on the dev site:
+1. **Create an issue** for anything that needs doing (GitHub's Bug Report or Feature Request template, or `/create-bug` / `/create-feature` in Claude Code), and assign it. New issues start with the **`needs-review`** label.
+2. **Approve it** by removing `needs-review`, with a comment if anything needs clarifying. Until then Claude won't start it.
+3. **Claude works on it:** ask Claude to "work through my issues", or run `/start-issue <number>`. Claude tests the result on the dev site, posts a summary on the issue, and adds the **`needs-review`** label.
+4. **You review it** on the dev site:
    - **Acceptable:** close the issue.
    - **Not acceptable:** comment with what needs to change, then **remove `needs-review`** to hand it back to Claude.
 
