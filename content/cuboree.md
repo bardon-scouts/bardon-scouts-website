@@ -108,7 +108,6 @@ Cubs complete six SIA projects across at least two different Areas, working towa
 Cuboree includes exciting excursions beyond Baden-Powell Park:
 - **Boondall Wetlands** - Environmental conservation and nature exploration
 - **Queensland Air Museum** - Learning Queensland's aviation history
-- **Joy flights over Caloundra** - Aerial adventure and unique experiences
 
 **Evening Entertainment:**
 Each night features:
@@ -132,8 +131,8 @@ Five full days of activities, from morning until the evening campfire.
 **Achievement & Milestones**
 Work toward Milestones and Special Interest Area achievements throughout the event.
 
-**Memorable Experiences**
-From abseiling to joy flights, Cubs experience activities they'll remember for life.
+**New Activities**
+From abseiling to excursions off site, Cubs try activities they may not have done before.
 
 **Patrol Bonding**
 Living, camping, and adventuring with your patrol creates strong bonds and teamwork.
