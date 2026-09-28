@@ -32,7 +32,7 @@ Each patrol is scored on their performance at the various bases, making it both 
 **Where:** Various locations across the Darling Downs region (rotates annually)
 Recent venues have included Crows Nest Showgrounds and Clifton Airfield
 
-**Who:** Scouts only (ages 11-15)
+**Who:** Scouts only
 *Note: This event is specifically for Scouts, not Joeys, Cubs, or Venturers*
 
 **Duration:** Overnight event (Friday evening through Saturday)
@@ -66,7 +66,7 @@ Participating in Operation NightHawk is a highlight of the year for our Scout Tr
 ## Parent Information
 
 ### Who can go?
-**Scouts only** (ages 11-15 years)
+**Scouts only**
 
 This event is specifically designed for the Scout section and is not suitable for Joeys, Cubs, or Venturers.
 
@@ -94,7 +94,7 @@ This event is specifically designed for the Scout section and is not suitable fo
 
 ## Get Involved
 
-If you're a Scout (11-15 years) at Bardon Scouts and interested in participating in Operation NightHawk, speak to your Scout Leader for details about upcoming events.
+If you're a Scout at Bardon Scouts and interested in participating in Operation NightHawk, speak to your Scout Leader for details about upcoming events.
 
 This is an experience you won't forget-challenging yourself, supporting your patrol, and being part of one of Queensland's greatest Scout traditions.
 

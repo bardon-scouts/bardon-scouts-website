@@ -43,8 +43,6 @@ District Camps are organized by section, ensuring age-appropriate activities and
 
 ### Joey District Camps
 
-**Ages:** 6-8 years
-
 Joey District Camps provide young Scouts with their first multi-group camping experience:
 - Simple camping activities and outdoor fun
 - Age-appropriate challenges and games
@@ -61,9 +59,7 @@ Joey District Camps provide young Scouts with their first multi-group camping ex
 
 ### Cub District Camps
 
-**Ages:** 8-11 years
-
-Cub District Camps offer more adventurous activities for this age group:
+Cub District Camps offer more adventurous activities:
 - Extended camping experiences
 - Skill development activities
 - Inter-group games and competitions
@@ -80,8 +76,6 @@ Cub District Camps offer more adventurous activities for this age group:
 - Campfire programs
 
 ### Scout District Camps
-
-**Ages:** 11-15 years
 
 Scout District Camps provide challenging outdoor experiences:
 - Advanced camping and bushcraft skills

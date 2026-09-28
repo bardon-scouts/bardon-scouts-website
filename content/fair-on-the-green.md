@@ -66,7 +66,7 @@ Community events like Fair on the Green are important to Scouts because they hel
 
 ### Get Involved
 
-Interested in joining Bardon Scouts? Want to learn more about our programs for young people aged 6-18?
+Interested in joining Bardon Scouts? Want to learn more about our Joeys, Cubs, Scouts and Venturers sections?
 
 [Contact us](/contact/) to find out more, or come and say hello at next year's Fair on the Green!
 

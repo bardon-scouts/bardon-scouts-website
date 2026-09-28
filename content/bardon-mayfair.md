@@ -41,7 +41,7 @@ The Bardon Mayfair has earned its reputation as a must-attend Brisbane event, fe
 ## Bardon Scouts at Mayfair
 
 At this year's Mayfair, Bardon Scouts ran an information stall where we:
-- Shared information about our programs for young people aged 6-18
+- Shared information about our Joeys, Cubs, Scouts and Venturers sections
 - Demonstrated Scout skills and activities
 - Connected with local families interested in joining
 - Showcased photos and stories from recent Scout adventures

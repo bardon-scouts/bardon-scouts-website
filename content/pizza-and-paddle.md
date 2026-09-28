@@ -72,7 +72,7 @@ Break up the routine with something special-canoes and pizza make for a great co
 ## Parent Information
 
 ### Who can go?
-**Scouts only** (ages 11-15 years)
+**Scouts only**
 
 Pizza and Paddle is specifically for Scouts. Participants must have been invested at least as a Scout. Cubs, Joeys, and Venturers have separate programs at Brownsea.
 

@@ -53,10 +53,7 @@ District Swimming typically includes a variety of race formats and distances:
 - **Mixed Stroke Relays** - Each swimmer uses a different stroke
 
 **Age Categories:**
-Races are typically divided into age groups to ensure fair competition:
-- 8-9 years
-- 10-11 years
-- Or other age divisions determined by the district
+Races are divided into age groups set by the district, so Cubs race others their own age.
 
 **Ability Levels:**
 Events may be organized to accommodate different swimming abilities, ensuring all Cubs can participate regardless of skill level.
