@@ -1,0 +1,29 @@
+{
+  "enabledPlugins": {
+    "lvlup-workflow@lvlup-labs": true
+  },
+  "extraKnownMarketplaces": {
+    "lvlup-labs": {
+      "source": {
+        "source": "github",
+        "repo": "lvlup-labs/lvlup-workflow"
+      },
+      "autoUpdate": true
+    }
+  },
+  "permissions": {
+    "allow": [
+      "Bash(netlify status)",
+      "Bash(netlify status *)",
+      "Bash(netlify api listSiteDeploys *)",
+      "Bash(netlify --version)",
+      "Edit(/content/**)",
+      "Edit(/layouts/**)",
+      "Edit(/assets/**)",
+      "Edit(/config/**)",
+      "Edit(/static/**)",
+      "Edit(/data/**)",
+      "Edit(/docs/**)"
+    ]
+  }
+}

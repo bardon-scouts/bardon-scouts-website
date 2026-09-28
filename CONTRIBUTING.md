@@ -2,124 +2,44 @@
 
 This site is maintained by Bardon Scout Leaders using Claude Code, with GitHub Issues as the shared task list. Please read the [code of conduct](CODE_OF_CONDUCT.md) before contributing.
 
-## Setup for New Collaborators
+## How we work
 
-### 1. Install tools
+The process (GitHub Issues, testing before review, writing style, commit rules) comes from the **lvlup-workflow** Claude Code plugin, which this project enables in `.claude/settings.json`. Its README, in [lvlup-labs/lvlup-workflow](https://github.com/lvlup-labs/lvlup-workflow), explains the process and the commands in full.
 
-- [Git](https://git-scm.com/downloads)
-- [Hugo Extended](https://gohugo.io/installation/) v0.148.2 or later
-- [GitHub CLI](https://cli.github.com/) (`gh`)
-- [Claude Code](https://claude.com/claude-code)
+In short:
 
-### 2. Authenticate the GitHub CLI
-
-```sh
-gh auth login
-```
-
-Choose GitHub.com, HTTPS, and log in with your browser. Check it worked with `gh auth status`.
-
-Your GitHub account must be a collaborator on `bardon-scouts/bardon-scouts-website` so issues can be assigned to you.
-
-### 3. Clone and run the site
-
-```sh
-git clone https://github.com/bardon-scouts/bardon-scouts-website.git
-cd bardon-scouts-website
-git checkout dev
-hugo server --buildFuture --buildDrafts --disableFastRender --port 1314
-```
-
-Open http://localhost:1314/.
-
-### 4. Open Claude Code in the repository folder
-
-Start Claude Code from the `bardon-scouts-website` folder itself (not a parent folder), so it picks up `CLAUDE.md`, `.claude/instructions.md`, and the slash commands in `.claude/commands/`.
-
-## Workflow
-
-GitHub Issues is the task list. Each person only works on issues assigned to them, which keeps two people (and two Claude Code sessions) from working on the same thing.
-
-1. **Create issues** for anything that needs doing, using the Bug Report or Feature Request template on GitHub, or `/create-bug` and `/create-feature` in Claude Code.
-2. **Triage** - agree who takes each issue, then assign it and set a priority label.
-3. **Work** - in Claude Code, run `/my-tasks` to see your issues, then `/start-issue <number>`. Or just tell Claude "Work through my assigned GitHub issues".
-4. **Submit for review** - `/submit-for-review <number>` commits and pushes to `dev`, then checks the fix actually worked (re-checks the files, then tests the change on the deployed `dev` site, not a local build). Once it's verified, Claude posts a comment explaining what changed, how it was checked, and links to the dev pages, then adds the **`needs-review`** label. **Claude never closes issues.**
-5. **Review** - you check the change on the dev site:
+1. **Create an issue** for anything that needs doing (GitHub's Bug Report or Feature Request template, or `/create-bug` / `/create-feature` in Claude Code), and assign it.
+2. **Claude works on it:** ask Claude to "work through my issues", or run `/start-issue <number>`. Claude tests the result on the dev site, posts a summary on the issue, and adds the **`needs-review`** label.
+3. **You review it** on the dev site:
    - **Acceptable:** close the issue.
-   - **Not acceptable:** comment on the issue saying what needs to change, then **remove the `needs-review` label**. That hands it back to Claude, which reads every comment since it last asked for review, reworks the issue and resubmits it.
-6. **Publish** - every push to `dev` is deployed to https://dev--bardon-scouts-website.netlify.app/ for checking. Merge `dev` into `master` to publish to the live site (https://bardonscouts.org.au/).
+   - **Not acceptable:** comment with what needs to change, then **remove `needs-review`** to hand it back to Claude.
 
-### Who has the issue? The `needs-review` label decides
+Claude never closes issues. To see what's waiting on you, use [open issues labelled `needs-review`](https://github.com/bardon-scouts/bardon-scouts-website/issues?q=is%3Aopen+label%3Aneeds-review) or `/review-queue`.
 
-- **Has `needs-review`:** it's waiting on you, either to review finished work or to answer a question when it's also labelled `blocked`. Claude won't touch it.
-- **No `needs-review`:** it's Claude's to work on. Remove the label whenever you want Claude to pick an issue back up.
+## Setup for new collaborators
 
-### What's waiting for me?
+1. **Access.** You need write access to this repository, and read access to the private plugin repository `lvlup-labs/lvlup-workflow`. Ask Anthoney for both.
+2. **Install:** [Git](https://git-scm.com/downloads), [GitHub CLI](https://cli.github.com/), [Claude Code](https://claude.com/claude-code) and Python 3. On Windows, Git for Windows provides the Git Bash that Claude Code's hooks need.
+3. **Log in to GitHub** so Claude Code can download the private plugin:
 
-Bookmark this GitHub filter: [open issues labelled `needs-review`](https://github.com/bardon-scouts/bardon-scouts-website/issues?q=is%3Aopen+label%3Aneeds-review). Or run `/review-queue` in Claude Code, which also shows the dev links and anything Claude has asked you to check or answer.
+   ```sh
+   gh auth login
+   gh auth setup-git
+   ```
 
-### Checking which commit is deployed
+4. **Clone** and switch to `dev`:
 
-Netlify doesn't report build status to GitHub for this repo, so check it one of these ways.
+   ```sh
+   git clone https://github.com/bardon-scouts/bardon-scouts-website.git
+   git -C bardon-scouts-website checkout dev
+   ```
 
-**Netlify CLI.** Log in to the Bardon Scouts Netlify account (`netlify login`, team `bardon-scouts`) and link the folder once with `netlify link --name bardon-scouts-website`. Then:
+5. **Open Claude Code in the `bardon-scouts-website` folder itself**, not a parent folder, so it finds this project's settings and docs. The plugin installs in the background. **Reload once** (VS Code: Developer: Reload Window; terminal: restart), and it's active.
+6. **Optional, for checking deploys:** the [Netlify CLI](https://docs.netlify.com/cli/get-started/), logged in to the Bardon Scouts Netlify team, with `netlify link --name bardon-scouts-website` run once in the folder.
 
-```sh
-netlify api listSiteDeploys --data '{"site_id":"5134019f-f869-4cf3-91f3-a36e2acd8055","per_page":5}'
-```
+## This project
 
-Each deploy shows its `branch`, `commit_ref` and `state`: `ready` means it worked, `error` means it failed (see `error_message`).
-
-**Deploy stamp.** Every page includes a hidden `<meta name="deploy-commit">` tag with the commit it was built from:
-
-```sh
-curl -s https://dev--bardon-scouts-website.netlify.app/ | grep -oE 'deploy-commit content="?[0-9a-f]{40}'
-```
-
-If it matches `git rev-parse HEAD`, your latest push is live on the dev site.
-
-### Claude Code slash commands
-
-| Command | What it does |
-|---|---|
-| `/my-tasks` | List my open issues: returned from review first, then Claude's work, then what's waiting on me |
-| `/review-queue` | List issues labelled `needs-review` (waiting on me) |
-| `/check-feedback` | Find issues I've handed back from review and summarise my feedback |
-| `/create-bug` | Create a bug report interactively |
-| `/create-feature` | Create a feature request interactively |
-| `/start-issue <number>` | Assign to me, add `in-progress`, comment "Starting work" |
-| `/submit-for-review <number>` | Commit, push, verify on dev, post a summary, then add `needs-review` (never closes) |
-
-The full rules Claude follows are in [.claude/instructions.md](.claude/instructions.md).
-
-### Useful `gh` commands
-
-```sh
-gh issue list --assignee "@me" --state open      # my tasks
-gh issue list --state open --label needs-review   # waiting on me
-gh issue list --state open                        # everything open
-gh issue list --search "no:assignee"             # needs triage
-gh issue view 12 --comments                       # read an issue
-gh issue edit 12 --add-assignee hamish-username   # assign to someone
-```
-
-### Labels
-
-| Group | Labels | Meaning |
-|---|---|---|
-| Status | `ready`, `in-progress`, `blocked`, `needs-review` | Where the issue is up to. `needs-review` = waiting on you; remove it to hand the issue back to Claude |
-| Type | `bug`, `enhancement`, `content`, `documentation` | What kind of change |
-| Priority | `priority-high`, `priority-medium`, `priority-low` | How urgent |
-| Source | `website-feedback`, `complaint`, `discovered` | Where it came from (`discovered` = found while working on something else) |
-
-## Commit Messages
-
-Use a short summary line, include the issue number, and add detail below a blank line if needed:
-
-```
-Update Cubs meeting time (#12)
-
-Cubs now meet Tuesday 6:30pm. Updated the section page and homepage schedule.
-```
-
-Do not include Claude Code attribution lines. See [.claude/instructions.md](.claude/instructions.md) for content standards.
+- **Docs:** `docs/principles.md` (what matters on this site) and `docs/requirements/` (content standards, event pages, pages and navigation, sections, home page). Claude reads these; please keep them current when things change.
+- **Branches:** work on `dev`, which deploys to https://dev--bardon-scouts-website.netlify.app/. Merging `dev` into `master` publishes to https://bardonscouts.org.au/. The CMS currently saves straight to `master` (see [#14](https://github.com/bardon-scouts/bardon-scouts-website/issues/14)).
+- **Checking a change:** Claude uses the `verify` skill (`.claude/skills/verify/SKILL.md`), which confirms the Netlify deploy of a commit and then checks the pages on the dev site.
+- **Extra labels** on top of the plugin's standard ones: `content` (text or page changes), `website-feedback` and `complaint` (where an issue came from).
