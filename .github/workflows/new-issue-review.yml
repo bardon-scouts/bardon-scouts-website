@@ -1,0 +1,20 @@
+# lvlup-workflow: every new issue waits for the owner's approval.
+# The owner removes needs-review to put the issue on Claude's list.
+name: New issues need review
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  issues: write
+
+jobs:
+  label:
+    runs-on: ubuntu-latest
+    steps:
+      - run: gh issue edit "$NUMBER" --add-label needs-review
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          NUMBER: ${{ github.event.issue.number }}
