@@ -2,7 +2,7 @@
 name: Feature Request
 about: Suggest a new feature or improvement for the Bardon Scouts website
 title: '[FEATURE] '
-labels: 'enhancement, needs-review'
+labels: 'enhancement'
 assignees: ''
 ---
 

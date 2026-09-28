@@ -4,7 +4,7 @@ This site is maintained by Bardon Scout Leaders using Claude Code, with GitHub I
 
 ## How we work
 
-The process (creating and approving issues, Claude's work and testing, your review, writing style, commit rules) comes from the **lvlup-workflow** Claude Code plugin, which this project enables in `.claude/settings.json`. Its README, in [lvlup-labs/lvlup-workflow](https://github.com/lvlup-labs/lvlup-workflow), explains the process, the commands and the one-time setup for each computer.
+The process (issue states from backlog to `ready`, `in-progress` and `needs-review`, Claude's work and testing, your review, writing style, commit rules) comes from the **lvlup-workflow** Claude Code plugin, which this project enables in `.claude/settings.json`. Its README, in [lvlup-labs/lvlup-workflow](https://github.com/lvlup-labs/lvlup-workflow), explains the process, the commands and the one-time setup for each computer.
 
 ## Setup for new collaborators
 
