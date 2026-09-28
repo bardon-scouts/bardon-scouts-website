@@ -288,7 +288,7 @@ The event has grown significantly over the years, now regularly hosting over 800
 
 ## Get Involved
 
-Cuboree is a once-in-a-lifetime opportunity for Cubs that creates unforgettable memories and friendships!
+Cuboree runs every two to three years, so most Cubs get one chance to attend.
 
 Interested in attending the next Cuboree? Speak to your Cub Leader about registration details and eligibility, or [contact Bardon Scouts](/contact/) for more information.
 
