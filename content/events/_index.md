@@ -6,7 +6,7 @@ type: page
 
 ## Annual Events & Fundraisers
 
-Bardon Scouts actively participates in community events and Scout activities throughout the year. These events provide opportunities for our members to engage with the wider community, develop their skills, and create lasting memories.
+Bardon Scouts actively participates in community events and Scout activities throughout the year. These events provide opportunities for our members to engage with the wider community, and develop their skills.
 
 ### [ANZAC Day March](/anzac-day-march/)
 **When:** 25 April (annually)
@@ -22,7 +22,7 @@ Each ANZAC Day, Bardon Scouts proudly marches in the commemorative service at th
 **When:** Every 2-3 years (Next: April 9-13, 2026)
 **Who:** Cubs only
 
-Cuboree is Queensland's premier five-day camping experience for Cubs, held at Baden-Powell Park in Samford. Over 800 Cubs from across the state come together for non-stop adventure, friendship, and discovery through Special Interest Areas, outdoor adventure skills, and themed activities. Often a Cub's first extended time away from home, Cuboree creates memories that last a lifetime!
+Cuboree is Queensland's five-day state camp for Cubs, held at Baden-Powell Park in Samford. Over 800 Cubs from across the state come together for adventure, friendship and activities through Special Interest Areas, outdoor adventure skills, and themed activities. For many Cubs it is their first extended time away from home.
 
 [Learn more about Cuboree →](/cuboree/)
 
@@ -62,7 +62,7 @@ Fresh North Queensland Kensington Pride mangoes delivered direct from the farm. 
 **When:** June (annually)
 **Who:** Joeys, Cubs, Scouts, Venturers
 
-The Bardon State School Mayfair is one of Brisbane's most beloved community events. Held each June, this vibrant fundraiser brings together thousands of families for a day of markets, entertainment, food, and fun. Bardon Scouts runs an information stall showcasing our programs and connecting with local families.
+The Bardon State School Mayfair is the school's main fundraiser. Held each June, it brings together thousands of families for a day of markets, entertainment, food, and fun. Bardon Scouts runs an information stall showcasing our programs and connecting with local families.
 
 [Learn more about Bardon Mayfair →](/bardon-mayfair/)
 
@@ -72,7 +72,7 @@ The Bardon State School Mayfair is one of Brisbane's most beloved community even
 **When:** Late July or early August (annually)
 **Who:** Scouts and Venturers
 
-KnightMoves is Brisbane North Region's premier overnight navigation adventure. Now in its 14th year, this challenging event combines night-time navigation, bushwalking, and themed activity bases in an overnight camping format. Scouts and Venturers navigate through the bush using maps and compasses, finding 25 route markers and completing challenges to earn points for their patrol.
+KnightMoves is Brisbane North Region's overnight navigation event. Now in its 14th year, this challenging event combines night-time navigation, bushwalking, and themed activity bases in an overnight camping format. Scouts and Venturers navigate through the bush using maps and compasses, finding 25 route markers and completing challenges to earn points for their patrol.
 
 [Learn more about KnightMoves →](/knightmoves/)
 
@@ -82,7 +82,7 @@ KnightMoves is Brisbane North Region's premier overnight navigation adventure. N
 **When:** August (second full weekend)
 **Who:** Scouts only
 
-Operation NightHawk is Queensland's premier overnight Scout hike, held annually on the Darling Downs. This legendary event attracts around 1,200 Scouts from across Queensland and Northern NSW for a challenging night-time bush hike featuring navigation, skill bases, and leadership challenges.
+Operation NightHawk is an overnight Scout hike held annually on the Darling Downs. It attracts around 1,200 Scouts from across Queensland and Northern NSW for a challenging night-time bush hike featuring navigation, skill bases, and leadership challenges.
 
 [Learn more about Operation NightHawk →](/operation-nighthawk/)
 
@@ -122,7 +122,7 @@ Pizza and Paddle at Brownsea Water Activities Centre combines canoeing on the wa
 **When:** Once or twice per year (dates announced by Section Leaders)
 **Who:** Typically all sections (Joeys, Cubs, Scouts, Venturers)
 
-Indoor rock climbing at Rocksports in Fortitude Valley offers Scouts an exciting challenge in a safe, supervised environment. With 30 climbing walls, auto belays, and kid-specific sections, Scouts of all ages can build confidence, develop problem-solving skills, and experience the thrill of reaching new heights. All equipment provided!
+Indoor rock climbing at Rocksports in Fortitude Valley offers Scouts an exciting challenge in a safe, supervised environment. With 30 climbing walls, auto belays, and kid-specific sections, Scouts of all ages can build confidence, develop problem-solving skills, and learn to climb. All equipment provided!
 
 [Learn more about Rock Climbing →](/rock-climbing/)
 
@@ -175,7 +175,7 @@ Community events and Scout activities are an essential part of the Bardon Scouts
 - **Skill Development** - Practical application of skills learned at weekly meetings
 - **Community Connection** - Building relationships within our local community
 - **Character Building** - Developing resilience, teamwork, and leadership
-- **Fun & Adventure** - Creating memories and friendships that last a lifetime
+- **Fun & Adventure** - Making friends and trying new activities
 - **Service** - Supporting local schools and community fundraising efforts
 
 ## Get Involved

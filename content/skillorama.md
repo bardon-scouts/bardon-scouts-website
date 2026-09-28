@@ -8,7 +8,7 @@ image: /img/skillorama.jpg
 
 ## The Best Day Out for Joeys and Cubs
 
-Skillorama is Queensland's premier event for Joeys and Cubs: a day of adventure, activities, and fun held annually at Redcliffe Showgrounds. This exciting event brings together thousands of young Scouts from across Southeast Queensland for a day filled with games, challenges, and scouting activities designed and built by older Scouts, Venturers, and Rovers.
+Skillorama is a Queensland event for Joeys and Cubs: a day of adventure, activities, and fun held annually at Redcliffe Showgrounds. This exciting event brings together thousands of young Scouts from across Southeast Queensland for a day filled with games, challenges, and scouting activities designed and built by older Scouts, Venturers, and Rovers.
 
 ## Event Details
 
@@ -24,7 +24,7 @@ Celebrating over 50 years of tradition, Skillorama is a unique Scouting event wh
 **What Makes Skillorama Special:**
 - **Youth-Led Activities** - Older Scouts create and manage all activity bases
 - **Massive Scale** - Up to 1,300 Joeys and Cubs participate
-- **Incredible Variety** - Dozens of different activity stations and challenges
+- **Variety** - Dozens of different activity stations and challenges
 - **Traditional Scouting** - Activities incorporate classic scouting skills
 - **Community Spirit** - Scout Groups from across the region unite for one big day
 
@@ -39,7 +39,7 @@ Celebrating over 50 years of tradition, Skillorama is a unique Scouting event wh
 
 ## Activities at Skillorama
 
-Skillorama features an incredible array of activities designed to challenge, excite, and inspire young Scouts. Past events have included:
+Skillorama has a wide range of activities for Joeys and Cubs. Past events have included:
 
 **Adventure Activities:**
 - Mud runs and obstacle courses
@@ -77,7 +77,7 @@ Each Scout Group creates their own unique activity base, competing for "Best Bas
 
 ## Why Joeys and Cubs Love Skillorama
 
-**Non-Stop Action**
+**Lots to Try**
 With dozens of activity stations, there's always something new to try and explore.
 
 **Big Day Out**
@@ -208,7 +208,7 @@ While Joeys and Cubs enjoy the activities, they're also witnessing youth leaders
 
 ## After Skillorama
 
-Many Joeys and Cubs cite Skillorama as their favourite Scouting event of the year. The excitement, variety, and scale make it an unforgettable experience.
+Many Joeys and Cubs cite Skillorama as their favourite Scouting event of the year. They enjoy the variety and the size of the day.
 
 **Keep the Adventure Going:**
 - Share your favourite activities with your section at weekly meetings

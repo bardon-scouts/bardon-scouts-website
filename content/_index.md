@@ -7,7 +7,7 @@ hero:
   subheading: "Get ready for adventure"
 mainPitch:
   title: "Why Join Scouts?"
-  text: "Scouting is fun! Make new friends, try new things and take part in once-in-a-lifetime opportunities."
+  text: "Scouting is fun! Make new friends, try new things and take part in camps and events they can't do anywhere else."
 contactCTA: true
 ---
 

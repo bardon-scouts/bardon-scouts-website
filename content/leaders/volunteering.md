@@ -12,7 +12,7 @@ Beyond your everyday role as parent, professional, or partner, there's another y
 ## Why Volunteer with Scouts?
 
 **Learn New Skills**
-No prior experience required! We provide comprehensive training in leadership, teamwork, outdoor skills, and more. Whether you're interested in bushcraft, first aid, or youth development, you'll gain valuable skills that benefit both Scouts and your personal growth.
+No prior experience required! We provide comprehensive training in leadership, teamwork, outdoor skills, and more. You'll learn skills such as bushcraft, first aid and youth development.
 
 **Get Outdoors**
 Scouting happens outdoors. Camping, hiking, and outdoor adventures are the primary learning settings, promoting both physical and mental wellness while connecting with nature.
@@ -84,7 +84,7 @@ An open mind and enthusiasm are the most important qualities. We'll teach you ev
 
 Discover the rewarding experience of volunteering with Bardon Scouts. Whether you have a few hours a month or can commit to weekly involvement, your contribution will help young people develop skills for life.
 
-**[Contact us](/contact/) to start your volunteering journey today!**
+**[Contact us](/contact/) to find out about volunteering.**
 
 We'd love to hear from you and discuss how you can get involved with Bardon Scouts.
 

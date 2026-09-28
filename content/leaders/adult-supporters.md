@@ -48,8 +48,8 @@ From outdoor skills to youth engagement techniques, you'll gain valuable experie
 **It's Fun!**
 Scouting is about adventure, games, challenges, and laughter. Adult Supporters often say they have as much fun as the kids!
 
-**Make Lasting Memories**
-The experiences you share with your child and their Scout friends create memories that last a lifetime - for both you and them.
+**Time With Your Child**
+You share the camps and activities with your child and their Scout friends.
 
 ### What Does an Adult Supporter Do?
 

@@ -20,7 +20,7 @@ Pizza and Paddle is a fun Friday night activity at Brownsea Water Activities Cen
 
 ## About Brownsea Water Activities Centre
 
-Brownsea is Queensland Scouts' premier water activities centre, offering sailing, kayaking, and canoeing programs for Scouts from Northern NSW to Bundaberg. Located on the water, Brownsea provides the perfect setting for Scouts to develop water skills, build confidence, and experience outdoor adventure.
+Brownsea is Queensland Scouts' water activities centre, offering sailing, kayaking, and canoeing programs for Scouts from Northern NSW to Bundaberg. Located on the water, Brownsea is where Scouts develop water skills, build confidence, and experience outdoor adventure.
 
 The centre offers:
 - Canoe and kayak activities

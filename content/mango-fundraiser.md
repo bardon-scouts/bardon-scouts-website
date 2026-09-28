@@ -40,7 +40,7 @@ You'll be notified with the exact date once confirmed
 
 ## About Kensington Pride Mangoes
 
-Kensington Pride is Australia's most beloved mango variety, accounting for over 80% of the country's commercial mango market. Known for their exceptional flavour, these mangoes are picked during the premium North Queensland harvest season in December when they're at their peak quality.
+Kensington Pride is Australia's most popular mango variety, accounting for over 80% of the country's commercial mango market. Known for their exceptional flavour, these mangoes are picked during the premium North Queensland harvest season in December when they're at their peak quality.
 
 ### Why Kensington Pride?
 

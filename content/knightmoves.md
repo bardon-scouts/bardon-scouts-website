@@ -8,7 +8,7 @@ image: /img/knightmoves.jpg
 
 ## Overnight Navigation Adventure
 
-KnightMoves is an exciting overnight navigation and camping activity organized annually by Brisbane North Region for Scout and Venturer sections. This challenging event combines night-time navigation, bushwalking, activity bases, and camping in a fun, adventure-packed format that tests skills, builds confidence, and creates unforgettable memories.
+KnightMoves is an exciting overnight navigation and camping activity organized annually by Brisbane North Region for Scout and Venturer sections. This challenging event combines night-time navigation, bushwalking, activity bases, and camping in a fun, adventure-packed format that tests skills and builds confidence.
 
 ## Event Details
 
@@ -19,7 +19,7 @@ KnightMoves is an exciting overnight navigation and camping activity organized a
 
 ## About KnightMoves
 
-Now in its 14th year, KnightMoves is Brisbane North Region's premier overnight navigation event, regularly attracting over 250 Scouts and Venturers from across the region. The event provides youth members with the opportunity to develop navigation and bushwalking skills in a safe, controlled environment during a challenging overnight hike.
+Now in its 14th year, KnightMoves is Brisbane North Region's overnight navigation event, regularly attracting over 250 Scouts and Venturers from across the region. The event provides youth members with the opportunity to develop navigation and bushwalking skills in a safe, controlled environment during a challenging overnight hike.
 
 **What Makes KnightMoves Special:**
 - **Night Navigation** - Navigate through the bush using maps, compasses, and teamwork
@@ -279,7 +279,7 @@ KnightMoves relies on parent volunteers to support activity bases, checkpoints, 
 
 If your Scout or Venturer loves KnightMoves, they might also enjoy:
 
-- **[Operation NightHawk](/operation-nighthawk/)** - Queensland's premier overnight Scout hike (Scouts only)
+- **[Operation NightHawk](/operation-nighthawk/)** - Overnight hike on the Darling Downs (Scouts only)
 - **Section Camps** - Weekend camps and hiking activities throughout the year
 - **Regional Events** - Other Brisbane North Region multi-section activities
 

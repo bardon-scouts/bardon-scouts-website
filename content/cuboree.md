@@ -1,14 +1,14 @@
 ---
 title: "Cuboree"
-description: "Queensland Cuboree - Five epic days of adventure, friendship, and discovery for Cubs"
+description: "Queensland Cuboree - a five-day state camp for Cubs"
 type: page
 image: /img/cuboree.jpg
 ---
 
 
-## Five Epic Days of Cub Adventure
+## Five Days of Camping for Cubs
 
-Cuboree is Queensland's premier camping experience for Cubs: a five-day event held every two to three years that brings together hundreds of Cubs from across the state for non-stop fun, friendship, and outdoor adventure. This unforgettable experience is often a Cub's first extended time away from home and creates memories that last a lifetime.
+Cuboree is Queensland's state camp for Cubs: a five-day event held every two to three years that brings together over 800 Cubs from across the state for activities, friendship and outdoor adventure. It is often a Cub's first extended time away from home.
 
 ## Event Details
 
@@ -28,14 +28,13 @@ Cuboree is a celebration of Cubs on a grand scale. The event brings together ove
 - **Special Interest Areas** - Six themed areas for exploration and achievement
 - **Milestone Progress** - Activities designed to support advancement
 - **Outdoor Adventure Skills** - Hands-on skill development in nature
-- **Lifelong Memories** - Often cited as the highlight of a Cub's Scouting journey
 
 **Event Theme:**
-Each Cuboree has a unique theme. Cuboree 2026 is themed "Shake It Up!" - encouraging Cubs to try new things, embrace challenges, and shake up their comfort zones with exciting adventures.
+Each Cuboree has a unique theme. Cuboree 2026 is themed "Shake It Up!" - encouraging Cubs to try new things and take on challenges.
 
 ## Baden-Powell Park
 
-Cuboree is held at Baden-Powell Park (BP Park), a spectacular 56-hectare Scout campsite nestled in the Samford Valley, just 30 minutes from Brisbane.
+Cuboree is held at Baden-Powell Park (BP Park), a 56-hectare Scout campsite in the Samford Valley, just 30 minutes from Brisbane.
 
 **Location:**
 Baden-Powell Park
@@ -52,7 +51,7 @@ Baden-Powell Park
 - Recreational zones and campfire areas
 
 **Environment:**
-The park offers a perfect mix of natural bushland and purpose-built Scouting facilities, providing an ideal setting for outdoor adventure, skill development, and the authentic camping experience that defines Cuboree.
+The park has natural bushland as well as purpose-built Scouting facilities.
 
 ## How Cuboree Works
 
@@ -82,7 +81,7 @@ This tiered structure ensures:
 
 ## Activities & Program
 
-Cuboree delivers a vibrant, action-packed program designed to engage Cubs in outdoor adventure, creative exploration, and skill development.
+The Cuboree program covers outdoor adventure, creative activities and skill development.
 
 **Activity Zones:**
 Throughout the five days, Cubs rotate through various activity zones including:
@@ -127,8 +126,8 @@ For many Cubs, Cuboree is their first extended time away from home, which builds
 **Statewide Friendships**
 Meet hundreds of Cubs from across Queensland and form friendships that extend beyond the event.
 
-**Non-Stop Adventure**
-Five full days of activities mean there's always something happening.
+**Full Program**
+Five full days of activities, from morning until the evening campfire.
 
 **Achievement & Milestones**
 Work toward Milestones and Special Interest Area achievements throughout the event.
@@ -139,8 +138,8 @@ From abseiling to joy flights, Cubs experience activities they'll remember for l
 **Patrol Bonding**
 Living, camping, and adventuring with your patrol creates strong bonds and teamwork.
 
-**Scale & Energy**
-Being part of an 800+ Cub event creates incredible energy and excitement.
+**Scale**
+Cubs camp alongside more than 800 other Cubs from across Queensland.
 
 ## Skills Developed
 
@@ -293,7 +292,7 @@ Cuboree runs every two to three years, so most Cubs get one chance to attend.
 Interested in attending the next Cuboree? Speak to your Cub Leader about registration details and eligibility, or [contact Bardon Scouts](/contact/) for more information.
 
 **For Parent Volunteers:**
-Cuboree relies on adult volunteers to support activities, catering, and supervision. If you're interested in volunteering at Cuboree, speak to your Cub Leader about volunteer opportunities. Volunteers get to witness the magic of Cuboree while supporting an incredible experience for young people!
+Cuboree relies on adult volunteers to support activities, catering, and supervision. If you're interested in volunteering at Cuboree, speak to your Cub Leader about volunteer opportunities. Volunteers see Cuboree first-hand while helping it run.
 
 ## More Information
 

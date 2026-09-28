@@ -19,7 +19,7 @@ Rock climbing is an exciting adventure activity that Bardon Scouts offers once o
 
 ## About Rocksports
 
-Rocksports is Brisbane's first and original indoor rock climbing gym, operating since 1996. Located in a converted brick warehouse in Fortitude Valley, the facility offers a world-class climbing experience just minutes from the Brisbane CBD.
+Rocksports is Brisbane's first and original indoor rock climbing gym, operating since 1996. Located in a converted brick warehouse in Fortitude Valley, it is a few minutes from the Brisbane CBD.
 
 **Facility Features:**
 - **30 climbing walls** with over 100 routes

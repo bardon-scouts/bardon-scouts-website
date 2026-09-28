@@ -12,7 +12,7 @@ Bardon Scouts proudly participated in the Milton State School Fair on the Green 
 
 ### About Fair on the Green
 
-Fair on the Green is Milton State School's annual community fundraising event, bringing together families from across Brisbane for a day of entertainment and activities. Hosted by the Milton State School P&C Association, the fair has become a beloved fixture on the Brisbane community calendar.
+Fair on the Green is Milton State School's annual community fundraising event, bringing together families from across Brisbane for a day of entertainment and activities. Hosted by the Milton State School P&C Association, the fair is held every year.
 
 The event typically features:
 - Carnival rides and games
@@ -38,7 +38,7 @@ Saturday, 29 August 2026
 11:00am - 8:00pm
 Gregory Park, Milton State School
 
-If you're planning to attend the fair, come and visit our stall! Whether you're interested in joining Scouts, want to learn more about volunteering, or just want to chat about our adventures, we'd love to see you there.
+If you're planning to attend the fair, come and visit our stall! Come and ask about joining Scouts or volunteering, or just have a chat.
 
 ### Parent Information
 

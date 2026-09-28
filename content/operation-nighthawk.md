@@ -1,16 +1,16 @@
 ---
 title: "Operation NightHawk"
-description: "Bardon Scouts at Operation NightHawk - Queensland's premier overnight Scout hike"
+description: "Bardon Scouts at Operation NightHawk - an overnight Scout hike on the Darling Downs"
 type: page
 image: /img/operation-nighthawk.jpg
 ---
 
 
-## Queensland's Premier Scout Adventure
+## An Overnight Hike for Scouts
 
-Operation NightHawk is an overnight bush hike and one of the largest Scouting youth activities in Queensland, attracting around 1,200 Scouts plus adult leaders and supporters each year. Since its inception in 1982, NightHawk has become a legendary event in the Queensland Scouting calendar, second only to Jamborees in scale and excitement.
+Operation NightHawk is an overnight bush hike and one of the largest Scouting youth activities in Queensland, attracting around 1,200 Scouts plus adult leaders and supporters each year. Since its inception in 1982, NightHawk has become one of the largest events in the Queensland Scouting calendar.
 
-Bardon Scouts regularly participates in this incredible event, giving our Scouts the opportunity to test their skills, challenge themselves, and experience adventure alongside Scouts from across Queensland and Northern NSW.
+Bardon Scouts regularly takes part, giving our Scouts the opportunity to test their skills, challenge themselves, and experience adventure alongside Scouts from across Queensland and Northern NSW.
 
 ## The Challenge
 

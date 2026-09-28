@@ -8,7 +8,7 @@ tags:
   - mangoes
 ---
 
-The 2026 Mango Fundraiser is coming soon in October! Get your space ready for your tray (or five) of amazing mangoes.
+The 2026 Mango Fundraiser is coming soon in October! Get your space ready for your tray (or five) of mangoes.
 
 Our annual mango fundraiser brings delicious, fresh Kensington Pride mangoes direct from North Queensland farms to your door. These premium mangoes are perfect for enjoying fresh, sharing with friends and family, or giving as gifts during the holiday season.
 

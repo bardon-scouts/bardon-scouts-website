@@ -5,12 +5,12 @@ type: page
 image: /img/bardon-mayfair.jpg
 ---
 
-Bardon Scouts was proud to be part of the recent Bardon State School Mayfair, one of Brisbane's most beloved community events and the school's signature fundraiser.
+Bardon Scouts was proud to be part of the recent Bardon State School Mayfair, a large community event and the school's main fundraiser.
 
 
 ## A Community Tradition
 
-The Bardon Mayfair is held annually each June at Bardon State School on Simpsons Road. This vibrant community celebration brings together thousands of families from across Brisbane for a full day of entertainment, markets, food, and fun.
+The Bardon Mayfair is held annually each June at Bardon State School on Simpsons Road. It brings together thousands of families from across Brisbane for a full day of entertainment, markets, food, and fun.
 
 As the P&C Association's main fundraiser for the year, the Mayfair supports essential school resources including additional teacher aide time, air conditioning upgrades, and technology support.
 
@@ -36,7 +36,7 @@ The Bardon Mayfair has earned its reputation as a must-attend Brisbane event, fe
 - Licensed bar area
 - BBQ and refreshments
 
-**Plus** an epic raffle with prizes donated by local businesses!
+**Plus** a raffle with prizes donated by local businesses!
 
 ## Bardon Scouts at Mayfair
 
@@ -46,7 +46,7 @@ At this year's Mayfair, Bardon Scouts ran an information stall where we:
 - Connected with local families interested in joining
 - Showcased photos and stories from recent Scout adventures
 
-The atmosphere was fantastic, with families enjoying the beautiful June weather and the incredible variety of activities on offer. It was wonderful to be part of such a significant community event right here in Bardon.
+The atmosphere was fantastic, with families enjoying the beautiful June weather and the wide range of activities on offer. It was wonderful to be part of such a significant community event right here in Bardon.
 
 ## Looking Ahead to 2025
 
@@ -58,7 +58,7 @@ The next Bardon Mayfair will be held on:
 **9:00am - 4:00pm**
 Bardon State School, 330 Simpsons Road, Bardon
 
-Bardon Scouts will be there again, and we'd love to see you! Whether you're a current Scout family, thinking about joining, or just want to learn more about what we do, come and visit our stall.
+Bardon Scouts will be there again, and we'd love to see you! Current Scout families, families thinking about joining and anyone who wants to learn more are welcome at our stall.
 
 ## Parent Information
 

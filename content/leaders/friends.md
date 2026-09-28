@@ -5,7 +5,7 @@ type: page
 image: /img/scouts_logo.jpg
 ---
 
-Friends of Bardon Scouts are people who have been part of our Scout Group and want to stay connected with our community. Whether you're a former leader, parent, committee member, or supporter, we value your ongoing connection to Bardon Scouts.
+Friends of Bardon Scouts are people who have been part of our Scout Group and want to stay connected with our community. Former leaders, parents, committee members and supporters are all welcome.
 
 ## Who Are Friends of Bardon Scouts?
 
