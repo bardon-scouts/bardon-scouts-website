@@ -251,6 +251,12 @@
 
 # About dropdown items
 [[main]]
+  name = "Our History"
+  parent = "about"
+  url = "/history/"
+  weight = 2.01
+
+[[main]]
   name = "Calendar"
   parent = "about"
   url = "/calendar/"
