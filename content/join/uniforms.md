@@ -13,10 +13,10 @@ The basic uniform consists of three items:
 
 Choose the appropriate shirt for your child's section:
 
-- **Joeys (6-8 years)**: [Joey Scout Uniform](https://scoutshop.com.au/collections/joey-uniform)
-- **Cubs (8-11 years)**: [Cub Scout Uniform](https://scoutshop.com.au/collections/cub-uniform)
-- **Scouts (11-15 years)**: [Scout Uniform](https://scoutshop.com.au/collections/scout-uniform)
-- **Venturers (14-18 years)**: [Venturer Scout Uniform](https://scoutshop.com.au/collections/venturer-uniform)
+- **Joeys**: [Joey Scout Uniform](https://scoutshop.com.au/collections/joey-uniform)
+- **Cubs**: [Cub Scout Uniform](https://scoutshop.com.au/collections/cub-uniform)
+- **Scouts**: [Scout Uniform](https://scoutshop.com.au/collections/scout-uniform)
+- **Venturers**: [Venturer Scout Uniform](https://scoutshop.com.au/collections/venturer-uniform)
 
 ### 2. Queensland Scarf
 

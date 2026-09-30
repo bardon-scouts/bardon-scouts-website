@@ -62,10 +62,10 @@ Want to be notified when our Rover section launches? [Contact us](/contact/) and
 ---
 
 **Other Scout Sections at Bardon:**
-- **[Joeys](/sections/joeys/)** - Ages 6 to 8
-- **[Cubs](/sections/cubs/)** - Ages 8 to 11
-- **[Scouts](/sections/scouts/)** - Ages 11 to 15
-- **[Venturers](/sections/venturers/)** - Ages 14 to 18
+- **[Joeys](/sections/joeys/)**
+- **[Cubs](/sections/cubs/)**
+- **[Scouts](/sections/scouts/)**
+- **[Venturers](/sections/venturers/)**
 
 **Learn More:**
 - **[Contact Us](/contact/)** - Express your interest in Rovers

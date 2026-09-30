@@ -22,10 +22,7 @@ Scout meetings run during Queensland school terms. Regular meetings are held eac
 
 ### Weekly Meeting Times (During School Terms)
 
-**Joeys** - Tuesday 6:30-7:30pm
-**Cubs** - Tuesday 6:30-8:00pm
-**Scouts** - Thursday 6:30-8:30pm
-**Venturers** - Thursday 7:00-9:00pm
+Each section meets weekly. See the section pages for meeting days and times: [Joeys](/sections/joeys/), [Cubs](/sections/cubs/), [Scouts](/sections/scouts/) and [Venturers](/sections/venturers/).
 
 **Location:** 11 Bee Street, Bardon
 
