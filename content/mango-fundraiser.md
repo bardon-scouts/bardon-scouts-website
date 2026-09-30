@@ -28,13 +28,7 @@ Bardon Scout Den, 11 Bee Street, Bardon
 Contact Robyn at: [robynzagel@gmail.com](mailto:robynzagel@gmail.com)
 Please include your contact details and number of trays
 
-**2. Make Payment**
-Transfer to: **Bardon Scouts**
-**BSB:** 124 035
-**Account:** 23306592
-**Reference:** Mangoes/YourName
-
-**3. Pick Up in December**
+**2. Pick Up in December**
 Collect your fresh mangoes from the Bardon Scout Den
 You'll be notified with the exact date once confirmed
 
@@ -125,7 +119,6 @@ Don't miss this opportunity to enjoy premium North Queensland Kensington Pride m
 **Order by 28 October 2024**
 
 Email: [robynzagel@gmail.com](mailto:robynzagel@gmail.com)
-Payment: BSB 124 035, Account 23306592, Ref: Mangoes/YourName
 
 Thank you for your support!
 
