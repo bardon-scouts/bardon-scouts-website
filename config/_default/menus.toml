@@ -220,31 +220,31 @@
 
 # Sections dropdown items
 [[main]]
-  name = "Joeys (6-8)"
+  name = "Joeys"
   parent = "sections"
   url = "/sections/joeys/"
   weight = 1
 
 [[main]]
-  name = "Cubs (8-11)"
+  name = "Cubs"
   parent = "sections"
   url = "/sections/cubs/"
   weight = 2
 
 [[main]]
-  name = "Scouts (11-15)"
+  name = "Scouts"
   parent = "sections"
   url = "/sections/scouts/"
   weight = 3
 
 [[main]]
-  name = "Venturers (14-18)"
+  name = "Venturers"
   parent = "sections"
   url = "/sections/venturers/"
   weight = 4
 
 [[main]]
-  name = "Rovers (18-25) - Coming Soon"
+  name = "Rovers - Coming Soon"
   parent = "sections"
   url = "/sections/rovers/"
   weight = 5
