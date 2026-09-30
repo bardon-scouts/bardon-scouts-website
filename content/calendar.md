@@ -120,7 +120,7 @@ Each section meets weekly. See the section pages for meeting days and times: [Jo
 
 ## Year-Round Activities
 
-**[Pizza and Paddle](/pizza-and-paddle/)** (Scouts) - Friday nights throughout the year
+**[Pizza and Paddle](/pizza-and-paddle/)** (Scouts, Venturers and Rovers) - Friday nights throughout the year
 
 **[Rock Climbing](/rock-climbing/)** - Once or twice per year
 

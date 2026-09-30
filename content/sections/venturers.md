@@ -16,7 +16,7 @@ Venturers participate in these annual events and activities:
 - **[Clean Up Australia Day](/clean-up-australia-day/)**
 - **[Fair on the Green](/fair-on-the-green/)**
 - **[KnightMoves](/knightmoves/)**
-- **[Pizza and Paddle](/pizza-and-paddle/)** (may attend)
+- **[Pizza and Paddle](/pizza-and-paddle/)**
 - **[Rock Climbing](/rock-climbing/)**
 
 For event dates and details, visit the **[Calendar](/calendar/)** page or check **[Consent2go](/consent2go/)** for permission requests.

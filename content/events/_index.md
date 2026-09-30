@@ -110,7 +110,7 @@ Milton State School's Fair on the Green is an annual community fundraising event
 
 ### [Pizza and Paddle](/pizza-and-paddle/)
 **When:** Friday nights (various dates throughout the year)
-**Who:** Scouts only
+**Who:** Scouts, Venturers and Rovers
 
 Pizza and Paddle at Brownsea Water Activities Centre combines canoeing on the water with pizza under the stars. Running from 6:45pm-10:00pm, Scouts paddle canoes at sunset, practice water skills, and enjoy a social evening with Scouts from across the region. A fun and unique program night!
 

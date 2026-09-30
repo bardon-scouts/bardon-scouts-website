@@ -15,6 +15,7 @@ Pizza and Paddle is a fun Friday night activity at Brownsea Water Activities Cen
 **When:** Friday nights (various dates throughout the year)
 **Time:** 6:45pm - 10:00pm
 **Where:** [Brownsea Water Activities Centre](https://brownsea.qldscouts.com/)
+**Who:** Scouts, Venturers and Rovers
 
 **Check the** [Brownsea Calendar](https://brownsea.qldscouts.com/?page_id=215) **for upcoming Pizza and Paddle dates**
 
@@ -72,11 +73,7 @@ A change from the usual weekly meeting: canoes and pizza.
 ## Parent Information
 
 ### Who can go?
-**Scouts only**
-
-Pizza and Paddle is specifically for Scouts. Participants must have been invested at least as a Scout. Cubs, Joeys, and Venturers have separate programs at Brownsea.
-
-*Note: Venturers and Rovers may also attend Pizza and Paddle events*
+Scouts, Venturers and Rovers. Joeys and Cubs have their own programs at Brownsea.
 
 ### What to bring:
 - **Change of clothes** (you will get wet!)
@@ -121,7 +118,7 @@ Brownsea has been providing water-based Scouting activities for decades, offerin
 Programs at Brownsea include:
 - **Joey Fun Days** - Introductory water activities for Joeys
 - **Cub Days** - Canoe and pirate ship activities for Cubs
-- **Pizza and Paddle** - Evening canoe sessions for Scouts
+- **Pizza and Paddle** - Evening canoe sessions for Scouts, Venturers and Rovers
 - **Paddling Days** - Full-day water activities programs
 - **Power Boat Licensing** - Certification courses
 - **Sailing Programs** - Learn to sail activities
