@@ -169,6 +169,12 @@
   url = "/group-camp/"
   weight = 5.64
 
+[[main]]
+  name = "Air Activities (proposed)"
+  parent = "events"
+  url = "/air-activities/"
+  weight = 5.65
+
 # Join Us dropdown items
 [[main]]
   name = "How to Join"

@@ -168,6 +168,16 @@ Group Camp is two nights away with the whole of Bardon Scouts. Every section cam
 
 ---
 
+### [Air Activities (proposed)](/air-activities/)
+**When:** To be announced
+**Who:** To be confirmed
+
+Bardon Scouts plans to run an air activities event through the Scouts Queensland Air Activities program. It hasn't been confirmed yet.
+
+[Learn more about Air Activities →](/air-activities/)
+
+---
+
 ## Why We Participate
 
 Community events and Scout activities are an essential part of the Bardon Scouts experience:
