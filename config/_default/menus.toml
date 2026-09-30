@@ -25,7 +25,7 @@
 
 [[main]]
   identifier = "leaders"
-  name = "Volunteer with Us"
+  name = "Help Us!"
   url = "/leaders/"
   weight = 5
 
@@ -359,3 +359,17 @@
   parent = "leaders"
   url = "/leaders/friends/"
   weight = 5.5
+
+[[main]]
+  identifier = "help-containers-for-change"
+  name = "Containers for Change"
+  parent = "leaders"
+  url = "/containers-for-change/"
+  weight = 5.6
+
+[[main]]
+  identifier = "help-mango-fundraiser"
+  name = "Mango Fundraiser"
+  parent = "leaders"
+  url = "/mango-fundraiser/"
+  weight = 5.7

@@ -1,13 +1,19 @@
 ---
-title: "Leaders & Volunteers"
-description: "Meet our leaders and learn about volunteering opportunities"
+title: "Help Us!"
+description: "Ways to help Bardon Scouts: volunteering and fundraising"
 ---
 
-## Our Team
+Bardon Scouts is run by volunteers and supported by fundraising. Here's how you can help.
 
-<!-- TODO: Add intro content about Bardon Scouts leadership team -->
+### Volunteering
 
-### More Information
-
+- [Volunteering](/leaders/volunteering/) - Become a leader or committee member
+- [Parent Roster](/leaders/parent-roster/) - Help at one meeting per term
+- [Adult Supporters](/leaders/adult-supporters/) - Help regularly at your child's section
+- [Friends of Bardon Scouts](/leaders/friends/) - Stay connected with the group
 - [Our Leaders](/leaders/our-leaders/) - Meet the team
-- [Volunteering](/leaders/volunteering/) - How to get involved
+
+### Fundraising
+
+- [Containers for Change](/containers-for-change/) - Donate your empty drink containers
+- [Mango Fundraiser](/mango-fundraiser/) - Order mangoes each year
