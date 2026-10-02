@@ -17,9 +17,6 @@ No prior experience required! We provide comprehensive training in leadership, t
 **Get Outdoors**
 Scouting happens outdoors. Camping, hiking, and outdoor adventures are the primary learning settings, promoting both physical and mental wellness while connecting with nature.
 
-**Improve Your Wellbeing**
-Volunteering reduces stress, combats depression, and provides a sense of purpose. Research shows that volunteers experience improved mental health and create a sense of belonging within their community.
-
 **Make a Difference**
 Become a role model helping young people develop skills for life and reach their full potential through adventure, community, and leadership experiences.
 

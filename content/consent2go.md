@@ -47,8 +47,6 @@ Make changes to your child's information anytime, anywhere. Updates are immediat
 
 ### Privacy and Security
 
-Consent2go understands the importance of protecting your family's information. The system uses industry-leading security and access controls that meet and exceed best practices for data protection.
-
 Only authorized Scout Leaders have access to your child's information, and it's used solely for their care and safety during Scouting activities.
 
 ### Access Consent2go

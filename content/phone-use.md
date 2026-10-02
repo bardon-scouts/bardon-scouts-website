@@ -63,23 +63,6 @@ Using phones during meetings shows disrespect to leaders who are volunteering th
 
 **Pre-approved activities** - Occasionally, leaders may use phones as part of specific educational activities (e.g., photography badge, navigation apps during hikes). These exceptions are planned and supervised by leaders.
 
-### Why This Matters
-
-**Research shows that:**
-
-- Young people are more engaged in activities when phones are put away
-- Face-to-face interactions build stronger friendships and social skills
-- Reducing screen time improves mental health and wellbeing
-- Outdoor activities and hands-on learning are more effective without digital distractions
-
-**Scouting offers a valuable phone-free space** where young people can:
-
-- Be fully present in the moment
-- Develop real-world skills
-- Build genuine friendships
-- Enjoy outdoor adventures
-- Learn from challenges and experiences
-
 ### Parent Support
 
 We ask parents to support this policy by:
@@ -98,16 +81,6 @@ We ask parents to support this policy by:
 3. Repeated violations - Parents will be contacted, and the Scout may be asked to leave their phone at home or with parents
 
 We address issues positively and educatively, helping Scouts understand why the policy exists.
-
-### The Benefits
-
-**Families and Scouts tell us they appreciate this policy because:**
-
-- Scouts are more engaged and enjoy meetings more
-- Friendships are stronger when everyone is present and participating
-- Scouts learn more and develop better skills
-- It provides a healthy break from constant connectivity
-- Parents have peace of mind knowing Scouts are supervised and engaged
 
 ### Questions?
 
