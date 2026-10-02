@@ -40,9 +40,9 @@ Each March, all sections spend a morning collecting rubbish from parks, streets 
 
 ### [Annual Report Presentation](/annual-report-presentation/)
 **When:** Annually in March
-**Who:** Parents, Leaders, Committee Members, Supporters - All welcome!
+**Who:** Parents, leaders, committee members and supporters
 
-The Annual Report Presentation (ARP) is our annual general meeting where we review the past year, celebrate achievements, examine finances, and plan for the future. Hear reports from each section, the committee, and financial overview. This important evening provides transparency and an opportunity for all families to be informed and involved in our group's direction.
+Our annual general meeting. Hear reports from each section, the committee and the Treasurer, and meet the committee for the year ahead.
 
 [Learn more about Annual Report Presentation →](/annual-report-presentation/)
 
