@@ -120,9 +120,9 @@ Pizza and Paddle at Brownsea Water Activities Centre combines canoeing on the wa
 
 ### [Rock Climbing](/rock-climbing/)
 **When:** Once or twice per year (dates announced by Section Leaders)
-**Who:** Typically all sections (Joeys, Cubs, Scouts, Venturers)
+**Who:** Usually all sections (confirmed for each session)
 
-Indoor rock climbing at Rocksports in Fortitude Valley offers Scouts an exciting challenge in a safe, supervised environment. With 30 climbing walls, auto belays, and kid-specific sections, Scouts of all ages can build confidence, develop problem-solving skills, and learn to climb. All equipment provided!
+Indoor rock climbing at Rocksports in Fortitude Valley. No experience needed, and all equipment is provided.
 
 [Learn more about Rock Climbing →](/rock-climbing/)
 
