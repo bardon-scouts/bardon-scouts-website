@@ -6,6 +6,7 @@ The Bardon Scout Group website: a Hugo static site with Sveltia CMS, hosted on N
 
 - **How we work** (GitHub Issues workflow, testing before review, writing style, commit rules, permissions) comes from the **lvlup-workflow plugin**, loaded at the start of every session. Don't repeat it here.
 - **What this project cares about** is in **`docs/`**: `docs/principles.md` is loaded every session; `docs/requirements/` covers content standards, event pages, pages and navigation, sections and the home page. Read the relevant requirement before changing an area, and update it when a change alters what it describes.
+- **How the site is built and why** (stack, content model, templates, decisions log) is in **`docs/design/README.md`**. Update it when a change alters what it describes.
 - **How to verify a change** is the **`verify` skill** (`.claude/skills/verify/SKILL.md`): confirm the Netlify dev deploy of the commit, then check the pages on the dev site.
 
 ## Branches and environments
