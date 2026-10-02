@@ -8,6 +8,8 @@ image: /img/mango-fundraiser.jpg
 
 Each year Bardon Scouts sells trays of Kensington Pride mangoes from North Queensland farms. Bardon Scouts receives about $8 from each tray sold.
 
+![A 7kg tray of Kensington Pride mangoes in a Mango Fundraiser box](/img/mango-tray.jpg)
+
 ## Order Details
 
 **Cost:** $30 per 7kg tray (about 12-16 mangoes, depending on size)
