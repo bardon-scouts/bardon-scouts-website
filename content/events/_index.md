@@ -178,16 +178,6 @@ Bardon Scouts plans to run an air activities event through the Scouts Queensland
 
 ---
 
-## Why We Participate
-
-Community events and Scout activities are an essential part of the Bardon Scouts experience:
-
-- **Skill Development** - Practical application of skills learned at weekly meetings
-- **Community Connection** - Building relationships within our local community
-- **Character Building** - Developing resilience, teamwork, and leadership
-- **Fun & Adventure** - Making friends and trying new activities
-- **Service** - Supporting local schools and community fundraising efforts
-
 ## Get Involved
 
 Want to join us at upcoming events? [Contact us](/contact/) to learn more about joining Bardon Scouts, or come and visit us at any of these events throughout the year!
