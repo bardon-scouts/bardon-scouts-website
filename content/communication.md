@@ -5,103 +5,41 @@ type: page
 image: /img/scouts_logo.jpg
 ---
 
-Bardon Scouts uses multiple communication channels to keep parents informed about activities, events, and important information.
+Bardon Scouts uses three channels to keep parents informed: Consent2go, WhatsApp and email.
 
 ### Our Communication Channels
 
-**Consent2go**
+**Consent2go** is where you'll receive activity permission requests, event details and RSVP requests, payment requests for camps and activities, and important announcements. [Learn more about Consent2go](/consent2go/).
 
-Our primary system for activity permissions and event notifications. You'll receive:
-- Activity permission requests
-- Event details and RSVP requests
-- Payment requests for camps and activities
-- Important announcements
+**WhatsApp:** each section has a WhatsApp group for quick updates: last-minute changes to meeting locations, reminders about upcoming events, quick questions, photos from activities (with permission) and general announcements.
 
-**[Learn more about Consent2go](/consent2go/)**
-
-**WhatsApp Chat Groups**
-
-Each section has a WhatsApp group for quick communication and updates:
-- Last-minute changes to meeting locations
-- Reminders about upcoming events
-- Quick questions and answers
-- Photos from activities (with permission)
-- General announcements
-
-**Important:** You'll be invited to join your child's section WhatsApp group when you join. Please accept the invitation to stay informed.
-
-**Email**
-
-We use email for:
-- Formal communications
-- Detailed event information
-- Committee updates
-- Important documents and forms
-- Annual information
+**Email** is used for formal communications, detailed event information, committee updates, important documents and forms, and annual information.
 
 ### Joining the WhatsApp Group
 
-When your child joins Bardon Scouts, you'll receive an invitation to join your section's WhatsApp group. This is an important communication channel, so please:
+When your child joins Bardon Scouts, you'll be invited to your section's WhatsApp group. Please:
 
-1. Accept the WhatsApp group invitation promptly
-2. Keep notifications enabled for important updates
+1. Accept the invitation promptly
+2. Keep notifications on for important updates
 3. Check the group regularly for announcements
-4. Respond to messages when required (RSVPs, questions, etc.)
+4. Reply when asked (RSVPs, questions and so on)
 
 ### WhatsApp Group Guidelines
 
-To keep our WhatsApp groups useful and respectful:
-
-**Do:**
-- Use the group for Scout-related communication
-- Respond to requests for information
-- Share relevant Scout information
-- Be respectful and courteous
-- Keep messages brief and clear
-
-**Don't:**
-- Share unrelated content or spam
-- Use the group for personal conversations (use direct messages instead)
-- Share photos of other people's children without permission
-- Post late at night (before 7am or after 9pm)
+Keep the group to Scout-related messages that are brief, clear and courteous, and reply to requests for information. Please don't share unrelated content, have personal conversations in the group (use direct messages instead), share photos of other people's children without permission, or post before 7am or after 9pm.
 
 ### Responding to Communications
 
-**Please respond promptly to:**
-- Consent2go RSVP requests (even if your child won't be attending)
-- Permission forms for activities and camps
-- Requests for parent roster volunteers
-- Important questions from leaders
-
-Timely responses help leaders plan activities effectively and ensure adequate supervision and resources.
+Please respond promptly to Consent2go RSVP requests (even if your child won't be attending), permission forms for activities and camps, requests for parent roster volunteers, and questions from leaders. Timely responses help leaders plan activities and make sure there's enough supervision.
 
 ### Emergency Communication
 
-**During meetings or events:**
-- Contact your Section Leader directly by phone
-- Do not try to contact your child on their personal phone (see our [Phone Use Policy](/phone-use/))
-- Leaders have phones available for emergencies
-
-**After hours:**
-- For urgent matters, contact your Section Leader
-- For non-urgent questions, use email or WhatsApp
+During meetings or events, phone your Section Leader directly. Don't try to contact your child on their own phone (see our [Phone Use Policy](/phone-use/)); leaders have phones for emergencies. After hours, contact your Section Leader for urgent matters, and use email or WhatsApp for anything else.
 
 ### Keeping Your Details Current
 
-Please keep your contact information up-to-date:
-- Update your email address in Consent2go
-- Notify leaders if you change phone numbers
-- Update emergency contact details immediately
-
-Current contact information ensures you receive all important communications and we can reach you in emergencies.
+Please keep your email address up to date in Consent2go, tell leaders if your phone number changes, and update emergency contact details straight away, so you receive all our messages and we can reach you in an emergency.
 
 ### Questions About Communication?
 
-If you have questions about our communication methods or aren't receiving updates, please [contact us](/contact/) or speak with your child's Section Leader.
-
----
-
-**Related Information:**
-- **[Consent2go](/consent2go/)** - Our permission and communication system
-- **[Code of Conduct](/code-of-conduct/)** - Including RSVP response expectations
-- **[Contact Us](/contact/)** - Get in touch with questions
+If you have questions or aren't receiving updates, please [contact us](/contact/) or speak with your child's Section Leader. See also our [Code of Conduct](/code-of-conduct/), which includes our expectations on RSVPs.

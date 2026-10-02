@@ -16,37 +16,11 @@ As the P&C Association's main fundraiser for the year, the Mayfair supports esse
 
 ## At the Mayfair
 
-The Mayfair includes:
-
-**Markets & Stalls**
-- Local crafts and artisan goods
-- Homemade cakes, jams, chutneys and sweets
-- Pre-loved clothing and books
-- Jewellery and accessories
-
-**Entertainment**
-- Live music performances throughout the day
-- Rides for children of all ages
-- Sideshow alley attractions
-- Face painting and activities
-
-**Food & Refreshments**
-- Traditional teahouse with coffee
-- Food vendors and trucks
-- Licensed bar area
-- BBQ and refreshments
-
-**Plus** a raffle with prizes donated by local businesses!
+There are market stalls with local crafts, homemade cakes, jams and chutneys, pre-loved clothing and books, and jewellery. Entertainment includes live music through the day, rides for children, sideshow alley and face painting. For food there's a traditional teahouse with coffee, food trucks, a BBQ and a licensed bar, and a raffle with prizes donated by local businesses.
 
 ## Bardon Scouts at Mayfair
 
-At this year's Mayfair, Bardon Scouts ran an information stall where we:
-- Shared information about our Joeys, Cubs, Scouts and Venturers sections
-- Demonstrated Scout skills and activities
-- Connected with local families interested in joining
-- Showcased photos and stories from recent Scout adventures
-
-We spoke with many local families about joining, and enjoyed being part of a big community event in Bardon.
+At this year's Mayfair, Bardon Scouts ran an information stall about our Joeys, Cubs, Scouts and Venturers sections, with Scout skills demonstrations and photos and stories from recent activities. We spoke with many local families about joining, and enjoyed being part of a big community event in Bardon.
 
 ## Looking Ahead to 2025
 
@@ -62,23 +36,11 @@ Bardon Scouts will be there again, and we'd love to see you! Current Scout famil
 
 ## Parent Information
 
-**Who can go?**
-All Bardon Scouts members are welcome to attend:
-- Joeys
-- Cubs
-- Scouts
-- Venturers
-
-**What to bring:**
-- Scout uniform
-- Hat for sun protection
-- Water bottle
-- Spending money for food and activities
-- Folding chair for comfort
+All Bardon Scouts members are welcome: Joeys, Cubs, Scouts and Venturers. Wear Scout uniform and bring a hat, a water bottle, money for food and activities, and a folding chair.
 
 ### Interested in Joining Scouts?
 
-The Bardon Mayfair is just one of many ways Bardon Scouts engages with our community. Our members participate in weekly meetings, camps, hikes, skill development activities, and service projects throughout the year.
+The Bardon Mayfair is just one of many ways Bardon Scouts engages with our community. Our members take part in weekly meetings, camps, hikes, skill activities and service projects throughout the year.
 
 If you'd like to know more about our programs for Joeys, Cubs, Scouts, or Venturers, please [get in touch](/contact/).
 

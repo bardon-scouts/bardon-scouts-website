@@ -7,43 +7,19 @@ image: /img/scouts_logo.jpg
 
 ## Consent2go Permission System
 
-Bardon Scouts uses Consent2go as our parent permission and information management system. Consent2go puts you in control of your child's health information, activity permissions, and event payments - all in one easy-to-use platform.
+Bardon Scouts uses Consent2go for parent permissions, health information and event payments, all in one place.
 
 ### What is Consent2go?
 
-Consent2go is a secure online system that replaced Operoo from Term 1 2026. It allows parents and guardians to manage permissions, medical information, and payments for Scout activities and events.
+Consent2go is a secure online system that replaced Operoo from Term 1 2026. Parents and guardians use it to manage permissions, medical information, and payments for Scout activities and events.
 
-### Key Features for Parents
+### What You Can Do in Consent2go
 
-**Manage Your Child's Health Information**
+**Keep your child's health information up to date.** Add and update medical conditions, symptoms and triggers, medications and dosages, emergency contacts and dietary requirements. The structured format means Leaders have accurate information to care for your child during any Scout activity, and changes you make are available to them straight away.
 
-You're in control of keeping your child's medical information accurate and up-to-date. Consent2go makes it easy to add and update:
-- Medical conditions
-- Symptoms and triggers
-- Medications and dosages
-- Emergency contact details
-- Dietary requirements
+**Give permission for activities.** You'll receive permission requests for everything from regular meetings at the Scout Den to night activities, weekend camps, special events and multi-day camps like Cuboree. Review the details and give permission in the app or on the website.
 
-The structured format ensures Leaders have accurate information to care for and protect your child during any Scout activity.
-
-**Activity Permissions Made Easy**
-
-Receive and respond to permission requests for all types of Scout activities:
-- Regular meetings at the Scout Den
-- Night activities and outings
-- Weekend camps
-- Special events
-- Multi-day camps like Cuboree
-
-Simply review the activity details and provide permission directly through the app or website.
-
-**Convenient Payment Processing**
-
-Pay for activities, camps, and events securely through Consent2go. No more juggling cash or cheques - handle everything in one place.
-
-**Real-Time Updates**
-
-Make changes to your child's information anytime, anywhere. Updates are immediately available to Leaders, ensuring they always have current information.
+**Pay for activities, camps and events** securely, without cash or cheques.
 
 ### Privacy and Security
 
@@ -51,21 +27,9 @@ Only authorised Scout Leaders have access to your child's information, and it's 
 
 ### Access Consent2go
 
-**Mobile Apps:**
-Download the Consent2go Parent/Guardian app:
-- [Apple App Store](https://apps.apple.com) - Search "Consent2Go"
-- [Google Play Store](https://play.google.com) - Search "Consent2Go"
+Download the Consent2go Parent/Guardian app from the [Apple App Store](https://apps.apple.com) or [Google Play Store](https://play.google.com) (search "Consent2Go"), or use it in your web browser at [consent2go.com](https://consent2go.com).
 
-**Website:**
-Access Consent2go through your web browser at [consent2go.com](https://consent2go.com)
-
-### Understanding Consent2go Language
-
-**Note:** Consent2go was originally designed for schools, so you'll see some educational terminology:
-- "Student" or "Participant" = Your Scout (youth member)
-- "Staff" = Scout Leaders (adult volunteers)
-
-The system works the same way for Scouts.
+Consent2go was originally designed for schools, so you'll see some school terms: "Student" or "Participant" means your Scout, and "Staff" means the Scout Leaders. The system works the same way for Scouts.
 
 ### Getting Started
 
@@ -77,18 +41,12 @@ When your child joins Bardon Scouts, you'll receive an invitation to set up your
 4. Setting up emergency contacts
 5. Providing initial permissions
 
-Once set up, you'll receive notifications whenever Leaders post new activities requiring permission or payment.
-
-### Need Help?
-
-If you have questions about using Consent2go or need assistance with your account, please [contact us](/contact/) or speak with your child's Section Leader. We're here to help!
+Once set up, you'll be notified whenever Leaders post new activities needing permission or payment.
 
 ### Keeping Information Current
 
-**Important:** Please keep your child's information up-to-date in Consent2go, especially:
-- Medical conditions and medications
-- Allergies and dietary requirements
-- Emergency contact numbers
-- Changes to your contact details
+Please keep your child's details up to date in Consent2go, especially medical conditions and medications, allergies and dietary requirements, emergency contact numbers, and your own contact details. Current information helps us keep your child safe during all Scout activities.
 
-Current information helps us keep your child safe during all Scout activities.
+### Need Help?
+
+If you have questions about using Consent2go or need help with your account, please [contact us](/contact/) or speak with your child's Section Leader.

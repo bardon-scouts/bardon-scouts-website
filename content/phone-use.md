@@ -11,84 +11,38 @@ Bardon Scouts operates a **no phones policy** during Scout meetings to maximise 
 
 ### Why No Phones?
 
-**Focus on Scouting Activities**
-
-Scout meetings are a time for learning, adventure, friendship, and skill development. Phones are a distraction that takes away from these valuable experiences.
-
-**Building Real Connections**
-
-Scouting is about building face-to-face friendships, working together as a team, and developing social skills. Phone use interferes with these important interactions.
-
-**Safety and Supervision**
-
-When Scouts are focused on phones, they're not paying attention to safety instructions, activities, or their surroundings. Leaders need Scouts' full attention to ensure everyone's safety.
-
-**Respect for Leaders and Peers**
-
-Using phones during meetings shows disrespect to leaders who are volunteering their time and to fellow Scouts who are participating in activities.
+Scout meetings are a time for learning, adventure, friendship and skill development, and phones are a distraction from all of these. Scouting is about face-to-face friendships and working as a team. Scouts looking at phones aren't paying attention to safety instructions, activities or their surroundings, and leaders need their full attention to keep everyone safe. Using a phone during a meeting is also disrespectful to the volunteer leaders and to the other Scouts taking part.
 
 ### The Policy
 
-**For Scouts:**
+**For Scouts:** no phone use before, during, or after Scout meetings. Phones should be left at home, in parents' cars, or turned off in bags, and can't be used during arrival time, activities, games or pack-up. This applies to all sections: Joeys, Cubs, Scouts, and Venturers.
 
-- **No phone use before, during, or after Scout meetings**
-- Phones should be left at home, in parents' cars, or turned off in bags
-- Phones may not be used during arrival time, activities, games, or pack-up
-- This applies to all sections: Joeys, Cubs, Scouts, and Venturers
-
-**For Parents on Roster Duty or as Adult Supporters:**
-
-- **No phone use during meetings** unless for genuine emergencies
-- Parents assisting at meetings should be fully present and engaged
-- Personal calls, messages, and social media should wait until after the meeting
-- Emergency calls should be taken away from activity areas
+**For parents on roster duty or helping as Adult Supporters:** no phone use during meetings except for genuine emergencies, which should be taken away from activity areas. Personal calls, messages and social media should wait until after the meeting.
 
 ### Emergency Contact
 
-**If you need to contact your child during a meeting:**
-
-- Call or message your Section Leader
-- Leaders have phones available for emergencies
-- Your child can use a leader's phone to contact you if needed
-
-**If your child needs to contact you:**
-
-- They should ask their Section Leader
-- Leaders will facilitate emergency contact
-- Scouts should not use personal phones
+If you need to contact your child during a meeting, call or message their Section Leader. Leaders have phones for emergencies, and your child can use a leader's phone to call you if needed. If your child needs to contact you, they should ask their Section Leader rather than use their own phone.
 
 ### Exceptions
 
-**Medical devices** - Devices required for medical monitoring (e.g., diabetes monitors) are permitted with prior notification to the Section Leader.
+**Medical devices** needed for monitoring (for example, diabetes monitors) are allowed if you let the Section Leader know beforehand.
 
-**Pre-approved activities** - Occasionally, leaders may use phones as part of specific educational activities (e.g., photography badge, navigation apps during hikes). These exceptions are planned and supervised by leaders.
+**Planned activities:** occasionally leaders use phones as part of an activity, such as for the photography badge or navigation apps on hikes. These are planned and supervised by leaders.
 
 ### Parent Support
 
-We ask parents to support this policy by:
-
-- **Not texting or calling your child during meetings** (contact Section Leader instead)
-- Discussing the policy with your child and explaining why it's important
-- Encouraging your child to leave their phone at home or in the car
-- Modelling phone-free behaviour if attending as a helper or Adult Supporter
+Please support the policy by contacting the Section Leader rather than texting or calling your child during meetings, talking with your child about why the policy matters, encouraging them to leave their phone at home or in the car, and keeping your own phone away if you're helping at a meeting.
 
 ### Dealing with Issues
 
-**If a Scout is using a phone during a meeting:**
+If a Scout uses a phone during a meeting:
 
 1. First instance - Leader will ask the Scout to put the phone away and remind them of the policy
 2. Continued use - Leader will secure the phone until the end of the meeting and speak with the Scout and parents
 3. Repeated violations - Parents will be contacted, and the Scout may be asked to leave their phone at home or with parents
 
-We address issues positively and educatively, helping Scouts understand why the policy exists.
+We handle issues positively, helping Scouts understand why the policy exists.
 
 ### Questions?
 
-If you have questions about our phone use policy or need to discuss special circumstances, please [contact us](/contact/) or speak with your Section Leader.
-
----
-
-**Related Information:**
-- **[Code of Conduct](/code-of-conduct/)** - Our code of conduct for parents and Scouts
-- **[Sign In and Out](/sign-in-out/)** - How to contact us during meetings
-- **[Contact Us](/contact/)** - Get in touch with questions
+If you have questions about our phone use policy or need to discuss special circumstances, please [contact us](/contact/) or speak with your Section Leader. See also our [Code of Conduct](/code-of-conduct/) and [Sign In and Out](/sign-in-out/) pages.
