@@ -158,6 +158,16 @@ Group Camp is two nights away with the whole of Bardon Scouts. Every section cam
 
 ---
 
+### [Australian Jamboree 2028 (AJ2028)](/aj2028/)
+**When:** 29 December 2027 to 7 January 2028
+**Who:** Scouts and Venturers
+
+The 27th Australian Jamboree: ten days in Elmore, Victoria, with more than 10,000 Scouts from across Australia. Applications haven't opened yet; register your interest with the Queensland contingent to hear when they do.
+
+[Learn more about AJ2028 →](/aj2028/)
+
+---
+
 ### [Air Activities (proposed)](/air-activities/)
 **When:** To be announced
 **Who:** To be confirmed
