@@ -51,7 +51,7 @@ Bardon Scout Group has a Den (as they are known in Scouting) located on Bee St, 
 
 ### Helping out
 
-- **[Parent Roster](/leaders/parent-roster/)** - Every family helps at one meeting per term. Your Section Leader will send the available dates.
+- **[Parent Roster](/leaders/parent-roster/)** - Every family helps at one meeting per term. The roster is a pinned post in your section's parent WhatsApp chat.
 - **[Help Us!](/leaders/)** - Other ways to help, from becoming an Adult Supporter or Leader to fundraising.
 
 ### What's on
