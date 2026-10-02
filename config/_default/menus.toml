@@ -246,9 +246,9 @@
 # About dropdown items
 [[main]]
   name = "Welcome Pack"
-  parent = "about"
+  parent = "join"
   url = "/welcome/"
-  weight = 2.005
+  weight = 3.05
 
 [[main]]
   name = "Our History"
