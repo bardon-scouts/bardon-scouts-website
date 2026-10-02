@@ -72,7 +72,7 @@ The Bardon State School Mayfair is the school's main fundraiser. Held each June,
 **When:** Late July or early August (annually)
 **Who:** Scouts and Venturers
 
-KnightMoves is Brisbane North Region's overnight navigation event. Now in its 14th year, this challenging event combines night-time navigation, bushwalking, and themed activity bases in an overnight camping format. Scouts and Venturers navigate through the bush using maps and compasses, finding 25 route markers and completing challenges to earn points for their patrol.
+KnightMoves is Brisbane North Region's overnight navigation event. Patrols navigate through the bush at night with map and compass, finding 25 route markers and completing activity bases to earn points.
 
 [Learn more about KnightMoves →](/knightmoves/)
 
