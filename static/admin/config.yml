@@ -471,6 +471,210 @@ collections:
           - { label: "Type", name: "type", widget: "hidden", default: "page" }
           - { label: "Body", name: "body", widget: "markdown" }
 
+      # Join Us, Help Us and Sections pages, and form pages (added for #41)
+      - file: "content/join/_index.md"
+        label: "Join Us Page"
+        name: "join-page"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
+
+      - file: "content/join/how-to-join.md"
+        label: "How to Join"
+        name: "how-to-join"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
+
+      - file: "content/join/fees.md"
+        label: "Fees & Costs"
+        name: "fees"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
+
+      - file: "content/join/uniforms.md"
+        label: "Uniforms"
+        name: "uniforms"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
+
+      - file: "content/join/come-and-try.md"
+        label: "Come and Try"
+        name: "come-and-try"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
+
+      - file: "content/join/faqs.md"
+        label: "New Family FAQs"
+        name: "faqs"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
+
+      - file: "content/join/taking-a-break.md"
+        label: "Taking a Break or Finishing Up"
+        name: "taking-a-break"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
+
+      - file: "content/leaders/_index.md"
+        label: "Help Us! Page"
+        name: "help-us-page"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
+
+      - file: "content/leaders/volunteering.md"
+        label: "Volunteering"
+        name: "volunteering"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
+
+      - file: "content/leaders/our-leaders.md"
+        label: "Our Leaders"
+        name: "our-leaders"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
+
+      - file: "content/sections/_index.md"
+        label: "Our Sections Page"
+        name: "sections-page"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Old URLs (redirects, don't change)", name: "aliases", widget: "list", required: false }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
+
+      - file: "content/sections/joeys.md"
+        label: "Joeys Page Extras (events list)"
+        name: "section-extra-joeys"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "sections" }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
+
+      - file: "content/sections/cubs.md"
+        label: "Cubs Page Extras (events list)"
+        name: "section-extra-cubs"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "sections" }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
+
+      - file: "content/sections/scouts.md"
+        label: "Scouts Page Extras (events list)"
+        name: "section-extra-scouts"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "sections" }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
+
+      - file: "content/sections/venturers.md"
+        label: "Venturers Page Extras (events list)"
+        name: "section-extra-venturers"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "sections" }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
+
+      - file: "content/news/_index.md"
+        label: "News Page"
+        name: "news-page"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
+
+      - file: "content/complaints.md"
+        label: "Complaints"
+        name: "complaints"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Show Complaints Form", name: "showComplaintsForm", widget: "boolean", default: true }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
+
+      - file: "content/website-feedback.md"
+        label: "Website Feedback"
+        name: "website-feedback"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Show Feedback Form", name: "showFeedbackForm", widget: "boolean", default: true }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
+
+      - file: "content/contact/thanks.md"
+        label: "Contact Thank You"
+        name: "contact-thanks"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - label: "Hero"
+            name: "hero"
+            widget: "object"
+            required: false
+            fields:
+              - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Old URLs (redirects, don't change)", name: "aliases", widget: "list", required: false }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
+
+      - file: "content/complaints/thanks.md"
+        label: "Complaints Thank You"
+        name: "complaints-thanks"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
+
+      - file: "content/website-feedback/thanks.md"
+        label: "Website Feedback Thank You"
+        name: "website-feedback-thanks"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
+
   # Data Files - Features
   - name: "data_features"
     label: "Homepage Features"
