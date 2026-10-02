@@ -12,7 +12,8 @@ Each year on ANZAC Day, Bardon Scouts proudly marches in the local ANZAC Day com
 ## Event Details
 
 **When:** 25 April (annually)
-**Location:** Ithaca War Memorial, 8 Enoggera Terrace, Paddington
+**Where:** Ithaca War Memorial, 8 Enoggera Terrace, Paddington
+**Who:** Joeys, Cubs, Scouts, Venturers
 
 **Schedule:**
 - **8:00am** - Arrival and assembly
@@ -26,22 +27,6 @@ Each year on ANZAC Day, Bardon Scouts proudly marches in the local ANZAC Day com
 ANZAC Day, observed on 25 April each year, is one of Australia's most important national occasions. It commemorates the anniversary of the first major military action fought by Australian and New Zealand forces during World War I at Gallipoli in 1915.
 
 The day has since grown to honour all Australians who have served and died in wars, conflicts, and peacekeeping operations. ANZAC stands for Australian and New Zealand Army Corps, and the spirit of ANZAC (courage, mateship and sacrifice) continues to have meaning and relevance for all Australians.
-
-## Why Scouts Participate
-
-Participation in ANZAC Day commemorations is an important part of the Scouting tradition and aligns with Scout values of:
-
-**Community Service**
-Scouts honour those who served our country and demonstrate respect for our community's history and values.
-
-**Citizenship**
-Young people learn about the significance of ANZAC Day and develop an understanding of their role as active citizens.
-
-**Respect & Remembrance**
-Marching alongside veterans, current service members, and the community teaches respect for sacrifice and service.
-
-**Tradition & Heritage**
-Scouts have participated in ANZAC Day commemorations for generations, continuing an important Australian tradition.
 
 ## The Ithaca War Memorial
 
@@ -93,34 +78,9 @@ This is an all-sections event that brings together our entire Scout Group.
 - The service is approximately 30-60 minutes in duration
 - Public transport and street parking available in Paddington
 
-## The Significance of ANZAC Day
-
-For young Scouts, participating in ANZAC Day provides valuable lessons about:
-
-**History & Heritage**
-Understanding Australia's military history and the impact of war on our nation and communities.
-
-**Sacrifice & Service**
-Recognizing that freedom and peace come at a cost, paid by the service and sacrifice of others.
-
-**Mateship & Courage**
-Learning about the ANZAC spirit: standing by your mates, showing courage in adversity, and persevering through challenges.
-
-**Respect & Gratitude**
-Developing respect for veterans and current service members, and gratitude for their contributions.
-
-**Civic Responsibility**
-Understanding the importance of remembering the past and honoring those who served.
-
-## The ANZAC Spirit in Scouting
-
-The values embodied in the ANZAC spirit (courage, mateship, endurance and sacrifice) are values we strive to develop in Scouts. By participating in ANZAC Day commemorations, young people connect with these values in a meaningful way and understand their relevance to modern Australian life.
-
 ## Get Involved
 
-ANZAC Day participation is one of the most meaningful events on the Bardon Scouts calendar. We encourage all members to attend and be part of this important community tradition.
-
-For more information about participation details, meeting points, and specific arrangements, please contact your Section Leader as ANZAC Day approaches each year.
+We encourage all members to attend. For more information about participation details, meeting points, and specific arrangements, please contact your Section Leader as ANZAC Day approaches each year.
 
 ## Other ANZAC Day Services
 

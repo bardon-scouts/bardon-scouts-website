@@ -14,7 +14,7 @@ The Bardon Mayfair is held annually each June at Bardon State School on Simpsons
 
 As the P&C Association's main fundraiser for the year, the Mayfair supports essential school resources including additional teacher aide time, air conditioning upgrades, and technology support.
 
-## What Makes Mayfair Special
+## At the Mayfair
 
 The Mayfair includes:
 
@@ -75,15 +75,6 @@ All Bardon Scouts members are welcome to attend:
 - Water bottle
 - Spending money for food and activities
 - Folding chair for comfort
-
-## Why We Participate
-
-We take part in events like the Bardon Mayfair because they fit Scout values:
-
-- **Community Connection** - We're an active part of the Bardon community
-- **Supporting Local Schools** - The Mayfair raises vital funds for our local school
-- **Youth Engagement** - It's an opportunity to inspire young people to try Scouting
-- **Giving Back** - Scouts learn the importance of community service and volunteering
 
 ### Interested in Joining Scouts?
 

@@ -55,13 +55,7 @@ The event is organized by Darling Downs Region Scouts with support from:
 
 ## Bardon Scouts at NightHawk
 
-Participating in Operation NightHawk is a highlight of the year for our Scout Troop. It's an opportunity for our Scouts to:
-
-✓ **Put Skills to the Test** - Apply everything they've learned in real-world conditions
-✓ **Experience Adventure** - Challenge themselves in a safe, supervised environment
-✓ **Build Resilience** - Push through physical and mental challenges
-✓ **Make Friendships** - Connect with Scouts from across the region
-✓ **Create Memories** - Experience one of Queensland's most iconic Scout events
+Bardon's Scouts regularly take part in NightHawk. In 2026 our Scouts placed third ([read the news](/news/2026-09-20-nighthawk-third-place/)).
 
 ## Parent Information
 
@@ -95,9 +89,6 @@ This event is specifically designed for the Scout section and is not suitable fo
 ## Get Involved
 
 If you're a Scout at Bardon Scouts and interested in participating in Operation NightHawk, speak to your Scout Leader for details about upcoming events.
-
-Scouts challenge themselves, support their patrol and take part in one of Queensland's greatest Scout traditions.
-
 ---
 
 *Operation NightHawk is organized by Darling Downs Region Scouts. Learn more at [darlingdownsscouts.org.au](http://darlingdownsscouts.org.au)*
