@@ -37,7 +37,7 @@ Allowed:
 
 ## How to check
 
-- Search `content/` and `data/` for "Cub Scout". The only match allowed is the Scout Shop product link.
-- Search for "Joey Scout" and "Venturer Scout". Matches should only be formal names (the leader title, Scout Shop product links).
-- Search for bank details, BSB, account numbers, "due", "deadline" and invoice months on any page that mentions fees.
-- Run the plugin's `style-check` on changed content.
+- **CS-1:** Search `content/` and `data/` for "Cub Scout". The only match allowed is the Scout Shop product link.
+- **CS-2:** Search for "Joey Scout" and "Venturer Scout". Matches should only be formal names (the leader title, Scout Shop product links).
+- **CS-3:** Search for bank details, BSB, account numbers, "due", "deadline" and invoice months on any page that mentions fees.
+- **CS-4:** Run the plugin's `style-check` on changed content.

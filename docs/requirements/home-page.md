@@ -21,5 +21,5 @@ All home page text is editable in the CMS (Homepage, Homepage Features, Scout Se
 ## How to check
 
 On the dev site's home page:
-- The sections appear in the order above.
-- "Our Events" lists the same events as the Events menu, and every link returns 200.
+- **HP-1:** The sections appear in the order above.
+- **HP-2:** "Our Events" lists the same events as the Events menu, and every link returns 200.

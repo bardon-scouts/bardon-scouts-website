@@ -13,4 +13,4 @@ All work happens on `dev`. Merging `dev` into `master` publishes to the live sit
 
 - [CONTRIBUTING.md](CONTRIBUTING.md): how we work, and setup for new collaborators
 - [CLAUDE.md](CLAUDE.md): project structure, branches and build notes
-- [docs/](docs/): principles, requirements for each area of the site, and the design doc
+- [docs/](docs/): principles, requirements for each area of the site, the design doc and the testing approach

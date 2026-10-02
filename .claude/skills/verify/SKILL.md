@@ -35,7 +35,7 @@ Netlify doesn't post build statuses to GitHub for this repo. Use the Netlify CLI
 Check each item on the dev site, using curl (read-only, piped only into grep and similar) or WebFetch:
 
 - **Pages:** each changed page returns 200 (`curl -s -o /dev/null -w "%{http_code}"`) and shows the expected content.
-- **Requirements:** apply the "How to check" section of each relevant file in `docs/requirements/` (e.g. an event page must also appear in the events listing, the Events menu, the home page grid and the CMS config).
+- **Requirements:** apply the "How to check" section of each relevant file in `docs/requirements/` (e.g. an event page must also appear in the events listing, the Events menu, the home page grid and the CMS config). Report each by its test case ID, e.g. EV-1.
 - **CMS:** for new or moved pages, the dev site's `/admin/config.yml` includes the file.
 - **Styles or templates:** find the stylesheet link on the page (`scss/main.min.<hash>.css`), then confirm the new rules are in it.
 - **Sanity-check every search:** make sure it finds something known to exist before trusting a "not found".

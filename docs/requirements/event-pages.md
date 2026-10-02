@@ -26,7 +26,7 @@ A new event is only complete when it's in all of these:
 ## How to check
 
 On the dev site:
-- `/<slug>/` returns 200 and shows the title, When and Who.
-- `/events/` links to the page (heading and "Learn more"), and the Events menu links to it.
-- The home page "Our Events" grid links to it.
-- The dev site's `/admin/config.yml` includes `content/<slug>.md`.
+- **EV-1:** `/<slug>/` returns 200 and shows the title, When and Who.
+- **EV-2:** `/events/` links to the page (heading and "Learn more"), and the Events menu links to it.
+- **EV-3:** The home page "Our Events" grid links to it.
+- **EV-4:** The dev site's `/admin/config.yml` includes `content/<slug>.md`.

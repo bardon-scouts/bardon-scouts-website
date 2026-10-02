@@ -16,6 +16,6 @@ How ordinary pages (About, Join Us, Leaders, policies and so on) are added, so e
 ## How to check
 
 On the dev site:
-- The new page returns 200 at its URL with a trailing slash.
-- The menu links to it.
-- The dev site's `/admin/config.yml` includes its file.
+- **PN-1:** The new page returns 200 at its URL with a trailing slash.
+- **PN-2:** The menu links to it.
+- **PN-3:** The dev site's `/admin/config.yml` includes its file.

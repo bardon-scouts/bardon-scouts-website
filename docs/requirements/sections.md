@@ -15,4 +15,4 @@ The Joeys, Cubs, Scouts and Venturers pages, and the section details shown on th
 ## How to check
 
 On the dev site:
-- Each `/sections/<slug>/` page and the home page "Our Units" list show the same meeting day, time and age range as `data/sections.yaml`.
+- **SE-1:** Each `/sections/<slug>/` page and the home page "Our Units" list show the same meeting day, time and age range as `data/sections.yaml`.
