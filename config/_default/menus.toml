@@ -257,6 +257,12 @@
   weight = 2.01
 
 [[main]]
+  name = "Group Structure"
+  parent = "about"
+  url = "/group-structure/"
+  weight = 2.02
+
+[[main]]
   name = "Calendar"
   parent = "about"
   url = "/calendar/"

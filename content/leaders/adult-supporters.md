@@ -21,9 +21,11 @@ No Scouting experience is needed. Leaders will show you what's needed each week,
 
 You see your child's skills, confidence and friendships grow at first hand, and you share their activities and camps. You also get to know the other parents in your section: many of the closest friendships at Bardon Scouts started between Adult Supporters.
 
-### Blue Card
+### Requirements
 
-Every adult who works regularly with children in Queensland needs a Blue Card (Working with Children Check). It's free for volunteers, and we'll help you apply.
+Every adult who works regularly with children in Queensland needs a Blue Card (Working with Children Check). It's free for volunteers, and we'll help you apply. Adult Supporters also complete two national e-learning modules, Child Safe Scouting and WHS for Scouting, and only help with youth activities under the guidance of a trained leader who holds a Certificate of Adult Leadership.
+
+The easiest way to meet these requirements is to join online as an Adult Member of Scouts. See [Group Structure](/group-structure/) for how Adult Supporters fit into the Group.
 
 ### Adult Supporter or Parent Roster?
 
@@ -33,7 +35,7 @@ Every family helps at one meeting a term through the [Parent Roster](/leaders/pa
 
 1. Tell your Section Leader you're interested, or [contact us](/contact/)
 2. Come along to a few meetings to see what's involved and meet the team
-3. Apply for your Blue Card (we'll guide you)
+3. Join online as an Adult Member, apply for your Blue Card and complete the two e-learning modules (we'll guide you)
 4. Start helping regularly
 
 If you'd like to do more after that, you could [become a Scout Leader](/leaders/volunteering/), [join the Committee](/committee/), or share a specialist skill such as first aid or IT. See also [Our Leaders](/leaders/our-leaders/).

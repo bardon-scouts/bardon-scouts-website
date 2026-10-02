@@ -13,9 +13,9 @@ The committee is responsible for fundraising and parent involvement, ensuring ou
 
 ### Committee Roles
 
-Our committee includes the following key roles:
+The committee is led by the Group Committee Executive: the Chairman, Secretary and Treasurer. The Group Leader leads the Group as a whole, including the uniformed leaders and the committee (see [Group Structure](/group-structure/)).
 
-#### Group Leader
+#### Chairman
 Information coming soon.
 
 #### Treasurer
