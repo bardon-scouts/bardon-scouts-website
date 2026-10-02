@@ -13,12 +13,12 @@ Scout meetings run during Queensland school terms. Regular meetings are held eac
 
 ### 2026 Queensland School Terms
 
-**Term 1** - January 28 to April 3
-**Term 2** - April 21 to June 27
-**Term 3** - July 14 to September 19
-**Term 4** - October 6 to December 12
+**Term 1** - 27 January to 2 April
+**Term 2** - 20 April to 26 June
+**Term 3** - 13 July to 18 September
+**Term 4** - 6 October to 11 December
 
-**[View Queensland School Term Dates](https://qed.qld.gov.au/about-us/calendar)**
+**[View Queensland School Term Dates](https://education.qld.gov.au/about-us/calendar/term-dates)**
 
 ### Weekly Meeting Times (During School Terms)
 
