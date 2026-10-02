@@ -29,7 +29,7 @@ Additional adults ensure we maintain appropriate supervision ratios for all acti
 Regular Adult Supporters create a stable environment where Scouts feel supported and leaders can plan confidently knowing help will be available.
 
 **Leadership Development**
-Adult Supporters help demonstrate teamwork, community service, and positive role modeling for young people.
+Adult Supporters help demonstrate teamwork, community service, and positive role modelling for young people.
 
 ### What Makes Being an Adult Supporter Rewarding?
 
@@ -58,7 +58,7 @@ You share the camps and activities with your child and their Scout friends.
 - Supervise activity stations and games
 - Assist Scouts with challenges and skill development
 - Support leaders with program activities
-- Monitor safety and behavior
+- Monitor safety and behaviour
 - Help with pack-up and clean-up
 
 **No Formal Leadership Required:**
@@ -82,12 +82,12 @@ You don't need any Scouting experience or special skills to be an Adult Supporte
 As an Adult Supporter attending regularly, you'll need a Queensland Blue Card (Working with Children Check). This is a free process for volunteers, and we'll guide you through the application.
 
 **Why Blue Card is Required:**
-All adults working regularly with children in Queensland must hold a Blue Card to ensure child safety. This is a standard requirement across all youth organizations.
+All adults working regularly with children in Queensland must hold a Blue Card to ensure child safety. This is a standard requirement across all youth organisations.
 
 ### Building Community
 
 Adult Supporters form the heart of our Scout community. Beyond meetings, Adult Supporters often:
-- Socialize with other parents and families
+- Socialise with other parents and families
 - Support each other's children at events
 - Participate in parent social activities
 - Build lasting friendships within the group

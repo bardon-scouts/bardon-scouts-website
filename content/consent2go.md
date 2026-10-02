@@ -29,7 +29,7 @@ The structured format ensures Leaders have accurate information to care for and 
 **Activity Permissions Made Easy**
 
 Receive and respond to permission requests for all types of Scout activities:
-- Regular meetings at the Scout Hall
+- Regular meetings at the Scout Den
 - Night activities and outings
 - Weekend camps
 - Special events
@@ -47,7 +47,7 @@ Make changes to your child's information anytime, anywhere. Updates are immediat
 
 ### Privacy and Security
 
-Only authorized Scout Leaders have access to your child's information, and it's used solely for their care and safety during Scouting activities.
+Only authorised Scout Leaders have access to your child's information, and it's used solely for their care and safety during Scouting activities.
 
 ### Access Consent2go
 

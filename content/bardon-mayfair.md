@@ -84,4 +84,4 @@ If you'd like to know more about our programs for Joeys, Cubs, Scouts, or Ventur
 
 ---
 
-*The Bardon Mayfair is organized by the Bardon State School P&C Association. Learn more about the school at [bardonss.eq.edu.au](https://bardonss.eq.edu.au)*
+*The Bardon Mayfair is organised by the Bardon State School P&C Association. Learn more about the school at [bardonss.eq.edu.au](https://bardonss.eq.edu.au)*

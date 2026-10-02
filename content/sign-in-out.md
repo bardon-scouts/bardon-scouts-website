@@ -17,7 +17,7 @@ For the safety and security of all our Scouts, Bardon Scouts requires parents or
 **Why We Require Sign In/Out:**
 - Ensures we know exactly which children are present
 - Provides accurate attendance records for safety and insurance purposes
-- Confirms authorized adults are dropping off and collecting children
+- Confirms authorised adults are dropping off and collecting children
 - Helps leaders account for all Scouts during activities
 - Creates a clear record of arrival and departure times
 

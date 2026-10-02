@@ -45,7 +45,7 @@ Founded in 1982 by Don Masters (Kanga) and Mike Cole (Hawk) of the Toowoomba-bas
 
 In 2019, the event was entered in the Outdoors Queensland Awards and won recognition for its outstanding contribution to outdoor youth activities.
 
-The event is organized by Darling Downs Region Scouts with support from:
+The event is organised by Darling Downs Region Scouts with support from:
 - Australian Defence Force
 - Queensland Ambulance Service
 - Queensland Police
@@ -89,6 +89,7 @@ This event is specifically designed for the Scout section and is not suitable fo
 ## Get Involved
 
 If you're a Scout at Bardon Scouts and interested in participating in Operation NightHawk, speak to your Scout Leader for details about upcoming events.
+
 ---
 
-*Operation NightHawk is organized by Darling Downs Region Scouts. Learn more at [darlingdownsscouts.org.au](http://darlingdownsscouts.org.au)*
+*Operation NightHawk is organised by Darling Downs Region Scouts. Learn more at [darlingdownsscouts.org.au](http://darlingdownsscouts.org.au)*

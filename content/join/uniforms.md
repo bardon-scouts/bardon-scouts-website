@@ -41,15 +41,15 @@ All uniform items can be purchased from the [Scouts Australia Shop](https://scou
 
 ## Second Hand Uniforms
 
-We store old uniforms at the Bardon Scout Hall to help families save money and reduce waste.
+We store old uniforms at the Scout Den to help families save money and reduce waste.
 
 **Donating Uniforms:**
 
-If you have a uniform that is no longer needed, please drop it into the Lost and Found box at the Scout Hall. We will check and store the uniform for future use by other families.
+If you have a uniform that is no longer needed, please drop it into the Lost and Found box at the Scout Den. We will check and store the uniform for future use by other families.
 
 **Getting Second Hand Uniforms:**
 
-If you would like to use a second hand uniform, please visit the Scout Hall and look through the box labeled "Second Hand Uniforms". You're welcome to take what you need.
+If you would like to use a second hand uniform, please visit the Scout Den and look through the box labelled "Second Hand Uniforms". You're welcome to take what you need.
 
 ## Badge Placement
 

@@ -7,7 +7,7 @@ image: /img/scouts_logo.jpg
 
 ## Phone Use During Scout Meetings
 
-Bardon Scouts operates a **no phones policy** during Scout meetings to maximize engagement, safety, and the quality of the Scouting experience.
+Bardon Scouts operates a **no phones policy** during Scout meetings to maximise engagement, safety, and the quality of the Scouting experience.
 
 ### Why No Phones?
 
@@ -70,7 +70,7 @@ We ask parents to support this policy by:
 - **Not texting or calling your child during meetings** (contact Section Leader instead)
 - Discussing the policy with your child and explaining why it's important
 - Encouraging your child to leave their phone at home or in the car
-- Modeling phone-free behavior if attending as a helper or Adult Supporter
+- Modelling phone-free behaviour if attending as a helper or Adult Supporter
 
 ### Dealing with Issues
 

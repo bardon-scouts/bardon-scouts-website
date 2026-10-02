@@ -34,11 +34,11 @@ Scouting works best when families are engaged and supportive. Whatever time you 
 
 ---
 
-### What happens to items left at the Scout Hall?
+### What happens to items left at the Scout Den?
 
-Items left at the Scout Hall are stored in our Lost and Found box. We empty the Lost and Found every six weeks, so please check regularly if your child has misplaced anything.
+Items left at the Scout Den are stored in our Lost and Found box. We empty the Lost and Found every six weeks, so please check regularly if your child has misplaced anything.
 
-The Lost and Found box is located at the Scout Hall and can be checked during meeting times or when the hall is open.
+The Lost and Found box is located at the Scout Den and can be checked during meeting times or when the Den is open.
 
 ---
 

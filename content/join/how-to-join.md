@@ -27,7 +27,7 @@ Once you've trialled and decided to join, we'll provide you with more informatio
 
 Before your first meeting, please take time to understand how our Scout Group operates. This helps ensure a smooth start and sets clear expectations for your family.
 
-**Please read and familiarize yourself with:**
+**Please read and familiarise yourself with:**
 
 - **[Code of Conduct](/code-of-conduct/)** - Expectations for parents and Scouts
 - **[Sign In and Out](/sign-in-out/)** - Safety requirements at every meeting

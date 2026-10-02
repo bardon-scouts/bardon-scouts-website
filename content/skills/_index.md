@@ -23,7 +23,7 @@ Scouting skills encompass everything from outdoor adventure and camping to leade
 
 **Leadership and Teamwork**
 - Patrol leadership
-- Planning and organizing activities
+- Planning and organising activities
 - Communication and cooperation
 - Problem-solving as a team
 - Mentoring younger Scouts
@@ -58,7 +58,7 @@ As Scouts progress through stages, they develop increasingly advanced capabiliti
 
 ## Badge Work and Terrain
 
-All Scouting skills connect to the badge system tracked through **Scouts | Terrain**. As Scouts develop skills, they earn badges and awards that recognize their achievements.
+All Scouting skills connect to the badge system tracked through **Scouts | Terrain**. As Scouts develop skills, they earn badges and awards that recognise their achievements.
 
 Badge areas include:
 - Outdoor Adventure Skills

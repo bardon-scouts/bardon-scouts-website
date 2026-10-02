@@ -61,7 +61,7 @@ All volunteers receive training appropriate to their role, including:
 You'll never be alone! Experienced leaders, district support teams, and Scouts Queensland resources are always available to help.
 
 **Recognition**
-Your contributions are valued and recognized through awards, certificates, and appreciation events.
+Your contributions are valued and recognised through awards, certificates, and appreciation events.
 
 **Community**
 Join a supportive community of like-minded volunteers who share your commitment to youth development.

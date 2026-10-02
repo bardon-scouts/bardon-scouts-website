@@ -20,7 +20,7 @@ Each year on ANZAC Day, Bardon Scouts proudly marches in the local ANZAC Day com
 - **8:15am** - March commences
 - **8:30am - 9:00am** - Commemorative service
 
-**Organized by:** Ashgrove-Bardon RSL Sub Branch
+**Organised by:** Ashgrove-Bardon RSL Sub Branch
 
 ## About ANZAC Day
 
@@ -32,7 +32,7 @@ The day has since grown to honour all Australians who have served and died in wa
 
 The Ithaca War Memorial in Paddington is a significant local landmark in the Bardon/Paddington area. The memorial and annual service provide an opportunity for our local community to gather and remember the service and sacrifice of those from our area who served in times of war.
 
-The service is organized by the Ashgrove-Bardon RSL Sub Branch and brings together veterans, current service personnel, emergency services, community groups, schools, and Scout groups from across the local area.
+The service is organised by the Ashgrove-Bardon RSL Sub Branch and brings together veterans, current service personnel, emergency services, community groups, schools, and Scout groups from across the local area.
 
 ## What to Expect
 
@@ -73,7 +73,7 @@ This is an all-sections event that brings together our entire Scout Group.
 ### Important Notes:
 - Arrive on time. Punctuality is essential for this formal event
 - Scouts march as a unit under their leaders' guidance
-- Behavior should be respectful and appropriate throughout
+- Behaviour should be respectful and appropriate throughout
 - Parents/families are welcome to attend and watch
 - The service is approximately 30-60 minutes in duration
 - Public transport and street parking available in Paddington

@@ -12,7 +12,7 @@ Bardon Scouts is built on a foundation of respect, responsibility, and community
 **Respect and Courtesy**
 
 - Treat all Scouts, parents, leaders, and volunteers with respect and courtesy
-- Model positive behavior and language for young people
+- Model positive behaviour and language for young people
 - Support leaders in maintaining discipline and program standards
 - Respect the decisions and guidance of Scout Leaders
 
@@ -25,13 +25,13 @@ Bardon Scouts is built on a foundation of respect, responsibility, and community
 
 **Parent Roster Commitment**
 
-- **[Parent Roster](/leaders/parent-roster/)** - Fulfill your commitment to assist with one meeting per term
+- **[Parent Roster](/leaders/parent-roster/)** - Fulfil your commitment to assist with one meeting per term
 - Support fundraising activities and group events
 - Coordinate with other parents if you cannot make your scheduled roster duty
 
 **Property and Facilities**
 
-- Respect the Scout Hall and all equipment
+- Respect the Scout Den and all equipment
 - Supervise your children before and after meetings to prevent damage to property
 - Leave all areas clean and tidy
 
@@ -41,7 +41,7 @@ Bardon Scouts is built on a foundation of respect, responsibility, and community
 - Respect the privacy of other families and Scouts
 - Follow all safety guidelines and instructions from Leaders
 
-**Language and Behavior**
+**Language and Behaviour**
 
 - Use appropriate language at all times - no swearing or offensive language
 - Address any concerns or issues privately with Section Leaders or Group Leaders, not in front of Scouts
@@ -66,12 +66,12 @@ As Scouts, you have made a promise to do your best. Living our Code of Conduct i
 
 **Respect for Property**
 
-- Take care of the Scout Hall, equipment, and gear
+- Take care of the Scout Den, equipment, and gear
 - Use equipment properly and safely
 - Clean up after activities and leave areas tidy
 - Report any damage to leaders immediately
 
-**Language and Behavior**
+**Language and Behaviour**
 
 - Use appropriate language - no swearing or offensive words
 - Follow the Scout Law in your words and actions
