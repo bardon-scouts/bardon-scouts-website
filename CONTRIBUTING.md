@@ -22,7 +22,7 @@ The process (issue states `triage`, `backlog`, to do and `needs-review`, Claude'
 
 ## This project
 
-- **Docs:** `docs/principles.md` (what matters on this site) and `docs/requirements/` (content standards, event pages, pages and navigation, sections, home page), and `docs/testing/` (how changes are tested, and the whole-site check before publishing). Claude reads these; please keep them current when things change.
+- **Docs:** `docs/principles.md` (what matters on this site) and `docs/requirements/` (content standards, event pages, news posts, pages and navigation, sections, home page), and `docs/testing/` (how changes are tested, and the whole-site check before publishing). Claude reads these; please keep them current when things change.
 - **Branches:** work on `dev`, which deploys to https://dev--bardon-scouts-website.netlify.app/. Merging `dev` into `master` publishes to https://bardonscouts.org.au/. The CMS currently saves straight to `master` (see [#14](https://github.com/bardon-scouts/bardon-scouts-website/issues/14)).
 - **Checking a change:** Claude uses the `verify` skill (`.claude/skills/verify/SKILL.md`), which confirms the Netlify deploy of a commit and then checks the pages on the dev site.
 - **Extra labels** on top of the plugin's standard ones: `content` (text or page changes), `website-feedback` and `complaint` (where an issue came from).
