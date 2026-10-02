@@ -4,9 +4,9 @@ description: "Community events and activities where Bardon Scouts participates t
 type: page
 ---
 
-## Annual Events & Fundraisers
+## Annual Events
 
-Bardon Scouts actively participates in community events and Scout activities throughout the year. These events provide opportunities for our members to engage with the wider community, and develop their skills.
+Bardon Scouts takes part in community events and Scout activities throughout the year. Our own fundraisers, such as the Mango Fundraiser and Containers for Change, are under [Help Us!](/leaders/).
 
 ### [ANZAC Day March](/anzac-day-march/)
 **When:** 25 April (annually)
@@ -45,16 +45,6 @@ Each March, all sections spend a morning collecting rubbish from parks, streets 
 Our annual general meeting. Hear reports from each section, the committee and the Treasurer, and meet the committee for the year ahead.
 
 [Learn more about Annual Report Presentation →](/annual-report-presentation/)
-
----
-
-### [Mango Fundraiser](/mango-fundraiser/)
-**When:** October (orders) - December (delivery)
-**Who:** Everyone - support our fundraiser!
-
-Order 7kg trays of North Queensland Kensington Pride mangoes for $30 to support Bardon Scouts. Pick up is in early December.
-
-[Learn more about Mango Fundraiser →](/mango-fundraiser/)
 
 ---
 

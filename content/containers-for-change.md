@@ -10,9 +10,11 @@ You can support Bardon Scouts by donating your empty drink containers. Under Que
 
 ## How to Donate
 
-Leave your empty containers in the Containers for Change trailer at the front of the Scout Den, 11 Bee Street, Bardon.
+Leave your empty containers in the Containers for Change trailer at the front of the Scout Den, 11 Bee Street, Bardon. Please take the lids off first.
 
-Please take the lids off first.
+You can also take containers to any Containers for Change refund point in Queensland and donate the refund to us by quoting our scheme ID:
+
+**Bardon Scout Group scheme ID: C10616619**
 
 ## What Can Be Donated
 
