@@ -263,6 +263,12 @@
   weight = 2.02
 
 [[main]]
+  name = "Hire the Den"
+  parent = "about"
+  url = "/hire-the-den/"
+  weight = 2.03
+
+[[main]]
   name = "Calendar"
   parent = "about"
   url = "/calendar/"

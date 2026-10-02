@@ -11,5 +11,5 @@ aliases:
 
 Do you have a child that would like to join Scouts?
 Would you like to get involved?
-Would you like to hire the Den?
+Would you like to [hire the Den](/hire-the-den/)?
 We would love to hear from you.
