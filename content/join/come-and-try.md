@@ -23,4 +23,4 @@ Please bring the completed form with you to the trial session.
 
 ## Financial Assistance Available
 
-If cost is a concern, Queensland families may be eligible for a $200 [FairPlay voucher](/join/fairplay-voucher/) to help with membership fees. Learn more about this government program on our [FairPlay Voucher page](/join/fairplay-voucher/).
+If cost is a concern, Queensland children aged 5 to 17 can get a [Play On! Sports Voucher](/join/play-on-voucher/) of up to $200 from the Queensland Government to help with membership fees.

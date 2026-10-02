@@ -50,8 +50,6 @@ Payment details will be provided on your invoice. Please pay invoices promptly t
 
 ## Financial Assistance
 
-Queensland families may be eligible for a **$200 FairPlay voucher** from the Queensland Government to help with Scouts membership fees.
+Queensland children aged 5 to 17 can get a **Play On! Sports Voucher** of up to $200 from the Queensland Government, which can be used towards Scouts membership fees.
 
-The FairPlay voucher program is available for all Queensland children aged 5 to 17 years and can be used towards membership, registration, and participation fees.
-
-**[Learn more about FairPlay vouchers](/join/fairplay-voucher/)**
+**[Learn more about Play On! vouchers](/join/play-on-voucher/)**

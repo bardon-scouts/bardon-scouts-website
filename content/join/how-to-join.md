@@ -69,9 +69,9 @@ After completing the above steps, you'll be ready to start your Scouting adventu
 
 ## Financial Assistance Available
 
-Queensland families may be eligible for a **$200 FairPlay voucher** to help with membership fees. This government program is available for all Queensland children aged 5 to 17 years.
+Queensland children aged 5 to 17 can get a **Play On! Sports Voucher** of up to $200 from the Queensland Government to help with membership fees.
 
-**[Learn more about FairPlay vouchers](/join/fairplay-voucher/)**
+**[Learn more about Play On! vouchers](/join/play-on-voucher/)**
 
 ## Before You Join
 
