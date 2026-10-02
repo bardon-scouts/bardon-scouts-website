@@ -19,10 +19,10 @@ Each ANZAC Day, Bardon Scouts proudly marches in the commemorative service at th
 ---
 
 ### [Cuboree](/cuboree/)
-**When:** Every 2-3 years (Next: April 9-13, 2026)
-**Who:** Cubs only
+**When:** Every 2-3 years (next date to be announced)
+**Who:** Cubs
 
-Cuboree is Queensland's five-day state camp for Cubs, held at Baden-Powell Park in Samford. Over 800 Cubs from across the state come together for adventure, friendship and activities through Special Interest Areas, outdoor adventure skills, and themed activities. For many Cubs it is their first extended time away from home.
+Cuboree is Queensland's five-day state camp for Cubs, held at Baden-Powell Park in Samford. Over 800 Cubs from across the state camp together, and for many it's their first long stay away from home.
 
 [Learn more about Cuboree →](/cuboree/)
 
