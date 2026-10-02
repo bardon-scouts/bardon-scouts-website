@@ -140,9 +140,9 @@ Weekend camps shared with the other groups in our district (Oakleigh, The Gap an
 
 ### [District Swimming](/district-swimming/)
 **When:** Annually (date announced by district)
-**Who:** Cubs only
+**Who:** Cubs
 
-District Swimming is an exciting competition where Bardon Cubs race against neighboring Scout Groups in swimming events. Cubs compete in individual and relay races across various strokes and distances, representing Bardon Scouts with pride while enjoying friendly competition, team spirit, and the chance to win awards for their group!
+A swimming carnival for Cubs from the four groups in our district. Cubs swim individual races and relays for Bardon, with events for every level of swimmer.
 
 [Learn more about District Swimming →](/district-swimming/)
 
