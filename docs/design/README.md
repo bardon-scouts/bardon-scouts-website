@@ -66,7 +66,7 @@ Brand colours are teal `#43a09b` and red `#d9432d`, in `assets/scss/_variables.s
 
 ### Redirects
 
-URLs from the old Gatsby site keep working through `static/_redirects` (true 301s from Netlify): `/products/` to `/sections/`, `/contactus/` to `/contact/`, `/thanks/` to `/contact/thanks/`, and two old contact sub-pages. Some pages also have Hugo `aliases`.
+URLs from the old Gatsby site keep working through `static/_redirects` (true 301s from Netlify): `/products/` to `/sections/`, `/contactus/` to `/contact/`, `/thanks/` to `/contact/thanks/`, and two old contact sub-pages. `/join/fairplay-voucher/` redirects to `/join/play-on-voucher/` since FairPlay vouchers were replaced by Play On! (#36). Some pages also have Hugo `aliases`.
 
 ## Decisions log
 
