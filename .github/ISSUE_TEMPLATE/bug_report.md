@@ -2,7 +2,7 @@
 name: Bug Report
 about: Report a problem with the Bardon Scouts website
 title: '[BUG] '
-labels: 'bug, backlog'
+labels: 'bug, triage'
 assignees: ''
 ---
 
