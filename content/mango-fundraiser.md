@@ -16,8 +16,8 @@ Each year Bardon Scouts sells trays of Kensington Pride mangoes from North Queen
 
 ## How to Order
 
-Email Robyn at [robynzagel@gmail.com](mailto:robynzagel@gmail.com) with your contact details and the number of trays you'd like. You can order as many trays as you like.
+An online order link and QR code will be added here soon. You can order as many trays as you like.
 
 ## Questions
 
-The mangoes are picked mature but may need a few days at room temperature to ripen. If you can't collect in early December, or have other questions about the mangoes, email Robyn at [robynzagel@gmail.com](mailto:robynzagel@gmail.com).
+The mangoes are picked mature but may need a few days at room temperature to ripen. If you can't collect in early December, or have other questions about the mangoes, please [contact us](/contact/).
