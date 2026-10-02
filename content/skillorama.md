@@ -1,238 +1,30 @@
 ---
 title: "Skillorama"
-description: "Joeys and Cubs at Skillorama - Queensland's biggest day out for young Scouts"
+description: "Joeys and Cubs at Skillorama, a day of activity bases at Redcliffe Showgrounds"
 type: page
 image: /img/skillorama.jpg
 ---
 
 
-## The Best Day Out for Joeys and Cubs
-
-Skillorama is a Queensland event for Joeys and Cubs: a day of adventure, activities, and fun held annually at Redcliffe Showgrounds. This exciting event brings together thousands of young Scouts from across Southeast Queensland for a day filled with games, challenges, and scouting activities designed and built by older Scouts, Venturers, and Rovers.
+Skillorama is a day out for Joeys and Cubs at Redcliffe Showgrounds, run each September by Redcliffe District. Scouts, Venturers and Rovers from Scout Groups across South East Queensland design, build and run the activity bases, and up to 1,300 Joeys and Cubs go round them. It has been running for over 50 years.
 
 ## Event Details
 
-**When:** Annually in September (specific date announced by Scouts Queensland)
-**Time:** 11:00am onwards
-**Where:** Redcliffe Showgrounds, Redcliffe
+**When:** September each year (the date is announced by the organisers)
+**Time:** 11:00am to the afternoon
+**Where:** Redcliffe Showgrounds, Anzac Avenue, Kippa-Ring
 **Who:** Joeys and Cubs
 
-## About Skillorama
+## What Happens at Skillorama
 
-Celebrating over 50 years of tradition, Skillorama is a unique Scouting event where Scouts, Venturers and Rovers from across Southeast Queensland come together to design, build, and run activity stations specifically for Joeys and Cubs.
+Each Scout Group runs its own activity base, competing for a "Best Base" award. Past bases have included mud runs, rope bridges, crate stacking, catapults, canoeing on the dam, damper cooking and knot tying. Joeys and Cubs stay with their Bardon leaders as they move between bases, and take home a show bag and badge.
 
-**What Makes Skillorama Special:**
-- **Youth-Led Activities** - Older Scouts create and manage all activity bases
-- **Massive Scale** - Up to 1,300 Joeys and Cubs participate
-- **Variety** - Dozens of different activity stations and challenges
-- **Traditional Scouting** - Activities incorporate classic scouting skills
-- **Community Spirit** - Scout Groups from across the region unite for one big day
+Wear full uniform and bring a hat, sunscreen, water bottle, closed-toe shoes, food for the day (or money for food stalls) and a change of clothes, as some activities get muddy. Bardon Scouts usually travels together; your Section Leader will confirm transport and times.
 
-**Event Highlights:**
-- Interactive games and challenges at multiple bases
-- Traditional scouting skill activities
-- Physical challenges and adventure activities
-- Creative and craft stations
-- Water activities (weather permitting)
-- Show bags and badges for participants
-- Awards for best activity bases
+## Cost and Registration
 
-## Activities at Skillorama
+There's a registration fee, which covers the badge, show bag and activities. Your Joey or Cub Leader registers the group and will tell you the cost when registration opens, several months before the day. Places are limited.
 
-Skillorama has a wide range of activities for Joeys and Cubs. Past events have included:
+## More Information
 
-**Adventure Activities:**
-- Mud runs and obstacle courses
-- Rope bridges and crate stacking
-- Slides and climbing challenges
-- Spinning swings and merry-go-rounds
-- Bicycles on a wire
-- Catapults and launching games
-
-**Water Activities:**
-- Canoeing on the dam
-- Rafting adventures
-- Water-based challenges
-
-**Traditional Scouting Skills:**
-- Damper twists and campfire cooking
-- Popcorn making
-- Wood burning with magnifying glass using the sun
-- Rope work and knot tying
-- Geocaching and navigation
-
-**Creative & Fun:**
-- Giant games
-- Bunnings craft activities
-- Themed activity stations
-- Interactive challenges
-
-**Physical Challenges:**
-- Mountain bike riding
-- Obstacle courses
-- Team challenges
-- Relay races
-
-Each Scout Group creates their own unique activity base, competing for "Best Base" awards. The variety means every Joey and Cub finds something they love!
-
-## Why Joeys and Cubs Love Skillorama
-
-**Lots to Try**
-With dozens of activity stations, there's always something new to try and explore.
-
-**Big Day Out**
-Skillorama is the biggest event of the year for Joeys and Cubs.
-
-**Safe & Supervised**
-All activities are designed and supervised by trained older Scouts and adult leaders.
-
-**Meet New Friends**
-Connect with hundreds of Joeys and Cubs from Scout Groups across Southeast Queensland.
-
-**Challenge Yourself**
-Try new activities, push your limits, and achieve things you never thought possible.
-
-**Show Bags & Badges**
-Take home special Skillorama memorabilia to remember your adventure.
-
-## Event History
-
-Skillorama has been a Queensland Scouting tradition for over 50 years, hosted by Redcliffe District in the North Metro Brisbane Region. The event has grown from a small district gathering to one of Queensland's largest youth scouting events, regularly attracting over 1,000 participants.
-
-**Recent History:**
-- **2023** - Celebrated 50 years of Skillorama with record attendance
-- **2020-2022** - Events postponed due to COVID-19 and severe weather
-- **2019** - Last pre-pandemic event with full participation
-- **2015** - Major event with 1,300 Cubs and Joeys participating
-
-The tradition continues each September, bringing together what Scouting offers: youth leadership, outdoor adventure, skill development, and community spirit.
-
-## Parent Information
-
-### Who can go?
-**Joeys** and **Cubs**
-
-Skillorama is specifically designed for Bardon Scouts' youngest members. Scouts, Venturers, and Rovers attend as activity leaders and helpers.
-
-### What to bring:
-- **Scout uniform** (full uniform with Group scarf)
-- **Hat and sunscreen** (outdoor event, so sun protection is essential)
-- **Water bottle** (refill stations available)
-- **Morning tea and lunch** (or money for food vendors)
-- **Closed-toe shoes** (suitable for running and outdoor activities)
-- **Change of clothes** (activities can get muddy!)
-- **Towel** (if water activities are running)
-- **Backpack** (to carry belongings and collect badges/show bags)
-- **Positive attitude** ready for adventure!
-
-### Important Requirements:
-- **Supervision** - Joeys and Cubs stay with their Scout Group and leaders
-- **Registration** - Must register through your Section Leader
-- **Current membership** - Financial Scout members for insurance coverage
-- **Follow instructions** - Listen to activity base leaders and follow safety rules
-- **Stay hydrated** - Drink plenty of water throughout the day
-
-### Travel & Logistics:
-- **Group Travel** - Bardon Scouts travels together as a Group
-- **Transport** - Details provided by Section Leaders (typically bus or carpool)
-- **Drop-off/Pick-up** - Times and locations confirmed prior to event
-- **Duration** - Plan for most of the day (11:00am start, afternoon finish)
-
-## Event Safety & Supervision
-
-Skillorama maintains high safety standards with comprehensive supervision:
-
-✓ **Adult Leader Supervision** - Each Joey and Cub section attended by trained leaders
-✓ **Activity Base Supervision** - Each station supervised by older Scouts and adult leaders
-✓ **Safety Briefings** - All participants briefed on safety rules
-✓ **First Aid** - First aid stations and trained first aiders on site
-✓ **Hydration Stations** - Water refill points throughout the venue
-✓ **Ratio Requirements** - Appropriate adult-to-youth supervision maintained
-✓ **Emergency Procedures** - Clear emergency response plans in place
-
-**Venue Safety:**
-- Redcliffe Showgrounds is a secure, fenced venue
-- Designated activity zones clearly marked
-- Parent/guardian volunteers assist with supervision
-- Lost child procedures in place
-
-## Redcliffe Showgrounds
-
-**Location:**
-Redcliffe Showgrounds
-Anzac Avenue, Kippa-Ring/Redcliffe QLD
-
-**Facilities:**
-- Large open grounds perfect for activity stations
-- Covered areas for shelter
-- Toilet facilities
-- Parking available
-- Food vendors typically on site
-
-**Getting There:**
-- Approximately 30-40 minutes from Bardon (depending on traffic)
-- Group travel arrangements coordinated by Section Leaders
-
-## Registration & Booking
-
-**How to Participate:**
-- Event dates announced by Scouts Queensland each year
-- Section Leaders coordinate Group registration
-- Limited capacity, so register early to secure your spot
-- Registration fees typically apply (covers event costs, badges, show bag)
-
-**Cost:**
-- Registration fee determined annually by Scouts Queensland
-- Cost details provided by Section Leaders when registration opens
-- Typically includes event badge, show bag, and participation in all activities
-
-**Important Dates:**
-- Registration opens several months before event
-- Registration closes when capacity reached or closer to event date
-- Specific dates communicated by Joey and Cub Leaders
-
-## Best Base Competition
-
-A highlight of Skillorama is the "Best Base" competition where Scout Groups compete to create the most engaging, creative, and fun activity station.
-
-**Judging Criteria:**
-- Creativity and originality
-- Engagement and fun factor
-- Safety and supervision
-- Incorporation of traditional scouting skills
-- Participant feedback
-
-Past winners have included Dayboro Scouts, Burpengary Scouts, and many other creative Groups from across the region.
-
-While Joeys and Cubs enjoy the activities, they're also witnessing youth leadership in action, and seeing what they can do as they move up through the sections.
-
-## After Skillorama
-
-Many Joeys and Cubs cite Skillorama as their favourite Scouting event of the year. They enjoy the variety and the size of the day.
-
-**Keep the Adventure Going:**
-- Share your favourite activities with your section at weekly meetings
-- Look forward to next year's Skillorama
-- Progress through Cubs and Scouts to become an activity leader at future events
-- Stay connected with new friends made at the event
-
-## Get Involved
-
-Skillorama is a must-attend event for Joeys and Cubs in Southeast Queensland!
-
-Interested in participating? Speak to your Joey or Cub Leader about registration details for this year's Skillorama, or [contact Bardon Scouts](/contact/) for more information.
-
-## More Events for Young Scouts
-
-If your Joey or Cub loves Skillorama, they might also enjoy:
-
-- **[ANZAC Day March](/anzac-day-march/)** - Community commemoration (all sections)
-- **[Bardon Mayfair](/bardon-mayfair/)** - School fundraising fair (all sections)
-- **[Fair on the Green](/fair-on-the-green/)** - Milton community fair (all sections)
-- **Section Camps** - Joey and Cub-specific camps throughout the year
-
----
-
-*Skillorama is organized by Redcliffe District - North Metro Brisbane Region, Scouts Queensland. For official event information, contact Scouts Queensland or check [scoutsqld.com.au](https://scoutsqld.com.au/)*
-
-*For Bardon Scouts participation details, registration, and travel arrangements, please contact your Joey or Cub Leader or [get in touch](/contact/).*
+Skillorama is run by Redcliffe District, North Metro Brisbane Region, [Scouts Queensland](https://scoutsqld.com.au/). For questions about Bardon going, speak to your Joey or Cub Leader or [contact us](/contact/).

@@ -92,7 +92,7 @@ Operation NightHawk is an overnight Scout hike held annually on the Darling Down
 **When:** September (annually)
 **Who:** Joeys and Cubs
 
-Skillorama is Queensland's biggest day out for young Scouts, held annually at Redcliffe Showgrounds. Up to 1,300 Joeys and Cubs participate in dozens of activity stations designed and built by older Scouts, Venturers, and Rovers. From mud runs and rope bridges to canoeing and craft activities, it's a massive day of adventure celebrating over 50 years of tradition!
+A day of activity bases at Redcliffe Showgrounds, built and run by older Scouts, Venturers and Rovers. Up to 1,300 Joeys and Cubs take part each year.
 
 [Learn more about Skillorama →](/skillorama/)
 
