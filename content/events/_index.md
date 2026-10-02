@@ -30,9 +30,9 @@ Cuboree is Queensland's five-day state camp for Cubs, held at Baden-Powell Park 
 
 ### [Clean Up Australia Day](/clean-up-australia-day/)
 **When:** First Sunday in March (annually)
-**Who:** Joeys, Cubs, Scouts, Venturers - All sections!
+**Who:** Joeys, Cubs, Scouts, Venturers, and their families
 
-Clean Up Australia Day is Australia's largest community environmental event, and Bardon Scouts proudly participates each year. All sections come together to clean up local parks, streets, and public spaces, demonstrating our commitment to environmental stewardship and community service. Families welcome to join!
+Each March, all sections spend a morning collecting rubbish from parks, streets and creek banks around Bardon as part of the national Clean Up Australia Day.
 
 [Learn more about Clean Up Australia Day →](/clean-up-australia-day/)
 
