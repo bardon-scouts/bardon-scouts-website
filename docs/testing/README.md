@@ -19,6 +19,7 @@ Test cases live in the requirements, not here. Each file in `docs/requirements/`
 |---|---|
 | CS | `content-standards.md` |
 | EV | `event-pages.md` |
+| FM | `forms.md` |
 | HP | `home-page.md` |
 | NP | `news-posts.md` |
 | PN | `pages-and-navigation.md` |
