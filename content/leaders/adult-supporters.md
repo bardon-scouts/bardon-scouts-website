@@ -93,7 +93,7 @@ Adult Supporters form the heart of our Scout community. Beyond meetings, Adult S
 - Build lasting friendships within the group
 - Create a network of support for all families
 
-Many of our closest friendships at Bardon Scouts are between Adult Supporter parents who started volunteering together and discovered a wonderful community.
+Many of our closest friendships at Bardon Scouts are between Adult Supporter parents who started volunteering together.
 
 ### Different from Parent Roster
 

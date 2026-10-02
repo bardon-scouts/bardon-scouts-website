@@ -52,7 +52,7 @@ Our annual general meeting. Hear reports from each section, the committee and th
 **When:** October (orders) - December (delivery)
 **Who:** Everyone - support our fundraiser!
 
-Fresh North Queensland Kensington Pride mangoes delivered direct from the farm. Order premium 7kg trays for $30 and support Bardon Scouts programs. Orders close 28 October with delivery in early December. A delicious way to support our youth programs!
+Order 7kg trays of North Queensland Kensington Pride mangoes for $30 to support Bardon Scouts. Pick up is in early December.
 
 [Learn more about Mango Fundraiser →](/mango-fundraiser/)
 

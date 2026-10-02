@@ -65,7 +65,7 @@ Access Consent2go through your web browser at [consent2go.com](https://consent2g
 - "Student" or "Participant" = Your Scout (youth member)
 - "Staff" = Scout Leaders (adult volunteers)
 
-Don't let the school language confuse you - it works the same way for Scouts! The system functions perfectly for Scouting activities and events.
+The system works the same way for Scouts.
 
 ### Getting Started
 

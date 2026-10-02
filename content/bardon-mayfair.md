@@ -16,7 +16,7 @@ As the P&C Association's main fundraiser for the year, the Mayfair supports esse
 
 ## What Makes Mayfair Special
 
-The Bardon Mayfair has earned its reputation as a must-attend Brisbane event, featuring:
+The Mayfair includes:
 
 **Markets & Stalls**
 - Local crafts and artisan goods
@@ -46,7 +46,7 @@ At this year's Mayfair, Bardon Scouts ran an information stall where we:
 - Connected with local families interested in joining
 - Showcased photos and stories from recent Scout adventures
 
-The atmosphere was fantastic, with families enjoying the beautiful June weather and the wide range of activities on offer. It was wonderful to be part of such a significant community event right here in Bardon.
+We spoke with many local families about joining, and enjoyed being part of a big community event in Bardon.
 
 ## Looking Ahead to 2025
 
@@ -78,7 +78,7 @@ All Bardon Scouts members are welcome to attend:
 
 ## Why We Participate
 
-Being part of events like the Bardon Mayfair aligns perfectly with Scout values:
+We take part in events like the Bardon Mayfair because they fit Scout values:
 
 - **Community Connection** - We're an active part of the Bardon community
 - **Supporting Local Schools** - The Mayfair raises vital funds for our local school

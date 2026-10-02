@@ -7,7 +7,7 @@ image: /img/fair-on-the-green.jpg
 
 ## Bardon Scouts at Fair on the Green
 
-Bardon Scouts proudly participated in the Milton State School Fair on the Green this year, joining the local community for a fantastic day of fun, fundraising, and friendship.
+Bardon Scouts proudly participated in the Milton State School Fair on the Green this year, joining the local community for a day of fun and fundraising.
 
 
 ### About Fair on the Green
@@ -27,7 +27,7 @@ The event typically features:
 
 At this year's Fair on the Green, Bardon Scouts set up a display to showcase what Scouting is all about. We met families from across the local area, answered questions about our programs, and shared stories of adventure and growth.
 
-It was wonderful to see so many children excited about the prospect of joining Scouts, and to connect with families who share our values of community service, outdoor adventure, and youth development.
+Many children were keen to join, and we met families interested in what Scouting offers.
 
 ### Join Us Next Year
 
