@@ -2,7 +2,7 @@
 title: "Fishing"
 description: "Fishing at Bardon Scouts - held throughout the year and open to all sections"
 type: page
-image: /img/scouts_logo.jpg
+image: /img/fishing.jpg
 ---
 
 

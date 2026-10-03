@@ -2,7 +2,7 @@
 title: "Air Activities"
 description: "Proposed: a Bardon Scouts air activities event through Scouts Queensland Air Activities"
 type: page
-image: /img/scouts_logo.jpg
+image: /img/air-activities.jpg
 ---
 
 

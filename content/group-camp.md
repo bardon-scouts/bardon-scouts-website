@@ -2,7 +2,7 @@
 title: "Group Camp"
 description: "Bardon Scouts Group Camp - two nights of camping each October for all sections"
 type: page
-image: /img/scouts_logo.jpg
+image: /img/group-camp.jpg
 ---
 
 

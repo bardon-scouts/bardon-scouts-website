@@ -27,15 +27,15 @@ Tested with Clean Up Australia Day (#59).
 
 ## Events
 
-The pages below point at their own filename, but each file is a copy of the logo. Save the new image over it.
+All the event pages below now have their own image (#59). To change one, save the new image over its file.
 
 ### ANZAC Day March - `/anzac-day-march/`
-File: `/img/anzac-day-march.jpg`
+File: `/img/anzac-day-march.jpg`. Done (#59).
 
 > A wreath of red poppies and rosemary resting at the base of a sandstone war memorial at dawn, soft pink sky, dew on the grass.
 
 ### Annual Report Presentation - `/annual-report-presentation/`
-File: `/img/annual-report-presentation.jpg`
+File: `/img/annual-report-presentation.jpg`. Done (#59).
 
 > Rows of folding chairs in a timber community hall in the evening, a trestle table at the front with a stack of printed reports and a tray of tea cups, warm lights.
 
@@ -45,57 +45,57 @@ File: `/img/clean-up-australia-day.jpg`. Done (#59).
 > Gloved hands dropping a plastic bottle into a rubbish bag beside a creek bank lined with gum trees, morning light.
 
 ### Cuboree - `/cuboree/`
-File: `/img/cuboree.jpg`
+File: `/img/cuboree.jpg`. Done (#59), using the official Cuboree 2026 logo.
 
 > A large open camp field filled with rows of tents and colourful flags on poles at dusk, campfire smoke drifting, distant figures seen from behind.
 
 ### District Camps - `/district-camps/`
-File: `/img/district-camps.jpg`
+File: `/img/district-camps.jpg`. Done (#59).
 
 > A cluster of tents among tall eucalyptus trees, a camp kitchen table with billies and enamel mugs in the foreground, late afternoon light.
 
 ### District Swimming - `/district-swimming/`
-File: `/img/district-swimming.jpg`
+File: `/img/district-swimming.jpg`. Done (#59).
 
 > An outdoor swimming pool from the end of the lanes, lane ropes and starting blocks, kickboards stacked on the edge, bright sunny day.
 
 ### KnightMoves - `/knightmoves/`
-File: `/img/knightmoves.jpg`
+File: `/img/knightmoves.jpg`. Done (#59).
 
 > At night, a compass and a paper map lit by a head torch on the grass, distant city lights on the horizon.
 
 ### Operation NightHawk - `/operation-nighthawk/`
-File: `/img/operation-nighthawk.jpg`
+File: `/img/operation-nighthawk.jpg`. Done (#59), using the official Operation NightHawk logo.
 
 > A line of small head torch lights winding across dark rolling farmland on the Darling Downs under a starry sky.
 
 ### Pizza and Paddle - `/pizza-and-paddle/`
-File: `/img/pizza-and-paddle.jpg`
+File: `/img/pizza-and-paddle.jpg`. Done (#59).
 
 > Canoes pulled up on a grassy riverbank at sunset with paddles and life jackets beside them, pizza boxes on a picnic table in the foreground.
 
 ### Rock Climbing - `/rock-climbing/`
-File: `/img/rock-climbing.jpg`
+File: `/img/rock-climbing.jpg`. Done (#59).
 
 > An indoor climbing wall with colourful holds seen from below, a rope running up the wall and a chalk bag hanging in the foreground.
 
 ### Skillorama - `/skillorama/`
-File: `/img/skillorama.jpg`
+File: `/img/skillorama.jpg`. Done (#59).
 
 > A showground on a sunny day set up with activity bases: small marquees, a low rope bridge, hay bales and buckets, distant figures seen from behind.
 
 ### Air Activities - `/air-activities/`
-File: `/img/air-activities.jpg`, **set the image**
+File: `/img/air-activities.jpg`. Done (#59).
 
 > A small glider sitting on a grass airfield in the early morning, windsock in the background, clear blue sky.
 
 ### Fishing - `/fishing/`
-File: `/img/fishing.jpg`, **set the image**
+File: `/img/fishing.jpg`. Done (#59).
 
 > Two fishing rods leaning on a timber jetty railing over calm water at sunrise, an open tackle box and a bucket on the boards.
 
 ### Group Camp - `/group-camp/`
-File: `/img/group-camp.jpg`, **set the image**
+File: `/img/group-camp.jpg`. Done (#59).
 
 > A bush campsite in spring with several tents around a campfire circle of logs, jacaranda and gum trees, golden evening light.
 
