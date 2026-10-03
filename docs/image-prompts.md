@@ -9,6 +9,16 @@ Prompts for an image generator (such as Leonardo) for every page that shows the 
 3. Save it as JPG under the filename given, in `static/img/` (or upload it through the CMS with that name).
 4. For pages marked **set the image**, also change the page's `image:` to the new file, in the CMS or by an issue. Event pages already point at their filename, so saving over the old file is enough.
 
+## Adding an image
+
+Tested with Clean Up Australia Day (#59).
+
+1. **Check the shape.** The hero needs a 3:1 image. If the generator gives a square or other shape (Leonardo's default is 1024 x 1024), crop it to 3:1 around the subject, keeping the subject on the left or centre. Otherwise the page shows only the top of the image.
+2. **Check the right-hand third.** The page title covers it. If the subject is on the right, mirror the image (only if it has no text).
+3. **Add it,** either way:
+   - **Ask Claude:** attach the image to an issue comment and say which page it's for. Claude crops it if needed, saves it and checks it on the dev site.
+   - **In the CMS:** open the page, choose its image and upload the file. For event pages, use the filename given below so it replaces the old file. CMS changes go straight to the live site (see `CLAUDE.md`), so crop the image first.
+
 **Shared style:** *Natural light, South East Queensland bush or suburban setting, realistic colours. Keep the main subject in the left and centre and leave the right third simple and uncluttered. No text, no words, no logos, no badges, no uniforms, no recognisable faces.*
 
 **Why the shape and the right-hand space:** the hero is cropped from the top left to at most 400 pixels tall across the full page width, and the page title sits over the right-hand side.
@@ -30,7 +40,7 @@ File: `/img/annual-report-presentation.jpg`
 > Rows of folding chairs in a timber community hall in the evening, a trestle table at the front with a stack of printed reports and a tray of tea cups, warm lights.
 
 ### Clean Up Australia Day - `/clean-up-australia-day/`
-File: `/img/clean-up-australia-day.jpg`
+File: `/img/clean-up-australia-day.jpg`. Done (#59).
 
 > Gloved hands dropping a plastic bottle into a rubbish bag beside a creek bank lined with gum trees, morning light.
 
