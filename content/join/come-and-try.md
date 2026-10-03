@@ -21,6 +21,8 @@ Before your child attends a trial session, please download and complete the Non-
 
 Please bring the completed form with you to the trial session.
 
+Once your child has joined, [Your First Night](/join/first-night/) covers what to wear, what to bring and what happens at a meeting.
+
 ## Financial Assistance Available
 
 If cost is a concern, Queensland children aged 5 to 17 can get a [Play On! Sports Voucher](/join/play-on-voucher/) of up to $200 from the Queensland Government to help with membership fees.

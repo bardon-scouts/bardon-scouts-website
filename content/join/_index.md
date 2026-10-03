@@ -11,6 +11,7 @@ description: "Information for new families joining Bardon Scouts"
 
 - [How to Join](/join/how-to-join/) - Steps to enrol your child
 - [Welcome Pack](/welcome/) - What to do once you've joined
+- [Your First Night](/join/first-night/) - What to wear, bring and expect at the first meeting
 - [Fees & Costs](/join/fees/) - What you'll pay
 - [Uniforms](/join/uniforms/) - What to wear
 - [Come and Try](/join/come-and-try/) - Visit us for free

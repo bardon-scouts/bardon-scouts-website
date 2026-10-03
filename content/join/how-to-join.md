@@ -65,7 +65,7 @@ Please complete your Consent2go setup as soon as you receive the invitation.
 
 ### 6. Attend Your First Meeting
 
-After completing the above steps, you'll be ready to start your Scouting adventure! We'll provide you with all the details about regular meeting times, what to bring, and what to expect.
+After completing the above steps, you'll be ready to start your Scouting adventure! [Your First Night](/join/first-night/) covers what to wear, what to bring and what to expect.
 
 ## Financial Assistance Available
 

@@ -45,6 +45,7 @@ Bardon Scout Group has a Den (as they are known in Scouting) located on Bee St, 
 
 ### Each meeting
 
+- **[Your First Night](/join/first-night/)** - What to wear, what to bring and what happens at a meeting.
 - **[Sign In and Out](/sign-in-out/)** - Sign your child in when you drop them off and out when you collect them, every meeting.
 - **[Phone Use Policy](/phone-use/)** - Why phones stay away during meetings, and how to reach your child in an emergency.
 - **[Code of Conduct](/code-of-conduct/)** - What we expect of Scouts and parents.
