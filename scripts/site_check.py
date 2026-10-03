@@ -9,7 +9,7 @@ Checks (see docs/testing/README.md):
   1. Every page linked from the site (crawled from the home page, including every menu link) returns 200.
   2. Every redirect in static/_redirects returns a 301 to the right place.
   3. The deployed CMS config (/admin/config.yml) has an entry for every page in content/.
-  4. The contact, website feedback and complaints forms are on their pages.
+  4. The contact, website feedback, complaints and hire enquiry forms are on their pages.
 
 Uses only the Python standard library. Exits 1 if any check fails.
 """
@@ -23,7 +23,8 @@ import urllib.request
 BASE = (sys.argv[1] if len(sys.argv) > 1 else "https://dev--bardon-scouts-website.netlify.app").rstrip("/")
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 HEADERS = {"User-Agent": "bardon-site-check"}
-FORMS = {"/contact/": "contact", "/website-feedback/": "website-feedback", "/complaints/": "complaints"}
+FORMS = {"/contact/": "contact", "/website-feedback/": "website-feedback", "/complaints/": "complaints",
+         "/hire-the-den/": "hire-enquiry"}
 ASSET = re.compile(r"\.(css|js|png|jpe?g|gif|svg|pdf|ico|xml|webp|webmanifest)$", re.I)
 failures = []
 

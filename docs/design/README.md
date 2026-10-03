@@ -11,7 +11,7 @@ How the site is built and why. The requirements in `docs/requirements/` say what
 | Script | One small script for the mobile navbar menu | `assets/js/main.js` |
 | Content editing | Sveltia CMS at `/admin/`, loaded from unpkg, GitHub backend, editorial workflow (draft, review, ready) | `static/admin/index.html`, `static/admin/config.yml` |
 | Hosting | Netlify site `bardon-scouts-website` (team `bardon-scouts`) | `netlify.toml` |
-| Forms | Netlify Forms: contact, website feedback, complaints | `layouts/partials/*-form.html` |
+| Forms | Netlify Forms: contact, website feedback, complaints, hire enquiry | `layouts/partials/*-form.html` |
 
 Netlify builds with `hugo --gc --minify` on Node 18.20.0. Branch deploys add `-b $DEPLOY_PRIME_URL` so links work on the dev site.
 
@@ -26,14 +26,14 @@ Sveltia CMS commits to `master`, not `dev` (`backend.branch` in `static/admin/co
 
 ## Content model
 
-**Pages** are Markdown files with YAML front matter in `content/`. Most pages use `type: page` and the `_default/single.html` template. Event pages are `content/<slug>.md`; the other areas have their own folders (`join/`, `leaders/`, `sections/`, `skills/`, `news/`, `contact/`, `complaints/`, `website-feedback/`). A folder's `_index.md` is its landing page.
+**Pages** are Markdown files with YAML front matter in `content/`. Most pages use `type: page` and the `_default/single.html` template. Event pages are `content/<slug>.md`; the other areas have their own folders (`join/`, `leaders/`, `sections/`, `skills/`, `news/`, `contact/`, `complaints/`, `website-feedback/`, and `hire-the-den/` for its form's thanks page). A folder's `_index.md` is its landing page.
 
 Common front matter:
 - `title`, `description` (used for the page title, meta description and share preview)
 - `type` (`page`, or `sections` for section page extras)
 - `image` (the page's hero and share image; falls back to the Scouts logo)
 - `aliases` (old URLs that redirect to this page)
-- form flags such as `showForm`, `showFeedbackForm`, `showComplaintsForm`
+- form flags such as `showForm`, `showFeedbackForm`, `showComplaintsForm`, `showHireForm`
 
 **Data files** in `data/`:
 - `sections.yaml` is the single source for each section's name, age range, meeting day and time, colour, image, description, tagline, activities, leader title and page content. The section pages (`layouts/sections/single.html`), the Sections page and the home page "Our Units" list (`partials/sections-list.html`) all read it. Don't copy these details into pages.
@@ -56,7 +56,7 @@ There's no theme; all templates are in `layouts/`:
 - `sections/list.html` and `sections/single.html`: the Sections page and each section page
 - `news/`, `events/`, `join/`, `leaders/`, `skills/` list templates for those folders' landing pages
 - `404.html`
-- `partials/`: `head`, `navbar`, `footer`, `hero`, `features`, `sections-list`, `events-list`, `contact-cta`, and the three forms
+- `partials/`: `head`, `navbar`, `footer`, `hero`, `features`, `sections-list`, `events-list`, `contact-cta`, and the four forms
 
 Brand colours are teal `#43a09b` and red `#d9432d`, in `assets/scss/_variables.scss` and `params.toml`.
 

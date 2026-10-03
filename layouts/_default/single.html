@@ -34,6 +34,10 @@
           {{ if .Params.showComplaintsForm }}
             {{ partial "complaints-form.html" . }}
           {{ end }}
+
+          {{ if .Params.showHireForm }}
+            {{ partial "hire-form.html" . }}
+          {{ end }}
         </div>
       </div>
     </div>

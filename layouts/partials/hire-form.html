@@ -1,0 +1,56 @@
+<form name="hire-enquiry" method="post" action="/hire-the-den/thanks/" data-netlify="true" data-netlify-honeypot="bot-field">
+  <input type="hidden" name="form-name" value="hire-enquiry">
+
+  <!-- Honeypot -->
+  <div hidden>
+    <label>
+      Don't fill this out: <input name="bot-field">
+    </label>
+  </div>
+
+  <div class="field">
+    <label class="label" for="name">Your name</label>
+    <div class="control">
+      <input class="input" type="text" name="name" id="name" required>
+    </div>
+  </div>
+
+  <div class="field">
+    <label class="label" for="organisation">Organisation you represent</label>
+    <div class="control">
+      <input class="input" type="text" name="organisation" id="organisation" required>
+    </div>
+  </div>
+
+  <div class="field">
+    <label class="label" for="email">Email</label>
+    <div class="control">
+      <input class="input" type="email" name="email" id="email" required>
+    </div>
+  </div>
+
+  <div class="field">
+    <label class="label" for="phone">Phone (optional)</label>
+    <div class="control">
+      <input class="input" type="tel" name="phone" id="phone">
+    </div>
+  </div>
+
+  <div class="field">
+    <label class="label" for="hire_dates">Dates you'd like to hire the Den</label>
+    <div class="control">
+      <input class="input" type="text" name="hire_dates" id="hire_dates" placeholder="e.g., one Saturday in November, or every Wednesday in Term 1" required>
+    </div>
+  </div>
+
+  <div class="field">
+    <label class="label" for="details">Anything else (optional)</label>
+    <div class="control">
+      <textarea class="textarea" name="details" id="details" placeholder="Start and finish times, how many people are coming, and what the hire is for."></textarea>
+    </div>
+  </div>
+
+  <div class="field">
+    <button type="submit">Send Enquiry</button>
+  </div>
+</form>
