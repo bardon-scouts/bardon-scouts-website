@@ -11,12 +11,12 @@ The basic uniform consists of three items:
 
 ### 1. Section Shirt
 
-Choose the appropriate shirt for your child's section:
+Choose the shirt for your child's section:
 
-- **Joeys**: [Joey Scout Uniform](https://scoutshop.com.au/collections/joey-uniform)
-- **Cubs**: [Cub Scout Uniform](https://scoutshop.com.au/collections/cub-uniform)
-- **Scouts**: [Scout Uniform](https://scoutshop.com.au/collections/scout-uniform)
-- **Venturers**: [Venturer Scout Uniform](https://scoutshop.com.au/collections/venturer-uniform)
+- **Joeys**: [Joey Polo Shirt](https://scoutshop.com.au/products/joey-polo-shirt)
+- **Cubs**: [Cub Polo Shirt](https://scoutshop.com.au/products/cub-polo-shirt) or [Cub Button-Up Shirt](https://scoutshop.com.au/products/cub-button-up-shirt)
+- **Scouts**: [Scout Polo Shirt](https://scoutshop.com.au/products/scout-polo-shirt) or [Scout Button-Up Shirt](https://scoutshop.com.au/products/scout-button-up-shirt)
+- **Venturers**: [Venturer Button-Up Shirt, male fit](https://scoutshop.com.au/products/venturer-shirt-male-fit) or [womens fit](https://scoutshop.com.au/products/venturer-shirt-female-fit)
 
 ### 2. Queensland Scarf
 
