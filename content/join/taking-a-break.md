@@ -2,7 +2,7 @@
 title: "Taking a Break or Finishing Up"
 description: "Information about pausing or ending your Scout membership"
 type: page
-image: /img/scouts_logo.jpg
+image: /img/taking-a-break.jpg
 ---
 
 ## Taking a Break

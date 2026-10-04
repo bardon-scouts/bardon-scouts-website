@@ -2,7 +2,7 @@
 title: "Scouting Skills"
 description: "Core Scouting skills taught at Bardon Scouts - outdoor adventure, camping, leadership, and more"
 type: page
-image: /img/scouts_logo.jpg
+image: /img/skills.jpg
 ---
 
 Scouting is about learning by doing. At Bardon Scouts, members learn practical skills through hands-on activities at weekly meetings, on camps and at events, with help from leaders and older Scouts.

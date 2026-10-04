@@ -2,7 +2,7 @@
 title: "Communication"
 description: "How Bardon Scouts communicates with parents and families"
 type: page
-image: /img/scouts_logo.jpg
+image: /img/communication.jpg
 ---
 
 Bardon Scouts uses three channels to keep parents informed: Consent2go, WhatsApp and email.

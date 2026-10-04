@@ -1,6 +1,7 @@
 ---
 title: "Rovers"
 description: "Rover Scouts (18-25 years) at Bardon Scouts"
+image: /img/rovers.jpg
 type: page
 ---
 

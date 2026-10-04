@@ -2,7 +2,7 @@
 title: "Thank You"
 description: "Your enquiry about hiring the Den has been received"
 type: page
-image: /img/scouts_logo.jpg
+image: /img/thank-you.jpg
 ---
 
 ## Thanks for your enquiry

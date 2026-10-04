@@ -2,7 +2,7 @@
 title: "Terrain"
 description: "Scouts | Terrain badgework and skills tracking system for Bardon Scouts"
 type: page
-image: /img/scouts_logo.jpg
+image: /img/terrain.jpg
 ---
 
 Scouts Australia uses **Scouts | Terrain** as the online system where members record their badge work. Scouts use it to track their progress, submit completed badge work, record special interest projects, see their Scouting journey and milestones, and look up the requirements for every badge and award.

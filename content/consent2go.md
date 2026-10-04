@@ -2,7 +2,7 @@
 title: "Consent2go"
 description: "Parent permission form system for Bardon Scouts activities"
 type: page
-image: /img/scouts_logo.jpg
+image: /img/consent2go.jpg
 ---
 
 ## Consent2go Permission System

@@ -2,7 +2,7 @@
 title: "Thank You for Your Feedback"
 description: "Your website feedback has been received"
 type: page
-image: /img/scouts_logo.jpg
+image: /img/thank-you.jpg
 ---
 
 ## Thank you!

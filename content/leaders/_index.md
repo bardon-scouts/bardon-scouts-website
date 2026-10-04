@@ -1,6 +1,7 @@
 ---
 title: "Help Us!"
 description: "Ways to help Bardon Scouts: volunteering and fundraising"
+image: /img/help-us.jpg
 ---
 
 Bardon Scouts is run by volunteers and supported by fundraising. Here's how you can help.

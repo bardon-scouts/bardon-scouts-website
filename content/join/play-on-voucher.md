@@ -2,7 +2,7 @@
 title: "Play On! Sports Voucher"
 description: "Queensland Government Play On! Sports Vouchers can be used towards Scouts membership fees"
 type: page
-image: /img/scouts_logo.jpg
+image: /img/play-on-voucher.jpg
 ---
 
 Play On! Sports Vouchers are a Queensland Government program that helps families with the cost of sport and recreation, including Scouts. Bardon Scouts accepts Play On! vouchers through Scouts Queensland, which is a registered Play On! activity provider.

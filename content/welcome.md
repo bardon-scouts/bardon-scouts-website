@@ -2,7 +2,7 @@
 title: "Welcome Pack"
 description: "Key information for new Bardon Scouts families, with links to what to do next"
 type: page
-image: /img/scouts_logo.jpg
+image: /img/welcome.jpg
 ---
 
 ## Welcome

@@ -2,7 +2,7 @@
 title: "Committee"
 description: "Meet the Bardon Scouts Group Committee"
 type: page
-image: /img/scouts_logo.jpg
+image: /img/committee.jpg
 ---
 
 ## Our Committee

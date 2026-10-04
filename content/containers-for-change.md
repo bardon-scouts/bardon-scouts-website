@@ -2,7 +2,7 @@
 title: "Containers for Change"
 description: "Support Bardon Scouts by donating your empty drink containers"
 type: page
-image: /img/scouts_logo.jpg
+image: /img/containers-for-change.jpg
 ---
 
 

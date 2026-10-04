@@ -3,7 +3,7 @@ title: "Contact Us"
 description: "Get in touch with Bardon Scouts"
 showForm: true
 type: page
-image: /img/scouts_logo.jpg
+image: /img/contact.jpg
 aliases:
   - /contactus/
   - /contactus/index.html

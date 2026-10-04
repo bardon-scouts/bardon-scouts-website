@@ -2,7 +2,7 @@
 title: "New Family FAQs"
 description: "Frequently asked questions for new Bardon Scouts families"
 type: page
-image: /img/scouts_logo.jpg
+image: /img/faqs.jpg
 ---
 
 ## Frequently Asked Questions

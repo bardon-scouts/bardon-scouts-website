@@ -2,7 +2,7 @@
 title: "Adult Supporters"
 description: "Adult Supporter volunteers at Bardon Scouts"
 type: page
-image: /img/scouts_logo.jpg
+image: /img/adult-supporters.jpg
 ---
 
 Adult Supporters are parents who help at Scout meetings regularly. They commit to attending at least 50% of the weekly meetings for their child's section, helping with activities and supervision under the guidance of the Section Leaders.

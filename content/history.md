@@ -2,7 +2,7 @@
 title: "Our History"
 description: "The history of Bardon Scout Group, from 1924 to today"
 type: page
-image: /img/scouts_logo.jpg
+image: /img/history.jpg
 ---
 
 Our Scout Group is one of the oldest groups in Brisbane. In 2017 it was discovered that Bardon Scouts formed in April 1924 and remained active until 1933. The scout troop stopped operating for two years, then reformed on 27 May 1935 before its 1st parade and the purchase of its current headquarters at Bee Street, Bardon in June 1935. It was the first scout troop in Bardon and was called 1st Bardon. In 1962 the number designation of scout groups was dropped, and 1st Bardon became known as Bardon.
