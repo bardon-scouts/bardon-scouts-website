@@ -34,4 +34,3 @@ disableKinds = ["taxonomy", "term"]
 [taxonomies]
   tag = "tags"
   category = "categories"
-  section = "sections"
