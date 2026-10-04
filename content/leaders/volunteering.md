@@ -26,7 +26,7 @@ Become a role model helping young people develop skills for life and reach their
 Work directly with Joeys, Cubs, Scouts, or Venturers, planning and leading weekly activities and special events.
 
 **Adult Supporters**
-Participate flexibly in activities and events without the commitment of being a regular leader. Perfect for parents who want to help occasionally.
+Help regularly at your child's section, attending at least half of the weekly meetings, under the guidance of a trained leader. See [Adult Supporters](/leaders/adult-supporters/) for what's involved.
 
 **Parent Helpers**
 Micro-volunteering opportunities to assist with specific activities, events, or administrative tasks. Help when it suits your schedule.

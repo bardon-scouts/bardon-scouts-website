@@ -21,7 +21,7 @@ To find out about becoming a leader, see [Volunteering](/leaders/volunteering/).
 
 ## Group Committee
 
-The Group Committee manages the Group behind the scenes. It is made up of parent volunteers and led by the Group Committee Executive: the Chairman, Secretary, Treasurer and other supporting roles as the Group needs. See [Committee](/committee/) for more.
+The Group Committee manages the Group behind the scenes. It is made up of parent volunteers and led by the Group Committee Executive: the Chairman, Secretary and Treasurer. Other committee roles are added as the Group needs them. See [Committee](/committee/) for more.
 
 ## Other Supporters
 

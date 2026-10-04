@@ -1,6 +1,6 @@
 ---
 title: "Great Turnout at Fair on the Green!"
-date: 2026-08-01
+date: 2026-08-30
 summary: "Bardon Scouts' classic Queenslander tent was a hit at the Milton State School Fete!"
 featured: false
 tags:

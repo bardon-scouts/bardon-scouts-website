@@ -7,7 +7,7 @@ image: /img/history.jpg
 
 Our Scout Group is one of the oldest groups in Brisbane. In 2017 it was discovered that Bardon Scouts formed in April 1924 and remained active until 1933. The scout troop stopped operating for two years, then reformed on 27 May 1935 before its 1st parade and the purchase of its current headquarters at Bee Street, Bardon in June 1935. It was the first scout troop in Bardon and was called 1st Bardon. In 1962 the number designation of scout groups was dropped, and 1st Bardon became known as Bardon.
 
-A second Bardon scout group (2nd Bardon) was formed in 1954, located in Jubilee Park, Cecil Road, Bardon. It was renamed North Bardon in 1956, and in 1962 it was renamed again to Jubilee Group. Jubilee was a very active scout group with numerous Honours and Awards to its credit. In 1971 Jubilee Group amalgamated with Bardon.
+After a short-lived 2nd Bardon group at St Bartholomew's Church in 1946, a lasting second Bardon scout group (2nd Bardon) was formed in 1954, located in Jubilee Park, Cecil Road, Bardon. It was renamed North Bardon in 1956, and in 1962 it was renamed again to Jubilee Group. Jubilee was a very active scout group with numerous Honours and Awards to its credit. In 1971 Jubilee Group amalgamated with Bardon.
 
 Our scout group has been fortunate to have men and women with the vision, commitment and dedication to record, preserve and share the history of Scouting in Bardon.
 
@@ -34,7 +34,7 @@ Our history has seen two and three family generations involved in Bardon Scouts.
 - **1935** - Bardon joined Brisbane North West Scout District
 - **1936** - 5 July: King George V Stone Cairn Memorial unveiled (located at the rear of Lyall Den)
 - **1937** - 26 June: official opening of the Cub Hut (now the Q Store)
-- **1937** - 1st Bardon Scout Group's first Queen's Scout: A J Best
+- **1937** - 1st Bardon Scout Group's first King's Scout: A J Best
 - **1938** - 2nd Australian Scout Jamboree, Bradfield Park, Sydney. Bardon contingent: 5 Scouts, 4 Leaders.
 - **1941** - Air Scouts established
 - **1946** - Scouts Venturer section commenced (formerly Senior Scouts)
@@ -74,7 +74,6 @@ Our history has seen two and three family generations involved in Bardon Scouts.
 - **1975** - First girls allowed in Venturer and Rover sections in Australia
 - **1975** - Cub Flat flag pole erected
 - **1975** - Second highest youth membership: 100 (26 Cubs, 28 Scouts, 39 Senior Scouts, 7 Rovers)
-- **1976** - Females allowed to join the Venturer and Rover sections in Australia
 - **1979** - 12th Australian Scout Jamboree, Perth, WA. Bardon contingent: 5 Scouts, 3 Venturers, 1 Leader.
 - **1982** - 13th Australian Scout Jamboree, Collingwood Park, Brisbane. Bardon contingent: 10 Scouts, 3 Venturers, 3 Leaders.
 - **1982** - Bardon Scout Group logo created by Cub Mathew Missow
@@ -92,7 +91,7 @@ Our history has seen two and three family generations involved in Bardon Scouts.
 - **2004** - Scout uniform changed to a new navy uniform, replacing the traditional khaki
 - **2005** - 70th anniversary and 70th anniversary book printed, assuming Bardon commenced in 1935
 - **2009** - Bardon Scouts' first email address started (info@bardonscouts.com)
-- **2010** - 20th Australian Scout Jamboree, Cataract Park, Sydney. Bardon contingent: 16 Scouts, 1 Venturer, 3 Leaders, 1 Parent Helper.
+- **2010** - 22nd Australian Scout Jamboree, Cataract Park, Sydney. Bardon contingent: 16 Scouts, 1 Venturer, 3 Leaders, 1 Parent Helper.
 - **2010** - 1st Queensland Cuboree, Stanthorpe. Bardon contingent: 11 Cubs, 6 Leaders, 2 Parent Supporters.
 - **2010** - Our second website set up by Angela Sibley, running from 4 October 2010
 - **2010** - 1st Grey Wolf Award: B Gray
@@ -100,12 +99,12 @@ Our history has seen two and three family generations involved in Bardon Scouts.
 - **2011** - Started using DIBBS cloud-based club management software, the 1st group in Queensland and 18th Scout group in Australia to do so
 - **2012** - 77-year-old Scout Hut refurbished
 - **2012** - 2nd Queensland Cuboree, Rockhampton. Bardon contingent: 1 Cub.
-- **2013** - 20th Australian Scout Jamboree, Maryborough, Queensland. Bardon contingent: 16 Scouts, 1 Venturer, 3 Leaders, 1 Parent Supporter.
+- **2013** - 23rd Australian Scout Jamboree, Maryborough, Queensland. Bardon contingent: 16 Scouts, 1 Venturer, 3 Leaders, 1 Parent Supporter.
 - **2013** - 1st Scout Medallion Award: R Fraser
 - **2014** - 3rd Queensland Cuboree, Maryborough. Bardon contingent: 4 Cubs, 1 Leader.
 - **2015** - 80th anniversary, assuming Bardon commenced in 1935
-- **2016** - 21st Australian Scout Jamboree, Cataract Park, Sydney. Bardon contingent: 8 Scouts, 2 Leaders.
-- **2016** - 3rd Queensland Cuboree, Maryborough. Bardon contingent: 2 Cubs.
+- **2016** - 24th Australian Scout Jamboree, Cataract Park, Sydney. Bardon contingent: 8 Scouts, 2 Leaders.
+- **2016** - 4th Queensland Cuboree, Maryborough. Bardon contingent: 2 Cubs.
 - **2017** - Discovery that Bardon Scouts commenced in 1924 and was very active until 1933
 - **2017** - Taylor Range District Badge celebrates 60 years
 
