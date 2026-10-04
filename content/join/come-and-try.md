@@ -2,7 +2,7 @@
 title: "Come and Try"
 description: "Visit Bardon Scouts for a free trial session"
 type: page
-image: /img/scouts_logo.jpg
+image: /img/come-and-try.jpg
 ---
 
 ## Free Trial Visit

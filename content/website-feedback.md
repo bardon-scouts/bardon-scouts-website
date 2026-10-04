@@ -3,7 +3,7 @@ title: "Website Feedback"
 description: "Provide feedback to help us improve the Bardon Scouts website"
 showFeedbackForm: true
 type: page
-image: /img/scouts_logo.jpg
+image: /img/website-feedback.jpg
 ---
 
 We value your feedback! Help us improve the Bardon Scouts website by letting us know about:

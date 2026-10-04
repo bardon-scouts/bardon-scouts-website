@@ -2,7 +2,7 @@
 title: "Uniforms"
 description: "Scout uniform requirements and where to buy"
 type: page
-image: /img/scouts_logo.jpg
+image: /img/uniforms.jpg
 ---
 
 ## What You'll Need

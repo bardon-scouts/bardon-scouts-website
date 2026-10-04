@@ -104,9 +104,11 @@ File: `/img/group-camp.jpg`. Done (#59).
 ## Join Us
 
 ### Join Us - `/join/`
-File: `/img/join.jpg`, **set the image** (this page has no `image:` yet)
+File: `/img/join.jpg`, **set the image** (this page has no `image:` yet). Three options, each showing a welcome to someone new:
 
-> A pair of hiking boots and a water bottle on the timber step of a hall, a bush track leading away in the background.
+1. > The open double doors of a timber hall at dusk, warm light inside, a row of small hiking boots and sneakers lined up neatly on the step outside, no people.
+2. > A circle of camp chairs around a small campfire in a bush clearing at dusk, one chair pulled out a little as if waiting for someone to sit down.
+3. > An adult's hand and a child's hand together on a wooden mallet, tapping a tent peg into the grass, a half-pitched tent behind, morning light.
 
 ### Welcome Pack - `/welcome/`
 File: `/img/welcome.jpg`. Done (#59)
@@ -114,12 +116,14 @@ File: `/img/welcome.jpg`. Done (#59)
 > Top-down view of a wooden table with a day pack, a folded map, a compass, a torch and a water bottle laid out neatly.
 
 ### Your First Night - `/join/first-night/`
-File: `/img/first-night.jpg`, **set the image**
+File: `/img/first-night.jpg`, **set the image**. Three options, each showing arriving for the first time:
 
-> A pair of closed-in shoes, a water bottle and a folded jumper by the open door of a timber hall at dusk, warm light inside.
+1. > Seen from behind at child height, a paved path leading to the open doors of a timber hall at dusk, warm light and softly blurred shapes inside.
+2. > An adult's hand and a child's hand side by side pushing open a timber hall door, warm light spilling out onto them, dusk.
+3. > A small plain day pack and a water bottle on a bench just inside the door of a timber hall, a jumper hanging on a peg above, warm evening light.
 
 ### How to Join - `/join/how-to-join/`
-File: `/img/how-to-join.jpg`, **set the image**
+File: `/img/how-to-join.jpg`. Done (#59)
 
 > A winding bush track with stepping stones leading toward a sunlit clearing.
 
@@ -129,10 +133,10 @@ File: `/img/fees.jpg`. Done (#59)
 > A small glass jar of coins beside a compass and a folded map on a wooden table.
 
 ### Uniforms - `/join/uniforms/`
-File: `/img/uniforms.jpg`, **set the image**. **Real photo only, not a generated image.** It should show an Australian Scout uniform with no face and no group badges. No freely licensed photo was found online (#59), so it needs one from the Scouts Australia Brand Centre (members only) or a photo of a Bardon uniform.
+File: `/img/uniforms.jpg`. Done (#59). **Real photo only, not a generated image.** A historical photo is fine, since it doesn't need to match today's uniform. The page uses ["B.-P." addressing the Scouts at Toowong, 1911](https://commons.wikimedia.org/wiki/File:StateLibQld_2_198103_Lord_Robert_Baden-Powell,_founder_of_the_Scouting_movement,_addressing_a_group_of_Scouts_at_Toowong,_Brisbane,_1911.jpg) (public domain, John Oxley Library, State Library of Queensland), cropped to leave out the printed caption.
 
 ### Come and Try - `/join/come-and-try/`
-File: `/img/come-and-try.jpg`, **set the image**. Three options, each showing someone trying Scouts for the first time:
+File: `/img/come-and-try.jpg`. Done (#59). Three options, each showing someone trying Scouts for the first time:
 
 1. > Close-up of a child's hands tying their first knot in a thick natural rope, an adult's hands beside them pointing to where the rope goes, on the timber floor of a hall.
 2. > A low rope bridge strung between two gum trees about knee height, a child's sneakers stepping onto the first rope, seen from behind at ground level, bush clearing in afternoon light.
@@ -166,23 +170,25 @@ File: `/img/history.jpg`. Done (#59). An old photo of the group would be better,
 > A sepia-toned photograph of an old canvas tent with wooden poles and pegs in a paddock, in the style of the 1920s.
 
 ### Group Structure - `/group-structure/`
-File: `/img/group-structure.jpg`, **set the image**. Three options, each showing how the group is organised:
+File: `/img/group-structure.jpg`. Done (#59). Three options, each showing how the group is organised:
 
 1. > Five neat coils of rope in a row on a timber table, growing in size from left to right, coloured brown, yellow, green, maroon and red (the section colours, Joeys to Rovers).
 2. > One thick rope dividing into four thinner ropes, each tied to its own tent peg in a neat row on short grass, seen from above, morning light.
 3. > A tall gum tree seen from directly below, its trunk dividing into large branches and then smaller branches against a clear blue sky.
 
 ### Hire the Den - `/hire-the-den/`
-File: `/img/hire-the-den.jpg`, **set the image**. Three options, each showing the idea of hiring a space rather than the hall itself:
+File: `/img/hire-the-den.jpg`. Done (#59). Three options, each showing the idea of hiring a space rather than the hall itself:
 
 1. > An adult's hand passing a single door key on a plain wooden key tag to another adult's hand, an open timber door behind, warm daylight.
 2. > A trestle table set for a children's party with a plain cake, paper cups and bunting, balloons tied to a chair, soft daylight, no people.
 3. > A ring of keys hanging on a hook beside a timber door, a plain wooden tag on the ring, afternoon light falling across the wall.
 
 ### Calendar - `/calendar/`
-File: `/img/calendar.jpg`. Done (#59)
+File: `/img/calendar.jpg`. **Redo wanted (#59):** the current image (a planner) has made-up writing on the pages. Three options, each showing time or the seasons, with no planners or printed pages:
 
-> A paper planner open at blank pages with a pencil and a compass on a wooden table, a window with gum trees behind.
+1. > A stick sundial on the grass in a bush clearing: a straight stick in the ground inside a ring of twelve small stones, its shadow falling clearly on one stone, morning sun.
+2. > A plain wooden hourglass on a camp table beside a coiled rope and a compass, sand running, warm late afternoon light, bush behind.
+3. > Four small glass jars in a row on a timber shelf, each holding something from a different season: jacaranda flowers, wattle, gum leaves and a pine cone, soft window light.
 
 ### Committee - `/committee/`
 File: `/img/committee.jpg`. Done (#59)
@@ -237,9 +243,11 @@ File: `/img/volunteering.jpg`. Done (#59)
 > Close-up of an adult's hands showing a child's hands how to tie a knot in a rope.
 
 ### Parent Roster - `/leaders/parent-roster/`
-File: `/img/parent-roster.jpg`, **set the image**
+File: `/img/parent-roster.jpg`, **set the image**. Three options, each showing parents helping out on the night:
 
-> A trestle table in a hall set with a tea urn, cups and a plate of biscuits, ready for a meeting.
+1. > Adult hands passing a plate of cut oranges across a trestle table in a timber hall, warm evening light.
+2. > Two adults seen from behind stacking folding chairs against the wall of a timber hall at the end of the night, warm lights.
+3. > An adult's hand holding an enamel mug under the tap of a plain steel tea urn on a trestle table, steam rising, hall lights behind.
 
 ### Adult Supporters - `/leaders/adult-supporters/`
 File: `/img/adult-supporters.jpg`. Done (#59)
@@ -274,7 +282,7 @@ File: `/img/skills-campcraft.jpg`. Done (#59)
 > A small tent pitched in a bush clearing with a billy hanging over a small campfire.
 
 ### First Aid - `/skills/first-aid/`
-File: `/img/skills-first-aid.jpg`, **set the image**. Three options, none with a first aid kit (generated kits come out with nonsense writing):
+File: `/img/skills-first-aid.jpg`. Done (#59). Three options, none with a first aid kit (generated kits come out with nonsense writing):
 
 1. > Close-up of hands tying a plain white triangular bandage into an arm sling on an adult's forearm, outdoors on grass, soft daylight.
 2. > Close-up of hands wrapping a plain crepe bandage around an ankle above a hiking boot, sitting on a bush track, dappled light.
@@ -288,9 +296,11 @@ File: `/img/skills-pioneering.jpg`, **set the image**. Three options, each a ful
 3. > A camp gateway built from timber staves: two tall towers of lashed poles joined by a crossbar, a rope ladder hanging from it, at the entrance to a bush campsite, no sign.
 
 ### Water Activities - `/skills/water-activities/`
-File: `/img/skills-water-activities.jpg`, **set the image**
+File: `/img/skills-water-activities.jpg`, **set the image**. Three options, with plain unmarked boats and paddles (generators copy real brands onto them):
 
-> Canoes on a calm river with paddles across them and life jackets on the bank, morning mist.
+1. > A line of plain unmarked canoes gliding across a calm river at sunrise, paddlers seen from behind at a distance, mist on the water.
+2. > Close-up of a plain wooden paddle blade dipping into calm brown river water, drops falling, the bow of a plain canoe in the foreground, morning light.
+3. > A small sailing dinghy with a plain white sail on a wide calm bay, seen from the shore, mangroves along the water's edge, light breeze.
 
 ## Other pages
 
@@ -315,7 +325,7 @@ File: `/img/complaints.jpg`. Done (#59)
 > A notebook and pen beside a cup of tea on a table by a window, calm morning light.
 
 ### Website Feedback - `/website-feedback/`
-File: `/img/website-feedback.jpg`, **set the image**. Three options, each showing the idea of feedback, with no screens or devices:
+File: `/img/website-feedback.jpg`. Done (#59). Three options, each showing the idea of feedback, with no screens or devices:
 
 1. > A plain wooden suggestion box with a slot in the lid on a table in a timber hall, a few folded blank paper notes beside it.
 2. > A cork board covered in blank sticky notes in several colours, a hand pinning up one more, timber wall behind.

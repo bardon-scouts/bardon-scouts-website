@@ -2,7 +2,7 @@
 title: "Group Structure"
 description: "How Bardon Scout Group is organised: the Group Leader, uniformed leaders, the Group Committee and Adult Supporters"
 type: page
-image: /img/scouts_logo.jpg
+image: /img/group-structure.jpg
 ---
 
 ## Group Leader

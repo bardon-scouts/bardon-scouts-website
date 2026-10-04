@@ -2,7 +2,7 @@
 title: "Hire the Den"
 description: "Enquire about hiring the Bardon Scouts Den on Bee Street, Bardon"
 type: page
-image: /img/scouts_logo.jpg
+image: /img/hire-the-den.jpg
 showHireForm: true
 ---
 
