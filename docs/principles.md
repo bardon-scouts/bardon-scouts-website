@@ -4,7 +4,7 @@
 - **Accurate, not impressive.** Only publish details a leader can vouch for. If something isn't confirmed (dates, costs, details of an external event), say so or link to the official source instead of filling the gap.
 - **Short and specific.** Pages cover what a parent needs, once. No generic sections that could appear on any Scout site (safety checklists, "skills developed" lists).
 - **Bullets for genuine lists only.** Use bullet points for real lists of items: what to bring, steps, dates, links. When a list is really a set of topics, give each topic a short heading or paragraph with enough content to stand on its own.
-- **Protect families from scams.** Never publish payment methods, bank details, invoice timing or payment deadlines. Scammers time fake invoices to match real ones.
+- **Protect families from scams.** Never publish payment methods, bank details, invoice timing or payment deadlines. Scammers time fake invoices to match real ones. Bardon Scouts' own Stripe links (e.g. fundraiser orders) are the exception: families can check them against this site.
 - **Don't publish leaders' contact details.** Parents get their leaders' email and phone details when they join, so pages can tell them to email or call their Section Leader without giving the details. Everyone else uses the contact form.
 - **Use the section names families know:** Joeys, Cubs, Scouts, Venturers. Never "Cub Scouts".
 - **Leaders can maintain it.** Every page and data file must be editable in Sveltia CMS, so leaders without technical skills can keep the site current.

@@ -24,9 +24,10 @@ Never publish:
 - invoice due dates, or the months or schedule of invoicing
 - specific payment deadlines
 - bank transfer instructions
-- payment portal URLs (Consent2go for events is the only exception)
+- payment portal URLs, except Consent2go for events and Bardon Scouts' own Stripe links (see below)
 
 Allowed:
+- Bardon Scouts' own Stripe payment links (`buy.stripe.com`) and their QR codes, e.g. the Mango Fundraiser order link
 - general fee amounts, e.g. "$344 per six months"
 - that invoices will be sent, and to check for them
 - "payment details are on your invoice"
