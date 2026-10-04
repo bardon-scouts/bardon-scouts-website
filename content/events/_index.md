@@ -168,6 +168,16 @@ The 27th Australian Jamboree: ten days in Elmore, Victoria, with more than 10,00
 
 ---
 
+### [Overnight Hikes](/overnight-hikes/)
+**When:** Usually between April and September (dates announced by Section Leaders)
+**Who:** Scouts and Venturers
+
+Scouts and Venturers hike over two or more days with full packs, camping overnight between locations on walks like the Sunshine Coast Hinterland Great Walk.
+
+[Learn more about Overnight Hikes →](/overnight-hikes/)
+
+---
+
 ### [Air Activities (proposed)](/air-activities/)
 **When:** To be announced
 **Who:** To be confirmed
