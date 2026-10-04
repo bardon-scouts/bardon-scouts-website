@@ -184,7 +184,7 @@ File: `/img/hire-the-den.jpg`. Done (#59). Three options, each showing the idea 
 3. > A ring of keys hanging on a hook beside a timber door, a plain wooden tag on the ring, afternoon light falling across the wall.
 
 ### Calendar - `/calendar/`
-File: `/img/calendar.jpg`. **Redo wanted (#59):** the current image (a planner) has made-up writing on the pages. Three options, each showing time or the seasons, with no planners or printed pages:
+File: `/img/calendar.jpg`. Done (#59), redone with option 1 (the planner image had made-up writing). Three options, each showing time or the seasons, with no planners or printed pages:
 
 1. > A stick sundial on the grass in a bush clearing: a straight stick in the ground inside a ring of twelve small stones, its shadow falling clearly on one stone, morning sun.
 2. > A plain wooden hourglass on a camp table beside a coiled rope and a compass, sand running, warm late afternoon light, bush behind.
@@ -289,7 +289,7 @@ File: `/img/skills-first-aid.jpg`. Done (#59). Three options, none with a first 
 3. > Two hands, one over the other with fingers interlocked, pressing on the chest of a plain CPR training manikin lying on a gym mat, seen from the side at hand height.
 
 ### Pioneering - `/skills/pioneering/`
-File: `/img/skills-pioneering.jpg`, **set the image**. Three options, each a full construction of timber staves and rope:
+File: `/img/skills-pioneering.jpg`. Done (#59). Three options, each a full construction of timber staves and rope:
 
 1. > A tall lookout tower built from timber staves joined with natural rope lashings, standing in a grassy clearing, a ladder of lashed rungs up one side, blue sky.
 2. > A trestle bridge made of timber staves and rope lashings spanning a small creek, the lashings clearly visible at each joint, gum trees around it, afternoon light.
