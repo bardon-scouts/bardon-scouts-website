@@ -13,7 +13,7 @@ Welcome to Bardon Scout Group. We aim to provide programs to our youth members t
 
 We also ensure that our programs are provided in the safest possible environment.
 
-Scouting can offer many exciting experiences, and I am sure that with your support we will be able to provide fantastic activities and adventures for your child.
+Scouting can offer many exciting experiences, and with your support we can provide fantastic activities and adventures for your child.
 
 This page provides some information about Scouting in general and more specific information about Bardon Scout Group.
 

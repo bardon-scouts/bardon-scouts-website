@@ -3,9 +3,7 @@ title: "Join Us"
 description: "Information for new families joining Bardon Scouts"
 ---
 
-## Welcome to Bardon Scouts
-
-<!-- TODO: Add introductory content about joining Scouts -->
+Everything you need to join Bardon Scouts, from a free trial visit to your child's first night.
 
 ### Getting Started
 

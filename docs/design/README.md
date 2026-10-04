@@ -36,7 +36,7 @@ Common front matter:
 - form flags such as `showForm`, `showFeedbackForm`, `showComplaintsForm`, `showHireForm`
 
 **Data files** in `data/`:
-- `sections.yaml` is the single source for each section's name, age range, meeting day and time, colour, image, description, tagline, activities, leader title and page content. The section pages (`layouts/sections/single.html`), the Sections page and the home page "Our Units" list (`partials/sections-list.html`) all read it. Don't copy these details into pages.
+- `sections.yaml` is the single source for each section's name, age range, meeting day and time, colour, image, description, tagline, leader title and page content. The section pages (`layouts/sections/single.html`), the Sections page and the home page "Our Units" list (`partials/sections-list.html`) all read it. Don't copy these details into pages.
 - `features.yaml` holds the four home page feature blurbs (`partials/features.html`).
 
 `content/sections/<slug>.md` adds extra content to a section page, such as the list of events that section attends.
