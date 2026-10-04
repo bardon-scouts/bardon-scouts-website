@@ -13,12 +13,14 @@ Each year Bardon Scouts sells trays of Kensington Pride mangoes from North Queen
 ## Order Details
 
 **Cost:** $30 per 7kg tray (about 12-16 mangoes, depending on size)
-**Order by:** 28 October 2024
-**Pick up:** Early December 2024, at the Scout Den, 11 Bee Street, Bardon. We'll let you know the exact date once it's confirmed.
+**Order by:** Date to be confirmed
+**Pick up:** Early December 2026, at the Scout Den, 11 Bee Street, Bardon. We'll let you know the exact date once it's confirmed.
 
 ## How to Order
 
-An online order link and QR code will be added here soon. You can order as many trays as you like.
+[Order your mangoes online](https://buy.stripe.com/00wdRb7fa2gx0kAbi50kE02), or scan the QR code with your phone's camera. You can order as many trays as you like.
+
+<img src="/img/mango-order-qr.png" alt="QR code linking to the Mango Fundraiser online order page" width="240">
 
 ## Questions
 
