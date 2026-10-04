@@ -571,7 +571,7 @@ collections:
           - { label: "Body", name: "body", widget: "markdown", required: false }
 
       - file: "content/join/faqs.md"
-        label: "New Family FAQs"
+        label: "FAQs"
         name: "faqs"
         fields:
           - { label: "Title", name: "title", widget: "string" }

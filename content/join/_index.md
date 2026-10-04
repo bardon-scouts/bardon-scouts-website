@@ -15,7 +15,7 @@ description: "Information for new families joining Bardon Scouts"
 - [Fees & Costs](/join/fees/) - What you'll pay
 - [Uniforms](/join/uniforms/) - What to wear
 - [Come and Try](/join/come-and-try/) - Visit us for free
-- [New Family FAQs](/join/faqs/) - Common questions answered
+- [FAQs](/join/faqs/) - Common questions answered
 
 ### Membership Changes
 

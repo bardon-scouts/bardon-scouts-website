@@ -63,5 +63,5 @@ Bardon Scout Group has a Den (as they are known in Scouting) located on Bee St, 
 
 ### Questions
 
-- **[New Family FAQs](/join/faqs/)** - Answers to common questions from new families.
+- **[FAQs](/join/faqs/)** - Answers to common questions.
 - **[Contact Us](/contact/)** - Get in touch if you can't find what you need.

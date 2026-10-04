@@ -219,7 +219,7 @@
   weight = 3.45
 
 [[main]]
-  name = "New Family FAQs"
+  name = "FAQs"
   parent = "join"
   url = "/join/faqs/"
   weight = 3.5

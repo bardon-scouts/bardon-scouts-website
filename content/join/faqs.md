@@ -1,11 +1,9 @@
 ---
-title: "New Family FAQs"
-description: "Frequently asked questions for new Bardon Scouts families"
+title: "FAQs"
+description: "Frequently asked questions about Bardon Scouts"
 type: page
 image: /img/faqs.jpg
 ---
-
-## Frequently Asked Questions
 
 ### What is expected from parents?
 

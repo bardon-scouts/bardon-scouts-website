@@ -147,7 +147,7 @@ File: `/img/play-on-voucher.jpg`. Done (#59)
 
 > A pair of hiking boots and a small backpack on the grass at the start of a bush trail, morning light.
 
-### New Family FAQs - `/join/faqs/`
+### FAQs - `/join/faqs/`
 File: `/img/faqs.jpg`. Done (#59)
 
 > A wooden signpost in the bush with blank arrows pointing in several directions.
