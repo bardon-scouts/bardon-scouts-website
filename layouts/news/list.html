@@ -1,18 +1,30 @@
 {{ define "main" }}
-<section class="section">
-  <div class="container">
-    <div class="content">
-      <div class="columns">
-        <div class="column is-10 is-offset-1">
-          <h1 class="title is-size-2 has-text-weight-bold">
-            {{ .Title }}
-          </h1>
+<div class="content">
+  {{/* Hero image with title overlay */}}
+  {{ $heroImage := .Params.image | default "/img/scouts_logo.jpg" }}
+  <div class="margin-top-0" style="display: grid; align-items: center;">
+    <img
+      src="{{ $heroImage }}"
+      style="grid-area: 1/1; max-height: 400px; width: 100%; object-fit: cover; object-position: top left;"
+      alt="{{ .Title }}"
+    />
+    <div class="splash" style="grid-area: 1/1;">
+      <h1 class="heading has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen">
+        {{ .Title }}
+      </h1>
+    </div>
+  </div>
 
-          <div class="content">
-            {{ .Content }}
-          </div>
+  <section class="section section--gradient">
+    <div class="container">
+      <div class="content">
+        <div class="columns">
+          <div class="column is-10 is-offset-1">
+            <div class="content">
+              {{ .Content }}
+            </div>
 
-          <!-- News Articles -->
+            <!-- News Articles -->
           {{ $paginator := .Paginate (.Pages) 10 }}
           {{ range $paginator.Pages }}
           <article class="box">
@@ -57,9 +69,10 @@
             {{ end }}
           </nav>
           {{ end }}
+          </div>
         </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
+</div>
 {{ end }}

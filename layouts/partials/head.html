@@ -1,6 +1,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  {{ with getenv "COMMIT_REF" }}<meta name="deploy-commit" content="{{ . }}">{{ end }}
 
   <!-- Title & Description -->
   <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>

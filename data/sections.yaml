@@ -8,18 +8,12 @@ sections:
     image: /img/hero.jpg
     description: "Joeys is the starting point for young adventurers to learn, play and grow."
     tagline: "Joeys (ages 6-8) is where the Scouting adventure begins! Our Joey mob meets every Tuesday evening for fun, games, and learning through play."
-    activities:
-      - Fun games and activities
-      - Basic outdoor skills
-      - Creative play and crafts
-      - Making new friends
-      - Simple team challenges
     leader: "Joey Scout Leader"
     order: 0
     content: |
       ## What We Do
 
-      Joeys is all about learning through play and friendship. Joey Scouts participate in:
+      Joeys is all about learning through play and friendship. Joeys participate in:
 
       - **Fun and Games** - Active play, indoor and outdoor games
       - **Creative Activities** - Arts, crafts, storytelling, and imaginative play
@@ -33,7 +27,7 @@ sections:
 
       ## Join Joeys
 
-      If your child is 6-8 years old and ready to start their Scouting journey, Joeys is the perfect place to begin!
+      If your child is 6-8 years old and ready to start their Scouting journey, Joeys is where to begin.
 
       Contact us to arrange a visit or find out more about joining Joeys at Bardon.
 
@@ -46,12 +40,6 @@ sections:
     image: /img/buddha-s-light-cubs-bush-walk-2.jpg
     description: "Cubs is all about fun, adventure and making friends."
     tagline: "Cubs (ages 8-11) is where adventure begins! Our Cub pack meets every Tuesday evening for games, activities, and planning exciting adventures."
-    activities:
-      - Camping and outdoor adventures
-      - Games and team challenges
-      - Learning new skills
-      - Community service projects
-      - Creative activities and crafts
     leader: "Cub Leader (Akela)"
     order: 1
     content: |
@@ -71,7 +59,7 @@ sections:
 
       ## Join Cubs
 
-      If your child is 8-11 years old and ready for adventure, Cubs is the perfect place to start!
+      If your child is 8-11 years old and ready for adventure, Cubs is the section to join.
 
       Contact us to arrange a visit or find out more about joining Cubs at Bardon.
 
@@ -82,14 +70,8 @@ sections:
     meetingTime: "6:30 - 8:30pm"
     color: "#4CAF50"
     image: /img/buddha-s-light-cubs-bush-walk-2.jpg
-    description: "Scouts is where young people challenge themselves, try new things, and have amazing adventures."
+    description: "Scouts is where young people challenge themselves, try new things, and go on adventures."
     tagline: "Scouts (ages 11-15) is where the real adventure begins! Our Scout Troop meets every Thursday evening for activities that challenge, inspire, and excite."
-    activities:
-      - Camping and hiking expeditions
-      - Water activities and abseiling
-      - Leadership development
-      - Navigation and bushcraft
-      - Community service and volunteering
     leader: "Scout Leader"
     order: 2
     content: |
@@ -122,12 +104,6 @@ sections:
     image: /img/buddha-s-light-cubs-bush-walk-2.jpg
     description: "Venturers is for older youth seeking bigger challenges, independence, and life-changing experiences."
     tagline: "Venturers (ages 14-18) is all about big adventures, personal challenge, and preparing for life beyond school. Our Venturer Unit meets every Thursday evening."
-    activities:
-      - Adventurous activities and expeditions
-      - Leadership and project management
-      - International opportunities
-      - Outdoor adventure sports
-      - Community service and advocacy
     leader: "Venturer Leader"
     order: 3
     content: |

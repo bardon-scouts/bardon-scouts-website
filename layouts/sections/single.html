@@ -39,7 +39,7 @@
 
           {{/* Section metadata box */}}
           <div class="box">
-            <h2 class="is-size-2 has-text-primary">{{ $section.name }}</h2>
+            <h2 class="is-size-4 has-text-primary">Section Details</h2>
             {{ with $section.ageRange }}
               <p><strong>Ages:</strong> {{ . }} years</p>
             {{ end }}
@@ -56,15 +56,10 @@
           </div>
           {{ end }}
 
-          {{/* Activities */}}
-          {{ with $section.activities }}
-          <div class="box">
-            <h3>Activities</h3>
-            <ul>
-              {{ range . }}
-                <li>{{ . }}</li>
-              {{ end }}
-            </ul>
+          {{/* Markdown content from the section file */}}
+          {{ with .Content }}
+          <div class="content">
+            {{ . }}
           </div>
           {{ end }}
 

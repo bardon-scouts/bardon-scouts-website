@@ -16,5 +16,9 @@
 /contact/file-upload /contact/            301
 /contact/examples    /contact/            301
 
+# FairPlay vouchers replaced by Play On! Sports Vouchers
+/join/fairplay-voucher/* /join/play-on-voucher/  301
+/join/fairplay-voucher   /join/play-on-voucher/  301
+
 # Blog to News (if needed in future)
 # /blog/*            /news/:splat         301

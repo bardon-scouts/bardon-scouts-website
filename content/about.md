@@ -2,6 +2,7 @@
 title: "About Bardon Scouts"
 description: "Learn about Bardon Scout Group and our values"
 type: page
+image: /img/about.jpg
 ---
 
 ## Our Values
@@ -22,7 +23,7 @@ Scouts are active members of their community. We participate in ANZAC Day servic
 
 Bardon Scout Group has been serving the local community for many years, providing young people with opportunities for adventure, friendship, and personal growth.
 
-We meet at our Scout Den at 11 Bee Street, Bardon, where Scouts from Cubs to Venturers gather weekly for activities, games, and planning their next adventure.
+We meet at our Scout Den at 11 Bee Street, Bardon, where Joeys, Cubs, Scouts and Venturers meet each week for activities, games, and planning their next adventure.
 
 ## What We Do
 

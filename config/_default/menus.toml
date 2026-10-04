@@ -1,24 +1,411 @@
+# Top-level items
 [[main]]
+  identifier = "home"
   name = "Home"
   url = "/"
   weight = 1
 
 [[main]]
+  identifier = "about"
   name = "About"
   url = "/about/"
   weight = 2
 
 [[main]]
-  name = "Sections"
-  url = "/sections/"
+  identifier = "join"
+  name = "Join Us"
+  url = "/join/"
   weight = 3
 
 [[main]]
-  name = "Committee"
-  url = "/committee/"
+  identifier = "sections"
+  name = "Sections"
+  url = "/sections/"
   weight = 4
 
 [[main]]
+  identifier = "leaders"
+  name = "Help Us!"
+  url = "/leaders/"
+  weight = 5
+
+[[main]]
+  identifier = "events"
+  name = "Events"
+  url = "/events/"
+  weight = 5.5
+
+[[main]]
+  identifier = "skills"
+  name = "Skills"
+  url = "/skills/"
+  weight = 5.7
+
+[[main]]
+  identifier = "news"
+  name = "News"
+  url = "/news/"
+  weight = 6
+
+[[main]]
+  identifier = "contact"
   name = "Contact"
   url = "/contact/"
+  weight = 7
+
+# Contact dropdown items
+[[main]]
+  name = "Contact Us"
+  parent = "contact"
+  url = "/contact/"
+  weight = 7.1
+
+[[main]]
+  name = "Complaints"
+  parent = "contact"
+  url = "/complaints/"
+  weight = 7.15
+
+[[main]]
+  name = "Website Feedback"
+  parent = "contact"
+  url = "/website-feedback/"
+  weight = 7.2
+
+# Events dropdown items
+[[main]]
+  name = "ANZAC Day March"
+  parent = "events"
+  url = "/anzac-day-march/"
+  weight = 5.49
+
+[[main]]
+  name = "Bardon Mayfair"
+  parent = "events"
+  url = "/bardon-mayfair/"
+  weight = 5.51
+
+[[main]]
+  name = "Fair on the Green"
+  parent = "events"
+  url = "/fair-on-the-green/"
+  weight = 5.52
+
+[[main]]
+  name = "Operation NightHawk"
+  parent = "events"
+  url = "/operation-nighthawk/"
+  weight = 5.53
+
+[[main]]
+  name = "Pizza and Paddle"
+  parent = "events"
+  url = "/pizza-and-paddle/"
+  weight = 5.54
+
+[[main]]
+  name = "Rock Climbing"
+  parent = "events"
+  url = "/rock-climbing/"
+  weight = 5.55
+
+[[main]]
+  name = "Skillorama"
+  parent = "events"
+  url = "/skillorama/"
+  weight = 5.56
+
+[[main]]
+  name = "KnightMoves"
+  parent = "events"
+  url = "/knightmoves/"
+  weight = 5.57
+
+[[main]]
+  name = "Cuboree"
+  parent = "events"
+  url = "/cuboree/"
+  weight = 5.58
+
+[[main]]
+  name = "District Camps"
+  parent = "events"
+  url = "/district-camps/"
+  weight = 5.59
+
+[[main]]
+  name = "District Swimming"
+  parent = "events"
+  url = "/district-swimming/"
+  weight = 5.60
+
+[[main]]
+  name = "Clean Up Australia Day"
+  parent = "events"
+  url = "/clean-up-australia-day/"
+  weight = 5.61
+
+[[main]]
+  name = "Annual Report Presentation"
+  parent = "events"
+  url = "/annual-report-presentation/"
+  weight = 5.62
+
+[[main]]
+  name = "Fishing"
+  parent = "events"
+  url = "/fishing/"
+  weight = 5.63
+
+[[main]]
+  name = "Group Camp"
+  parent = "events"
+  url = "/group-camp/"
+  weight = 5.64
+
+[[main]]
+  name = "AJ2028"
+  parent = "events"
+  url = "/aj2028/"
+  weight = 5.645
+
+[[main]]
+  name = "Overnight Hikes"
+  parent = "events"
+  url = "/overnight-hikes/"
+  weight = 5.647
+
+[[main]]
+  name = "Air Activities (proposed)"
+  parent = "events"
+  url = "/air-activities/"
+  weight = 5.65
+
+# Join Us dropdown items
+[[main]]
+  name = "How to Join"
+  parent = "join"
+  url = "/join/how-to-join/"
+  weight = 3.1
+
+[[main]]
+  name = "Fees & Costs"
+  parent = "join"
+  url = "/join/fees/"
+  weight = 3.2
+
+[[main]]
+  name = "Uniforms"
+  parent = "join"
+  url = "/join/uniforms/"
+  weight = 3.3
+
+[[main]]
+  name = "Come and Try"
+  parent = "join"
+  url = "/join/come-and-try/"
+  weight = 3.4
+
+[[main]]
+  name = "Your First Night"
+  parent = "join"
+  url = "/join/first-night/"
+  weight = 3.06
+
+[[main]]
+  name = "Play On! Voucher"
+  parent = "join"
+  url = "/join/play-on-voucher/"
+  weight = 3.45
+
+[[main]]
+  name = "FAQs"
+  parent = "join"
+  url = "/join/faqs/"
+  weight = 3.5
+
+[[main]]
+  name = "Taking a Break or Finishing Up"
+  parent = "join"
+  url = "/join/taking-a-break/"
+  weight = 3.6
+
+# Sections dropdown items
+[[main]]
+  name = "Joeys"
+  parent = "sections"
+  url = "/sections/joeys/"
+  weight = 1
+
+[[main]]
+  name = "Cubs"
+  parent = "sections"
+  url = "/sections/cubs/"
+  weight = 2
+
+[[main]]
+  name = "Scouts"
+  parent = "sections"
+  url = "/sections/scouts/"
+  weight = 3
+
+[[main]]
+  name = "Venturers"
+  parent = "sections"
+  url = "/sections/venturers/"
+  weight = 4
+
+[[main]]
+  name = "Rovers - Coming Soon"
+  parent = "sections"
+  url = "/sections/rovers/"
   weight = 5
+
+# About dropdown items
+[[main]]
+  name = "Welcome Pack"
+  parent = "join"
+  url = "/welcome/"
+  weight = 3.05
+
+[[main]]
+  name = "Our History"
+  parent = "about"
+  url = "/history/"
+  weight = 2.01
+
+[[main]]
+  name = "Group Structure"
+  parent = "about"
+  url = "/group-structure/"
+  weight = 2.02
+
+[[main]]
+  name = "Hire the Den"
+  parent = "about"
+  url = "/hire-the-den/"
+  weight = 2.03
+
+[[main]]
+  name = "Calendar"
+  parent = "about"
+  url = "/calendar/"
+  weight = 2.05
+
+[[main]]
+  name = "Committee"
+  parent = "about"
+  url = "/committee/"
+  weight = 2.1
+
+[[main]]
+  name = "Consent2go"
+  parent = "about"
+  url = "/consent2go/"
+  weight = 2.2
+
+[[main]]
+  name = "Sign In and Out"
+  parent = "about"
+  url = "/sign-in-out/"
+  weight = 2.3
+
+[[main]]
+  name = "Code of Conduct"
+  parent = "about"
+  url = "/code-of-conduct/"
+  weight = 2.4
+
+[[main]]
+  name = "Phone Use Policy"
+  parent = "about"
+  url = "/phone-use/"
+  weight = 2.5
+
+[[main]]
+  name = "Communication"
+  parent = "about"
+  url = "/communication/"
+  weight = 2.6
+
+[[main]]
+  name = "Terrain"
+  parent = "about"
+  url = "/terrain/"
+  weight = 2.65
+
+# Skills dropdown items
+[[main]]
+  name = "Bushwalking"
+  parent = "skills"
+  url = "/skills/bushwalking/"
+  weight = 5.71
+
+[[main]]
+  name = "Campcraft"
+  parent = "skills"
+  url = "/skills/campcraft/"
+  weight = 5.72
+
+[[main]]
+  name = "First Aid"
+  parent = "skills"
+  url = "/skills/first-aid/"
+  weight = 5.73
+
+[[main]]
+  name = "Pioneering"
+  parent = "skills"
+  url = "/skills/pioneering/"
+  weight = 5.74
+
+[[main]]
+  name = "Water Activities"
+  parent = "skills"
+  url = "/skills/water-activities/"
+  weight = 5.75
+
+# Leaders & Volunteers dropdown items
+[[main]]
+  name = "Our Leaders"
+  parent = "leaders"
+  url = "/leaders/our-leaders/"
+  weight = 5.1
+
+[[main]]
+  name = "Volunteering"
+  parent = "leaders"
+  url = "/leaders/volunteering/"
+  weight = 5.2
+
+[[main]]
+  name = "Parent Roster"
+  parent = "leaders"
+  url = "/leaders/parent-roster/"
+  weight = 5.3
+
+[[main]]
+  name = "Adult Supporters"
+  parent = "leaders"
+  url = "/leaders/adult-supporters/"
+  weight = 5.4
+
+[[main]]
+  name = "Friends of Bardon Scouts"
+  parent = "leaders"
+  url = "/leaders/friends/"
+  weight = 5.5
+
+[[main]]
+  identifier = "help-containers-for-change"
+  name = "Containers for Change"
+  parent = "leaders"
+  url = "/containers-for-change/"
+  weight = 5.6
+
+[[main]]
+  identifier = "help-mango-fundraiser"
+  name = "Mango Fundraiser"
+  parent = "leaders"
+  url = "/mango-fundraiser/"
+  weight = 5.7

@@ -17,3 +17,6 @@ yarn-error.log
 
 # Local Netlify folder
 .netlify
+
+# Personal Claude Code settings (shared settings are in .claude/settings.json)
+.claude/settings.local.json

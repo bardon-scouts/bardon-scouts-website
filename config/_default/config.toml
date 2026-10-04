@@ -5,6 +5,15 @@ title = "Bardon Scouts"
 # Enable GitInfo for last modified dates
 enableGitInfo = true
 
+# No tag or category pages: the site has no template for them, so they
+# were 404s in the sitemap. News posts show their tags as text (#67)
+disableKinds = ["taxonomy", "term"]
+
+# Allow reading Netlify's COMMIT_REF (plus Hugo's defaults) so each
+# build can be stamped with the commit it was built from
+[security.funcs]
+  getenv = ['^HUGO_', '^CI$', '^COMMIT_REF$']
+
 # Markup settings
 [markup]
   [markup.goldmark]
@@ -25,4 +34,3 @@ enableGitInfo = true
 [taxonomies]
   tag = "tags"
   category = "categories"
-  section = "sections"

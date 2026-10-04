@@ -1,8 +1,7 @@
 ---
 title: "Thank You"
 description: "Thanks for contacting Bardon Scouts"
-hero:
-  image: /img/buddha-s-light-cubs-bush-walk-2.jpg
+image: /img/thank-you.jpg
 type: page
 aliases:
   - /thanks/

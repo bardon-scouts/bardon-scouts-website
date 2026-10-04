@@ -1,0 +1,14 @@
+<div class="columns is-multiline is-mobile events-grid">
+  {{ range site.Menus.main }}
+    {{ if eq .Identifier "events" }}
+      {{ range .Children.ByWeight }}
+      <div class="column is-6-mobile is-4-tablet is-3-desktop event-item">
+        <a href="{{ .URL }}" class="has-text-weight-bold is-size-5">{{ .Name }}</a>
+      </div>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</div>
+<p class="has-text-centered">
+  <a href="/events/" class="button is-primary">See all events</a>
+</p>
