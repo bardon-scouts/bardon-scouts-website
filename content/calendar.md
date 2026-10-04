@@ -34,7 +34,7 @@ Each section meets weekly. See the section pages for meeting days and times: [Jo
 
 ### January
 
-**Weekly Meetings Start** - January 28 (Term 1)
+**Term 1 starts** - 27 January
 
 ---
 
@@ -52,11 +52,11 @@ Each section meets weekly. See the section pages for meeting days and times: [Jo
 
 ### April
 
-**Weekly Meetings End** - April 3 (Term 1)
+**Term 1 ends** - 2 April
 
 **[Cuboree](/cuboree/)** (Cubs) - Every 2-3 years (April 9-13, 2026)
 
-**Weekly Meetings Start** - April 21 (Term 2)
+**Term 2 starts** - 20 April
 
 **[ANZAC Day March](/anzac-day-march/)** - April 25
 
@@ -70,13 +70,13 @@ Each section meets weekly. See the section pages for meeting days and times: [Jo
 
 **[Bardon Mayfair](/bardon-mayfair/)** - Second Sunday in June (June 8, 2025)
 
-**Weekly Meetings End** - June 27 (Term 2)
+**Term 2 ends** - 26 June
 
 ---
 
 ### July
 
-**Weekly Meetings Start** - July 14 (Term 3)
+**Term 3 starts** - 13 July
 
 **[KnightMoves](/knightmoves/)** (Scouts, Venturers) - Late July/early August
 
@@ -94,13 +94,15 @@ Each section meets weekly. See the section pages for meeting days and times: [Jo
 
 **[Skillorama](/skillorama/)** (Joeys, Cubs) - September
 
-**Weekly Meetings End** - September 19 (Term 3)
+**Term 3 ends** - 18 September
 
 ---
 
 ### October
 
-**Weekly Meetings Start** - October 6 (Term 4)
+**Term 4 starts** - 6 October
+
+**[Group Camp](/group-camp/)** (all sections) - October
 
 **[Mango Fundraiser](/mango-fundraiser/)** - Orders open in October
 
@@ -114,7 +116,9 @@ Each section meets weekly. See the section pages for meeting days and times: [Jo
 
 **[Mango Fundraiser](/mango-fundraiser/)** - Delivery in early December
 
-**Weekly Meetings End** - December 12 (Term 4)
+**Term 4 ends** - 11 December
+
+**[AJ2028](/aj2028/)** (Scouts, Venturers) - 29 December 2027 to 7 January 2028
 
 ---
 
@@ -127,6 +131,10 @@ Each section meets weekly. See the section pages for meeting days and times: [Jo
 **[District Camps](/district-camps/)** (Joeys, Cubs, Scouts) - Throughout the year
 
 **[District Swimming](/district-swimming/)** (Cubs) - Annually
+
+**[Fishing](/fishing/)** (all sections) - Throughout the year
+
+**[Overnight Hikes](/overnight-hikes/)** (Scouts, Venturers) - Usually between April and September
 
 ---
 

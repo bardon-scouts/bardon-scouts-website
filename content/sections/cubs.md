@@ -18,6 +18,8 @@ Cubs participate in these annual events and activities:
 - **[District Camps](/district-camps/)**
 - **[District Swimming](/district-swimming/)**
 - **[Fair on the Green](/fair-on-the-green/)**
+- **[Fishing](/fishing/)**
+- **[Group Camp](/group-camp/)**
 - **[Rock Climbing](/rock-climbing/)**
 - **[Skillorama](/skillorama/)**
 

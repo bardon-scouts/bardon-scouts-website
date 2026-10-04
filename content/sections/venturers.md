@@ -12,10 +12,14 @@ type: sections
 Venturers participate in these annual events and activities:
 
 - **[ANZAC Day March](/anzac-day-march/)**
+- **[Australian Jamboree 2028 (AJ2028)](/aj2028/)**
 - **[Bardon Mayfair](/bardon-mayfair/)**
 - **[Clean Up Australia Day](/clean-up-australia-day/)**
 - **[Fair on the Green](/fair-on-the-green/)**
+- **[Fishing](/fishing/)**
+- **[Group Camp](/group-camp/)**
 - **[KnightMoves](/knightmoves/)**
+- **[Overnight Hikes](/overnight-hikes/)**
 - **[Pizza and Paddle](/pizza-and-paddle/)**
 - **[Rock Climbing](/rock-climbing/)**
 

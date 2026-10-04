@@ -16,6 +16,8 @@ Joeys participate in these annual events and activities:
 - **[Clean Up Australia Day](/clean-up-australia-day/)**
 - **[District Camps](/district-camps/)**
 - **[Fair on the Green](/fair-on-the-green/)**
+- **[Fishing](/fishing/)**
+- **[Group Camp](/group-camp/)**
 - **[Rock Climbing](/rock-climbing/)**
 - **[Skillorama](/skillorama/)**
 
