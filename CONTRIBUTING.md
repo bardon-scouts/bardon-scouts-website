@@ -18,7 +18,7 @@ The process (issue states `triage`, `backlog`, to do and `needs-review`, Claude'
    ```
 
 4. **Open Claude Code in the `bardon-scouts-website` folder itself**, not a parent folder, so it finds this project's settings and docs. The plugin installs in the background; reload once and it's active.
-5. **Optional, for checking deploys:** the [Netlify CLI](https://docs.netlify.com/cli/get-started/), logged in to the Bardon Scouts Netlify team, with `netlify link --name bardon-scouts-website` run once in the folder.
+5. **Optional, for checking deploys:** the [Netlify CLI](https://docs.netlify.com/cli/get-started/), logged in to the Bardon Scouts Netlify team, with `netlify link --name bardon-scouts-website` run once in the folder. If you use Netlify for other work too, run `netlify switch` to the Bardon account before working here; `verify` stops if another account is active.
 
 ## This project
 

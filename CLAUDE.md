@@ -20,6 +20,14 @@ The Bardon Scout Group website: a Hugo static site with Sveltia CMS, hosted on N
 - Netlify builds with `hugo --gc --minify` on **Hugo 0.128.2** (`netlify.toml`). Don't use Hugo features newer than that.
 - Verify on the dev site, never with a local build. Netlify site: `bardon-scouts-website` (team `bardon-scouts`).
 
+## Tool accounts
+
+The person at the machine switches accounts when they change project. Skills check the active account and stop if it's wrong; they don't switch.
+
+| Tool | Account | Check |
+|---|---|---|
+| Netlify CLI | The Bardon Scouts account, whose teams include `bardon-scouts` (email kept out of this public repo) | `netlify status`: the "Teams" list includes `bardon-scouts`. Read the output, not the exit code. To fix: `netlify switch`, or `netlify login --new` the first time on a machine |
+
 ## Structure
 
 ```
