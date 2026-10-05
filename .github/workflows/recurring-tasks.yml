@@ -1,0 +1,39 @@
+# Shared by the lvlup-workflow plugin, which keeps each project's copy up to date.
+# Change it in the plugin, not in a project. The task list is .github/recurring-tasks.yml.
+
+name: Recurring tasks
+
+on:
+  schedule:
+    - cron: "0 20 * * *"  # 06:00 Brisbane time (UTC+10)
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Print the actions without making them
+        type: boolean
+        default: false
+      date:
+        description: Treat this date (YYYY-MM-DD) as today (optional)
+        type: string
+        default: ""
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  recurring-tasks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      - name: Open or reopen due tasks
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          DRY_RUN: ${{ inputs.dry_run && '--dry-run' || '' }}
+          RUN_DATE: ${{ inputs.date }}
+        run: python .github/scripts/recurring_tasks.py $DRY_RUN ${RUN_DATE:+--date "$RUN_DATE"}

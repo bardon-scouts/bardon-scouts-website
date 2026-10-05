@@ -1,0 +1,34 @@
+# Recurring tasks for this repository.
+#
+# The "Recurring tasks" workflow runs daily at 06:00 Brisbane time. For each task
+# due that day it creates an issue (first time), or reopens the task's closed issue.
+# A task whose issue is still open is left alone, so a missed occurrence is done once.
+# Adding, changing or removing a task here needs no change to the workflow.
+#
+# Each task:
+#   id:     unique, never changed (it links the task to its issue)
+#   title:  the issue title
+#   body:   the issue description
+#   labels: labels to add (optional). `recurring` is always added; `triage` isn't.
+#   every:  daily | weekly | monthly | quarterly
+#   day:    weekly: a weekday (monday...sunday)
+#           monthly: a day of the month (1-31; past the month's end means its last day)
+#           quarterly: a day of the month in January, April, July and October
+#
+# Text with " #" in it (such as an issue number) must be in quotes, or written
+# on the lines below "body: |". Otherwise the rest is dropped.
+#
+# Example:
+#
+#   - id: quarterly-review
+#     title: Quarterly review
+#     body: |
+#       What to do, and where it's described.
+#     labels: [manual]
+#     every: quarterly
+#     day: 1
+#
+# The workflow and its script come from the lvlup-workflow plugin, which keeps them
+# up to date. Change them in the plugin, not here. This list is the project's own.
+
+tasks: []
