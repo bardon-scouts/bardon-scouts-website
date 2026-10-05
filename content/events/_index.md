@@ -178,6 +178,16 @@ Scouts and Venturers hike over two or more days with full packs, camping overnig
 
 ---
 
+### [PL Adventure](/pl-adventure/)
+**When:** Late in the year (2026 date to be announced)
+**Who:** Scouts who are Patrol Leaders
+
+An overnight camp for Patrol Leaders and their adult leaders. In 2025 it was held at The Wrecks campsite on Mulgumpin (Moreton Island), with Scouts carrying their own gear, food and stove.
+
+[Learn more about PL Adventure →](/pl-adventure/)
+
+---
+
 ### [Air Activities (proposed)](/air-activities/)
 **When:** To be announced
 **Who:** To be confirmed

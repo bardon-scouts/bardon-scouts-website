@@ -176,6 +176,12 @@
   weight = 5.647
 
 [[main]]
+  name = "PL Adventure"
+  parent = "events"
+  url = "/pl-adventure/"
+  weight = 5.648
+
+[[main]]
   name = "Air Activities (proposed)"
   parent = "events"
   url = "/air-activities/"

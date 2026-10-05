@@ -101,6 +101,15 @@ File: `/img/group-camp.jpg`. Done (#59).
 
 > A bush campsite in spring with several tents around a campfire circle of logs, jacaranda and gum trees, golden evening light.
 
+### PL Adventure - `/pl-adventure/`
+File: `/img/pl-adventure.jpg`. **Set the image** (the page uses the Scouts logo placeholder).
+
+> Small hiking tents pitched among low coastal scrub behind white sand dunes, a calm blue bay beyond, late afternoon light.
+
+> Two hiking backpacks and a small gas hiking stove with a pot on the sand beside a tent, beach and rusting shipwrecks in the shallow water behind.
+
+> Footprints leading up a tall white sand dune under a clear blue sky, a wooden sand toboggan resting at the top.
+
 ## Join Us
 
 ### Join Us - `/join/`
