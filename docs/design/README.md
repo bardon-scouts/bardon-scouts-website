@@ -41,7 +41,7 @@ Common front matter:
 
 `content/sections/<slug>.md` adds extra content to a section page, such as the list of events that section attends.
 
-**Menus** are in `config/_default/menus.toml` (the `main` menu, with dropdowns set by `parent`). The home page "Our Events" grid is built from the Events dropdown (`partials/events-list.html`), so adding an event to the Events menu also adds it to the home page. The footer (`partials/footer.html`) is a hand-written list and must be updated separately.
+**Menus** are in `config/_default/menus.toml` (the `main` menu, with dropdowns set by `parent`). The home page "Our Events" grid is built from the Events dropdown (`partials/events-list.html`), so adding an event to the Events menu also adds it to the home page. The footer (`partials/footer.html`) is a hand-written list and must be updated separately. Program pages (how to run a section's meeting programs, e.g. Joey Programs) are in the footer but not the menu (`docs/requirements/pages-and-navigation.md`).
 
 **Site settings** are in `config/_default/`: `config.toml` (base URL, Markdown rendering with HTML allowed, tags and categories taxonomies, with taxonomy pages turned off), `params.toml` (description, brand colours, address, Facebook link).
 
@@ -85,3 +85,4 @@ Add new decisions at the bottom: date, decision, and why. Where the reason wasn'
 | 25 Sep 2026 | Stamp every build with its commit (02b7f08, #11) | Netlify doesn't report builds to GitHub for this repo, so the stamp is how a change is confirmed on the dev site. |
 | 28 Sep 2026 | Move working rules to the lvlup-workflow plugin and project rules to `docs/` (99fefd8) | One set of workflow rules shared across projects; Bardon-specific principles and requirements kept in this repo. |
 | 4 Oct 2026 | Turn off tag and category pages (`disableKinds`, #67) | The site has no template for them, so the sitemap listed 15 addresses that returned 404. News posts still show their tags as text. The unused `sections` taxonomy was removed too: Hugo had been building the Our Sections page (`/sections/`) as that taxonomy's list page, so turning taxonomy pages off would have removed it. |
+| 6 Oct 2026 | Program pages go in the footer, not the menu (#81) | The site has outgrown putting every page on the menu. Program pages are for leaders and adult supporters, so they stay out of the menu but can still be found from the footer. |
