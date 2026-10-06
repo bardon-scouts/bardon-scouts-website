@@ -43,6 +43,12 @@ Bardon Scout Group has a Den (as they are known in Scouting) located on Bee St, 
 - **[Uniforms](/join/uniforms/)** - Order your child's section shirt, scarf and woggle, and see where the badges go.
 - **[Fees & Costs](/join/fees/)** - How much membership costs and what to expect on your invoice.
 
+### Investiture
+
+Investiture is a ceremony where we officially welcome your child into the group. Your child needs to have their uniform first. Once they do, please approach your child's Section Leader to arrange when the investiture will happen.
+
+Please come along: you present your child with their scarf as part of the ceremony, and we'll make sure you can take some photos.
+
 ### Each meeting
 
 - **[Your First Night](/join/first-night/)** - What to wear, what to bring and what happens at a meeting.
