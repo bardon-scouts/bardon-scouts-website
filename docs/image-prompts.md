@@ -318,6 +318,13 @@ File: `/img/news.jpg`. Done (#59)
 
 > A cork noticeboard with blank photo prints and pins, in a timber hall.
 
+### Joey Programs - `/sections/joey-programs/`
+File: `/img/joey-programs.jpg`, **set the image** (this page has no `image:` yet). Three options, each showing a Joey meeting activity:
+
+1. > Small natural objects arranged on a timber floor into the shape of a gum leaf: pebbles, short sticks, seed pods and green leaves, seen from above, soft hall light.
+2. > Marshmallows on long sticks held over a small campfire at dusk, children's hands seen at the edge of the frame, logs arranged around the fire.
+3. > A plain mixing bowl, a whisk and a stack of small pancakes on a trestle table in a timber hall, small hands reaching in from the side, warm evening light.
+
 ### Rovers - `/sections/rovers/`
 File: `/img/rovers.jpg`. Done (#59)
 

@@ -5,7 +5,7 @@ type: sections
 
 ## Program & Activities
 
-<!-- TODO: Add Joey-specific program and activities content -->
+See **[Joey Programs](/sections/joey-programs/)** for how we run our regular meeting programs.
 
 ## Joey Events
 
