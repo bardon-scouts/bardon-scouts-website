@@ -18,7 +18,7 @@ The contact, website feedback, complaints and Den hire enquiry forms: how parent
 
 | Form (`name`) | Page | Flag | Thanks page | Fields (* required) |
 |---|---|---|---|---|
-| `contact` | `/contact/` | `showForm` | `/contact/thanks/` | name\*, email\*, child_names\*, message\* |
+| `contact` | `/contact/` | `showForm` | `/contact/thanks/` | name\*, email\*, child_names (optional, so volunteers without a child at the group can use it; #84), message\* |
 | `website-feedback` | `/website-feedback/` | `showFeedbackForm` | `/website-feedback/thanks/` | name\*, email, page\*, feedback_type\* (a list), details\* |
 | `complaints` | `/complaints/` | `showComplaintsForm` | `/complaints/thanks/` | name\*, email\*, phone, complaint_type\* (a list), when_occurred\*, details\*, preferred_contact\* (Email, Phone or Either) |
 | `hire-enquiry` | `/hire-the-den/` | `showHireForm` | `/hire-the-den/thanks/` | name\*, organisation\*, email\*, phone, hire_dates\*, details |
