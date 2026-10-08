@@ -32,7 +32,7 @@ Never printed: fees, payment details, leaders' names or contact details, or chil
 
 ## Three concepts
 
-All three use the brand colours (teal `#43a09b`, red `#d9432d`), the Bardon Scouts logo (`static/img/logo.svg`), and the same QR targets. Word counts are body text, not counting the headline or the URL under the QR code. A visual mock-up of all three is linked from #84.
+All three use the brand colours (teal `#43a09b`, red `#d9432d`), the Bardon Scouts logo (`static/img/logo.svg`), and the same QR targets. Word counts are body text, not counting the headline or the URL under the QR code. A visual mock-up of all three: https://claude.ai/artifact/Pa1V6awU68jc55UgQfM4ge (private to the owner until shared).
 
 ### Concept A: Adventure starts here (photo)
 
@@ -72,7 +72,7 @@ Bold type on solid colour, with no photo: teal for families, red for volunteers.
 
 **Families side**
 - Headline: **Play. Make. Explore. Belong.**
-- Body: Joeys at Bardon Scouts, ages 6 to 8. Tuesdays 6:30 - 7:30pm, 11 Bee Street. Try it free. (16 words)
+- Body: Joeys at Bardon Scouts, ages 6 to 8. Tuesdays 6:30 - 7:30pm, 11 Bee Street. Try it free. (17 words)
 - QR: `bardonscouts.org.au/try/`
 
 **Volunteers side**
