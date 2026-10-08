@@ -2,7 +2,8 @@
 
 Reads .github/recurring-tasks.yml. For each task due today (Brisbane time):
 - no issue yet: create one with the task's labels plus `recurring`
-- issue closed: reopen it, reset its labels and comment that it's due again
+- issue closed: reopen it, reset its labels (and its Stage to Build, where it has one) and
+  comment that it's due again
 - issue open: leave it, so a missed occurrence is only done once
 
 Usage: python recurring_tasks.py [--dry-run] [--date YYYY-MM-DD] [--tasks FILE]
@@ -21,6 +22,8 @@ import sys
 BRISBANE = datetime.timezone(datetime.timedelta(hours=10))  # no daylight saving
 LABEL = "recurring"
 RESET_LABELS = ("needs-review", "blocked")
+STAGE_FIELD = "Stage"
+WORK_STAGE = "Build"
 WEEKDAYS = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"]
 QUARTER_MONTHS = (1, 4, 7, 10)
 
@@ -71,6 +74,22 @@ class GitHub:
         if not self.dry_run:
             self.gh(args)
 
+    def stage(self, number):
+        """(field id, stage) for the issue's Stage, or None if it has none.
+
+        The run's token can't list the organisation's fields, so the field's id comes from the
+        issue. Repositories without issue fields (personal accounts) return 404: no Stage.
+        """
+        try:
+            out = self.gh(["api", f"repos/{{owner}}/{{repo}}/issues/{number}/issue-field-values"])
+        except RuntimeError:
+            return None
+        for value in json.loads(out or "[]"):
+            if value.get("issue_field_name") == STAGE_FIELD:
+                option = value.get("single_select_option") or {}
+                return value["issue_field_id"], option.get("name")
+        return None
+
     def ensure_label(self):
         self.change(["label", "create", LABEL, "--color", "0E8A16", "--force",
                      "--description", "Opened by the recurring tasks workflow"],
@@ -112,6 +131,12 @@ def handle(task, day, issues, github):
             edit += ["--add-label", label]
     if len(edit) > 3:
         github.change(edit, f"reset labels on #{number}")
+    stage = github.stage(number)
+    if stage and stage[1] != WORK_STAGE:
+        github.change(["api", "-X", "POST", f"repos/{{owner}}/{{repo}}/issues/{number}/issue-field-values",
+                       "-F", f"issue_field_values[][field_id]={stage[0]}",
+                       "-f", f"issue_field_values[][value]={WORK_STAGE}"],
+                      f"set Stage on #{number} to {WORK_STAGE} (was {stage[1]})")
     github.change(["issue", "comment", number, "--body", f"Due again on {day.isoformat()}."],
                   f"comment on #{number}")
     return "reopened"
