@@ -15,6 +15,22 @@ Status: **proposed, waiting for the owner to choose a concept.** Requirements ar
 | Schools | The owner is arranging this with the principals, including numbers. |
 | Branding | Scouts Queensland's brand rules apply: https://scoutsqld.com.au/brandhome/ |
 
+## The fair flyer in Canva
+
+The fair flyer is two single-page A4 designs in Canva: "Bardon Scouts Youth Recruitment" (four activity photos) and "Bardon Scouts Leader Recruitment" (a leader fitting a Joey's climbing harness). The A5 copy is one two-page design, **"Bardon Scouts School Flyer A5 (#84)"**: page 1 is the youth side, page 2 the leader side, resized by Canva to 1118 x 1588 px (A5 at twice Canva's 96 dpi). The originals are unchanged. Build starts from this copy or from the Scouts Queensland template.
+
+What the copy shows for Build (checked 9 Oct 2026):
+
+| Item | Finding | What Build does |
+|---|---|---|
+| Photos (5) | 615 to 880 dpi at A5 | Usable as they are |
+| Group logo (`Bardon-Hori-Full.png`) | 263 x 99 px, about 94 dpi at 71 mm wide | Replace with the Brand Centre file (PM-10) |
+| Heading images ("Change lives", the page 1 header) | About 243 and 252 dpi | Rebuild as Nunito Sans text, which the brand rules need anyway |
+| Other text | Mostly images of text in other fonts, plus maroon `#681e35` panels | Rebuild in Nunito Sans and brand colours |
+| QR codes | Both go to `https://bardonscouts.org.au/` (the home page), error correction H, about 62 mm. The photo above and the page edge leave almost no quiet zone, and a "TQRCG" mark covers one corner. OpenCV couldn't read them; zxing could | Replace with new codes for the two pages below, with a full quiet zone (PM-1, PM-3, PM-4) |
+
+The leader photo shows a Joey in uniform, so it also suits the families side.
+
 ## Brand rules that shape the flyer
 
 From the Scouts Australia Brand Book (August 2026), which the Scouts Queensland brand page points to, and from that page itself:
@@ -189,7 +205,7 @@ Below this, the existing sections stay (Why Volunteer, Roles, Time Commitment, W
 ## Build steps, once a concept is chosen
 
 1. Fix the Joeys ages on the site, then update Come and Try, Volunteering and the contact form. Publish them to production before printing (PM-1).
-2. Get the Bardon Scout Group logo, the Joey Scouts logo and the Gumtree Graphics from the Brand Centre (needs a leader's membership login).
+2. Get the Bardon Scout Group logo (the fair flyer's copy is too low resolution to print), the Joey Scouts logo and the Gumtree Graphics from the Brand Centre (needs a leader's membership login).
 3. Build the flyer in Canva at A5, starting from the Scouts Queensland template if it fits.
 4. Make the QR codes for the two production URLs.
 5. Check against `printed-materials.md` (PM-1 to PM-5, PM-10 to PM-12), then send the proof to brandsupport@scoutsqld.com.au.
@@ -198,5 +214,4 @@ Below this, the existing sections stay (Why Volunteer, Roles, Time Commitment, W
 ## Still open
 
 - **Which concept**: the owner is deciding.
-- **Canva**: the owner is fixing access (lvlup-labs/lvluplabs_operations#62). Until then, the fair flyer's photos can't be checked for quality at A5, or for whether they show the Scouting in action the brand asks for.
 - **Brand Centre files**: someone with a membership login needs to download the Group logo, the Joey Scouts logo and the Gumtree Graphics.
