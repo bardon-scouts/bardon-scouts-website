@@ -41,9 +41,16 @@ def is_due(task, day):
         raise ValueError(f"task {task['id']}: '{every}' needs a 'day'")
     if every == "weekly":
         return day.weekday() == WEEKDAYS.index(str(task["day"]).lower())
-    if every in ("monthly", "quarterly"):
+    if every in ("monthly", "quarterly", "yearly"):
         if every == "quarterly" and day.month not in QUARTER_MONTHS:
             return False
+        if every == "yearly":
+            if "month" not in task:
+                raise ValueError(f"task {task['id']}: 'yearly' needs a 'month'")
+            if not 1 <= int(task["month"]) <= 12:
+                raise ValueError(f"task {task['id']}: 'month' must be 1 to 12")
+            if day.month != int(task["month"]):
+                return False
         # A day past the end of the month (e.g. 31 in April) falls on its last day.
         last = calendar.monthrange(day.year, day.month)[1]
         return day.day == min(int(task["day"]), last)
