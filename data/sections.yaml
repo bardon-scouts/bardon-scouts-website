@@ -1,13 +1,13 @@
 sections:
   - name: Joeys
     slug: joeys
-    ageRange: "6 to 8"
+    ageRange: "5 to 8"
     meetingDay: Tuesday
     meetingTime: "6:30 - 7:30pm"
     color: "#4CAF50"
     image: /img/hero.jpg
     description: "Joeys is the starting point for young adventurers to learn, play and grow."
-    tagline: "Joeys (ages 6-8) is where the Scouting adventure begins! Our Joey mob meets every Tuesday evening for fun, games, and learning through play."
+    tagline: "Joeys (ages 5 to 8) is where the Scouting adventure begins! Our Joey mob meets every Tuesday evening for fun, games, and learning through play."
     leader: "Joey Scout Leader"
     order: 0
     content: |
@@ -23,11 +23,11 @@ sections:
 
       ## Our Program
 
-      The Joey program follows the Australian Scouts program, with activities designed specifically for 6-8 year olds. Joeys explore, discover, and have fun in a safe and supportive environment.
+      The Joey program follows the Australian Scouts program, with activities designed specifically for 5 to 8 year olds. Joeys explore, discover, and have fun in a safe and supportive environment.
 
       ## Join Joeys
 
-      If your child is 6-8 years old and ready to start their Scouting journey, Joeys is where to begin.
+      If your child is 5 to 8 years old and ready to start their Scouting journey, Joeys is where to begin.
 
       Contact us to arrange a visit or find out more about joining Joeys at Bardon.
 

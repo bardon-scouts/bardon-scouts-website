@@ -2,13 +2,13 @@
 
 A double-sided A5 flyer for local state schools to send home with prep and early childhood children. One side is for families of young children, the other for adults who might volunteer. Each side has a QR code to an existing page on the site, updated so it works for someone who has just scanned it.
 
-Status: **in Build.** The website changes (build step 1, except the Joeys ages, which is #85) are done on `dev`. The flyer itself waits for the owner to choose a concept. Requirements are in `docs/requirements/printed-materials.md`. Mock-up: https://claude.ai/artifact/Pa1V6awU68jc55UgQfM4ge (private to the owner until shared).
+Status: **in Build.** The website changes (build step 1, with the Joeys ages fixed in #85) are done on `dev`. The flyer itself waits for the owner to choose a concept. Requirements are in `docs/requirements/printed-materials.md`. Mock-up: https://claude.ai/artifact/Pa1V6awU68jc55UgQfM4ge (private to the owner until shared).
 
 ## Settled with the owner (#84, 9 Oct 2026)
 
 | Question | Answer |
 |---|---|
-| Ages | Joeys take ages 5 to 8. The site's "6 to 8" is wrong and is being fixed separately. |
+| Ages | Joeys take ages 5 to 8. The site said 6 to 8; fixed in #85. |
 | The fair flyer | Nothing has to carry over, but its photos can be used for now. |
 | Contact form | "Child's name" becomes optional. |
 | QR pages | Use the existing pages and update them. No new pages. |
@@ -71,7 +71,7 @@ Every fact printed must match the site when the flyer goes to print (PM-2).
 
 | Fact | Source |
 |---|---|
-| Joeys are ages 5 to 8 | `data/sections.yaml` (it says 6 to 8 until the fix is published) |
+| Joeys are ages 5 to 8 | `data/sections.yaml` |
 | Joeys meet Tuesday, 6:30 - 7:30pm | `data/sections.yaml` |
 | 11 Bee Street, Bardon | `config/_default/params.toml` |
 | A free trial visit | `content/join/come-and-try.md` |

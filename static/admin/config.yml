@@ -784,7 +784,7 @@ collections:
             fields:
               - { label: "Name", name: "name", widget: "string" }
               - { label: "Slug", name: "slug", widget: "string", hint: "URL-friendly name (e.g. joeys, cubs)" }
-              - { label: "Age Range", name: "ageRange", widget: "string", hint: "e.g. 6 to 8" }
+              - { label: "Age Range", name: "ageRange", widget: "string", hint: "e.g. 5 to 8" }
               - { label: "Meeting Day", name: "meetingDay", widget: "select", options: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"] }
               - { label: "Meeting Time", name: "meetingTime", widget: "string", hint: "e.g. 6:30 - 8:00pm" }
               - { label: "Color", name: "color", widget: "string", hint: "Hex color code, e.g. #FFC107" }
