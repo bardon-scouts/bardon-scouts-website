@@ -10,6 +10,8 @@ These are the programs we use for Joey meetings, with what you need and how to r
 - [Campfire and Stories](#campfire-and-stories)
 - [Cooking](#cooking)
 - [Nature Art](#nature-art)
+- [Knots](#knots)
+- [Maps and Finding Hidden Secrets](#maps-and-finding-hidden-secrets)
 
 ## Communication
 
@@ -109,3 +111,54 @@ Each Joey works on their own artwork, or each patrol pools its materials and wor
 ### Part 3: Present
 
 Go around the patrols and ask each patrol or Joey to present their artwork: what it is, and why they chose it.
+
+## Knots
+
+### Introduction
+
+Start with a short discussion about why ropes are strong and what they can be used for. Then choose from the activities below, depending on how much time you have.
+
+### Activity 1: Learn
+
+Teach the Joeys to tie a simple knot, and let them work through the list at their own pace. Tell them why each knot is used as they learn it. If you have time, a printed sheet showing each knot and what it's for helps.
+
+- **Reef knot** (both methods): ties together two ropes of the same thickness.
+- **Sheet bend:** ties together two ropes of different thicknesses.
+- **Clove hitch:** ties a rope to a pole.
+
+### Activity 2: Know Your Knots
+
+Ask the Joeys a question. Each adult supporter shouts out an answer and tries to convince the Joeys it's right. Then tell them who was right. For example, tie a knot in front of them and ask whether it's a reef knot or a sheet bend. Other questions:
+
+- What knot is this?
+- What knot do you use for ropes of different sizes?
+- What makes a rope strong?
+
+### Activity 3: Knot Relay
+
+The Joeys line up in their patrols and take turns racing to tie the knots they know. The patrol that ties the most knots wins.
+
+### Activity 4: River Rescue
+
+The Joeys must rescue an adult helper from across a river. They:
+
+1. tie short pieces of rope together, then
+2. tie the rope to a pole to make a rescue device.
+
+They race against a stopwatch. The aim is for everyone to be tying knots at the same time to get the best time.
+
+## Maps and Finding Hidden Secrets
+
+### Activity 1: Treasure Hunt
+
+Give each patrol a rough hand drawn map of the Scout grounds, with stars or similar symbols marking where secrets are hidden. Not every marked spot has an object. Each patrol takes an adult helper with them, finds the objects, writes down what they are and comes back. When they return, tell them which ones they got right.
+
+### Activity 2: Match Map
+
+**Prep:** make a list of map symbols and print them as cards before the meeting. Each card shows a symbol, a name or an explanation.
+
+Give the Joeys the printed sheets to cut the cards out. They then match each symbol with its name and its explanation.
+
+### Activity 3: Draw a Map
+
+Each Joey draws a map of their home.
