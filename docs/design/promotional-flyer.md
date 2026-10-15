@@ -2,7 +2,7 @@
 
 A double-sided A5 flyer for local state schools to send home with prep and early childhood children. One side is for families of young children, the other for adults who might volunteer. Each side has a QR code to an existing page on the site, updated so it works for someone who has just scanned it.
 
-Status: **proposed, waiting for the owner to choose a concept.** Requirements are in `docs/requirements/printed-materials.md`. Mock-up: https://claude.ai/artifact/Pa1V6awU68jc55UgQfM4ge (private to the owner until shared).
+Status: **in Build.** The website changes (build step 1, except the Joeys ages, which is #85) are done on `dev`. The flyer itself waits for the owner to choose a concept. Requirements are in `docs/requirements/printed-materials.md`. Mock-up: https://claude.ai/artifact/Pa1V6awU68jc55UgQfM4ge (private to the owner until shared).
 
 ## Settled with the owner (#84, 9 Oct 2026)
 
@@ -151,7 +151,7 @@ Every page opens with a hero image up to 400 px tall, so on a phone the first li
 
 ### Come and Try (`/join/come-and-try/`)
 
-Today the page assumes the reader knows what Scouts is, and doesn't say who it's for, when, or where. Proposed wording, under 200 words:
+The old page assumed the reader knew what Scouts is, and didn't say who it's for, when, or where. The wording below, under 200 words, is now on `dev`:
 
 > Your child can come to a Bardon Scouts meeting for free before you decide to join.
 >
@@ -173,11 +173,11 @@ Today the page assumes the reader knows what Scouts is, and doesn't say who it's
 >
 > Queensland children aged 5 to 17 can get a [Play On! Sports Voucher](/join/play-on-voucher/) of up to $200 towards membership fees.
 
-The section table can't be typed into the page, because times and ages come only from `data/sections.yaml` (`sections.md`). Proposed: a front matter flag, `showSectionTimes: true`, that makes the page template show the table, in the same way the `showForm` flags add forms. Leaders can switch it on or off in the CMS. The "Your First Night" link moves to How to Join, where it already is.
+The section table can't be typed into the page, because times and ages come only from `data/sections.yaml` (`sections.md`). A front matter flag, `showSectionTimes: true`, makes the page template put the table after the page's first paragraph, in the same way the `showForm` flags add forms. Leaders can switch it on or off in the CMS. The "Your First Night" link moves to How to Join, where it already is.
 
 ### Volunteering (`/leaders/volunteering/`)
 
-Today the page runs to about 600 words, and the "Contact us" link is at the bottom. Proposed: a short opening that answers the scan, then the existing detail below it.
+The old page ran to about 600 words, with the "Contact us" link at the bottom. It now has a short opening that answers the scan, then the existing detail below it:
 
 > ## Meet the Other You
 >

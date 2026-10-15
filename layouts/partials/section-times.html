@@ -1,0 +1,14 @@
+<table class="table section-times">
+  <thead>
+    <tr><th>Section</th><th>Ages</th><th>Meets</th></tr>
+  </thead>
+  <tbody>
+    {{ range sort site.Data.sections.sections "order" }}
+    <tr>
+      <td><a href="/sections/{{ .slug }}/">{{ .name }}</a></td>
+      <td>{{ .ageRange }}</td>
+      <td>{{ .meetingDay }}s, {{ .meetingTime }}</td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>

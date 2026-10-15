@@ -34,6 +34,7 @@ Common front matter:
 - `image` (the page's hero and share image; falls back to the Scouts logo)
 - `aliases` (old URLs that redirect to this page)
 - form flags such as `showForm`, `showFeedbackForm`, `showComplaintsForm`, `showHireForm`
+- `showSectionTimes`: the default page template puts a table of each section's ages, meeting day and time (from `data/sections.yaml`, `layouts/partials/section-times.html`) after the page's first paragraph. Used on Come and Try (#84)
 
 **Data files** in `data/`:
 - `sections.yaml` is the single source for each section's name, age range, meeting day and time, colour, image, description, tagline, leader title and page content. The section pages (`layouts/sections/single.html`), the Sections page and the home page "Our Units" list (`partials/sections-list.html`) all read it. Don't copy these details into pages.

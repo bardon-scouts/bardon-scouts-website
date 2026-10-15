@@ -3,26 +3,23 @@ title: "Come and Try"
 description: "Visit Bardon Scouts for a free trial session"
 type: page
 image: /img/come-and-try.jpg
+showSectionTimes: true
 ---
 
-## Free Trial Visit
+Your child can come to a Bardon Scouts meeting for free before you decide to join.
 
-Interested in trying Scouting? We welcome families to visit Bardon Scouts for a free trial session to see if Scouting is right for your child.
+We meet at the Scout Den, 11 Bee Street, Bardon.
 
-### Important: Please Contact Us Before Visiting
+## How to Come and Try
 
-**Sometimes the regular scout meetings are held away from the Scout Den in Bee Street.** For this reason, please make sure you [contact us](/contact/) at least one day before you plan to trial to confirm we will be there and to let us know so we can ensure we are ready to answer any questions you have.
+1. **Send us a message** at least a day before. Meetings are sometimes held away from the Den, so we'll confirm where to go. **[Ask to visit](/contact/)**
+2. **Fill in Form F6** and bring it with you: [Non-Member Activity Indemnity and Release (PDF)](/img/F6-Non-Member-Activity-Indemnity-and-Release.pdf)
+3. **Come along** to the meeting.
 
-## Required Form
+## After Your Visit
 
-Before your child attends a trial session, please download and complete the Non-Member Activity Indemnity and Release form:
+If your child would like to join, [How to Join](/join/how-to-join/) has the steps.
 
-**[Download Form F6 - Non-Member Activity Indemnity and Release (PDF)](/img/F6-Non-Member-Activity-Indemnity-and-Release.pdf)**
+## Help with Costs
 
-Please bring the completed form with you to the trial session.
-
-Once your child has joined, [Your First Night](/join/first-night/) covers what to wear, what to bring and what happens at a meeting.
-
-## Financial Assistance Available
-
-If cost is a concern, Queensland children aged 5 to 17 can get a [Play On! Sports Voucher](/join/play-on-voucher/) of up to $200 from the Queensland Government to help with membership fees.
+Queensland children aged 5 to 17 can get a [Play On! Sports Voucher](/join/play-on-voucher/) of up to $200 towards membership fees.
