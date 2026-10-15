@@ -592,6 +592,16 @@ collections:
           - { label: "Show Section Times (table after the first paragraph)", name: "showSectionTimes", widget: "boolean", default: true, required: false }
           - { label: "Body", name: "body", widget: "markdown", required: false }
 
+      - file: "content/join/investiture.md"
+        label: "Investiture"
+        name: "investiture"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
+
       - file: "content/join/first-night.md"
         label: "Your First Night"
         name: "first-night"

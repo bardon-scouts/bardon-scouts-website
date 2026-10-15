@@ -47,7 +47,7 @@ Bardon Scout Group has a Den (as they are known in Scouting) located on Bee St, 
 
 Investiture is a ceremony where we officially welcome your child into the group. Your child needs to have their uniform first. Once they do, please approach your child's Section Leader to arrange when the investiture will happen.
 
-Please come along: you present your child with their scarf as part of the ceremony, and we'll make sure you can take some photos.
+Please come along: you present your child with their scarf as part of the ceremony, and we'll make sure you can take some photos. [Investiture](/join/investiture/) describes the ceremony and the Scout Promise your child makes.
 
 ### Each meeting
 

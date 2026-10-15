@@ -225,6 +225,12 @@
   weight = 3.06
 
 [[main]]
+  name = "Investiture"
+  parent = "join"
+  url = "/join/investiture/"
+  weight = 3.07
+
+[[main]]
   name = "Play On! Voucher"
   parent = "join"
   url = "/join/play-on-voucher/"
