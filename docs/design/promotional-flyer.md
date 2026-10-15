@@ -161,7 +161,7 @@ The old page assumed the reader knew what Scouts is, and didn't say who it's for
 >
 > ## How to come and try
 >
-> 1. **Send us a message** at least a day before. Meetings are sometimes held away from the Den, so we'll confirm where to go. **[Ask to visit](/contact/)**
+> 1. **Send us a message** at least a day before. Meetings are sometimes held away from the Den, so we'll confirm where to go. **[Ask to visit](/ask-to-visit/)** (the trial visit form, #88)
 > 2. **Fill in Form F6** and bring it with you: [Non-Member Activity Indemnity and Release (PDF)](/img/F6-Non-Member-Activity-Indemnity-and-Release.pdf)
 > 3. **Come along** to the meeting.
 >
@@ -192,7 +192,7 @@ Below this, the existing sections stay (Why Volunteer, Roles, Time Commitment, W
 
 ### Contact form
 
-`child_names` is no longer required, and its label becomes "Child's name(s), if any". The contact page already asks "Would you like to get involved?", so volunteers fit there without other changes. `docs/requirements/forms.md` is updated to match.
+`child_names` was made optional for #84, so volunteers without a child at the group can use the form. #88 then split the page: Contact Us is now for general enquiries (name, email, message, no child's name), and trial meeting requests use Ask to Visit (`/ask-to-visit/`). Volunteers use Contact Us. `docs/requirements/forms.md` has both forms.
 
 ## Print spec
 

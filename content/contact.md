@@ -9,7 +9,6 @@ aliases:
   - /contactus/index.html
 ---
 
-Do you have a child that would like to join Scouts?
-Would you like to get involved?
-Would you like to [hire the Den](/hire-the-den/)?
-We would love to hear from you.
+Would you like your child to try a meeting? Use [Ask to Visit](/ask-to-visit/) instead, so we can find the right section for them.
+
+For anything else, such as volunteering, joining the committee or a question about the group, use the form below. To hire the Den, use the [Hire the Den](/hire-the-den/) enquiry form.

@@ -37,7 +37,7 @@ Scouts Queensland's brand rules apply (https://scoutsqld.com.au/brandhome/, whic
 
 | Printed material | Page | For | Next step |
 |---|---|---|---|
-| School flyer (#84), families side | `/join/come-and-try/` | Families with young children | Ask to visit (contact form) |
+| School flyer (#84), families side | `/join/come-and-try/` | Families with young children | Ask to visit (`/ask-to-visit/`, #88) |
 | School flyer (#84), volunteers side | `/leaders/volunteering/` | Adults who might volunteer | Get in touch (contact form) |
 
 ## How to check

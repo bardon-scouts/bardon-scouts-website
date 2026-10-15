@@ -49,6 +49,10 @@
           {{ if .Params.showHireForm }}
             {{ partial "hire-form.html" . }}
           {{ end }}
+
+          {{ if .Params.showTrialForm }}
+            {{ partial "trial-visit-form.html" . }}
+          {{ end }}
         </div>
       </div>
     </div>

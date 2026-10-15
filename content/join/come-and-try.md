@@ -12,7 +12,7 @@ We meet at the Scout Den, 11 Bee Street, Bardon.
 
 ## How to Come and Try
 
-1. **Send us a message** at least a day before. Meetings are sometimes held away from the Den, so we'll confirm where to go. **[Ask to visit](/contact/)**
+1. **Send us a message** at least a day before. Meetings are sometimes held away from the Den, so we'll confirm where to go. **[Ask to visit](/ask-to-visit/)**
 2. **Fill in Form F6** and bring it with you: [Non-Member Activity Indemnity and Release (PDF)](/img/F6-Non-Member-Activity-Indemnity-and-Release.pdf)
 3. **Come along** to the meeting.
 

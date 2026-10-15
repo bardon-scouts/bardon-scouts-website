@@ -64,7 +64,11 @@
           {{ end }}
 
           {{/* CTA */}}
-          {{ partial "contact-cta.html" (dict "text" (printf "Contact us to join %s" $section.name)) }}
+          {{ if $section.name }}
+            {{ partial "contact-cta.html" (dict "text" (printf "Ask to visit %s" $section.name) "url" "/ask-to-visit/") }}
+          {{ else }}
+            {{ partial "contact-cta.html" . }}
+          {{ end }}
         </div>
       </div>
     </div>

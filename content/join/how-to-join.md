@@ -11,7 +11,7 @@ Joining Bardon Scouts is easy! Follow these steps:
 
 ### 1. Contact Us and Come for a Trial
 
-First, get in touch through our [contact page](/contact/) to let us know you're interested. Then come along for a trial session to see if Scouting is right for your child.
+First, use [Ask to Visit](/ask-to-visit/) to let us know you're interested. Then come along for a trial session to see if Scouting is right for your child.
 
 **Important:** Please contact us at least one day before you plan to visit to confirm meeting location and times.
 
