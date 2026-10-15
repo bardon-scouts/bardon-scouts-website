@@ -142,7 +142,7 @@ A swimming carnival for Cubs from the four groups in our district. Cubs swim ind
 **When:** Throughout the year (dates to be announced)
 **Who:** Joeys, Cubs, Scouts, Venturers - all sections
 
-Fishing is a year-round activity open to every section. More details, including locations and what to bring, are coming soon.
+Fishing is a year-round activity open to every section, planned for the fishing platform near Breakfast Creek (to be confirmed). Dates and what to bring are coming soon.
 
 [Learn more about Fishing →](/fishing/)
 
