@@ -16,21 +16,10 @@ Investiture is the ceremony where your child makes the Scout Promise and is welc
 
 ## The Scout Promise
 
-Your child can choose either version of the Promise.
-
 > On my honour, I promise\
 > To do my best,\
 > To be true to my spiritual beliefs,\
 > To contribute to my community and our world,\
-> To help other people,\
-> And to live by the Scout Law
-
-Or:
-
-> On my honour\
-> I promise that I will do my best\
-> To do my duty to my God, and\
-> To the King of Australia\
 > To help other people,\
 > And to live by the Scout Law
 
