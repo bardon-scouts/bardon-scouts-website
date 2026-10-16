@@ -65,7 +65,7 @@
 
           {{/* CTA */}}
           {{ if $section.name }}
-            {{ partial "contact-cta.html" (dict "text" (printf "Ask to visit %s" $section.name) "url" "/ask-to-visit/") }}
+            {{ partial "contact-cta.html" (dict "text" (printf "Ask to join %s" $section.name) "url" "/ask-to-join/") }}
           {{ else }}
             {{ partial "contact-cta.html" . }}
           {{ end }}

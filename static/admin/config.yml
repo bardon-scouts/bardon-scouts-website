@@ -530,14 +530,13 @@ collections:
           - { label: "Type", name: "type", widget: "hidden", default: "page" }
           - { label: "Body", name: "body", widget: "markdown" }
 
-      - file: "content/ask-to-visit.md"
-        label: "Ask to Visit"
-        name: "ask-to-visit"
+      - file: "content/ask-to-join.md"
+        label: "Ask to Join"
+        name: "ask-to-join"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Description", name: "description", widget: "string" }
           - { label: "Show Trial Visit Form", name: "showTrialForm", widget: "boolean", default: true }
-          - { label: "Show Section Times (table after the first paragraph)", name: "showSectionTimes", widget: "boolean", default: true, required: false }
           - { label: "Type", name: "type", widget: "hidden", default: "page" }
           - { label: "Image", name: "image", widget: "image", required: false }
           - { label: "Body", name: "body", widget: "markdown" }
@@ -757,9 +756,9 @@ collections:
           - { label: "Image", name: "image", widget: "image", required: false }
           - { label: "Body", name: "body", widget: "markdown", required: false }
 
-      - file: "content/ask-to-visit/thanks.md"
-        label: "Ask to Visit Thank You"
-        name: "ask-to-visit-thanks"
+      - file: "content/ask-to-join/thanks.md"
+        label: "Ask to Join Thank You"
+        name: "ask-to-join-thanks"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Description", name: "description", widget: "string" }

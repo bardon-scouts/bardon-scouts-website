@@ -60,7 +60,7 @@ From the Scouts Australia Brand Book (August 2026), which the Scouts Queensland 
 
 | Side | Reader | Message | Next step |
 |---|---|---|---|
-| Families | A parent with a child in prep or early childhood, who may not know what Scouts is. The child sees the picture. | Joeys at Bardon is fun, local, and you can try it for free. | Scan, then ask to visit |
+| Families | A parent with a child in prep or early childhood, who may not know what Scouts is. The child sees the picture. | Joeys at Bardon is fun, local, and you can try it for free. | Scan, then ask to join |
 | Volunteers | Any adult nearby: parents, grandparents, neighbours. | You don't need experience. We'll train you, and any amount of time helps. | Scan, then get in touch |
 
 The two sides work separately. A school may stack flyers either way up, so neither side can depend on the other.
@@ -161,7 +161,7 @@ The old page assumed the reader knew what Scouts is, and didn't say who it's for
 >
 > ## How to come and try
 >
-> 1. **Send us a message** at least a day before. Meetings are sometimes held away from the Den, so we'll confirm where to go. **[Ask to visit](/ask-to-visit/)** (the trial visit form, #88)
+> 1. **Send us a message** at least a day before. Meetings are sometimes held away from the Den, so we'll confirm where to go. **[Ask to join](/ask-to-join/)** (the trial visit form, #88)
 > 2. **Fill in Form F6** and bring it with you: [Non-Member Activity Indemnity and Release (PDF)](/img/F6-Non-Member-Activity-Indemnity-and-Release.pdf)
 > 3. **Come along** to the meeting.
 >
@@ -192,7 +192,7 @@ Below this, the existing sections stay (Why Volunteer, Roles, Time Commitment, W
 
 ### Contact form
 
-`child_names` was made optional for #84, so volunteers without a child at the group can use the form. #88 then split the page: Contact Us is now for general enquiries (name, email, message, no child's name), and trial meeting requests use Ask to Visit (`/ask-to-visit/`). Volunteers use Contact Us. `docs/requirements/forms.md` has both forms.
+`child_names` was made optional for #84, so volunteers without a child at the group can use the form. #88 then split the page: Contact Us is now for general enquiries (name, email, message, no child's name), and trial meeting requests use Ask to Join (`/ask-to-join/`). Volunteers use Contact Us. `docs/requirements/forms.md` has both forms.
 
 ## Print spec
 

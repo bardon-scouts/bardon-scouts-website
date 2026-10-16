@@ -1,7 +1,7 @@
 {{/* Contact CTA Button - Shared Partial */}}
 {{/* Usage: {{ partial "contact-cta.html" . }} for default "Contact us" */}}
 {{/* Usage: {{ partial "contact-cta.html" (dict "text" "Custom text") }} for custom text */}}
-{{/* Usage: {{ partial "contact-cta.html" (dict "text" "Custom text" "url" "/ask-to-visit/") }} for another page */}}
+{{/* Usage: {{ partial "contact-cta.html" (dict "text" "Custom text" "url" "/ask-to-join/") }} for another page */}}
 {{ $url := "/contact" }}
 {{ if reflect.IsMap . }}{{ with .url }}{{ $url = . }}{{ end }}{{ end }}
 <section class="contact has-text-centered">

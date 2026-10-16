@@ -23,7 +23,7 @@ import urllib.request
 BASE = (sys.argv[1] if len(sys.argv) > 1 else "https://dev--bardon-scouts-website.netlify.app").rstrip("/")
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 HEADERS = {"User-Agent": "bardon-site-check"}
-FORMS = {"/contact/": "contact", "/ask-to-visit/": "trial-visit", "/website-feedback/": "website-feedback",
+FORMS = {"/contact/": "contact", "/ask-to-join/": "trial-visit", "/website-feedback/": "website-feedback",
          "/complaints/": "complaints", "/hire-the-den/": "hire-enquiry"}
 ASSET = re.compile(r"\.(css|js|png|jpe?g|gif|svg|pdf|ico|xml|webp|webmanifest)$", re.I)
 failures = []

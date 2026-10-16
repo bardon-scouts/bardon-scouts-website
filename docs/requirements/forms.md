@@ -18,8 +18,8 @@ The contact, trial visit, website feedback, complaints and Den hire enquiry form
 
 | Form (`name`) | Page | Flag | Thanks page | Fields (* required) |
 |---|---|---|---|---|
-| `contact` | `/contact/` | `showForm` | `/contact/thanks/` | name\*, email\*, message\* ("What are you asking about?"). General enquiries only; it sends parents wanting a trial meeting to `/ask-to-visit/` (#88) |
-| `trial-visit` | `/ask-to-visit/` | `showTrialForm` | `/ask-to-visit/thanks/` | name\*, email\*, child_names\*, child_ages\*, message (#88) |
+| `contact` | `/contact/` | `showForm` | `/contact/thanks/` | name\*, email\*, message\* ("What are you asking about?"). General enquiries only; it sends parents wanting a trial meeting to `/ask-to-join/` (#88) |
+| `trial-visit` | `/ask-to-join/` | `showTrialForm` | `/ask-to-join/thanks/` | name\*, email\*, child_names\*, child_ages\*, message (#88) |
 | `website-feedback` | `/website-feedback/` | `showFeedbackForm` | `/website-feedback/thanks/` | name\*, email, page\*, feedback_type\* (a list), details\* |
 | `complaints` | `/complaints/` | `showComplaintsForm` | `/complaints/thanks/` | name\*, email\*, phone, complaint_type\* (a list), when_occurred\*, details\*, preferred_contact\* (Email, Phone or Either) |
 | `hire-enquiry` | `/hire-the-den/` | `showHireForm` | `/hire-the-den/thanks/` | name\*, organisation\*, email\*, phone, hire_dates\*, details |

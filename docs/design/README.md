@@ -26,7 +26,7 @@ Sveltia CMS commits to `master`, not `dev` (`backend.branch` in `static/admin/co
 
 ## Content model
 
-**Pages** are Markdown files with YAML front matter in `content/`. Most pages use `type: page` and the `_default/single.html` template. Event pages are `content/<slug>.md`; the other areas have their own folders (`join/`, `leaders/`, `sections/`, `skills/`, `news/`, `contact/`, `complaints/`, `website-feedback/`, and `hire-the-den/` and `ask-to-visit/` for their forms' thanks pages). A folder's `_index.md` is its landing page.
+**Pages** are Markdown files with YAML front matter in `content/`. Most pages use `type: page` and the `_default/single.html` template. Event pages are `content/<slug>.md`; the other areas have their own folders (`join/`, `leaders/`, `sections/`, `skills/`, `news/`, `contact/`, `complaints/`, `website-feedback/`, and `hire-the-den/` and `ask-to-join/` for their forms' thanks pages). A folder's `_index.md` is its landing page.
 
 Common front matter:
 - `title`, `description` (used for the page title, meta description and share preview)
@@ -57,7 +57,7 @@ There's no theme; all templates are in `layouts/`:
 - `sections/list.html` and `sections/single.html`: the Sections page and each section page
 - `news/`, `events/`, `join/`, `leaders/`, `skills/` list templates for those folders' landing pages
 - `404.html`
-- `partials/`: `head`, `navbar`, `footer`, `hero`, `features`, `sections-list`, `events-list`, `contact-cta` (optional `text` and `url`; section pages send it to `/ask-to-visit/`), `section-times`, and the five forms
+- `partials/`: `head`, `navbar`, `footer`, `hero`, `features`, `sections-list`, `events-list`, `contact-cta` (optional `text` and `url`; section pages send it to `/ask-to-join/`), `section-times`, and the five forms
 
 Brand colours are teal `#43a09b` and red `#d9432d`, in `assets/scss/_variables.scss` and `params.toml`.
 

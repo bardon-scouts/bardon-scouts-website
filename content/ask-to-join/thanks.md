@@ -1,11 +1,11 @@
 ---
 title: "Thank You"
-description: "Your request to visit Bardon Scouts has been received"
+description: "Your request to join Bardon Scouts has been received"
 type: page
 image: /img/thank-you.jpg
 ---
 
-## Thanks for asking to visit
+## Thanks for asking to join
 
 We've received your request. We'll reply by email to confirm the day and where to meet.
 

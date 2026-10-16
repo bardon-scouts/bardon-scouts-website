@@ -61,9 +61,9 @@
   weight = 7.1
 
 [[main]]
-  name = "Ask to Visit"
+  name = "Ask to Join"
   parent = "contact"
-  url = "/ask-to-visit/"
+  url = "/ask-to-join/"
   weight = 7.12
 
 [[main]]
