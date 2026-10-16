@@ -13,6 +13,7 @@ Investiture is the ceremony where your child makes the Scout Promise and is welc
 3. Your child repeats the Scout Promise (below) after the leader.
 4. Your child is presented with four badges: the Australian Flag badge, the World Scout badge, the Bardon Group tape and the Taylor Range District badge. [Uniforms](/join/uniforms/) shows where they go.
 5. You present your child with their scarf.
+6. You have the chance to take photos.
 
 ## The Scout Promise
 
