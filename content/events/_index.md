@@ -142,7 +142,7 @@ A swimming carnival for Cubs from the four groups in our district. Cubs swim ind
 **When:** Throughout the year (dates to be announced)
 **Who:** Joeys, Cubs, Scouts, Venturers - all sections
 
-Fishing is a year-round activity open to every section. More details, including locations and what to bring, are coming soon.
+Fishing is a year-round activity open to every section, planned for the fishing platform near Breakfast Creek (to be confirmed). Dates and what to bring are coming soon.
 
 [Learn more about Fishing →](/fishing/)
 
@@ -175,6 +175,16 @@ The 27th Australian Jamboree: ten days in Elmore, Victoria, with more than 10,00
 Scouts and Venturers hike over two or more days with full packs, camping overnight between locations on walks like the Sunshine Coast Hinterland Great Walk.
 
 [Learn more about Overnight Hikes →](/overnight-hikes/)
+
+---
+
+### [PL Adventure](/pl-adventure/)
+**When:** Late in the year (2026 date to be announced)
+**Who:** Scouts who are Patrol Leaders
+
+An overnight camp for Patrol Leaders and their adult leaders. In 2025 it was held at The Wrecks campsite on Mulgumpin (Moreton Island), with Scouts carrying their own gear, food and stove.
+
+[Learn more about PL Adventure →](/pl-adventure/)
 
 ---
 

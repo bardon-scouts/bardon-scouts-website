@@ -20,7 +20,18 @@
       <div class="columns">
         <div class="column is-10 is-offset-1">
           <div class="content">
-            {{ .Content }}
+            {{/* showSectionTimes puts the section times table after the first paragraph */}}
+            {{ $content := .Content }}
+            {{ if .Params.showSectionTimes }}
+              {{ $table := partial "section-times.html" . }}
+              {{ with findRE `(?s)^.*?</p>` $content 1 }}
+                {{ $first := index . 0 }}
+                {{ $content = print $first $table (strings.TrimPrefix $first $content) | safeHTML }}
+              {{ else }}
+                {{ $content = print $table $content | safeHTML }}
+              {{ end }}
+            {{ end }}
+            {{ $content }}
           </div>
 
           {{ if .Params.showForm }}
@@ -37,6 +48,10 @@
 
           {{ if .Params.showHireForm }}
             {{ partial "hire-form.html" . }}
+          {{ end }}
+
+          {{ if .Params.showTrialForm }}
+            {{ partial "trial-visit-form.html" . }}
           {{ end }}
         </div>
       </div>

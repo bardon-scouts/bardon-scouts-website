@@ -61,6 +61,12 @@
   weight = 7.1
 
 [[main]]
+  name = "Ask to Join"
+  parent = "contact"
+  url = "/ask-to-join/"
+  weight = 7.12
+
+[[main]]
   name = "Complaints"
   parent = "contact"
   url = "/complaints/"
@@ -176,6 +182,12 @@
   weight = 5.647
 
 [[main]]
+  name = "PL Adventure"
+  parent = "events"
+  url = "/pl-adventure/"
+  weight = 5.648
+
+[[main]]
   name = "Air Activities (proposed)"
   parent = "events"
   url = "/air-activities/"
@@ -211,6 +223,12 @@
   parent = "join"
   url = "/join/first-night/"
   weight = 3.06
+
+[[main]]
+  name = "Investiture"
+  parent = "join"
+  url = "/join/investiture/"
+  weight = 3.07
 
 [[main]]
   name = "Play On! Voucher"

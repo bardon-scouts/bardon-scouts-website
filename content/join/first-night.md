@@ -7,13 +7,18 @@ image: /img/scouts_logo.jpg
 
 What a new family needs for their child's first meeting. Your [section's page](/sections/) has its meeting day and time.
 
+### Before your first night
+
+- **Confirm with your Section Leader by email** before you come. Some meetings are held away from the Den, so you must check with them first. If you don't have their email yet, use the [contact form](/contact/).
+- **Complete Form F6** and bring it with you: [Form F6 - Non-Member Activity Indemnity and Release (PDF)](/img/F6-Non-Member-Activity-Indemnity-and-Release.pdf).
+
 ### Where to go
 
-The Den is at 11 Bee Street, Bardon. Parking is limited to Bee Street and the surrounding streets. Some meetings are held away from the Den, so check your section's [WhatsApp group](/communication/) before you leave.
+The Den is at 11 Bee Street, Bardon. Parking is limited to Bee Street and the surrounding streets.
 
 ### What to wear
 
-Comfortable clothes that can get wet or dirty, and closed-in shoes. Scout activities are outside, so add a jumper if it's cold. [Uniforms](/join/uniforms/) explains what to order.
+Comfortable clothes that can get wet or dirty, and closed-in shoes. Scout activities are outside, so add a jumper if it's cold.
 
 ### What to bring
 

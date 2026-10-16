@@ -28,6 +28,14 @@ The person at the machine switches accounts when they change project. Skills che
 |---|---|---|
 | Netlify CLI | The Bardon Scouts account, whose teams include `bardon-scouts` (email kept out of this public repo) | `netlify status`: the "Teams" list includes `bardon-scouts`. Read the output, not the exit code. To fix: `netlify switch`, or `netlify login --new` the first time on a machine |
 
+## Connectors
+
+The claude.ai connectors this project needs. The plugin's `health-check` skill checks each one is connected.
+
+| Connector | Used for | Test read |
+|---|---|---|
+| Canva | Finding, copying and editing the group's flyers and other designs, in the Grimmer team's Canva account. Use it for any Canva work | Search designs for "Bardon Scouts": the Youth Recruitment and Leader Recruitment flyers are found |
+
 ## Structure
 
 ```

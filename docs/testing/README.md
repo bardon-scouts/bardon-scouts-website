@@ -23,6 +23,7 @@ Test cases live in the requirements, not here. Each file in `docs/requirements/`
 | HP | `home-page.md` |
 | NP | `news-posts.md` |
 | PN | `pages-and-navigation.md` |
+| PM | `printed-materials.md` |
 | SE | `sections.md` |
 
 When a requirement changes, update its test cases in the same commit. Give new test cases the next number and don't reuse old ones.
@@ -40,7 +41,7 @@ It checks the dev site by default; pass another base URL to check a different de
 1. every page linked from the site, starting at the home page and including every menu link, returns 200
 2. every old URL in `static/_redirects` reaches its new page
 3. the deployed CMS config (`/admin/config.yml`) has an entry for every page in `content/`
-4. the contact, website feedback, complaints and hire enquiry forms are on their pages
+4. the contact, trial visit, website feedback, complaints and hire enquiry forms are on their pages
 
 ## What a person checks
 

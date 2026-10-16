@@ -23,6 +23,7 @@ Scouts participate in these annual events and activities:
 - **[Operation NightHawk](/operation-nighthawk/)**
 - **[Overnight Hikes](/overnight-hikes/)**
 - **[Pizza and Paddle](/pizza-and-paddle/)**
+- **[PL Adventure](/pl-adventure/)** (Patrol Leaders)
 - **[Rock Climbing](/rock-climbing/)**
 
 For event dates and details, visit the **[Calendar](/calendar/)** page or check **[Consent2go](/consent2go/)** for permission requests.

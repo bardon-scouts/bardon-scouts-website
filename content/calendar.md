@@ -110,6 +110,8 @@ Each section meets weekly. See the section pages for meeting days and times: [Jo
 
 ### November
 
+**[PL Adventure](/pl-adventure/)** (Scout Patrol Leaders) - Late in the year, 2026 date to be announced (2025 was 6 and 7 December)
+
 ---
 
 ### December

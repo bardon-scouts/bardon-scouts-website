@@ -7,7 +7,12 @@ image: /img/volunteering.jpg
 
 ## Meet the Other You
 
-Beyond your everyday role as parent, professional, or partner, there's another you waiting to be discovered. Volunteering with Bardon Scouts offers a chance to uncover new possibilities, develop skills, and make a lasting impact on young people in your community.
+Volunteering with Bardon Scouts is a chance to learn new skills, get outdoors and make a difference for young people. No experience needed: we'll train you.
+
+- **Help in the way that suits you:** with a section each week, at events now and then, on the committee, or with a skill such as IT or first aid.
+- **What you need:** a Blue Card (we'll help you apply) and a willingness to learn.
+
+**[Get in touch](/contact/)** to find out more.
 
 ## Why Volunteer with Scouts?
 
@@ -76,14 +81,6 @@ All volunteers must complete youth protection training and follow Scouts Queensl
 
 **Willingness to Learn**
 An open mind and enthusiasm are the most important qualities. We'll teach you everything else!
-
-## Ready to Meet the Other You?
-
-Discover the rewarding experience of volunteering with Bardon Scouts. Whether you have a few hours a month or can commit to weekly involvement, your contribution will help young people develop skills for life.
-
-**[Contact us](/contact/) to find out about volunteering.**
-
-We'd love to hear from you and discuss how you can get involved with Bardon Scouts.
 
 ---
 

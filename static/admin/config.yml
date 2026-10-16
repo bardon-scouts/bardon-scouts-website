@@ -325,6 +325,15 @@ collections:
           - { label: "Type", name: "type", widget: "hidden", default: "page" }
           - { label: "Body", name: "body", widget: "markdown" }
 
+      - file: "content/pl-adventure.md"
+        label: "PL Adventure"
+        name: "pl-adventure"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
       - file: "content/air-activities.md"
         label: "Air Activities"
         name: "air-activities"
@@ -460,6 +469,16 @@ collections:
           - { label: "Type", name: "type", widget: "hidden", default: "page" }
           - { label: "Body", name: "body", widget: "markdown" }
 
+      - file: "content/sections/joey-programs.md"
+        label: "Joey Programs"
+        name: "joey-programs"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+
       - file: "content/leaders/parent-roster.md"
         label: "Parent Roster"
         name: "parent-roster"
@@ -511,6 +530,17 @@ collections:
           - { label: "Type", name: "type", widget: "hidden", default: "page" }
           - { label: "Body", name: "body", widget: "markdown" }
 
+      - file: "content/ask-to-join.md"
+        label: "Ask to Join"
+        name: "ask-to-join"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Show Trial Visit Form", name: "showTrialForm", widget: "boolean", default: true }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+
       # Join Us, Help Us and Sections pages, and form pages (added for #41)
       - file: "content/join/_index.md"
         label: "Join Us Page"
@@ -553,6 +583,17 @@ collections:
       - file: "content/join/come-and-try.md"
         label: "Come and Try"
         name: "come-and-try"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Show Section Times (table after the first paragraph)", name: "showSectionTimes", widget: "boolean", default: true, required: false }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
+
+      - file: "content/join/investiture.md"
+        label: "Investiture"
+        name: "investiture"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Description", name: "description", widget: "string" }
@@ -715,6 +756,16 @@ collections:
           - { label: "Image", name: "image", widget: "image", required: false }
           - { label: "Body", name: "body", widget: "markdown", required: false }
 
+      - file: "content/ask-to-join/thanks.md"
+        label: "Ask to Join Thank You"
+        name: "ask-to-join-thanks"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
+
       - file: "content/hire-the-den/thanks.md"
         label: "Hire the Den Thank You"
         name: "hire-the-den-thanks"
@@ -764,7 +815,7 @@ collections:
             fields:
               - { label: "Name", name: "name", widget: "string" }
               - { label: "Slug", name: "slug", widget: "string", hint: "URL-friendly name (e.g. joeys, cubs)" }
-              - { label: "Age Range", name: "ageRange", widget: "string", hint: "e.g. 6 to 8" }
+              - { label: "Age Range", name: "ageRange", widget: "string", hint: "e.g. 5 to 8" }
               - { label: "Meeting Day", name: "meetingDay", widget: "select", options: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"] }
               - { label: "Meeting Time", name: "meetingTime", widget: "string", hint: "e.g. 6:30 - 8:00pm" }
               - { label: "Color", name: "color", widget: "string", hint: "Hex color code, e.g. #FFC107" }

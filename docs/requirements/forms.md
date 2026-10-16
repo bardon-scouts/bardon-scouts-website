@@ -2,7 +2,7 @@
 
 ## What it's for
 
-The contact, website feedback, complaints and Den hire enquiry forms: how parents and others reach the group. A broken form fails silently, so these rules say what each form must have and how to check it without sending a real submission.
+The contact, trial visit, website feedback, complaints and Den hire enquiry forms: how parents and others reach the group. A broken form fails silently, so these rules say what each form must have and how to check it without sending a real submission.
 
 ## Requirements
 
@@ -18,7 +18,8 @@ The contact, website feedback, complaints and Den hire enquiry forms: how parent
 
 | Form (`name`) | Page | Flag | Thanks page | Fields (* required) |
 |---|---|---|---|---|
-| `contact` | `/contact/` | `showForm` | `/contact/thanks/` | name\*, email\*, child_names\*, message\* |
+| `contact` | `/contact/` | `showForm` | `/contact/thanks/` | name\*, email\*, message\* ("What are you asking about?"). General enquiries only; it sends parents wanting a trial meeting to `/ask-to-join/` (#88) |
+| `trial-visit` | `/ask-to-join/` | `showTrialForm` | `/ask-to-join/thanks/` | name\*, email\*, child_names\*, child_ages\*, message (#88) |
 | `website-feedback` | `/website-feedback/` | `showFeedbackForm` | `/website-feedback/thanks/` | name\*, email, page\*, feedback_type\* (a list), details\* |
 | `complaints` | `/complaints/` | `showComplaintsForm` | `/complaints/thanks/` | name\*, email\*, phone, complaint_type\* (a list), when_occurred\*, details\*, preferred_contact\* (Email, Phone or Either) |
 | `hire-enquiry` | `/hire-the-den/` | `showHireForm` | `/hire-the-den/thanks/` | name\*, organisation\*, email\*, phone, hire_dates\*, details |
@@ -28,7 +29,7 @@ Netlify registers a form's fields when it first sees the form in a deploy. If fi
 ## How to check
 
 On the dev site, without sending a submission:
-- **FM-1:** Each form page returns 200 and has its processed form: Netlify replaces `data-netlify` with a hidden `form-name` input whose value is the form's name. The whole-site check (`scripts/site_check.py`) does this for all four.
+- **FM-1:** Each form page returns 200 and has its processed form: Netlify replaces `data-netlify` with a hidden `form-name` input whose value is the form's name. The whole-site check (`scripts/site_check.py`) does this for all five.
 - **FM-2:** Each form has the hidden `bot-field` input, and its `action` is its thanks page.
 - **FM-3:** Each thanks page returns 200.
 - **FM-4:** The fields and required flags match the table above.

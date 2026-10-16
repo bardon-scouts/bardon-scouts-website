@@ -1,0 +1,49 @@
+<form name="trial-visit" method="post" action="/ask-to-join/thanks/" data-netlify="true" data-netlify-honeypot="bot-field">
+  <input type="hidden" name="form-name" value="trial-visit">
+
+  <!-- Honeypot -->
+  <div hidden>
+    <label>
+      Don't fill this out: <input name="bot-field">
+    </label>
+  </div>
+
+  <div class="field">
+    <label class="label" for="name">Your name</label>
+    <div class="control">
+      <input class="input" type="text" name="name" id="name" required>
+    </div>
+  </div>
+
+  <div class="field">
+    <label class="label" for="email">Email</label>
+    <div class="control">
+      <input class="input" type="email" name="email" id="email" required>
+    </div>
+  </div>
+
+  <div class="field">
+    <label class="label" for="child_names">Child's name(s)</label>
+    <div class="control">
+      <input class="input" type="text" name="child_names" id="child_names" required>
+    </div>
+  </div>
+
+  <div class="field">
+    <label class="label" for="child_ages">Child's age(s)</label>
+    <div class="control">
+      <input class="input" type="text" name="child_ages" id="child_ages" required>
+    </div>
+  </div>
+
+  <div class="field">
+    <label class="label" for="message">Anything else (optional)</label>
+    <div class="control">
+      <textarea class="textarea" name="message" id="message" placeholder="For example, which night suits you."></textarea>
+    </div>
+  </div>
+
+  <div class="field">
+    <button type="submit">Ask to Join</button>
+  </div>
+</form>

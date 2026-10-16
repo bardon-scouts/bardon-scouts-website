@@ -101,6 +101,15 @@ File: `/img/group-camp.jpg`. Done (#59).
 
 > A bush campsite in spring with several tents around a campfire circle of logs, jacaranda and gum trees, golden evening light.
 
+### PL Adventure - `/pl-adventure/`
+File: `/img/pl-adventure.jpg`. **Set the image** (the page uses the Scouts logo placeholder).
+
+> Small hiking tents pitched among low coastal scrub behind white sand dunes, a calm blue bay beyond, late afternoon light.
+
+> Two hiking backpacks and a small gas hiking stove with a pot on the sand beside a tent, beach and rusting shipwrecks in the shallow water behind.
+
+> Footprints leading up a tall white sand dune under a clear blue sky, a wooden sand toboggan resting at the top.
+
 ## Join Us
 
 ### Join Us - `/join/`
@@ -308,6 +317,13 @@ File: `/img/skills-water-activities.jpg`, **set the image**. Three options, with
 File: `/img/news.jpg`. Done (#59)
 
 > A cork noticeboard with blank photo prints and pins, in a timber hall.
+
+### Joey Programs - `/sections/joey-programs/`
+File: `/img/joey-programs.jpg`, **set the image** (this page has no `image:` yet). Three options, each showing a Joey meeting activity:
+
+1. > Small natural objects arranged on a timber floor into the shape of a gum leaf: pebbles, short sticks, seed pods and green leaves, seen from above, soft hall light.
+2. > Marshmallows on long sticks held over a small campfire at dusk, children's hands seen at the edge of the frame, logs arranged around the fire.
+3. > A plain mixing bowl, a whisk and a stack of small pancakes on a trestle table in a timber hall, small hands reaching in from the side, warm evening light.
 
 ### Rovers - `/sections/rovers/`
 File: `/img/rovers.jpg`. Done (#59)

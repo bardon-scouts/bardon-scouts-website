@@ -1,6 +1,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The site is light only: stop Bulma and the browser switching to dark colours in dark mode (#89) -->
+  <meta name="color-scheme" content="light">
   {{ with getenv "COMMIT_REF" }}<meta name="deploy-commit" content="{{ . }}">{{ end }}
 
   <!-- Title & Description -->
