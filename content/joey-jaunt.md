@@ -26,7 +26,7 @@ Your Joey Leader registers Bardon Joeys, and will let you know the date, cost an
 
 ## More Information
 
-- [Scouts Queensland: Joey Scouts](https://scoutsqld.com.au/members/joey-scouts/)
+- [Scouts Queensland: Joey Scouts](https://scoutsqld.com.au/joey-scouts/)
 - [Joey Scout Jaunt 2024](https://scoutsqld.com.au/blog/2024/08/08/joey-scout-jaunt-2024/), Scouts Queensland's report on the 2024 Jaunt
 
 For questions about Bardon Joeys going to Joey Jaunt, speak to your Joey Leader or [contact us](/contact/).
