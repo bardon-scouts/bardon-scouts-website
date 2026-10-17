@@ -489,6 +489,26 @@ collections:
           - { label: "Image", name: "image", widget: "image", required: false }
           - { label: "Body", name: "body", widget: "markdown" }
 
+      - file: "content/sections/cub-programs.md"
+        label: "Cub Programs"
+        name: "cub-programs"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+      - file: "content/sections/scout-programs.md"
+        label: "Scout Programs"
+        name: "scout-programs"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+
       - file: "content/leaders/parent-roster.md"
         label: "Parent Roster"
         name: "parent-roster"
