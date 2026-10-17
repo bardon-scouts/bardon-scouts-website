@@ -28,6 +28,16 @@ Cuboree is Queensland's five-day state camp for Cubs, held at Baden-Powell Park 
 
 ---
 
+### [Joey Jaunt](/joey-jaunt/)
+**When:** Usually August (2027 date to be announced)
+**Who:** Joeys
+
+Scouts Queensland's day of activities for Joeys, with each Joey unit running an activity base. Bardon Joeys plan to go to the next one.
+
+[Learn more about Joey Jaunt →](/joey-jaunt/)
+
+---
+
 ### [Clean Up Australia Day](/clean-up-australia-day/)
 **When:** First Sunday in March (annually)
 **Who:** Joeys, Cubs, Scouts, Venturers, and their families

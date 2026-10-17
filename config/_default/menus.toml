@@ -188,6 +188,12 @@
   weight = 5.648
 
 [[main]]
+  name = "Joey Jaunt"
+  parent = "events"
+  url = "/joey-jaunt/"
+  weight = 5.649
+
+[[main]]
   name = "Air Activities (proposed)"
   parent = "events"
   url = "/air-activities/"
