@@ -343,6 +343,16 @@ collections:
           - { label: "Type", name: "type", widget: "hidden", default: "page" }
           - { label: "Body", name: "body", widget: "markdown" }
 
+      - file: "content/miniature-train-scavenger-hunt.md"
+        label: "Miniature Train Scavenger Hunt"
+        name: "miniature-train-scavenger-hunt"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+
       - file: "content/joey-jaunt.md"
         label: "Joey Jaunt"
         name: "joey-jaunt"

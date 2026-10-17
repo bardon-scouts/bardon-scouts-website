@@ -208,6 +208,16 @@ Bardon Scouts plans to run an air activities event through the Scouts Queensland
 
 ---
 
+### [Miniature Train Scavenger Hunt (proposed)](/miniature-train-scavenger-hunt/)
+**When:** To be announced
+**Who:** Joeys, Cubs, Scouts, Venturers
+
+A proposed Group visit to the Pine Valley Miniature Railway in Warner, with a patrol scavenger hunt around the site. It hasn't been confirmed yet.
+
+[Learn more about the Miniature Train Scavenger Hunt →](/miniature-train-scavenger-hunt/)
+
+---
+
 ## Get Involved
 
 Want to join us at upcoming events? [Contact us](/contact/) to learn more about joining Bardon Scouts, or come and visit us at any of these events throughout the year!

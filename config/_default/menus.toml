@@ -199,6 +199,12 @@
   url = "/air-activities/"
   weight = 5.65
 
+[[main]]
+  name = "Miniature Train Scavenger Hunt (proposed)"
+  parent = "events"
+  url = "/miniature-train-scavenger-hunt/"
+  weight = 5.651
+
 # Join Us dropdown items
 [[main]]
   name = "How to Join"
