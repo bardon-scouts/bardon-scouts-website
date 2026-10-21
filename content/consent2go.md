@@ -47,6 +47,12 @@ Once set up, you'll be notified whenever Leaders post new activities needing per
 
 Please keep your child's details up to date in Consent2go, especially medical conditions and medications, allergies and dietary requirements, emergency contact numbers, and your own contact details. Current information helps us keep your child safe during all Scout activities.
 
+### Please Reply, Even If It's a No
+
+The button in a Consent2go invitation email often says it's confirming attendance. Pressing it doesn't sign your child up: it opens the invitation, where you can answer yes or no.
+
+If your child can't come, please reply No. It tells the leaders who to expect, so they don't have to chase you for an answer.
+
 ### Problems Replying to an Activity
 
 **RSVP replies are closed.** If you see this message, the time to reply has passed. Contact the leader in charge of the activity and ask them to extend the RSVP for your child.
