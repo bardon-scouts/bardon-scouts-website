@@ -42,6 +42,8 @@ We use sign in and out sheets at camp. Whenever anyone arrives or leaves, adults
 - Pyjamas
 - Toiletries: flannel or sponge, soap, toothbrush and toothpaste, hairbrush or comb
 - Towel
+- Swimmers
+- Swimming goggles (if your child prefers to swim with them)
 - Sunscreen
 - Insect repellent
 - Personal first aid kit (bandaids and so on)
