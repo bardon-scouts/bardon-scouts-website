@@ -28,6 +28,16 @@ Cuboree is Queensland's five-day state camp for Cubs, held at Baden-Powell Park 
 
 ---
 
+### [Joey Jaunt](/joey-jaunt/)
+**When:** Usually August (2027 date to be announced)
+**Who:** Joeys
+
+Scouts Queensland's day of activities for Joeys, with each Joey unit running an activity base. Bardon Joeys plan to go to the next one.
+
+[Learn more about Joey Jaunt →](/joey-jaunt/)
+
+---
+
 ### [Clean Up Australia Day](/clean-up-australia-day/)
 **When:** First Sunday in March (annually)
 **Who:** Joeys, Cubs, Scouts, Venturers, and their families
@@ -195,6 +205,16 @@ An overnight camp for Patrol Leaders and their adult leaders. In 2025 it was hel
 Bardon Scouts plans to run an air activities event through the Scouts Queensland Air Activities program. It hasn't been confirmed yet.
 
 [Learn more about Air Activities →](/air-activities/)
+
+---
+
+### [Miniature Train Scavenger Hunt (proposed)](/miniature-train-scavenger-hunt/)
+**When:** To be announced
+**Who:** Joeys, Cubs, Scouts, Venturers
+
+A proposed Group visit to the Pine Valley Miniature Railway in Warner, with a patrol scavenger hunt around the site. It hasn't been confirmed yet.
+
+[Learn more about the Miniature Train Scavenger Hunt →](/miniature-train-scavenger-hunt/)
 
 ---
 

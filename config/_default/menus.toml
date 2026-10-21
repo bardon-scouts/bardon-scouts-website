@@ -188,10 +188,22 @@
   weight = 5.648
 
 [[main]]
+  name = "Joey Jaunt"
+  parent = "events"
+  url = "/joey-jaunt/"
+  weight = 5.649
+
+[[main]]
   name = "Air Activities (proposed)"
   parent = "events"
   url = "/air-activities/"
   weight = 5.65
+
+[[main]]
+  name = "Miniature Train Scavenger Hunt (proposed)"
+  parent = "events"
+  url = "/miniature-train-scavenger-hunt/"
+  weight = 5.651
 
 # Join Us dropdown items
 [[main]]
