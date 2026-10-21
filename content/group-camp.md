@@ -116,4 +116,4 @@ In an emergency, text or call Anthoney (Eagle), the camp organiser.
 
 ## Adult Helpers
 
-Group Camp is open to adult helpers who assist with the running of the group. Adults attending must hold a valid blue card (Working with Children Check).
+Group Camp is open to adult helpers who assist with the running of the group. Adults attending must be members of Scouts.
