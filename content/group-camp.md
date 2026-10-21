@@ -10,15 +10,18 @@ Once a year, the whole of Bardon Scouts heads away together for Group Camp. It i
 
 ## Event Details
 
-**When:** Once a year in October
-**Duration:** Two nights
-**Arrive:** Friday at 7pm
-**Depart:** Sunday at 2pm
+**When:** Once a year in October\
+**Duration:** Two nights\
+**Arrive:** Friday at 7pm\
+**Depart:** Sunday at 2pm\
+**Where:** BP Park, 68 Cash Ave, Samford Village QLD 4520 ([map](https://maps.app.goo.gl/7bAzxh6ifB4FaCgT6))\
 **Who:** Joeys, Cubs, Scouts, Venturers - all sections, plus adult helpers
 
 ## Arrival
 
 Arrive at camp at 7pm on Friday. Please make sure your child has had dinner before they arrive. We serve a supper later in the evening.
+
+Everyone signs in on the sign in sheet when they arrive, adults and young people alike.
 
 ## Arriving Late or Leaving Early
 
@@ -90,9 +93,17 @@ Your child can bring their own tent or use a Bardon Scouts tent. Young people ch
 
 ## Departure
 
-We leave camp at 2pm on Sunday. Young people come back to the Den afterwards to help unpack the trailer, which takes about an hour.
+We leave camp at 2pm on Sunday. Everyone signs out on the sign out sheet before they leave, adults and young people alike.
+
+Young people come back to the Den afterwards to help unpack the trailer, which takes about an hour.
 
 If your child used a Bardon Scouts tent and it's wet, please take it home, dry it, check everything is there and in good condition, pack it up and bring it back at the next meeting.
+
+## Communication
+
+We use the camp's WhatsApp group to keep all parents up to date during camp, including if the departure time changes. This page is also kept up to date.
+
+In an emergency, text or call Anthoney (Eagle), the camp organiser.
 
 ## Activities
 
@@ -104,7 +115,3 @@ If your child used a Bardon Scouts tent and it's wet, please take it home, dry i
 ## Adult Helpers
 
 Group Camp is open to adult helpers who assist with the running of the group. Adults attending must hold a valid blue card (Working with Children Check).
-
-## More Information
-
-Dates and location are shared by Section Leaders closer to the camp. If you have any questions, speak to your Section Leader or [contact us](/contact/).
