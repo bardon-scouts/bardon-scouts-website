@@ -9,9 +9,9 @@ Joey Jaunt (Joey Scout Jaunt) is a day of activities for Joeys from across Queen
 
 ## Event Details
 
-**When:** Usually August. The 2027 date hasn't been announced yet.
-**Duration:** One day (9am to 3pm in past years)
-**Where:** Baden-Powell Park, Samford, in past years (to be confirmed)
+**When:** Usually August. The 2027 date hasn't been announced yet.\
+**Duration:** One day (9am to 3pm in past years)\
+**Where:** Baden-Powell Park, Samford, in past years (to be confirmed)\
 **Who:** Joeys
 
 ## What Happens at Joey Jaunt

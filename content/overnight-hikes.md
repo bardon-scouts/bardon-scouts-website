@@ -10,7 +10,7 @@ Scouts and Venturers hike over two or more days, carrying everything they need i
 
 ## Event Details
 
-**When:** Usually between April and September (dates announced by Section Leaders)
+**When:** Usually between April and September (dates announced by Section Leaders)\
 **Who:** Scouts, Venturers
 
 ## More Information Coming Soon

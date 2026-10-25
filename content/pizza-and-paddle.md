@@ -10,9 +10,9 @@ Pizza and Paddle is a Friday night of canoeing followed by pizza, run by Brownse
 
 ## Event Details
 
-**When:** Friday nights on various dates through the year ([Brownsea calendar](https://brownsea.qldscouts.com/?page_id=215))
-**Time:** 6:45pm to 10:00pm
-**Where:** [Brownsea Water Activities Centre](https://brownsea.qldscouts.com/)
+**When:** Friday nights on various dates through the year ([Brownsea calendar](https://brownsea.qldscouts.com/?page_id=215))\
+**Time:** 6:45pm to 10:00pm\
+**Where:** [Brownsea Water Activities Centre](https://brownsea.qldscouts.com/)\
 **Who:** Scouts, Venturers and Rovers. Joeys and Cubs have their own programs at Brownsea.
 
 ## How the Night Runs

@@ -10,9 +10,9 @@ Each year Bardon Scouts joins Clean Up Australia Day, the national community cle
 
 ## Event Details
 
-**When:** First Sunday in March (next: Sunday 7 March 2027)
-**Duration:** Usually 2-4 hours, starting between 9:00am and 10:00am
-**Where:** Around Bardon (the meeting place is announced by leaders)
+**When:** First Sunday in March (next: Sunday 7 March 2027)\
+**Duration:** Usually 2-4 hours, starting between 9:00am and 10:00am\
+**Where:** Around Bardon (the meeting place is announced by leaders)\
 **Who:** Joeys, Cubs, Scouts, Venturers, and their families
 
 ## On the Day

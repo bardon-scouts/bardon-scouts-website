@@ -9,9 +9,9 @@ image: /img/scouts_logo.jpg
 
 ## Event Details
 
-**Status:** Proposed
-**When:** To be announced
-**Where:** Pine Valley Miniature Railway, Warner
+**Status:** Proposed\
+**When:** To be announced\
+**Where:** Pine Valley Miniature Railway, Warner\
 **Who:** Joeys, Cubs, Scouts, Venturers
 
 ## What's Planned

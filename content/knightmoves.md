@@ -10,9 +10,9 @@ KnightMoves is Brisbane North Region's overnight navigation event for Scouts and
 
 ## Event Details
 
-**When:** Late July or early August (annually)
-**Duration:** Saturday afternoon to Sunday morning
-**Where:** A Scouts Queensland campsite, changing each year (recent years: Karingal 2025, Murrenbong 2024, Tyamolum 2023)
+**When:** Late July or early August (annually)\
+**Duration:** Saturday afternoon to Sunday morning\
+**Where:** A Scouts Queensland campsite, changing each year (recent years: Karingal 2025, Murrenbong 2024, Tyamolum 2023)\
 **Who:** Scouts and Venturers
 
 ## How It Works
