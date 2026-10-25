@@ -153,13 +153,21 @@ They race against a stopwatch. The aim is for everyone to be tying knots at the 
 
 ### Activity 1: Treasure Hunt
 
-Give each patrol a rough hand drawn map of the Scout grounds, with stars or similar symbols marking where secrets are hidden. Not every marked spot has an object. Each patrol takes an adult helper with them, finds the objects, writes down what they are and comes back. When they return, tell them which ones they got right.
+**Prep:** print a copy of the [map of the Scout grounds](/img/joey-treasure-hunt-map.jpg) (JPG, for printing) for each patrol. It's a rough hand drawn map, with numbers marking where objects are found. Some of them are hidden secrets.
+
+**The judge:** a parent is the judge at home base, with a table and the list of items. When a patrol comes back and says what's at a number, the judge ticks it off. A patrol can only do one number at a time.
+
+**Adult helpers:** each patrol takes an adult helper, who keeps the Joeys off the road and inside the grounds, makes sure they collect only one number at a time, and keeps the patrol together.
+
+**The spotlight:** if there are enough adults, one wanders the grounds with a strong spotlight, walking (not running) and making a lot of noise while trying to spot the Joeys. The Joeys must stay away from this adult.
 
 ### Activity 2: Match Map
 
-**Prep:** make a list of map symbols and print them as cards before the meeting. Each card shows a symbol, a name or an explanation.
+**Prep:** print the [Map Match Cards](/img/joey-map-match-cards.pdf) (PDF, 2 pages) before the meeting. Each card shows a map symbol, its name or an explanation of it.
 
 Give the Joeys the printed sheets to cut the cards out. They then match each symbol with its name and its explanation.
+
+**The Expert:** an adult acts as the "Expert" and answers the Joeys' questions, but either cryptically or at great length, so asking for hints costs the patrol time.
 
 ### Activity 3: Draw a Map
 
