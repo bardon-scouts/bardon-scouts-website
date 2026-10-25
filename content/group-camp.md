@@ -107,6 +107,12 @@ We use the camp's WhatsApp group to keep all parents up to date during camp, inc
 
 In an emergency, text or call Anthoney (Eagle), the camp organiser.
 
+## Cancellation
+
+We review the weather forecast early on Friday. If storms or heavy rain are forecast, the camp is cancelled.
+
+Unfortunately, if you cancel or don't attend within 3 days of the camp, we can't give a refund, because supplies and campsite fees have already been paid. If you can't attend, please still let us know.
+
 ## Activities
 
 - **Pioneering** - building structures with rope and poles
