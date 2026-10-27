@@ -6,6 +6,9 @@ Reads .github/recurring-tasks.yml. For each task due today (Brisbane time):
   comment that it's due again
 - issue open: leave it, so a missed occurrence is only done once
 
+GitHub's issue list shows a new issue only after a few seconds, so after creating issues the
+script waits until they're listed. A run started after this one ends then finds them.
+
 Usage: python recurring_tasks.py [--dry-run] [--date YYYY-MM-DD] [--tasks FILE]
 
 Shared by the lvlup-workflow plugin, which keeps each project's copy up to date.
@@ -18,8 +21,11 @@ import datetime
 import json
 import subprocess
 import sys
+import time
 
 BRISBANE = datetime.timezone(datetime.timedelta(hours=10))  # no daylight saving
+WAIT_SECONDS = 60
+WAIT_INTERVAL = 3
 LABEL = "recurring"
 RESET_LABELS = ("needs-review", "blocked")
 STAGE_FIELD = "Stage"
@@ -96,6 +102,23 @@ class GitHub:
                 option = value.get("single_select_option") or {}
                 return value["issue_field_id"], option.get("name")
         return None
+
+    def wait_until_listed(self, task_ids, sleep=time.sleep):
+        """Wait until the issue list shows an issue for each task. True if it does in time."""
+        if self.dry_run or not task_ids:
+            return True
+        waited = 0
+        while True:
+            issues = self.recurring_issues()
+            missing = [task_id for task_id in task_ids if find_issue(issues, task_id) is None]
+            if not missing:
+                return True
+            if waited >= WAIT_SECONDS:
+                print(f"warning: new issue(s) for {', '.join(missing)} not listed after "
+                      f"{WAIT_SECONDS} seconds; a run started straight away may duplicate them")
+                return False
+            sleep(WAIT_INTERVAL)
+            waited += WAIT_INTERVAL
 
     def ensure_label(self):
         self.change(["label", "create", LABEL, "--color", "0E8A16", "--force",
@@ -178,8 +201,8 @@ def main(argv=None):
         return 0
     github.ensure_label()
     issues = github.recurring_issues()
-    for task in tasks:
-        handle(task, day, issues, github)
+    created = [task["id"] for task in tasks if handle(task, day, issues, github) == "created"]
+    github.wait_until_listed(created)
     return 0
 
 

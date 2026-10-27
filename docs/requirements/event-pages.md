@@ -11,6 +11,7 @@ One page per event Bardon Scouts runs or takes part in (e.g. Group Camp, Cuboree
 - Lives at `content/<slug>.md` and is served at `/<slug>/`.
 - Front matter: `title`, `description`, `type: page`, and `image`. New events use the placeholder `/img/scouts_logo.jpg` until a real photo is available.
 - Has an **Event Details** section near the top with at least **When:** and **Who:** lines. Add **Where:** and **Duration:** when known.
+- Each detail shows on its own line. In the Markdown, end every detail line except the last with a backslash (`\`), or Markdown joins them into one paragraph. The same applies to the **When:** and **Who:** lines in the Events listing.
 - **Who** uses section names only (Joeys, Cubs, Scouts, Venturers). **No age ranges** on event pages.
 - Details that aren't confirmed are marked as such (e.g. "dates to be announced"), not guessed.
 
@@ -30,3 +31,4 @@ On the dev site:
 - **EV-2:** `/events/` links to the page (heading and "Learn more"), and the Events menu links to it.
 - **EV-3:** The home page "Our Events" grid links to it.
 - **EV-4:** The dev site's `/admin/config.yml` includes `content/<slug>.md`.
+- **EV-5:** On `/<slug>/`, the Event Details paragraph has a `<br>` between each pair of details, and on `/events/` the event's entry has a `<br>` between When and Who.

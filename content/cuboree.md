@@ -10,9 +10,9 @@ Cuboree is Queensland's state camp for Cubs, run by Scouts Queensland every two 
 
 ## Event Details
 
-**When:** Every 2-3 years. Cuboree 2026 was held 9-13 April 2026; the next date will be announced by Scouts Queensland.
-**Duration:** 5 days (Thursday to Monday)
-**Where:** Baden-Powell Park, 356 Mount Samson Road, Samford Valley
+**When:** Every 2-3 years. Cuboree 2026 was held 9-13 April 2026; the next date will be announced by Scouts Queensland.\
+**Duration:** 5 days (Thursday to Monday)\
+**Where:** Baden-Powell Park, 356 Mount Samson Road, Samford Valley\
 **Who:** Cubs
 
 ## What Happens at Cuboree

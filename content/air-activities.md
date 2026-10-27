@@ -10,8 +10,8 @@ image: /img/air-activities.jpg
 
 ## Event Details
 
-**Status:** Proposed
-**When:** To be announced
+**Status:** Proposed\
+**When:** To be announced\
 **Who:** To be confirmed
 
 ## About Scouts Queensland Air Activities

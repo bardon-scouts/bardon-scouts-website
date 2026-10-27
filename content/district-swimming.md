@@ -10,9 +10,9 @@ District Swimming is a swimming carnival for Cubs from the four groups in our di
 
 ## Event Details
 
-**When:** Once a year (the date is set by the district)
-**Duration:** Half a day or a full day
-**Where:** A local swimming pool, confirmed before the event
+**When:** Once a year (the date is set by the district)\
+**Duration:** Half a day or a full day\
+**Where:** A local swimming pool, confirmed before the event\
 **Who:** Cubs
 
 ## On the Day

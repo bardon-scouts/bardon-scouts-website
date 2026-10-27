@@ -21,6 +21,11 @@ permissions:
   contents: read
   issues: write
 
+# A run waits for the one before it to finish, so it sees the issues that run created.
+concurrency:
+  group: recurring-tasks
+  cancel-in-progress: false
+
 jobs:
   recurring-tasks:
     runs-on: ubuntu-latest

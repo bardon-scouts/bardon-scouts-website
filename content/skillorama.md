@@ -10,9 +10,9 @@ Skillorama is a day out for Joeys and Cubs at Redcliffe Showgrounds, run each Se
 
 ## Event Details
 
-**When:** September each year (the date is announced by the organisers)
-**Time:** 11:00am to the afternoon
-**Where:** Redcliffe Showgrounds, Anzac Avenue, Kippa-Ring
+**When:** September each year (the date is announced by the organisers)\
+**Time:** 11:00am to the afternoon\
+**Where:** Redcliffe Showgrounds, Anzac Avenue, Kippa-Ring\
 **Who:** Joeys and Cubs
 
 ## What Happens at Skillorama

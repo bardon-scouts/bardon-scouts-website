@@ -10,9 +10,9 @@ PL Adventure is an overnight camp for Patrol Leaders in the Scout section, held 
 
 ## Event Details
 
-**When:** Late in the year (2025: Saturday 6 to Sunday 7 December). 2026 date to be announced.
-**Duration:** Overnight, Saturday morning to Sunday afternoon
-**Where:** 2026 location to be announced. In 2025 it was The Wrecks campsite on Mulgumpin (Moreton Island).
+**When:** Late in the year (2025: Saturday 6 to Sunday 7 December). 2026 date to be announced.\
+**Duration:** Overnight, Saturday morning to Sunday afternoon\
+**Where:** 2026 location to be announced. In 2025 it was The Wrecks campsite on Mulgumpin (Moreton Island).\
 **Who:** Scouts who are Patrol Leaders, with their adult leaders
 
 ## What Happened in 2025

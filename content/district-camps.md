@@ -10,9 +10,9 @@ District Camps are weekend camps shared with the other Scout Groups in our distr
 
 ## Event Details
 
-**When:** Throughout the year (dates vary by section and are set by the district)
-**Duration:** Usually a weekend, Friday evening to Sunday
-**Where:** Scout campsites around South East Queensland
+**When:** Throughout the year (dates vary by section and are set by the district)\
+**Duration:** Usually a weekend, Friday evening to Sunday\
+**Where:** Scout campsites around South East Queensland\
 **Who:** Joeys, Cubs and Scouts
 
 ## What Happens at a District Camp

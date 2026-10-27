@@ -10,9 +10,9 @@ The Annual Report Presentation (ARP) is Bardon Scouts' annual general meeting. F
 
 ## Event Details
 
-**When:** March each year (the date is announced several weeks ahead)
-**Time:** Usually 7:00pm to 9:00pm
-**Where:** The Scout Den, 11 Bee Street, Bardon, unless another venue is announced
+**When:** March each year (the date is announced several weeks ahead)\
+**Time:** Usually 7:00pm to 9:00pm\
+**Where:** The Scout Den, 11 Bee Street, Bardon, unless another venue is announced\
 **Who:** Parents, leaders, committee members and supporters
 
 ## What Happens at the ARP
