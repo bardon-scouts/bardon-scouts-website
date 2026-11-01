@@ -1,15 +1,15 @@
 ---
-title: "Joeys"
+title: "Joey Scouts"
 type: sections
 ---
 
 ## Program & Activities
 
-See **[Joey Programs](/sections/joey-programs/)** for how we run our regular meeting programs.
+See **[Joey Scout Programs](/sections/joey-programs/)** for how we run our regular meeting programs.
 
-## Joey Events
+## Joey Scout Events
 
-Joeys participate in these annual events and activities:
+Joey Scouts participate in these annual events and activities:
 
 - **[ANZAC Day March](/anzac-day-march/)**
 - **[Bardon Mayfair](/bardon-mayfair/)**

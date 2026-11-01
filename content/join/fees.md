@@ -7,7 +7,7 @@ image: /img/fees.jpg
 
 ## Membership Fees
 
-Bardon Scouts membership fees are the same across all sections (Joeys, Cubs, Scouts, and Venturers).
+Bardon Scouts membership fees are the same across all sections (Joey Scouts, Cub Scouts, Scouts, and Venturer Scouts).
 
 **Current Membership Fee: $344 per six months**
 

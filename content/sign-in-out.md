@@ -24,13 +24,13 @@ For the safety and security of all our Scouts, Bardon Scouts requires parents or
 ### Who Must Sign In and Out
 
 **Required for:**
-- Joeys
-- Cubs
+- Joey Scouts
+- Cub Scouts
 - Scouts
-- Venturers
+- Venturer Scouts
 
-**Venturers - Self Sign-In:**
-Venturers who are driving themselves to Scouts may sign themselves in and out if they have prearranged permission from their parents.
+**Venturer Scouts - Self Sign-In:**
+Venturer Scouts who are driving themselves to Scouts may sign themselves in and out if they have prearranged permission from their parents.
 
 ### Important Information
 

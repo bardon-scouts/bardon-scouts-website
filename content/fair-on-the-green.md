@@ -33,10 +33,10 @@ If you're planning to attend the fair, come and visit our stall! Come and ask ab
 
 ### Parent Information
 
-All Bardon Scouts members are welcome: Joeys, Cubs, Scouts and Venturers. Wear Scout uniform and bring a hat, a water bottle, money for food and activities, and a folding chair.
+All Bardon Scouts members are welcome: Joey Scouts, Cub Scouts, Scouts and Venturer Scouts. Wear Scout uniform and bring a hat, a water bottle, money for food and activities, and a folding chair.
 
 ### Get Involved
 
-Interested in joining Bardon Scouts? Want to learn more about our Joeys, Cubs, Scouts and Venturers sections?
+Interested in joining Bardon Scouts? Want to learn more about our Joey Scouts, Cub Scouts, Scouts and Venturer Scouts sections?
 
 [Contact us](/contact/) to find out more, or come and say hello at next year's Fair on the Green!

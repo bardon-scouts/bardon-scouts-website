@@ -13,17 +13,17 @@ The basic uniform consists of three items:
 
 Choose the shirt for your child's section:
 
-- **Joeys**: [Joey Polo Shirt](https://scoutshop.com.au/products/joey-polo-shirt)
-- **Cubs**: [Cub Polo Shirt](https://scoutshop.com.au/products/cub-polo-shirt) or [Cub Button-Up Shirt](https://scoutshop.com.au/products/cub-button-up-shirt)
+- **Joey Scouts**: [Joey Polo Shirt](https://scoutshop.com.au/products/joey-polo-shirt)
+- **Cub Scouts**: [Cub Polo Shirt](https://scoutshop.com.au/products/cub-polo-shirt) or [Cub Button-Up Shirt](https://scoutshop.com.au/products/cub-button-up-shirt)
 - **Scouts**: [Scout Polo Shirt](https://scoutshop.com.au/products/scout-polo-shirt) or [Scout Button-Up Shirt](https://scoutshop.com.au/products/scout-button-up-shirt)
-- **Venturers**: [Venturer Button-Up Shirt, male fit](https://scoutshop.com.au/products/venturer-shirt-male-fit) or [womens fit](https://scoutshop.com.au/products/venturer-shirt-female-fit)
+- **Venturer Scouts**: [Venturer Button-Up Shirt, male fit](https://scoutshop.com.au/products/venturer-shirt-male-fit) or [womens fit](https://scoutshop.com.au/products/venturer-shirt-female-fit)
 
 ### 2. Queensland Scarf
 
 All sections wear a Queensland scarf in maroon with badge:
 
-- **Joeys & Cubs**: [Queensland Youth Scarf](https://scoutshop.com.au/products/queensland-youth-scarf-maroon-with-badge?Title=Default+Title)
-- **Scouts, Venturers & Adults**: [Queensland Leader/Adult Scarf](https://scoutshop.com.au/products/queensland-leader-adult-scarf-maroon-with-badge?Title=Default+Title)
+- **Joey Scouts & Cub Scouts**: [Queensland Youth Scarf](https://scoutshop.com.au/products/queensland-youth-scarf-maroon-with-badge?Title=Default+Title)
+- **Scouts, Venturer Scouts & Adults**: [Queensland Leader/Adult Scarf](https://scoutshop.com.au/products/queensland-leader-adult-scarf-maroon-with-badge?Title=Default+Title)
 
 ### 3. Woggle
 
@@ -33,7 +33,7 @@ A woggle is used to hold the scarf in place.
 
 Browse all options: [Woggles](https://scoutshop.com.au/collections/woggles)
 
-**Tip for Joey & Cub Parents**: It is very common for younger scouts to lose their woggle during meetings while playing games and running about. Once lost, woggles can be hard to locate in the grass. We recommend using a safety pin or similar method to secure the woggle to the scarf, ensuring it cannot come loose during activities.
+**Tip for Joey Scout and Cub Scout parents**: It is very common for younger scouts to lose their woggle during meetings while playing games and running about. Once lost, woggles can be hard to locate in the grass. We recommend using a safety pin or similar method to secure the woggle to the scarf, ensuring it cannot come loose during activities.
 
 ## Where to Buy
 

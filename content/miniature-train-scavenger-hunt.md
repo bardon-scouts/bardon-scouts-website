@@ -12,7 +12,7 @@ image: /img/scouts_logo.jpg
 **Status:** Proposed\
 **When:** To be announced\
 **Where:** Pine Valley Miniature Railway, Warner\
-**Who:** Joeys, Cubs, Scouts, Venturers
+**Who:** Joey Scouts, Cub Scouts, Scouts, Venturer Scouts
 
 ## What's Planned
 

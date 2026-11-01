@@ -8,7 +8,7 @@ How ordinary pages (About, Join Us, Leaders, policies and so on) are added, so e
 
 - Every new page is added to the CMS, `static/admin/config.yml`, as a file entry with `title`, `description`, hidden `type: page`, and `body`.
 - Every new page is added to the navigation menu, `config/_default/menus.toml`, except program pages.
-- **Program pages** describe how to run a section's meeting programs, for leaders and adult supporters, e.g. Joey Programs (`/sections/joey-programs/`). They aren't added to the menu. They're added to the footer, `layouts/partials/footer.html`, instead.
+- **Program pages** describe how to run a section's meeting programs, for leaders and adult supporters, e.g. Joey Scout Programs (`/sections/joey-programs/`). They aren't added to the menu. They're added to the footer, `layouts/partials/footer.html`, instead.
 - Internal links end with a trailing slash, e.g. `/about/`, because Hugo serves each page as `/about/index.html`.
 - Pages with `draft: true` aren't published. Remove it when the page is ready.
 - URLs from the old Gatsby site keep working through the redirects in `static/_redirects`. Don't remove them.

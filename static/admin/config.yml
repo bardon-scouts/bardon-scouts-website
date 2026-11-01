@@ -88,7 +88,7 @@ collections:
         widget: "select"
         multiple: true
         required: false
-        options: ["joeys", "cubs", "scouts", "venturers"]
+        options: [{ label: "Joey Scouts", value: "joeys" }, { label: "Cub Scouts", value: "cubs" }, { label: "Scouts", value: "scouts" }, { label: "Venturer Scouts", value: "venturers" }]
       - { label: "RSVP Required", name: "rsvp", widget: "boolean", default: false }
       - { label: "Body", name: "body", widget: "markdown" }
 
@@ -481,7 +481,7 @@ collections:
           - { label: "Body", name: "body", widget: "markdown" }
 
       - file: "content/sections/rovers.md"
-        label: "Rovers (Coming Soon)"
+        label: "Rover Scouts (Coming Soon)"
         name: "rovers"
         fields:
           - { label: "Title", name: "title", widget: "string" }
@@ -490,7 +490,7 @@ collections:
           - { label: "Body", name: "body", widget: "markdown" }
 
       - file: "content/sections/joey-programs.md"
-        label: "Joey Programs"
+        label: "Joey Scout Programs"
         name: "joey-programs"
         fields:
           - { label: "Title", name: "title", widget: "string" }
@@ -500,7 +500,7 @@ collections:
           - { label: "Body", name: "body", widget: "markdown" }
 
       - file: "content/sections/cub-programs.md"
-        label: "Cub Programs"
+        label: "Cub Scout Programs"
         name: "cub-programs"
         fields:
           - { label: "Title", name: "title", widget: "string" }
@@ -709,7 +709,7 @@ collections:
           - { label: "Body", name: "body", widget: "markdown", required: false }
 
       - file: "content/sections/joeys.md"
-        label: "Joeys Page Extras (events list)"
+        label: "Joey Scouts Page Extras (events list)"
         name: "section-extra-joeys"
         fields:
           - { label: "Title", name: "title", widget: "string" }
@@ -717,7 +717,7 @@ collections:
           - { label: "Body", name: "body", widget: "markdown", required: false }
 
       - file: "content/sections/cubs.md"
-        label: "Cubs Page Extras (events list)"
+        label: "Cub Scouts Page Extras (events list)"
         name: "section-extra-cubs"
         fields:
           - { label: "Title", name: "title", widget: "string" }
@@ -733,7 +733,7 @@ collections:
           - { label: "Body", name: "body", widget: "markdown", required: false }
 
       - file: "content/sections/venturers.md"
-        label: "Venturers Page Extras (events list)"
+        label: "Venturer Scouts Page Extras (events list)"
         name: "section-extra-venturers"
         fields:
           - { label: "Title", name: "title", widget: "string" }
@@ -862,6 +862,6 @@ collections:
               - { label: "Hero Image", name: "image", widget: "image" }
               - { label: "Description", name: "description", widget: "text", hint: "Short description for cards/lists" }
               - { label: "Tagline", name: "tagline", widget: "text", hint: "Full intro paragraph shown on section page" }
-              - { label: "Leader Title", name: "leader", widget: "string", hint: "e.g. Cub Leader (Akela)" }
+              - { label: "Leader Title", name: "leader", widget: "string", hint: "e.g. Cub Scout Leader (Akela)" }
               - { label: "Display Order", name: "order", widget: "number", value_type: "int", hint: "Lower numbers appear first" }
               - { label: "Content", name: "content", widget: "markdown", hint: "Full page content with headings and details" }

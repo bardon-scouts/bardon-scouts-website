@@ -10,7 +10,7 @@ Bardon Scouts takes part in community events and Scout activities throughout the
 
 ### [ANZAC Day March](/anzac-day-march/)
 **When:** 25 April (annually)\
-**Who:** Joeys, Cubs, Scouts, Venturers
+**Who:** Joey Scouts, Cub Scouts, Scouts, Venturer Scouts
 
 Each ANZAC Day, Bardon Scouts proudly marches in the commemorative service at the Ithaca War Memorial in Paddington. This important tradition honours the service and sacrifice of Australian servicemen and women. All sections participate together in this meaningful community event, marching at 8:15am followed by the service from 8:30-9:00am.
 
@@ -20,9 +20,9 @@ Each ANZAC Day, Bardon Scouts proudly marches in the commemorative service at th
 
 ### [Cuboree](/cuboree/)
 **When:** Every 2-3 years (next date to be announced)\
-**Who:** Cubs
+**Who:** Cub Scouts
 
-Cuboree is Queensland's five-day state camp for Cubs, held at Baden-Powell Park in Samford. Over 800 Cubs from across the state camp together, and for many it's their first long stay away from home.
+Cuboree is Queensland's five-day state camp for Cub Scouts, held at Baden-Powell Park in Samford. Over 800 Cub Scouts from across the state camp together, and for many it's their first long stay away from home.
 
 [Learn more about Cuboree →](/cuboree/)
 
@@ -30,9 +30,9 @@ Cuboree is Queensland's five-day state camp for Cubs, held at Baden-Powell Park 
 
 ### [Joey Jaunt](/joey-jaunt/)
 **When:** Usually August (2027 date to be announced)\
-**Who:** Joeys
+**Who:** Joey Scouts
 
-Scouts Queensland's day of activities for Joeys, with each Joey unit running an activity base. Bardon Joeys plan to go to the next one.
+Scouts Queensland's day of activities for Joey Scouts, with each Joey Scout unit running an activity base. Bardon Joey Scouts plan to go to the next one.
 
 [Learn more about Joey Jaunt →](/joey-jaunt/)
 
@@ -40,7 +40,7 @@ Scouts Queensland's day of activities for Joeys, with each Joey unit running an 
 
 ### [Clean Up Australia Day](/clean-up-australia-day/)
 **When:** First Sunday in March (annually)\
-**Who:** Joeys, Cubs, Scouts, Venturers, and their families
+**Who:** Joey Scouts, Cub Scouts, Scouts, Venturer Scouts, and their families
 
 Each March, all sections spend a morning collecting rubbish from parks, streets and creek banks around Bardon as part of the national Clean Up Australia Day.
 
@@ -60,7 +60,7 @@ Our annual general meeting. Hear reports from each section, the committee and th
 
 ### [Bardon Mayfair](/bardon-mayfair/)
 **When:** June (annually)\
-**Who:** Joeys, Cubs, Scouts, Venturers
+**Who:** Joey Scouts, Cub Scouts, Scouts, Venturer Scouts
 
 The Bardon State School Mayfair is the school's main fundraiser. Held each June, it brings together thousands of families for a day of markets, entertainment, food, and fun. Bardon Scouts runs an information stall showcasing our programs and connecting with local families.
 
@@ -70,7 +70,7 @@ The Bardon State School Mayfair is the school's main fundraiser. Held each June,
 
 ### [KnightMoves](/knightmoves/)
 **When:** Late July or early August (annually)\
-**Who:** Scouts and Venturers
+**Who:** Scouts and Venturer Scouts
 
 KnightMoves is Brisbane North Region's overnight navigation event. Patrols navigate through the bush at night with map and compass, finding 25 route markers and completing activity bases to earn points.
 
@@ -90,9 +90,9 @@ Operation NightHawk is an overnight Scout hike held annually on the Darling Down
 
 ### [Skillorama](/skillorama/)
 **When:** September (annually)\
-**Who:** Joeys and Cubs
+**Who:** Joey Scouts and Cub Scouts
 
-A day of activity bases at Redcliffe Showgrounds, built and run by older Scouts, Venturers and Rovers. Up to 1,300 Joeys and Cubs take part each year.
+A day of activity bases at Redcliffe Showgrounds, built and run by older Scouts, Venturer Scouts and Rover Scouts. Up to 1,300 Joey Scouts and Cub Scouts take part each year.
 
 [Learn more about Skillorama →](/skillorama/)
 
@@ -100,7 +100,7 @@ A day of activity bases at Redcliffe Showgrounds, built and run by older Scouts,
 
 ### [Fair on the Green](/fair-on-the-green/)
 **When:** August (annually)\
-**Who:** Joeys, Cubs, Scouts, Venturers
+**Who:** Joey Scouts, Cub Scouts, Scouts, Venturer Scouts
 
 Milton State School's Fair on the Green is an annual community fundraising event held at Gregory Park in Milton. This family-friendly fair features rides, stalls, live entertainment, food trucks, and an outdoor movie screening. Bardon Scouts participates to connect with the local community and share what Scouting offers.
 
@@ -110,7 +110,7 @@ Milton State School's Fair on the Green is an annual community fundraising event
 
 ### [Pizza and Paddle](/pizza-and-paddle/)
 **When:** Friday nights (various dates throughout the year)\
-**Who:** Scouts, Venturers and Rovers
+**Who:** Scouts, Venturer Scouts and Rover Scouts
 
 A Friday night of canoeing at dusk followed by pizza, at Brownsea Water Activities Centre, from 6:45pm to 10:00pm.
 
@@ -130,7 +130,7 @@ Indoor rock climbing at Rocksports in Fortitude Valley. No experience needed, an
 
 ### [District Camps](/district-camps/)
 **When:** Throughout the year (varies by section)\
-**Who:** Joeys, Cubs, Scouts
+**Who:** Joey Scouts, Cub Scouts, Scouts
 
 Weekend camps shared with the other groups in our district (Oakleigh, The Gap and St Johns Wood). Each section has its own camps at Scout campsites around South East Queensland.
 
@@ -140,9 +140,9 @@ Weekend camps shared with the other groups in our district (Oakleigh, The Gap an
 
 ### [District Swimming](/district-swimming/)
 **When:** Annually (date announced by district)\
-**Who:** Cubs
+**Who:** Cub Scouts
 
-A swimming carnival for Cubs from the four groups in our district. Cubs swim individual races and relays for Bardon, with events for every level of swimmer.
+A swimming carnival for Cub Scouts from the four groups in our district. Cub Scouts swim individual races and relays for Bardon, with events for every level of swimmer.
 
 [Learn more about District Swimming →](/district-swimming/)
 
@@ -150,7 +150,7 @@ A swimming carnival for Cubs from the four groups in our district. Cubs swim ind
 
 ### [Fishing](/fishing/)
 **When:** Throughout the year (dates to be announced)\
-**Who:** Joeys, Cubs, Scouts, Venturers - all sections
+**Who:** Joey Scouts, Cub Scouts, Scouts, Venturer Scouts - all sections
 
 Fishing is a year-round activity open to every section, planned for the fishing platform near Breakfast Creek (to be confirmed). Dates and what to bring are coming soon.
 
@@ -160,7 +160,7 @@ Fishing is a year-round activity open to every section, planned for the fishing 
 
 ### [Group Camp](/group-camp/)
 **When:** October (annually)\
-**Who:** Joeys, Cubs, Scouts, Venturers - all sections, plus adult helpers
+**Who:** Joey Scouts, Cub Scouts, Scouts, Venturer Scouts - all sections, plus adult helpers
 
 Group Camp is two nights away with the whole of Bardon Scouts. Every section camps together in tents, with pioneering, cooking and swimming on the program. Adult helpers with a valid blue card are welcome.
 
@@ -170,7 +170,7 @@ Group Camp is two nights away with the whole of Bardon Scouts. Every section cam
 
 ### [Australian Jamboree 2028 (AJ2028)](/aj2028/)
 **When:** 29 December 2027 to 7 January 2028\
-**Who:** Scouts and Venturers
+**Who:** Scouts and Venturer Scouts
 
 The 27th Australian Jamboree: ten days in Elmore, Victoria, with more than 10,000 Scouts from across Australia. Applications haven't opened yet; register your interest with the Queensland contingent to hear when they do.
 
@@ -180,9 +180,9 @@ The 27th Australian Jamboree: ten days in Elmore, Victoria, with more than 10,00
 
 ### [Overnight Hikes](/overnight-hikes/)
 **When:** Usually between April and September (dates announced by Section Leaders)\
-**Who:** Scouts and Venturers
+**Who:** Scouts and Venturer Scouts
 
-Scouts and Venturers hike over two or more days with full packs, camping overnight between locations on walks like the Sunshine Coast Hinterland Great Walk.
+Scouts and Venturer Scouts hike over two or more days with full packs, camping overnight between locations on walks like the Sunshine Coast Hinterland Great Walk.
 
 [Learn more about Overnight Hikes →](/overnight-hikes/)
 
@@ -210,7 +210,7 @@ Bardon Scouts plans to run an air activities event through the Scouts Queensland
 
 ### [Miniature Train Scavenger Hunt (proposed)](/miniature-train-scavenger-hunt/)
 **When:** To be announced\
-**Who:** Joeys, Cubs, Scouts, Venturers
+**Who:** Joey Scouts, Cub Scouts, Scouts, Venturer Scouts
 
 A proposed Group visit to the Pine Valley Miniature Railway in Warner, with a patrol scavenger hunt around the site. It hasn't been confirmed yet.
 

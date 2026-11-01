@@ -22,7 +22,7 @@
                 {{ with .Params.sections }}
                   <p><strong>👥 For:</strong>
                     {{ range $index, $section := . }}
-                      {{if $index}}, {{end}}{{ $section | title }}
+                      {{if $index}}, {{end}}{{ $name := $section | title }}{{ range site.Data.sections.sections }}{{ if eq .slug $section }}{{ $name = .name }}{{ end }}{{ end }}{{ $name }}
                     {{ end }}
                   </p>
                 {{ end }}

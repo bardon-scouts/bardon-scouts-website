@@ -1,11 +1,11 @@
 ---
-title: "Joey Programs"
-description: "How to run our go-to Joey meeting programs, for leaders and adult supporters at Bardon Scouts"
+title: "Joey Scout Programs"
+description: "How to run our go-to Joey Scout meeting programs, for leaders and adult supporters at Bardon Scouts"
 type: page
 image: /img/joeys.jpg
 ---
 
-These are the programs we use for Joey meetings, with what you need and how to run each one. They're here for leaders and adult supporters helping on the night. When we tell parents which program we're running, we link to it on this page.
+These are the programs we use for Joey Scout meetings, with what you need and how to run each one. They're here for leaders and adult supporters helping on the night. When we tell parents which program we're running, we link to it on this page.
 
 - [Communication](#communication)
 - [Campfire and Stories](#campfire-and-stories)
@@ -17,7 +17,7 @@ These are the programs we use for Joey meetings, with what you need and how to r
 
 ## Communication
 
-**Aim:** to let the Joeys explore different ways of communicating.
+**Aim:** to let the Joey Scouts explore different ways of communicating.
 
 ### Introduction
 
@@ -29,7 +29,7 @@ Start with a quick discussion about the ways we can communicate:
 - Written words
 - Touch (for example, using a rope)
 
-Then talk about situations where communication isn't easy. Ask the Joeys for ideas first, and prompt them if they don't know:
+Then talk about situations where communication isn't easy. Ask the Joey Scouts for ideas first, and prompt them if they don't know:
 
 - When someone can't hear, see or touch
 - When someone speaks another language, or grew up in another country
@@ -38,29 +38,29 @@ Then talk about situations where communication isn't easy. Ask the Joeys for ide
 
 ### Activity 1: Exact Instructions
 
-Tell the Joeys you want to make a cup of tea, a Vegemite sandwich or something similar, and they need to tell you how. Set out everything you need in front of you.
+Tell the Joey Scouts you want to make a cup of tea, a Vegemite sandwich or something similar, and they need to tell you how. Set out everything you need in front of you.
 
-Do exactly what the Joeys tell you, literally. For example, if they say "put the peanut butter on the bread", put the whole jar on the bread. Then prompt them for clearer instructions. If they say "spread the peanut butter on the bread", stick your fingers in the jar and spread it with your hands. Whenever an instruction isn't clear, take it the wrong way: if they say "use the fork", pick it up by the wrong end.
+Do exactly what the Joey Scouts tell you, literally. For example, if they say "put the peanut butter on the bread", put the whole jar on the bread. Then prompt them for clearer instructions. If they say "spread the peanut butter on the bread", stick your fingers in the jar and spread it with your hands. Whenever an instruction isn't clear, take it the wrong way: if they say "use the fork", pick it up by the wrong end.
 
 ### Activity 2: Blindfolded Minefield
 
 Set up the hall as a minefield, with objects placed in random spots.
 
-Put the Joeys into pairs. Each pair crosses the minefield twice: one Joey is blindfolded on the way over and the other on the way back. They work as a team, explaining how to get through the minefield. On the first attempt, they can lead their partner or use any method. On the second attempt, with new partners, they can't lead their partner.
+Put the Joey Scouts into pairs. Each pair crosses the minefield twice: one Joey Scout is blindfolded on the way over and the other on the way back. They work as a team, explaining how to get through the minefield. On the first attempt, they can lead their partner or use any method. On the second attempt, with new partners, they can't lead their partner.
 
 ### Activity 3: Charades
 
-Write a word on a piece of paper and place it on a table. A Joey comes out, reads the word, and then acts it out or communicates it without making any sounds.
+Write a word on a piece of paper and place it on a table. A Joey Scout comes out, reads the word, and then acts it out or communicates it without making any sounds.
 
 ## Campfire and Stories
 
-**Aim:** to enjoy a campfire while telling stories. Joeys are encouraged to bring their own stories or short books.
+**Aim:** to enjoy a campfire while telling stories. Joey Scouts are encouraged to bring their own stories or short books.
 
 **Setup:** a campfire with seats around it, and marshmallows.
 
 ### Activity 1: Stories
 
-Once the fire is alight and all the Joeys are settled around it, the adults start by telling some stories. Joeys are invited to tell stories too.
+Once the fire is alight and all the Joey Scouts are settled around it, the adults start by telling some stories. Joey Scouts are invited to tell stories too.
 
 ### Activity 2: Skits
 
@@ -75,44 +75,44 @@ Ask each patrol to choose a well known story they can put on as a skit. Some ide
 
 ## Cooking
 
-**Aim:** to let the Joeys cook a small dish and enjoy it.
+**Aim:** to let the Joey Scouts cook a small dish and enjoy it.
 
 **Prep:** ingredients, cooking equipment, and the recipe printed out.
 
 ### Part 1: Explain
 
-Take the Joeys through the recipe, including what they need to set up.
+Take the Joey Scouts through the recipe, including what they need to set up.
 
 ### Part 2: Cook
 
-Let the Joeys cook.
+Let the Joey Scouts cook.
 
 ### Part 3: Eat and clean up
 
-The Joeys eat their food and clean up.
+The Joey Scouts eat their food and clean up.
 
 ### Recipes
 
 - Pancakes
 - 2 minute noodles (with water from a kettle)
-- Fruit salad and ice cream (the Joeys cut the fruit)
-- Arrowroot biscuits with icing (the Joeys mix it) and decorations
+- Fruit salad and ice cream (the Joey Scouts cut the fruit)
+- Arrowroot biscuits with icing (the Joey Scouts mix it) and decorations
 
 ## Nature Art
 
-**Aim:** for Joeys to collect, understand and use natural objects to create art.
+**Aim:** for Joey Scouts to collect, understand and use natural objects to create art.
 
 ### Part 1: Scavenge
 
-Write a list of items to collect on the blackboard, for example 4 rocks, 2 sticks, 10 leaves and 2 seeds. Each Joey collects their own.
+Write a list of items to collect on the blackboard, for example 4 rocks, 2 sticks, 10 leaves and 2 seeds. Each Joey Scout collects their own.
 
 ### Part 2: Create
 
-Each Joey works on their own artwork, or each patrol pools its materials and works together. They create a sculpture or artwork of their choice that shows a natural object.
+Each Joey Scout works on their own artwork, or each patrol pools its materials and works together. They create a sculpture or artwork of their choice that shows a natural object.
 
 ### Part 3: Present
 
-Go around the patrols and ask each patrol or Joey to present their artwork: what it is, and why they chose it.
+Go around the patrols and ask each patrol or Joey Scout to present their artwork: what it is, and why they chose it.
 
 ## Knots
 
@@ -122,7 +122,7 @@ Start with a short discussion about why ropes are strong and what they can be us
 
 ### Activity 1: Learn
 
-Teach the Joeys to tie a simple knot, and let them work through the list at their own pace. Tell them why each knot is used as they learn it. If you have time, a printed sheet showing each knot and what it's for helps.
+Teach the Joey Scouts to tie a simple knot, and let them work through the list at their own pace. Tell them why each knot is used as they learn it. If you have time, a printed sheet showing each knot and what it's for helps.
 
 - **Reef knot** (both methods): ties together two ropes of the same thickness.
 - **Sheet bend:** ties together two ropes of different thicknesses.
@@ -130,7 +130,7 @@ Teach the Joeys to tie a simple knot, and let them work through the list at thei
 
 ### Activity 2: Know Your Knots
 
-Ask the Joeys a question. Each adult supporter shouts out an answer and tries to convince the Joeys it's right. Then tell them who was right. For example, tie a knot in front of them and ask whether it's a reef knot or a sheet bend. Other questions:
+Ask the Joey Scouts a question. Each adult supporter shouts out an answer and tries to convince the Joey Scouts it's right. Then tell them who was right. For example, tie a knot in front of them and ask whether it's a reef knot or a sheet bend. Other questions:
 
 - What knot is this?
 - What knot do you use for ropes of different sizes?
@@ -138,11 +138,11 @@ Ask the Joeys a question. Each adult supporter shouts out an answer and tries to
 
 ### Activity 3: Knot Relay
 
-The Joeys line up in their patrols and take turns racing to tie the knots they know. The patrol that ties the most knots wins.
+The Joey Scouts line up in their patrols and take turns racing to tie the knots they know. The patrol that ties the most knots wins.
 
 ### Activity 4: River Rescue
 
-The Joeys must rescue an adult helper from across a river. They:
+The Joey Scouts must rescue an adult helper from across a river. They:
 
 1. tie short pieces of rope together, then
 2. tie the rope to a pole to make a rescue device.
@@ -157,21 +157,21 @@ They race against a stopwatch. The aim is for everyone to be tying knots at the 
 
 **The judge:** a parent is the judge at home base, with a table and the list of items. When a patrol comes back and says what's at a number, the judge ticks it off. A patrol can only do one number at a time.
 
-**Adult helpers:** each patrol takes an adult helper, who keeps the Joeys off the road and inside the grounds, makes sure they collect only one number at a time, and keeps the patrol together.
+**Adult helpers:** each patrol takes an adult helper, who keeps the Joey Scouts off the road and inside the grounds, makes sure they collect only one number at a time, and keeps the patrol together.
 
-**The spotlight:** if there are enough adults, one wanders the grounds with a strong spotlight, walking (not running) and making a lot of noise while trying to spot the Joeys. The Joeys must stay away from this adult.
+**The spotlight:** if there are enough adults, one wanders the grounds with a strong spotlight, walking (not running) and making a lot of noise while trying to spot the Joey Scouts. The Joey Scouts must stay away from this adult.
 
 ### Activity 2: Match Map
 
 **Prep:** print the [Map Match Cards](/img/joey-map-match-cards.pdf) (PDF, 2 pages) before the meeting. Each card shows a map symbol, its name or an explanation of it.
 
-Give the Joeys the printed sheets to cut the cards out. They then match each symbol with its name and its explanation.
+Give the Joey Scouts the printed sheets to cut the cards out. They then match each symbol with its name and its explanation.
 
-**The Expert:** an adult acts as the "Expert" and answers the Joeys' questions, but either cryptically or at great length, so asking for hints costs the patrol time.
+**The Expert:** an adult acts as the "Expert" and answers the Joey Scouts' questions, but either cryptically or at great length, so asking for hints costs the patrol time.
 
 ### Activity 3: Draw a Map
 
-Each Joey draws a map of their home.
+Each Joey Scout draws a map of their home.
 
 ## Mt Coot-tha Hike
 

@@ -2,7 +2,7 @@
 
 ## What it's for
 
-The Joeys, Cubs, Scouts and Venturers pages, and the section details shown on the home page.
+The Joey Scouts, Cub Scouts, Scouts and Venturer Scouts pages, and the section details shown on the home page.
 
 ## Requirements
 
@@ -10,7 +10,7 @@ The Joeys, Cubs, Scouts and Venturers pages, and the section details shown on th
 - The section pages (`/sections/<slug>/`) and the home page's "Our Units" list both read from that file, so a change there updates both. Don't copy meeting times or age ranges into other pages.
 - `content/sections/<slug>.md` (`type: sections`) holds extra content for a section page, such as the list of events that section attends. Keep those lists in step with the events each section actually attends.
 - Age ranges belong on section pages. They're only banned on event pages.
-- Rovers has its own page, `content/sections/rovers.md`, marked as coming soon, and isn't in `data/sections.yaml`.
+- Rover Scouts has its own page, `content/sections/rovers.md`, marked as coming soon, and isn't in `data/sections.yaml`.
 
 ## How to check
 

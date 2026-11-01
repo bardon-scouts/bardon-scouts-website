@@ -20,7 +20,7 @@ There are market stalls with local crafts, homemade cakes, jams and chutneys, pr
 
 ## Bardon Scouts at Mayfair
 
-At this year's Mayfair, Bardon Scouts ran an information stall about our Joeys, Cubs, Scouts and Venturers sections, with Scout skills demonstrations and photos and stories from recent activities. We spoke with many local families about joining, and enjoyed being part of a big community event in Bardon.
+At this year's Mayfair, Bardon Scouts ran an information stall about our Joey Scouts, Cub Scouts, Scouts and Venturer Scouts sections, with Scout skills demonstrations and photos and stories from recent activities. We spoke with many local families about joining, and enjoyed being part of a big community event in Bardon.
 
 ## Looking Ahead to 2025
 
@@ -36,13 +36,13 @@ Bardon Scouts will be there again, and we'd love to see you! Current Scout famil
 
 ## Parent Information
 
-All Bardon Scouts members are welcome: Joeys, Cubs, Scouts and Venturers. Wear Scout uniform and bring a hat, a water bottle, money for food and activities, and a folding chair.
+All Bardon Scouts members are welcome: Joey Scouts, Cub Scouts, Scouts and Venturer Scouts. Wear Scout uniform and bring a hat, a water bottle, money for food and activities, and a folding chair.
 
 ### Interested in Joining Scouts?
 
 The Bardon Mayfair is just one of many ways Bardon Scouts engages with our community. Our members take part in weekly meetings, camps, hikes, skill activities and service projects throughout the year.
 
-If you'd like to know more about our programs for Joeys, Cubs, Scouts, or Venturers, please [get in touch](/contact/).
+If you'd like to know more about our programs for Joey Scouts, Cub Scouts, Scouts, or Venturer Scouts, please [get in touch](/contact/).
 
 ---
 
