@@ -12,6 +12,7 @@ The contact, trial visit, website feedback, complaints and Den hire enquiry form
 - Has spam protection: the `bot-field` honeypot (`data-netlify-honeypot="bot-field"`) in a hidden field.
 - Sends the visitor to its own thanks page (the form's `action`), which exists in `content/`.
 - Never asks for payment details, bank details, passwords or other sensitive information.
+- Is listed, with its fields, on the Privacy Policy (`content/privacy.md`). Adding a form or changing its fields also updates that page.
 - Submissions are emailed to a group role mailbox, never a leader's personal address. This is set in Netlify (site settings, Forms, form submission notifications), not in the code.
 
 ### The forms

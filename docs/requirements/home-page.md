@@ -9,7 +9,7 @@ The first page parents see: what Bardon Scouts is, why to join, the sections and
 Sections, in this order (`layouts/index.html`):
 
 1. **Hero**: image, heading and subheading from `content/_index.md`
-2. **Main pitch**: a heading and text about the adventure of Scouting, then a "who we are" line saying we are Bardon Scouts, part of Scouts Australia and Scouts Queensland, with a link to [Scouts Queensland](https://www.scoutsqld.au/) (`mainPitch` in `content/_index.md`)
+2. **Main pitch**: a heading and text about the adventure of Scouting, written about the child and family: what Scouts gives a young person and how (the site's offer, #111), then a "who we are" line saying we are Bardon Scouts, part of Scouts Australia and Scouts Queensland, with a link to [Scouts Queensland](https://www.scoutsqld.au/) (`mainPitch` in `content/_index.md`)
 3. **Contact call to action**: the only "Contact us" button on the page
 4. **Features**: the "Get ready for adventure" heading and the four images and blurbs from `data/features.yaml`
 5. **Our Units**: each section's name, age range and meeting time, from `data/sections.yaml`, with the den's address
@@ -24,3 +24,4 @@ On the dev site's home page:
 - **HP-2:** The events grid lists the same events as the Events menu, and every link returns 200.
 - **HP-3:** The page says we are part of Scouts Australia and Scouts Queensland, and the Scouts Queensland link returns 200.
 - **HP-4:** The page has exactly one "Contact us" button, and four feature images under "Get ready for adventure".
+- **HP-5:** The main pitch says what Scouts gives a young person and how (for example: they plan their own adventures, build skills outdoors and grow in confidence).

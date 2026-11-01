@@ -766,6 +766,16 @@ collections:
           - { label: "Image", name: "image", widget: "image", required: false }
           - { label: "Body", name: "body", widget: "markdown", required: false }
 
+      - file: "content/privacy.md"
+        label: "Privacy Policy"
+        name: "privacy"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+
       - file: "content/website-feedback.md"
         label: "Website Feedback"
         name: "website-feedback"

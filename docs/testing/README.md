@@ -38,7 +38,7 @@ python scripts/site_check.py
 
 It checks the dev site by default; pass another base URL to check a different deploy. It uses only the Python standard library and exits 1 if anything fails. It checks that:
 
-1. every page linked from the site, starting at the home page and including every menu link, returns 200
+1. every page linked from the site, starting at the home page and including every menu link, returns 200 and links to `/ask-to-join/` and `/privacy/` (PN-5)
 2. every old URL in `static/_redirects` reaches its new page
 3. the deployed CMS config (`/admin/config.yml`) has an entry for every page in `content/`
 4. the contact, trial visit, website feedback, complaints and hire enquiry forms are on their pages

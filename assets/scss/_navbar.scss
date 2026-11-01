@@ -78,6 +78,32 @@ nav.navbar {
     }
   }
 
+  // "Ask to join" button at the right of the navbar, on every page.
+  // On phones and tablets it sits beside the menu button, outside the collapsed menu.
+  .navbar-cta-touch {
+    margin-left: auto;
+    margin-inline-start: auto;
+  }
+
+  .navbar-cta-touch + .navbar-burger {
+    margin-left: 0;
+    margin-inline-start: 0;
+  }
+
+  a.button.navbar-cta {
+    background: white;
+    color: $bardon-invert;
+    border: 2px solid white;
+    font-weight: bold;
+  }
+
+  a.button.navbar-cta:hover,
+  a.button.navbar-cta:focus {
+    background: $bardon;
+    border-color: white;
+    color: white;
+  }
+
   .navbar-menu.is-active {
     display: block;
     z-index: 1000;
