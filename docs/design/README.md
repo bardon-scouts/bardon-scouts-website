@@ -42,7 +42,7 @@ Common front matter:
 
 `content/sections/<slug>.md` adds extra content to a section page, such as the list of events that section attends.
 
-**Menus** are in `config/_default/menus.toml` (the `main` menu, with dropdowns set by `parent`). The home page "Our Events" grid is built from the Events dropdown (`partials/events-list.html`), so adding an event to the Events menu also adds it to the home page. The footer (`partials/footer.html`) is a hand-written list and must be updated separately. Program pages (how to run a section's meeting programs, e.g. Joey Scout Programs) are in the footer but not the menu (`docs/requirements/pages-and-navigation.md`).
+**Menus** are in `config/_default/menus.toml` (the `main` menu, with dropdowns set by `parent`). The home page events grid ("Outdoor adventures all year") is built from the Events dropdown (`partials/events-list.html`), so adding an event to the Events menu also adds it to the home page. The footer (`partials/footer.html`) is a hand-written list and must be updated separately. Program pages (how to run a section's meeting programs, e.g. Joey Scout Programs) are in the footer but not the menu (`docs/requirements/pages-and-navigation.md`).
 
 **Site settings** are in `config/_default/`: `config.toml` (base URL, Markdown rendering with HTML allowed, tags and categories taxonomies, with taxonomy pages turned off), `params.toml` (description, brand colours, address, Facebook link).
 
@@ -52,7 +52,7 @@ Common front matter:
 
 There's no theme; all templates are in `layouts/`:
 - `_default/baseof.html`: the page shell (head, navbar, main block, footer, script)
-- `index.html`: the home page (hero, main pitch, features, events grid, sections list, contact call to action)
+- `index.html`: the home page (hero, main pitch with the "who we are" line, one contact call to action, features, sections list, events grid)
 - `_default/single.html`: ordinary pages
 - `sections/list.html` and `sections/single.html`: the Sections page and each section page
 - `news/`, `events/`, `join/`, `leaders/`, `skills/` list templates for those folders' landing pages

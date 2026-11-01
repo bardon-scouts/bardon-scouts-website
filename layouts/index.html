@@ -15,6 +15,9 @@
               <div class="tile">
                 <h3 class="subtitle">{{ .Params.mainPitch.text }}</h3>
               </div>
+              {{ with .Params.mainPitch.about }}
+              <p class="is-size-5">{{ . | markdownify }}</p>
+              {{ end }}
             </div>
           </div>
         </div>
@@ -45,11 +48,6 @@
     </div>
   </section>
 
-  <!-- Contact CTA -->
-  {{ if .Params.contactCTA }}
-    {{ partial "contact-cta.html" . }}
-  {{ end }}
-
   <!-- Scout Sections -->
   <section id="units" class="section section--gradient">
     <div class="container">
@@ -71,8 +69,8 @@
       <div class="section">
         <div class="columns">
           <div class="column is-10 is-offset-1">
-            <h2 class="has-text-weight-semibold is-size-2">Our Events</h2>
-            <p class="is-size-5">Events and activities Bardon Scouts takes part in throughout the year</p>
+            <h2 class="has-text-weight-semibold is-size-2">{{ with .Params.eventsSection.title }}{{ . }}{{ else }}Outdoor adventures all year{{ end }}</h2>
+            {{ with .Params.eventsSection.text }}<p class="is-size-5">{{ . }}</p>{{ end }}
             {{ partial "events-list.html" . }}
           </div>
         </div>
