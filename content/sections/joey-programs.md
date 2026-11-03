@@ -14,6 +14,7 @@ These are the programs we use for Joey Scout meetings, with what you need and ho
 - [Knots](#knots)
 - [Maps and Finding Hidden Secrets](#maps-and-finding-hidden-secrets)
 - [Mt Coot-tha Hike](#mt-coot-tha-hike)
+- [Emergencies](#emergencies)
 
 ## Communication
 
@@ -190,3 +191,54 @@ Each Joey Scout draws a map of their home.
 - Water bottle
 - Jumper in winter
 - Shoes for walking (no thongs or sandals)
+
+## Emergencies
+
+**Aim:** for Joey Scouts to know what to do in an emergency, and to be confident calling Triple 0.
+
+Start with a short game such as hockey or spotlight, as this program has a bit of sitting around.
+
+### Activity 1: DRSABC
+
+Write DRSABC up on the board: Danger, Response, Send for Help, Airways, Breathing, Cardiac.
+
+Talk through the first three in detail, so the Joey Scouts know what to do in an emergency:
+
+- **Danger:** check that the area is safe. What dangers are there? Is there petrol, electricity, traffic, sharp glass or anything else that could injure you? If you're hurt, you can't help them.
+- **Response:** yell, and touch or shake the person, to see if they respond.
+- **Send for Help:** ask someone to get help if there's someone else there, or call yourself. Call Triple 0, or get a parent if there's one nearby.
+
+Once the Joey Scouts have a rough idea, have them run around the room memorising DRSABC, and repeat it on parade.
+
+### Activity 2: Call Triple 0
+
+Talk about what's involved in calling Triple 0 and who may come. The Joey Scouts will know fire, police and ambulance, so also talk about the SES, the Army and rescue helicopters. Brainstorm what emergencies there are and who helps. Highlight that many emergencies have several services helping, and that fire services don't just get cats out of trees and put out fires.
+
+**Setup:** once they're confident, have the Joey Scouts sit to the side, and set up a table with a chair on each side. The Joey Scouts take turns sitting on one side, with a parent on the other.
+
+**The parent** reads from this script, asking for as much detail as possible:
+
+- The address and location of the emergency
+- The telephone number you're calling from, or a number you can be contacted on
+- What the problem is
+- If the person is conscious or breathing
+- How many people are injured
+- The person's age and gender
+
+**Another adult** gives the Joey Scout the scenario before they call, and makes it clear that they must call Triple 0. Make a drama of it: make phone sounds and act out pressing the buttons.
+
+Example scenario:
+
+- You're at school and your teacher has fainted. They're breathing but you can't wake them up. No one else knows what to do, and you need to call Triple 0.
+
+Once the Joey Scouts are confident and calling isn't a scary prospect, the adult can offer a silly or gruesome scenario.
+
+Silly scenarios:
+
+- The evil Easter Bunny has visited your home and planted marshmallow bomb eggs all around your house. You can't stop them and you need help, or they'll blow up and cover the whole city in marshmallow. You need to call Triple 0.
+- You're at home and a truck has suddenly come around the corner, crashed and tipped a mountain of candy into your backyard. You can't get out and you're buried in candy. You need to call Triple 0.
+
+Gruesome scenarios:
+
+- You're at home and your parents have gone out to the shops. The gardener is working on a tree and it has fallen on them, crushing their arm. They're awake but can't get up and they need help. You need to call Triple 0.
+- You're at archery, shooting arrows at targets. A friend made a mistake and has shot an arrow through someone's chest. They're yelling in pain and they need help. You need to call Triple 0.
