@@ -81,7 +81,7 @@ Bardon Scouts is a community-based program that thrives on parent involvement an
 
 **[Parent Roster](/leaders/parent-roster/)** - All families are expected to assist with one meeting per term and support fundraising activities. This helps our leaders deliver quality programs and builds a strong Scout community.
 
-**[Sign In and Out](/sign-in-out/)** - For safety and security, parents must sign their children in and out at every meeting and event (except Venturer Scouts who may self-sign with permission).
+**[Sign In and Out](/sign-in-out/)** - For safety and security, parents must sign their children in and out at every meeting and event (except Venturer Scouts and Rover Scouts, who may sign themselves and their younger siblings in and out with their parents' permission by email).
 
 **[Volunteer Opportunities](/leaders/volunteering/)** - We encourage parents to get involved beyond the minimum requirements! Whether as an [Adult Supporter](/leaders/adult-supporters/), occasional helper, or [Committee member](/committee/), your involvement enriches the Scouting experience for all our young people.
 
