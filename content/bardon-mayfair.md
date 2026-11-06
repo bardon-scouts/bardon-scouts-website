@@ -28,8 +28,8 @@ At this year's Mayfair, Bardon Scouts ran an information stall about our Joey Sc
 
 The next Bardon Mayfair will be held on:
 
-**Sunday, 8 June 2025**
-**9:00am - 4:00pm**
+**Sunday, 8 June 2025**\
+**9:00am - 4:00pm**\
 Bardon State School, 330 Simpsons Road, Bardon
 
 Bardon Scouts will be there again, and we'd love to see you! Current Scout families, families thinking about joining and anyone who wants to learn more are welcome at our stall.
