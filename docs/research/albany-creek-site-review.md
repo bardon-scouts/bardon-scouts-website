@@ -21,7 +21,7 @@ I recommend the first three, with the fourth once the committee can supply the f
 
 ## Findings
 
-All Albany Creek pages were read on 6 November 2026: every page in its navigation, plus the [Committee](https://albanycreekscouts.weebly.com/committee.html) page linked from the home page. The PDFs linked from its FAQ were read too: the group FAQ, the start of the Joey Scouts FAQ and the start of the [Parent Information Pack](https://albanycreekscouts.weebly.com/uploads/5/3/8/3/53834961/parent-info-pack-march-2026v1.pdf). The Cub Scouts, Scouts and Venturers FAQ sheets were downloaded and sized, not read. Not checked: the gallery photos (counted, not viewed) and the Matterport tours (embeds seen, not opened).
+All Albany Creek pages were read on 6 November 2026: every page in its navigation, plus the [Committee](https://albanycreekscouts.weebly.com/committee.html) page linked from the home page. The PDFs linked from its FAQ were read in part: the opening pages of the group FAQ, the Joey Scouts FAQ and the [Parent Information Pack](https://albanycreekscouts.weebly.com/uploads/5/3/8/3/53834961/parent-info-pack-march-2026v1.pdf). The Cub Scouts, Scouts and Venturers FAQ sheets were downloaded and sized, not read. Not checked: the gallery photos (counted, not viewed) and the Matterport tours (embeds seen, not opened).
 
 ### Where Albany Creek does something we don't
 
