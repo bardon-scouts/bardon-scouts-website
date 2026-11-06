@@ -1,6 +1,9 @@
 {
   "enabledPlugins": {
-    "lvlup-workflow@lvlup-labs": true
+    "lvlup-workflow@lvlup-labs": true,
+    "dart-flutter@dart-flutter": false,
+    "productivity@synced": false,
+    "engineering@synced": false
   },
   "extraKnownMarketplaces": {
     "lvlup-labs": {
