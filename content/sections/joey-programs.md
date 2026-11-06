@@ -13,6 +13,7 @@ These are the programs we use for Joey Scout meetings, with what you need and ho
 - [Nature Art](#nature-art)
 - [Knots](#knots)
 - [Maps and Finding Hidden Secrets](#maps-and-finding-hidden-secrets)
+- [Suburb Scavenger Hunt](#suburb-scavenger-hunt)
 - [Mt Coot-tha Hike](#mt-coot-tha-hike)
 - [Emergencies](#emergencies)
 
@@ -173,6 +174,19 @@ Give the Joey Scouts the printed sheets to cut the cards out. They then match ea
 ### Activity 3: Draw a Map
 
 Each Joey Scout draws a map of their home.
+
+## Suburb Scavenger Hunt
+
+**Aim:** for Joey Scouts to find items around their suburb, using a map. We normally run this program soon after [Maps and Finding Hidden Secrets](#maps-and-finding-hidden-secrets).
+
+**Prep:** we provide a map of the suburb and a sheet of things to find. Print the [Suburb Scavenger Hunt sheet](/img/joey-suburb-scavenger-hunt.pdf) (PDF, 1 page) before the meeting. Joey Scouts tick off each item as they find it.
+
+**Adult helpers:** Joey Scouts are accompanied by an adult, who also has a radio. As the Joey Scouts hunt for items using the map, the adult can use a phone's maps to help them navigate and to show them at any time where they are on the map.
+
+### What to bring
+
+- Torch
+- Suitable footwear
 
 ## Mt Coot-tha Hike
 

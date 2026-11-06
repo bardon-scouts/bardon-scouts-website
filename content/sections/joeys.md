@@ -3,10 +3,6 @@ title: "Joey Scouts"
 type: sections
 ---
 
-## Program & Activities
-
-See **[Joey Scout Programs](/sections/joey-programs/)** for how we run our regular meeting programs.
-
 ## Joey Scout Events
 
 Joey Scouts participate in these annual events and activities:
