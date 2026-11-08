@@ -68,7 +68,7 @@ Print styles for the whole site are in `assets/scss/_print.scss`: A4 pages, no n
 
 ### Deploy stamp
 
-`partials/head.html` writes `<meta name="deploy-commit" content="...">` on every page, from Netlify's `COMMIT_REF` (allowed in `config.toml` under `security.funcs`). It shows which commit a page was built from, so a change can be checked on the dev site after it deploys. The `verify` skill relies on it.
+`partials/head.html` writes `<meta name="deploy-commit" content="...">` on every page, from Netlify's `COMMIT_REF` (allowed in `config.toml` under `security.funcs`). It shows which commit a page was built from, so a change can be checked on the dev site after it deploys. The `verify` skill relies on it, through `scripts/check_deploy.py`, so checking a deploy needs no Netlify login.
 
 ### Redirects
 
@@ -95,3 +95,4 @@ Add new decisions at the bottom: date, decision, and why. Where the reason wasn'
 | 16 Oct 2026 | The site is light only: `data-theme="light"` on `<html>` and a `color-scheme: light` meta tag (#89) | Bulma 1.0 switches its colours when a device is in dark mode, but the custom styles are written for a light page, so parts of pages (such as quote boxes) turned black. Forcing Bulma's light theme fixes every element at once. |
 | 9 Nov 2026 | Maroon replaces teal as the main brand colour (#105) | To match Scouts Queensland's branding on scoutsqld.au. The red navbar stays: Scouts Queensland uses reds alongside the maroon. |
 | 9 Nov 2026 | Recipes and a printable cookbook built in the browser, printed with the browser's print dialog (#117) | No server or new service is needed. JS PDF libraries were ruled out because they cut pages at arbitrary points; CSS page breaks keep each recipe on one page where it fits. Ingredients are structured from the start so scaling (#118) doesn't mean converting every recipe. The JSON output is switched on in `config.toml` rather than the section's front matter, as a CMS save can drop front matter the CMS doesn't declare (#52). |
+| 9 Nov 2026 | Check deploys from the deploy stamp only, with `scripts/check_deploy.py`, not the Netlify CLI (#120) | The CLI holds one account at a time, so on a machine also used for other Netlify work, `verify` stopped and issues went to Question unverified. The stamp passes for a commit or a later one containing it. Agreed on lvlup-labs/lvluplabs_operations#254 (option A). |

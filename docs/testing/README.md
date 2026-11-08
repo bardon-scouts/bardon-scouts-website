@@ -6,9 +6,9 @@ How changes to the site are tested, and what has to be checked by a person.
 
 Every change is tested on the dev site after it deploys, never with a local build.
 
-1. **Netlify dev deploy.** Every push to `dev` builds and deploys to https://dev--bardon-scouts-website.netlify.app/. A failed build shows in the Netlify deploy list with an error message.
-2. **Deploy stamp.** Every page has `<meta name="deploy-commit" content="...">`, the commit it was built from. A check only counts once the dev site shows the hash of the commit being tested.
-3. **`verify` skill** (`.claude/skills/verify/SKILL.md`). Claude uses it before handing an issue over: it confirms the deploy of the exact commit, then checks the changed pages, the relevant test cases and the shared browser check (see "What a person checks").
+1. **Netlify dev deploy.** Every push to `dev` builds and deploys to https://dev--bardon-scouts-website.netlify.app/. A failed build shows in the Netlify dashboard's deploy list with an error message, which needs a Netlify login. Nothing else in testing does.
+2. **Deploy stamp.** Every page has `<meta name="deploy-commit" content="...">`, the commit it was built from. A check only counts once the dev site shows the hash of the commit being tested, or of a later commit that contains it (a commit pushed together with a later one gets no deploy of its own). `scripts/check_deploy.py <commit>` waits up to about 5 minutes for this, with no Netlify login.
+3. **`verify` skill** (`.claude/skills/verify/SKILL.md`). Claude uses it before handing an issue over: it confirms the dev site is serving the commit (with `scripts/check_deploy.py`), then checks the changed pages, the relevant test cases and the shared browser check (see "What a person checks").
 4. **`style-check`** (lvlup-workflow plugin). Run on any changed prose. It must report 0 errors.
 
 ## Test cases

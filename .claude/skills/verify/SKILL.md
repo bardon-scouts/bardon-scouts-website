@@ -1,6 +1,6 @@
 ---
 name: verify
-description: Verify a committed change on the Bardon Scouts dev site - checks the Netlify CLI is on the Bardon account, confirms the Netlify dev deploy of this exact commit succeeded, then checks the changed pages. Used by submit-for-review before an issue is handed to the owner.
+description: Verify a committed change on the Bardon Scouts dev site - confirms the dev site is serving this commit (or a later one containing it) from its deploy stamp, with no Netlify login, then checks the changed pages. Used by submit-for-review before an issue is handed to the owner.
 argument-hint: <commit-hash> <what to check>
 ---
 
@@ -10,35 +10,19 @@ Verify commit $0 on the dev site. Things to check: $ARGUMENTS
 - **Production:** https://bardonscouts.org.au/ (from `master`; never verify there)
 - Never verify with a local Hugo build.
 
-## 1. Check the Netlify account
+## 1. Confirm this commit deployed
 
-The Netlify CLI can hold several accounts on one machine, with one active at a time. The person at the machine switches accounts when they change project; this skill only checks (see "Tool accounts" in `CLAUDE.md`).
+Netlify doesn't post build statuses to GitHub for this repo, so the check uses the dev site's deploy stamp: every page has a `deploy-commit` meta tag with the commit it was built from. It needs no Netlify login, so the account the Netlify CLI is on doesn't matter.
 
-1. Run `netlify status` and read the output, not the exit code: it exits with an error outside a linked folder even when logged in.
-2. The "Teams" list must include `bardon-scouts`.
-3. If it doesn't, or no user is logged in, stop: **not verified** (not a failed deploy). Tell the person to run `netlify switch` and pick the Bardon Scouts account, or `netlify login --new` with that account the first time on a machine, then run verify again. Don't switch accounts yourself.
+```
+python scripts/check_deploy.py $0
+```
 
-## 2. Confirm this commit deployed
+It passes when the stamp is $0 or a later commit that contains it (`git merge-base --is-ancestor`): a commit pushed together with a later one gets no deploy of its own. It retries for about 5 minutes while the build runs.
 
-Netlify doesn't post build statuses to GitHub for this repo. Use the Netlify CLI and the deploy stamp.
+If it says **Not verified**, stop: the stamp didn't arrive in time, and the build may have failed. Report it, and say that someone needs to open the Netlify dashboard (site `bardon-scouts-website`, Deploys) to see why.
 
-1. Deploy state for the commit:
-
-   ```
-   netlify api listSiteDeploys --data '{"site_id":"5134019f-f869-4cf3-91f3-a36e2acd8055","per_page":5}'
-   ```
-
-   Find the entry whose `commit_ref` starts with $0 and `branch` is `dev`. `state` is `ready` (deployed), `building`/`enqueued` (wait and re-check, up to about 5 minutes), or `error` (failed: read `error_message`).
-2. Once it's `ready`, confirm the dev site is serving it. Every page has a `deploy-commit` meta tag, and the HTML is minified, so the quotes may be missing:
-
-   ```
-   curl -s https://dev--bardon-scouts-website.netlify.app/ | grep -oE 'deploy-commit content="?[0-9a-f]{40}'
-   ```
-
-   The hash must be the full hash of $0.
-3. If the deploy failed, or isn't live after about 5 minutes, stop: **not verified**. Report the error.
-
-## 3. Check the change
+## 2. Check the change
 
 Check each item on the dev site, using curl (read-only, piped only into grep and similar) or WebFetch:
 
@@ -55,6 +39,6 @@ Check each item on the dev site, using curl (read-only, piped only into grep and
 
   `<changed page>` is the path, such as `/` or `/events/`. Run it with the PowerShell tool: Git Bash turns a path starting with `/` into a Windows folder, and the check then opens the wrong address. It exits 1 if any check fails; report the failures. Lines marked NOTE, such as tap targets under 44 pixels, are not failures: list them for the reviewer.
 
-## 4. Report
+## 3. Report
 
 List each check with pass or fail and the evidence (status codes, counts, what the page showed). Any failure means **not verified**. Also list anything that can't be checked this way, such as visual layout, for the reviewer to look at.
