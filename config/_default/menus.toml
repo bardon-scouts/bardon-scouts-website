@@ -395,6 +395,12 @@
   url = "/skills/water-activities/"
   weight = 5.75
 
+[[main]]
+  name = "Recipes"
+  parent = "skills"
+  url = "/recipes/"
+  weight = 5.76
+
 # Leaders & Volunteers dropdown items
 [[main]]
   name = "Our Leaders"

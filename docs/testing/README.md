@@ -24,6 +24,7 @@ Test cases live in the requirements, not here. Each file in `docs/requirements/`
 | NP | `news-posts.md` |
 | PN | `pages-and-navigation.md` |
 | PM | `printed-materials.md` |
+| RC | `recipes.md` |
 | SE | `sections.md` |
 
 When a requirement changes, update its test cases in the same commit. Give new test cases the next number and don't reuse old ones.

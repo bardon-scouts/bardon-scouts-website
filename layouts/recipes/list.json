@@ -1,0 +1,29 @@
+{{- /*
+  /recipes/index.json: every recipe with its full data, read by the cookbook
+  print page (layouts/_default/cookbook.html, #117). Ingredients keep their
+  structured fields (for scaling, #118) and add "text", the line as the recipe
+  page shows it.
+*/ -}}
+{{- $recipes := slice -}}
+{{- range .Pages.ByTitle -}}
+  {{- $ingredients := slice -}}
+  {{- range .Params.ingredients -}}
+    {{- $ingredients = $ingredients | append (merge . (dict "text" (partial "recipe-ingredient.html" .))) -}}
+  {{- end -}}
+  {{- $recipes = $recipes | append (dict
+    "slug" .File.ContentBaseName
+    "title" .Title
+    "url" .RelPermalink
+    "description" (.Params.description | default "")
+    "tags" (.Params.tags | default slice)
+    "servings" .Params.servings
+    "prepTime" (.Params.prepTime | default "")
+    "cookTime" (.Params.cookTime | default "")
+    "methods" (.Params.methods | default slice)
+    "dietary" (.Params.dietary | default slice)
+    "image" (.Params.image | default "")
+    "ingredients" $ingredients
+    "content" .Content
+  ) -}}
+{{- end -}}
+{{- dict "recipes" $recipes | jsonify -}}

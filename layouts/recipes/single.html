@@ -1,0 +1,50 @@
+{{ define "main" }}
+<div class="content">
+  <section class="section section--gradient">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-10 is-offset-1">
+          <p class="no-print"><a href="/recipes/">← All recipes</a></p>
+          <article class="recipe" data-recipe="{{ .File.ContentBaseName }}">
+            <h1 class="title">{{ .Title }}</h1>
+            {{ with .Params.description }}<p class="subtitle is-6">{{ . }}</p>{{ end }}
+
+            {{ partial "recipe-facts.html" . }}
+
+            {{ with .Params.image }}
+              <figure class="image recipe-image">
+                <img src="{{ . }}" alt="">
+              </figure>
+            {{ end }}
+
+            <h2>Ingredients</h2>
+            {{ $group := "" }}
+            {{ $open := false }}
+            {{ range .Params.ingredients }}
+              {{ $g := .group | default "" }}
+              {{ if or (not $open) (ne $g $group) }}
+                {{ if $open }}</ul>{{ end }}
+                {{ with $g }}<h3 class="recipe-group">{{ . }}</h3>{{ end }}
+                <ul class="recipe-ingredients">
+                {{ $group = $g }}
+                {{ $open = true }}
+              {{ end }}
+              <li>{{ partial "recipe-ingredient.html" . }}</li>
+            {{ end }}
+            {{ if $open }}</ul>{{ end }}
+
+            <h2>Method</h2>
+            {{ .Content }}
+          </article>
+
+          <div class="buttons no-print recipe-actions">
+            <button type="button" class="button is-primary" data-cookbook-toggle="{{ .File.ContentBaseName }}">Add to cookbook</button>
+            <a class="button is-primary is-light" href="/recipes/print/">Open cookbook (<span data-cookbook-count>0</span>)</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+{{ partial "recipes-script.html" . }}
+{{ end }}

@@ -99,10 +99,102 @@ collections:
       - { label: "RSVP Required", name: "rsvp", widget: "boolean", default: false }
       - { label: "Body", name: "body", widget: "markdown" }
 
+  # Recipes (#117). One file per recipe. Ingredients are structured so they can be
+  # scaled later (#118). The leaders' guide is docs/training/entering-recipes.md
+  - name: "recipes"
+    label: "Recipes"
+    label_singular: "Recipe"
+    description: "Camp recipes, shown at /recipes/ where anyone can pick them and print a cookbook. Enter each ingredient on its own row: amount, unit, then the name (singular, e.g. onion), with anything else in Note. Write the method without amounts (\"add the stock\", not \"add 500 ml stock\") so it still reads right when recipes can be scaled. Recipes are public: no names or contact details, and no photos where children can be identified."
+    folder: "content/recipes"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{title}}"
+    sortable_fields: ["title"]
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string", required: false, hint: "One line shown on the Recipes list, e.g. A one-pot dinner for a patrol, cooked on a Trangia" }
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        required: false
+        default: ["camp"]
+        hint: "Used to filter the Recipes list. Any words, e.g. camp, dinner, hike, fundraiser. Keep them lower case so the same tag isn't listed twice"
+        field: { label: "Tag", name: "tag", widget: "string" }
+      - { label: "Serves", name: "servings", widget: "number", value_type: "int", min: 1, default: 4, hint: "How many people the amounts below feed" }
+      - { label: "Prep time", name: "prepTime", widget: "string", required: false, hint: "e.g. 15 minutes" }
+      - { label: "Cook time", name: "cookTime", widget: "string", required: false, hint: "e.g. 30 minutes" }
+      - label: "Cooked on"
+        name: "methods"
+        widget: "select"
+        multiple: true
+        required: false
+        options: ["Trangia", "Gas stove", "Campfire", "Camp oven", "BBQ", "No-cook"]
+      - label: "Dietary notes"
+        name: "dietary"
+        widget: "list"
+        required: false
+        hint: "General notes only, e.g. Vegetarian, Contains nuts. Cooks still check allergies for their own group"
+        field: { label: "Note", name: "note", widget: "string" }
+      - { label: "Image", name: "image", widget: "image", required: false, hint: "Optional. No photos where children can be identified" }
+      - label: "Ingredients"
+        name: "ingredients"
+        widget: "list"
+        summary: "{{fields.quantity}} {{fields.unit}} {{fields.name}}"
+        hint: "One row per ingredient. Leave Amount empty for things like salt, to taste"
+        fields:
+          - { label: "Amount", name: "quantity", widget: "number", value_type: "float", required: false, hint: "A number, e.g. 2 or 0.5 (shown as ½)" }
+          - label: "Unit"
+            name: "unit"
+            widget: "select"
+            required: false
+            hint: "Leave empty for whole items, e.g. 2 onion"
+            options:
+              - { label: "teaspoon (tsp)", value: "tsp" }
+              - { label: "tablespoon (tbsp)", value: "tbsp" }
+              - { label: "cup", value: "cup" }
+              - { label: "millilitre (ml)", value: "ml" }
+              - { label: "litre (L)", value: "L" }
+              - { label: "gram (g)", value: "g" }
+              - { label: "kilogram (kg)", value: "kg" }
+              - { label: "pinch", value: "pinch" }
+              - { label: "handful", value: "handful" }
+              - { label: "can", value: "can" }
+              - { label: "packet", value: "packet" }
+              - { label: "jar", value: "jar" }
+              - { label: "bunch", value: "bunch" }
+              - { label: "clove", value: "clove" }
+              - { label: "slice", value: "slice" }
+          - { label: "Name", name: "name", widget: "string", hint: "Singular, e.g. onion, carrot, self-raising flour" }
+          - { label: "Plural name", name: "plural", widget: "string", required: false, hint: "Only if it isn't the name plus s, e.g. potatoes, tomatoes" }
+          - { label: "Note", name: "note", widget: "string", required: false, hint: "e.g. finely chopped, or to taste" }
+          - { label: "Group", name: "group", widget: "string", required: false, hint: "Optional heading for a part of the recipe, e.g. Sauce. Give rows in the same part the same group, next to each other" }
+      - { label: "Method", name: "body", widget: "markdown", hint: "Numbered steps. Write them without amounts, e.g. add the stock" }
+
   # Simple Pages
   - name: "pages"
     label: "Pages"
     files:
+      - file: "content/recipes/_index.md"
+        label: "Recipes Page"
+        name: "recipes-page"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+      - file: "content/recipes-print.md"
+        label: "Recipes Cookbook (print page)"
+        name: "recipes-print"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Type", name: "type", widget: "hidden", default: "page" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "cookbook" }
+          - { label: "URL", name: "url", widget: "hidden", default: "/recipes/print/" }
+          - { label: "Body", name: "body", widget: "markdown", hint: "The note above the Print button. The recipes are added below it" }
+
       - file: "content/about.md"
         label: "About"
         name: "about"

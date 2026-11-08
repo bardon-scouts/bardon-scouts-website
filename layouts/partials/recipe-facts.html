@@ -1,0 +1,13 @@
+{{/* A recipe's serves, times, cooking methods, dietary notes and tags, on its page and the Recipes list (#117) */}}
+<dl class="recipe-facts">
+  {{ with .Params.servings }}<div><dt>Serves</dt><dd>{{ . }}</dd></div>{{ end }}
+  {{ with .Params.prepTime }}<div><dt>Prep</dt><dd>{{ . }}</dd></div>{{ end }}
+  {{ with .Params.cookTime }}<div><dt>Cook</dt><dd>{{ . }}</dd></div>{{ end }}
+  {{ with .Params.methods }}<div><dt>Cooked on</dt><dd>{{ delimit . ", " }}</dd></div>{{ end }}
+  {{ with .Params.dietary }}<div><dt>Dietary</dt><dd>{{ delimit . "; " }}</dd></div>{{ end }}
+</dl>
+{{ with .Params.tags }}
+  <div class="tags">
+    {{ range . }}<span class="tag is-primary is-light">{{ . }}</span>{{ end }}
+  </div>
+{{ end }}
