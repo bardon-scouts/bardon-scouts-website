@@ -47,6 +47,13 @@ Check each item on the dev site, using curl (read-only, piped only into grep and
 - **CMS:** for new or moved pages, the dev site's `/admin/config.yml` includes the file.
 - **Styles or templates:** find the stylesheet link on the page (`scss/main.min.<hash>.css`), then confirm the new rules are in it.
 - **Sanity-check every search:** make sure it finds something known to exist before trusting a "not found".
+- **Browsers and phones:** for each changed page, run the shared browser check. It opens the page in Chromium, Firefox and WebKit and on an emulated iPhone and Android, and checks it loads without errors, has no sideways scroll, fits the phone's width, has readable text, and that buttons react to hover and press and Tab moves a visible focus:
+
+  ```
+  python ../lvluplabs_operations/scripts/browser_check.py https://dev--bardon-scouts-website.netlify.app --page <changed page>
+  ```
+
+  `<changed page>` is the path, such as `/` or `/events/`. Run it with the PowerShell tool: Git Bash turns a path starting with `/` into a Windows folder, and the check then opens the wrong address. It exits 1 if any check fails; report the failures. Lines marked NOTE, such as tap targets under 44 pixels, are not failures: list them for the reviewer.
 
 ## 4. Report
 
