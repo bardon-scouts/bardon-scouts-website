@@ -4,6 +4,20 @@
 // Import custom variables (Bardon colors)
 @import "variables";
 
+// Bulma's primary colour (is-primary buttons and tags) is its default turquoise,
+// as Bulma comes from a CDN. Set it to the Bardon maroon ($bardon, #681d34),
+// with white text on it and maroon text on the light variant. The selectors match
+// Bulma's light theme ones, and this file loads after Bulma, so these win.
+:root,
+[data-theme=light] {
+  --bulma-primary-h: 342deg;
+  --bulma-primary-s: 56%;
+  --bulma-primary-l: 26%;
+  --bulma-primary-rgb: 104, 29, 52;
+  --bulma-primary-invert-l: 100%;
+  --bulma-primary-light-invert-l: 26%;
+}
+
 // Set white background and ensure readable text colors
 body {
   background-color: #fff;
@@ -20,7 +34,7 @@ h1, h2, h3, h4, h5, h6 {
   color: white !important;
 }
 
-// Section names and primary text should use Bardon teal
+// Section names and primary text should use Bardon maroon
 .has-text-primary, .has-text-primary a {
   color: $bardon !important;
 }

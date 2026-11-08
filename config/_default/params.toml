@@ -3,11 +3,11 @@ author = "Bardon Scouts"
 
 # Bardon brand colors
 [colors]
-  primary = "#43a09b"       # Bardon teal
+  primary = "#681d34"       # Bardon maroon (Scouts Queensland's)
   primaryInvert = "#d9432d" # Bardon red
-  primaryLight = "#65c2bd"
-  primaryMid = "#32908a"
-  primaryDarker = "#218079"
+  primaryLight = "#f2c4cf"
+  primaryMid = "#8c314d"
+  primaryDarker = "#4f1527"
 
 # Contact details
 [contact]

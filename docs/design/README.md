@@ -59,7 +59,7 @@ There's no theme; all templates are in `layouts/`:
 - `404.html`
 - `partials/`: `head`, `navbar`, `footer`, `hero`, `features`, `sections-list`, `events-list`, `contact-cta` (optional `text` and `url`; section pages send it to `/ask-to-join/`), `section-times`, and the five forms
 
-Brand colours are teal `#43a09b` and red `#d9432d`, in `assets/scss/_variables.scss` and `params.toml`.
+Brand colours are maroon `#681d34` (Scouts Queensland's, from scoutsqld.au) and red `#d9432d`, in `assets/scss/_variables.scss` and `params.toml`. Hover states on maroon use a lighter maroon, `#8c314d`. Bulma's primary colour (`is-primary` buttons and tags) is set to the same maroon with Bulma's CSS variables at the top of `assets/scss/main.scss`, because Bulma comes from a CDN and would otherwise be turquoise.
 
 ### Deploy stamp
 
@@ -88,3 +88,4 @@ Add new decisions at the bottom: date, decision, and why. Where the reason wasn'
 | 4 Oct 2026 | Turn off tag and category pages (`disableKinds`, #67) | The site has no template for them, so the sitemap listed 15 addresses that returned 404. News posts still show their tags as text. The unused `sections` taxonomy was removed too: Hugo had been building the Our Sections page (`/sections/`) as that taxonomy's list page, so turning taxonomy pages off would have removed it. |
 | 6 Oct 2026 | Program pages go in the footer, not the menu (#81) | The site has outgrown putting every page on the menu. Program pages are for leaders and adult supporters, so they stay out of the menu but can still be found from the footer. |
 | 16 Oct 2026 | The site is light only: `data-theme="light"` on `<html>` and a `color-scheme: light` meta tag (#89) | Bulma 1.0 switches its colours when a device is in dark mode, but the custom styles are written for a light page, so parts of pages (such as quote boxes) turned black. Forcing Bulma's light theme fixes every element at once. |
+| 9 Nov 2026 | Maroon replaces teal as the main brand colour (#105) | To match Scouts Queensland's branding on scoutsqld.au. The red navbar stays: Scouts Queensland uses reds alongside the maroon. |
