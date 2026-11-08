@@ -30,8 +30,8 @@ We meet at our Scout Den at 11 Bee Street, Bardon, where Joey Scouts, Cub Scouts
 - **Camping and Hiking** - Overnight camps, bush walks, and outdoor adventures
 - **Skills Development** - From cooking to first aid, navigation to leadership
 - **Community Service** - ANZAC Day parades, fundraising, environmental projects
-- **Friendships** - Making lifelong friends and being part of a global movement
-- **Personal Growth** - Building confidence, resilience, and independence
+- **Friendships** - Making friends and being part of a global movement
+- **Personal Growth** - Support to build confidence, resilience and independence
 
 ## Join Us
 

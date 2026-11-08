@@ -98,7 +98,7 @@ As Scouts, you have made a promise to do your best. Living our Code of Conduct i
 
 ### Consequences of Code Violations
 
-Our Code of Conduct exists to keep everyone safe and ensure a positive experience for all. Violations of this code may result in:
+Our Code of Conduct aims to keep everyone safe and give everyone a positive experience. Violations of this code may result in:
 
 - Discussion with the Scout and parents
 - Temporary suspension from activities

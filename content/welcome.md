@@ -11,7 +11,7 @@ Welcome to Bardon Scout Group. We aim to provide programs to our youth members t
 
 > To contribute to the education of young people in achieving their full physical, intellectual, emotional, social and spiritual potentials as individuals, as responsible citizens and as members of their local, national and international communities.
 
-We also ensure that our programs are provided in the safest possible environment.
+We also work to run our programs as safely as we can.
 
 Scouting can offer many exciting experiences, and with your support we can provide fantastic activities and adventures for your child.
 
