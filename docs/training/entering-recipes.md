@@ -17,7 +17,7 @@ Add one row per ingredient, in the order you use them.
 
 | Field | What to put | Example |
 |---|---|---|
-| Amount | A number. Use decimals for parts: 0.5 shows as ½, 0.25 as ¼ | 2 |
+| Amount | A number. Use decimals for parts: 0.5 shows as ½, 0.25 as ¼, 0.75 as ¾, 0.33 as ⅓ and 0.67 as ⅔ | 2 |
 | Unit | Pick from the list, or leave empty for whole items | cup |
 | Name | Singular | self-raising flour |
 | Plural name | Only if it isn't the name plus "s" | potatoes |

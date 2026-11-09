@@ -15,7 +15,7 @@ A shared collection of camp recipes that leaders keep in Sveltia CMS, and that a
 - The method is written without amounts ("add the stock"), so it still reads right once recipes can be scaled. The leaders' guide is `docs/training/entering-recipes.md`.
 - Recipes are public, so they follow `docs/principles.md` and `content-standards.md`: no leaders' names or contact details, and no photos where children can be identified. Dietary notes are general information, and the Recipes page says to check allergies for your own group.
 - Tags are free-form, so new kinds of recipe (such as fundraiser recipes) need no code change. Nothing in the layouts or URLs says "camp".
-- No recipe may have the slug `print`, which is the cookbook page's address.
+- No recipe may have the slug `print`, which is the cookbook page's address. The build stops with an error if one does (`layouts/recipes/list.html`), so the live site keeps its last good version until the recipe is renamed.
 
 ### Recipes page and recipe pages
 

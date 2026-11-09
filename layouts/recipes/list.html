@@ -1,4 +1,6 @@
 {{ define "main" }}
+{{/* A recipe saved as "print" would take the cookbook page's address, /recipes/print/, so stop the build instead */}}
+{{ range .Pages }}{{ if eq .File.ContentBaseName "print" }}{{ errorf "content/recipes/print.md: a recipe can't be called \"print\", as /recipes/print/ is the cookbook page. Rename it in the CMS." }}{{ end }}{{ end }}
 <div class="content">
   {{ $heroImage := .Params.image | default "/img/scouts_logo.jpg" }}
   <div class="margin-top-0" style="display: grid; align-items: center;">

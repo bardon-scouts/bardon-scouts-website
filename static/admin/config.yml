@@ -142,7 +142,7 @@ collections:
         summary: "{{fields.quantity}} {{fields.unit}} {{fields.name}}"
         hint: "One row per ingredient. Leave Amount empty for things like salt, to taste"
         fields:
-          - { label: "Amount", name: "quantity", widget: "number", value_type: "float", required: false, hint: "A number, e.g. 2 or 0.5 (shown as ½)" }
+          - { label: "Amount", name: "quantity", widget: "number", value_type: "float", step: 0.01, required: false, hint: "A number, e.g. 2 or 0.5. 0.5 shows as ½, 0.25 as ¼, 0.75 as ¾, 0.33 as ⅓, 0.67 as ⅔" }
           - label: "Unit"
             name: "unit"
             widget: "select"
