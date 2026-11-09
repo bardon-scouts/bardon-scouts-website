@@ -55,7 +55,7 @@ scripts/site_check.py  Whole-site check, run before publishing dev to master
 
 ## Notes
 
-- **Styling:** Bulma 1.0.2 from a CDN (`layouts/partials/head.html`), plus custom SCSS. Brand colours are maroon `#681d34` (Scouts Queensland's) and red `#d9432d`, in `assets/scss/_variables.scss`.
+- **Styling:** Bulma 1.0.2 from a CDN (`layouts/partials/head.html`), plus custom SCSS. Brand colours are maroon `#681d34` (Scouts Queensland's) and Scouts green `#00ad50` (the navbar), in `assets/scss/_variables.scss`.
 - **Forms** (contact, feedback, complaints) are Netlify forms (`data-netlify="true"`).
 - **Deploy stamp:** every page has `<meta name="deploy-commit">` with the commit it was built from (`layouts/partials/head.html`, from Netlify's `COMMIT_REF`). The `verify` skill relies on it.
 - The site was converted from Gatsby in July 2026. `CONVERSION-SUMMARY.md` has the history.

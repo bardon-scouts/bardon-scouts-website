@@ -4,7 +4,7 @@ author = "Bardon Scouts"
 # Bardon brand colors
 [colors]
   primary = "#681d34"       # Bardon maroon (Scouts Queensland's)
-  primaryInvert = "#d9432d" # Bardon red
+  primaryInvert = "#00ad50" # Scouts green (Scouts Queensland's Scouts section colour)
   primaryLight = "#f2c4cf"
   primaryMid = "#8c314d"
   primaryDarker = "#4f1527"
