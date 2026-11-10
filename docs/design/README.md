@@ -54,7 +54,7 @@ Common front matter:
 
 There's no theme; all templates are in `layouts/`:
 - `_default/baseof.html`: the page shell (head, navbar, main block, footer, script)
-- `index.html`: the home page (hero, main pitch with the "who we are" line, one contact call to action, features, sections list, events grid)
+- `index.html`: the home page (hero, main pitch with the "who we are" line, an optional contact call to action that is off (`contactCTA`, #122), features, sections list, events grid)
 - `_default/single.html`: ordinary pages
 - `sections/list.html` and `sections/single.html`: the Sections page and each section page
 - `news/`, `events/`, `join/`, `leaders/`, `skills/` list templates for those folders' landing pages

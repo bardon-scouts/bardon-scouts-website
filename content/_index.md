@@ -12,7 +12,7 @@ mainPitch:
 eventsSection:
   title: "Outdoor adventures all year"
   text: "Camps, hikes, paddling and community events your child can take part in with Bardon Scouts."
-contactCTA: true
+contactCTA: false
 ---
 
 Bardon Scouts meets at 11 Bee St, Bardon.
