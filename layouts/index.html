@@ -3,7 +3,7 @@
   {{ partial "hero.html" . }}
 
   <!-- Why Join Section -->
-  <section id="join" class="section section--gradient pt-0">
+  <section id="join" class="section section--gradient pt-0 pb-0">
     <div class="container">
       <div class="section">
         <div class="columns">
@@ -29,16 +29,9 @@
   {{ end }}
 
   <!-- Features Section -->
-  <section id="adventure" class="section section--gradient">
+  <section id="adventure" class="section section--gradient pt-0">
     <div class="container">
-      <div class="section">
-        <div class="columns">
-          <div class="column is-10 is-offset-1">
-            <h3 class="has-text-weight-semibold is-size-2">
-              {{ .Params.hero.subheading }}
-            </h3>
-          </div>
-        </div>
+      <div class="section pt-0">
         <div class="column is-10 is-offset-1">
           {{ partial "features.html" . }}
         </div>
