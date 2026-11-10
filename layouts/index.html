@@ -28,41 +28,38 @@
     {{ partial "contact-cta.html" . }}
   {{ end }}
 
-  <!-- Features Section -->
-  <section id="adventure" class="section section--gradient pt-0">
+  <!-- Carousel: features, Our Units, events (#122). Without JavaScript the
+       three slides show one after another; assets/js/main.js turns them into
+       a carousel with tabs, arrows and a slow auto-advance. -->
+  <section id="explore" class="section section--gradient pt-0">
     <div class="container">
-      <div class="section pt-0">
+      <div class="columns">
         <div class="column is-10 is-offset-1">
-          {{ partial "features.html" . }}
-        </div>
-      </div>
-    </div>
-  </section>
+          <div class="carousel" data-carousel data-interval="9000" role="region" aria-roledescription="carousel" aria-label="About Bardon Scouts">
+            <div class="carousel-controls" hidden>
+              <button type="button" class="carousel-arrow" data-carousel-prev aria-label="Previous slide">&#8249;</button>
+              <div class="carousel-tabs" role="tablist" aria-label="Slides"></div>
+              <button type="button" class="carousel-arrow" data-carousel-next aria-label="Next slide">&#8250;</button>
+            </div>
 
-  <!-- Scout Sections -->
-  <section id="units" class="section section--gradient">
-    <div class="container">
-      <div class="section">
-        <div class="columns">
-          <div class="column is-10 is-offset-1">
-            <h2 class="has-text-weight-semibold is-size-2">Our Units</h2>
-            <p class="is-size-5">Bardon Scouts meet at {{ site.Params.contact.address }}</p>
-            {{ partial "sections-list.html" . }}
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+            <!-- Features -->
+            <div id="adventure" class="carousel-slide" data-carousel-slide data-label="Why Scouts">
+              {{ partial "features.html" . }}
+            </div>
 
-  <!-- Events -->
-  <section id="events" class="section section--gradient">
-    <div class="container">
-      <div class="section">
-        <div class="columns">
-          <div class="column is-10 is-offset-1">
-            <h2 class="has-text-weight-semibold is-size-2">{{ with .Params.eventsSection.title }}{{ . }}{{ else }}Outdoor adventures all year{{ end }}</h2>
-            {{ with .Params.eventsSection.text }}<p class="is-size-5">{{ . }}</p>{{ end }}
-            {{ partial "events-list.html" . }}
+            <!-- Scout Sections -->
+            <div id="units" class="carousel-slide" data-carousel-slide data-label="Our Units">
+              <h2 class="has-text-weight-semibold is-size-2">Our Units</h2>
+              <p class="is-size-5">Bardon Scouts meet at {{ site.Params.contact.address }}</p>
+              {{ partial "sections-list.html" . }}
+            </div>
+
+            <!-- Events -->
+            <div id="events" class="carousel-slide" data-carousel-slide data-label="Events">
+              <h2 class="has-text-weight-semibold is-size-2">{{ with .Params.eventsSection.title }}{{ . }}{{ else }}Outdoor adventures all year{{ end }}</h2>
+              {{ with .Params.eventsSection.text }}<p class="is-size-5">{{ . }}</p>{{ end }}
+              {{ partial "events-list.html" . }}
+            </div>
           </div>
         </div>
       </div>

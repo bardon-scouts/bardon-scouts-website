@@ -44,7 +44,7 @@ Common front matter:
 
 **Recipes** (#117) are `content/recipes/<slug>.md`, one per recipe, with structured ingredients (amount, unit, name, plural, note, group) so they can be scaled later (#118). The Recipes page (`layouts/recipes/list.html`) and recipe pages (`layouts/recipes/single.html`) let visitors pick recipes, kept in `localStorage`. The Recipes section also has a JSON version, `/recipes/index.json` (`layouts/recipes/list.json`, switched on by a `cascade` in `config.toml`), which the cookbook print page (`content/recipes-print.md` at `/recipes/print/`, `layouts/_default/cookbook.html`) fetches and renders with `assets/js/recipes.js`. Ingredient lines are built by `partials/recipe-ingredient.html`, used by both the recipe page and the JSON, so they read the same. Requirements: `docs/requirements/recipes.md`; leaders' guide: `docs/training/entering-recipes.md`.
 
-**Menus** are in `config/_default/menus.toml` (the `main` menu, with dropdowns set by `parent`). The home page events grid ("Outdoor adventures all year") is built from the Events dropdown (`partials/events-list.html`), so adding an event to the Events menu also adds it to the home page. The footer (`partials/footer.html`) is a hand-written list and must be updated separately. Every page has a "Join" button at the right of the navbar, linking to Ask to Join, (`partials/navbar.html`) and a Privacy Policy link in the footer's bottom row (#111). Program pages (how to run a section's meeting programs, e.g. Joey Scout Programs) are in the footer but not the menu (`docs/requirements/pages-and-navigation.md`).
+**Menus** are in `config/_default/menus.toml` (the `main` menu, with dropdowns set by `parent`). The home page event cards ("Outdoor adventures all year", each with the event page's `image` and name) are built from the Events dropdown (`partials/events-list.html`), so adding an event to the Events menu also adds it to the home page. The footer (`partials/footer.html`) is a hand-written list and must be updated separately. Every page has a "Join" button at the right of the navbar, linking to Ask to Join, (`partials/navbar.html`) and a Privacy Policy link in the footer's bottom row (#111). Program pages (how to run a section's meeting programs, e.g. Joey Scout Programs) are in the footer but not the menu (`docs/requirements/pages-and-navigation.md`).
 
 **Site settings** are in `config/_default/`: `config.toml` (base URL, Markdown rendering with HTML allowed, tags and categories taxonomies, with taxonomy pages turned off), `params.toml` (description, brand colours, address, Facebook link).
 
@@ -54,7 +54,7 @@ Common front matter:
 
 There's no theme; all templates are in `layouts/`:
 - `_default/baseof.html`: the page shell (head, navbar, main block, footer, script)
-- `index.html`: the home page (hero, main pitch with the "who we are" line, an optional contact call to action that is off (`contactCTA`, #122), features, sections list, events grid)
+- `index.html`: the home page (hero, main pitch with the "who we are" line, an optional contact call to action that is off (`contactCTA`, #122), then a carousel (#122) of the features, sections list and event cards, run by `assets/js/main.js`; without JavaScript its slides stack)
 - `_default/single.html`: ordinary pages
 - `sections/list.html` and `sections/single.html`: the Sections page and each section page
 - `news/`, `events/`, `join/`, `leaders/`, `skills/` list templates for those folders' landing pages

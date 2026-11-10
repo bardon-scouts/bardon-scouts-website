@@ -14,19 +14,159 @@
   }
 }
 
-// Events section (home page)
+// Home page carousel: features, Our Units, events (#122).
+// Without JavaScript the slides stack; main.js adds .is-enhanced.
+.carousel {
+  margin-top: 2rem;
+
+  .carousel-controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-bottom: 1.5rem;
+
+    &[hidden] {
+      display: none;
+    }
+  }
+
+  .carousel-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+  }
+
+  .carousel-tab {
+    border: 2px solid $bardon;
+    border-radius: 999px;
+    background: #fff;
+    color: $bardon;
+    font-weight: 600;
+    padding: 0.35em 1.1em;
+    cursor: pointer;
+
+    &:hover {
+      background: $bardon-mid;
+      border-color: $bardon-mid;
+      color: #fff;
+    }
+
+    &[aria-selected="true"] {
+      background: $bardon;
+      color: #fff;
+    }
+  }
+
+  .carousel-arrow {
+    border: none;
+    background: none;
+    color: $bardon;
+    font-size: 2.25rem;
+    line-height: 1;
+    padding: 0 0.4rem;
+    cursor: pointer;
+
+    &:hover {
+      color: $bardon-darker;
+    }
+  }
+
+  .carousel-tab:focus-visible,
+  .carousel-arrow:focus-visible {
+    outline: 3px solid $bardon-invert;
+    outline-offset: 2px;
+  }
+
+  .carousel-slide + .carousel-slide {
+    margin-top: 3rem;
+  }
+
+  &.is-enhanced {
+    .carousel-slide + .carousel-slide {
+      margin-top: 0;
+    }
+
+    .carousel-slide[hidden] {
+      display: none;
+    }
+
+    .carousel-slide.is-active {
+      animation: carousel-fade 0.4s ease-in;
+    }
+  }
+}
+
+@keyframes carousel-fade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .carousel.is-enhanced .carousel-slide.is-active {
+    animation: none;
+  }
+}
+
+// Home page features
+.features {
+  .feature-image {
+    width: 120px;
+    display: inline-block;
+  }
+
+  p {
+    font-size: 0.95rem;
+  }
+}
+
+// Events section (home page): cards of the same size (#122)
 #events {
   .events-grid {
     margin-top: 1.5em;
     margin-bottom: 1.5em;
   }
 
-  .event-item a {
-    color: $bardon;
+  .event-card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    border-radius: 6px;
+    overflow: hidden;
+    background: #fff;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+    transition: box-shadow 0.2s, transform 0.2s;
 
-    &:hover {
-      color: $bardon-darker;
+    &:hover,
+    &:focus-visible {
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+      transform: translateY(-2px);
     }
+  }
+
+  .event-card-image {
+    display: block;
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    background: $white-ter;
+  }
+
+  .event-card-name {
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0.6em 0.5em;
+    font-weight: 700;
+    color: $bardon;
+    line-height: 1.25;
+  }
+
+  .event-card:hover .event-card-name {
+    color: $bardon-darker;
   }
 }
 
