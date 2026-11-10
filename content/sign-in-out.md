@@ -30,10 +30,13 @@ For the safety and security of all our Scouts, Bardon Scouts requires parents or
 - Venturer Scouts
 - Rover Scouts
 
-**Venturer Scouts and Rover Scouts - Signing Themselves and Siblings:**
-Venturer Scouts and Rover Scouts often drive themselves to Scouts. With their parents' permission, they may sign themselves and their younger siblings in and out.
+**Venturer Scouts - Signing Themselves and Siblings:**
+Venturer Scouts often drive themselves to Scouts. With their parents' permission, they may sign themselves and their younger siblings in and out.
 
 Parents, please give this permission by email before the first time, to the Section Leader of each child it covers. Say who may sign, and for which siblings.
+
+**Rover Scouts - Signing Themselves:**
+Rover Scouts are 18 or over, so they may sign themselves in and out. If a Rover Scout is to sign a younger sibling in or out, the sibling's parents give permission by email to that sibling's Section Leader, as above.
 
 ### Important Information
 
