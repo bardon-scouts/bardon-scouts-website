@@ -24,6 +24,16 @@ The Bardon Scout Group website: a Hugo static site with Sveltia CMS, hosted on N
 
 None. Deploys are checked from the dev site's deploy stamp (`scripts/check_deploy.py`), so no Netlify login is needed. A person logs in to the Bardon Scouts Netlify team only to read a failed build's log, change environment variables or deploy by hand.
 
+## Tool versions
+
+The tools this project needs on the machine. The plugin's `health-check` skill runs each check and flags a missing or old version.
+
+| Tool | Check | Upgrade |
+|------|-------|---------|
+| Playwright for Python and its browsers ([design](https://github.com/lvlup-labs/lvluplabs_operations/blob/dev/docs/design/tools/playwright.md)), used by the `verify` skill's browser check | `python ../lvluplabs_operations/scripts/playwright_check.py` | `python ../lvluplabs_operations/scripts/playwright_check.py --upgrade` |
+
+The scripts are in the operations project, cloned on every machine under `C:\Apps`.
+
 ## Connectors
 
 The claude.ai connectors this project needs. The plugin's `health-check` skill checks each one is connected.
