@@ -8,8 +8,10 @@ nav.navbar {
 
   .navbar-brand {
     img {
+      // Bardon Scout Group logo, white text for the green navbar (#123)
       max-width: none;
-      width: 96px;
+      max-height: 42px;
+      width: auto;
       height: 42px;
       margin-top: auto;
       margin-bottom: auto;
