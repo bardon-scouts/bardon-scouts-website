@@ -23,12 +23,12 @@ No prior experience required! We provide comprehensive training in leadership, t
 Scouting happens outdoors. Camping, hiking, and outdoor adventures are the primary learning settings, promoting both physical and mental wellness while connecting with nature.
 
 **Make a Difference**
-Become a role model helping young people develop skills for life and reach their full potential through adventure, community, and leadership experiences.
+Be a role model, helping young people develop skills for life through adventure, community and leadership experiences.
 
 ## Volunteer Roles at Bardon Scouts
 
 **Section Volunteers**
-Work directly with Joeys, Cubs, Scouts, or Venturers, planning and leading weekly activities and special events.
+Work directly with Joey Scouts, Cub Scouts, Scouts, or Venturer Scouts, planning and leading weekly activities and special events.
 
 **Adult Supporters**
 Help regularly at your child's section, attending at least half of the weekly meetings, under the guidance of a trained leader. See [Adult Supporters](/leaders/adult-supporters/) for what's involved.
@@ -63,7 +63,7 @@ All volunteers receive training appropriate to their role, including:
 - Leadership development
 
 **Ongoing Support**
-You'll never be alone! Experienced leaders, district support teams, and Scouts Queensland resources are always available to help.
+You won't be on your own. Experienced leaders, district support teams and Scouts Queensland resources are there to help.
 
 **Recognition**
 Your contributions are valued and recognised through awards, certificates, and appreciation events.

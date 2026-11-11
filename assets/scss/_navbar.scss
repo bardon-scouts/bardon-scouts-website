@@ -8,8 +8,10 @@ nav.navbar {
 
   .navbar-brand {
     img {
+      // Bardon Scout Group logo, white text for the green navbar (#123)
       max-width: none;
-      width: 96px;
+      max-height: 42px;
+      width: auto;
       height: 42px;
       margin-top: auto;
       margin-bottom: auto;
@@ -76,6 +78,32 @@ nav.navbar {
       background-color: $bardon !important;
       color: white !important;
     }
+  }
+
+  // "Ask to join" button at the right of the navbar, on every page.
+  // On phones and tablets it sits beside the menu button, outside the collapsed menu.
+  .navbar-cta-touch {
+    margin-left: auto;
+    margin-inline-start: auto;
+  }
+
+  .navbar-cta-touch + .navbar-burger {
+    margin-left: 0;
+    margin-inline-start: 0;
+  }
+
+  a.button.navbar-cta {
+    background: white;
+    color: $bardon-invert;
+    border: 2px solid white;
+    font-weight: bold;
+  }
+
+  a.button.navbar-cta:hover,
+  a.button.navbar-cta:focus {
+    background: $bardon;
+    border-color: white;
+    color: white;
   }
 
   .navbar-menu.is-active {

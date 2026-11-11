@@ -1,0 +1,75 @@
+// Print styles for the whole site, first written for the recipe cookbook (#117).
+// Anything meant to be printed as separate items (recipes, and later activities)
+// gets the .print-item class: an item stays on one page where it fits, and one
+// taller than a page gets .long (set by its page's script) so it can flow across pages.
+
+@page {
+  size: A4;
+  margin: 15mm 15mm 20mm;
+
+  // Chrome prints this at the foot of each page; other browsers skip it, so
+  // printouts that need the name and address also carry them in a heading
+  @bottom-center {
+    content: "Bardon Scouts · bardonscouts.org.au";
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    color: #666;
+  }
+}
+
+@media print {
+  .navbar,
+  .footer,
+  .no-print {
+    display: none !important;
+  }
+
+  body {
+    background: #fff;
+  }
+
+  // Bulma's page padding is for screens; the @page margins do this job in print
+  .section {
+    padding: 0 !important;
+  }
+
+  .container,
+  .columns,
+  .column {
+    display: block !important;
+    width: auto !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  img {
+    max-width: 100% !important;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+
+  li {
+    break-inside: avoid;
+  }
+
+  .print-item {
+    page-break-inside: avoid;
+    break-inside: avoid;
+
+    &.long {
+      page-break-inside: auto;
+      break-inside: auto;
+    }
+  }
+
+  a {
+    color: inherit !important;
+    text-decoration: none;
+  }
+}

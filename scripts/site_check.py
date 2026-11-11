@@ -6,7 +6,8 @@ Run from the repository root before publishing `dev` to `master`:
     python scripts/site_check.py <base URL>      # checks another deploy
 
 Checks (see docs/testing/README.md):
-  1. Every page linked from the site (crawled from the home page, including every menu link) returns 200.
+  1. Every page linked from the site (crawled from the home page, including every menu link) returns 200,
+     and links to /ask-to-join/ and /privacy/ (PN-5).
   2. Every redirect in static/_redirects returns a 301 to the right place.
   3. The deployed CMS config (/admin/config.yml) has an entry for every page in content/.
   4. The contact, trial visit, website feedback, complaints and hire enquiry forms are on their pages.
@@ -25,6 +26,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 HEADERS = {"User-Agent": "bardon-site-check"}
 FORMS = {"/contact/": "contact", "/ask-to-join/": "trial-visit", "/website-feedback/": "website-feedback",
          "/complaints/": "complaints", "/hire-the-den/": "hire-enquiry"}
+EVERY_PAGE_LINKS = ["/ask-to-join/", "/privacy/"]  # PN-5
 ASSET = re.compile(r"\.(css|js|png|jpe?g|gif|svg|pdf|ico|xml|webp|webmanifest)$", re.I)
 failures = []
 
@@ -51,7 +53,7 @@ def fail(msg):
 
 
 def check_pages():
-    print("1. Pages linked from the site return 200")
+    print("1. Pages linked from the site return 200 and link to Ask to Join and the Privacy Policy")
     seen, queue, stamp = set(), ["/"], None
     while queue:
         path = queue.pop()
@@ -62,6 +64,9 @@ def check_pages():
         if status != 200:
             fail(f"{path} returned {status}")
             continue
+        for link in EVERY_PAGE_LINKS:
+            if not re.search(r'href="?' + re.escape(link) + r'["\s>]', html):
+                fail(f"{path} has no link to {link}")
         if stamp is None:
             m = re.search(r'deploy-commit content="?([0-9a-f]{40})', html)
             stamp = m.group(1) if m else "none"

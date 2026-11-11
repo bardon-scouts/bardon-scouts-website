@@ -13,7 +13,7 @@ Once or twice a year, Bardon Scouts goes indoor rock climbing at Rocksports in F
 **When:** Once or twice a year (dates announced by Section Leaders)\
 **Duration:** Usually a 2-3 hour session\
 **Where:** [Rocksports Indoor Climbing](https://www.rocksports.com.au/), 224 Barry Parade, Fortitude Valley (a short walk from Fortitude Valley station)\
-**Who:** Usually all sections (Joeys, Cubs, Scouts, Venturers); your Section Leader confirms which sections for each session
+**Who:** Usually all sections (Joey Scouts, Cub Scouts, Scouts, Venturer Scouts); your Section Leader confirms which sections for each session
 
 ## What Happens
 

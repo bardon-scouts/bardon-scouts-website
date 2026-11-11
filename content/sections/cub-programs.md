@@ -1,10 +1,10 @@
 ---
-title: "Cub Programs"
-description: "How to run our go-to Cub meeting programs, for leaders and adult supporters at Bardon Scouts"
+title: "Cub Scout Programs"
+description: "How to run our go-to Cub Scout meeting programs, for leaders and adult supporters at Bardon Scouts"
 type: page
 ---
 
-These are the programs we use for Cub meetings, with what you need and how to run each one. They're here for leaders and adult supporters helping on the night. When we tell parents which program we're running, we link to it on this page.
+These are the programs we use for Cub Scout meetings, with what you need and how to run each one. They're here for leaders and adult supporters helping on the night. When we tell parents which program we're running, we link to it on this page.
 
 - [Mt Coot-tha Hike](#mt-coot-tha-hike)
 

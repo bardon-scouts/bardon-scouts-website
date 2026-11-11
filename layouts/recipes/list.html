@@ -1,0 +1,73 @@
+{{ define "main" }}
+{{/* A recipe saved as "print" would take the cookbook page's address, /recipes/print/, so stop the build instead */}}
+{{ range .Pages }}{{ if eq .File.ContentBaseName "print" }}{{ errorf "content/recipes/print.md: a recipe can't be called \"print\", as /recipes/print/ is the cookbook page. Rename it in the CMS." }}{{ end }}{{ end }}
+<div class="content">
+  {{ $heroImage := .Params.image | default "/img/scouts_logo.jpg" }}
+  <div class="margin-top-0" style="display: grid; align-items: center;">
+    <img
+      src="{{ $heroImage }}"
+      style="grid-area: 1/1; max-height: 400px; width: 100%; object-fit: cover; object-position: top left;"
+      alt="{{ .Title }}"
+    />
+    <div class="splash" style="grid-area: 1/1;">
+      <h1 class="heading has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen">
+        {{ .Title }}
+      </h1>
+    </div>
+  </div>
+
+  <section class="section section--gradient">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-10 is-offset-1">
+          <div class="content">
+            {{ .Content }}
+          </div>
+
+          {{ $tags := slice }}
+          {{ range .Pages }}{{ $tags = $tags | append (.Params.tags | default slice) }}{{ end }}
+          {{ $tags = $tags | uniq | sort }}
+
+          {{/* Tag filtering is done in the browser (assets/js/recipes.js): tag pages are turned off (#67) */}}
+          {{ with $tags }}
+          <div class="recipe-filter" role="group" aria-label="Show recipes tagged">
+            <span class="recipe-filter-label">Show:</span>
+            <div class="buttons">
+              <button type="button" class="button is-small is-primary" data-recipe-tag="" aria-pressed="true">All</button>
+              {{ range . }}
+                <button type="button" class="button is-small" data-recipe-tag="{{ . }}" aria-pressed="false">{{ . }}</button>
+              {{ end }}
+            </div>
+          </div>
+          {{ end }}
+
+          <div class="buttons recipe-actions">
+            <button type="button" class="button" data-cookbook-select-shown>Select all shown</button>
+            <button type="button" class="button" data-cookbook-clear>Clear selection</button>
+            <a class="button is-primary" href="/recipes/print/">Open cookbook (<span data-cookbook-count>0</span>)</a>
+          </div>
+
+          {{ range .Pages.ByTitle }}
+            {{ $slug := .File.ContentBaseName }}
+            <article class="box recipe-card" data-recipe-tags="{{ delimit (.Params.tags | default slice) "|" }}">
+              <label class="recipe-pick">
+                <input type="checkbox" data-cookbook-check="{{ $slug }}">
+                <span>Add to cookbook</span>
+              </label>
+              <h2 class="title is-size-4 has-text-primary">
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              </h2>
+              {{ with .Params.description }}<p>{{ . }}</p>{{ end }}
+              {{ partial "recipe-facts.html" . }}
+            </article>
+          {{ else }}
+            <div class="notification">No recipes yet.</div>
+          {{ end }}
+          <p class="recipe-none-shown notification" hidden>No recipes have that tag.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+{{ partial "recipes-script.html" . }}
+{{ end }}

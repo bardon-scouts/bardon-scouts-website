@@ -15,7 +15,7 @@ Scout meetings are a time for learning, adventure, friendship and skill developm
 
 ### The Policy
 
-**For Scouts:** no phone use before, during, or after Scout meetings. Phones should be left at home, in parents' cars, or turned off in bags, and can't be used during arrival time, activities, games or pack-up. This applies to all sections: Joeys, Cubs, Scouts, and Venturers.
+**For Scouts:** no phone use before, during, or after Scout meetings. Phones should be left at home, in parents' cars, or turned off in bags, and can't be used during arrival time, activities, games or pack-up. This applies to all sections: Joey Scouts, Cub Scouts, Scouts, and Venturer Scouts.
 
 **For parents on roster duty or helping as Adult Supporters:** no phone use during meetings except for genuine emergencies, which should be taken away from activity areas. Personal calls, messages and social media should wait until after the meeting.
 

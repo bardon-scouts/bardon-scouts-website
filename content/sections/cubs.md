@@ -1,15 +1,15 @@
 ---
-title: "Cubs"
+title: "Cub Scouts"
 type: sections
 ---
 
 ## Program & Activities
 
-<!-- TODO: Add Cub-specific program and activities content -->
+<!-- TODO: Add Cub Scout specific program and activities content -->
 
-## Cub Events
+## Cub Scout Events
 
-Cubs participate in these annual events and activities:
+Cub Scouts participate in these annual events and activities:
 
 - **[ANZAC Day March](/anzac-day-march/)**
 - **[Bardon Mayfair](/bardon-mayfair/)**

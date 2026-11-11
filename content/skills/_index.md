@@ -19,7 +19,7 @@ Scouting is about learning by doing. At Bardon Scouts, members learn practical s
 
 ## How Skills Grow Through the Sections
 
-Skills build as members move up through the sections. [Joeys](/sections/joeys/) start with outdoor play, simple knots and team games. [Cubs](/sections/cubs/) learn camping basics, knots, outdoor cooking and an introduction to navigation. [Scouts](/sections/scouts/) move on to more advanced camping, expeditions and leading their patrol. [Venturers](/sections/venturers/) plan their own expeditions, take on complex projects and mentor younger members.
+Skills build as members move up through the sections. [Joey Scouts](/sections/joeys/) start with outdoor play, simple knots and team games. [Cub Scouts](/sections/cubs/) learn camping basics, knots, outdoor cooking and an introduction to navigation. [Scouts](/sections/scouts/) move on to more advanced camping, expeditions and leading their patrol. [Venturer Scouts](/sections/venturers/) plan their own expeditions, take on complex projects and mentor younger members.
 
 ## Outdoor Adventure Skills and Badges
 

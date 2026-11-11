@@ -13,7 +13,7 @@ Each year on ANZAC Day, Bardon Scouts proudly marches in the local ANZAC Day com
 
 **When:** 25 April (annually)\
 **Where:** Ithaca War Memorial, 8 Enoggera Terrace, Paddington\
-**Who:** Joeys, Cubs, Scouts, Venturers
+**Who:** Joey Scouts, Cub Scouts, Scouts, Venturer Scouts
 
 **Schedule:**
 - **8:00am** - Arrival and assembly
@@ -56,10 +56,10 @@ Many families stay to view the wreaths and reflect on the significance of the da
 
 ### Who can go?
 All Bardon Scouts members are welcome and encouraged to attend:
-- Joeys
-- Cubs
+- Joey Scouts
+- Cub Scouts
 - Scouts
-- Venturers
+- Venturer Scouts
 
 This is an all-sections event that brings together our entire Scout Group.
 

@@ -13,16 +13,16 @@ Scout meetings run during Queensland school terms. Regular meetings are held eac
 
 ### 2026 Queensland School Terms
 
-**Term 1** - 27 January to 2 April
-**Term 2** - 20 April to 26 June
-**Term 3** - 13 July to 18 September
+**Term 1** - 27 January to 2 April\
+**Term 2** - 20 April to 26 June\
+**Term 3** - 13 July to 18 September\
 **Term 4** - 6 October to 11 December
 
 **[View Queensland School Term Dates](https://education.qld.gov.au/about-us/calendar/term-dates)**
 
 ### Weekly Meeting Times (During School Terms)
 
-Each section meets weekly. See the section pages for meeting days and times: [Joeys](/sections/joeys/), [Cubs](/sections/cubs/), [Scouts](/sections/scouts/) and [Venturers](/sections/venturers/).
+Each section meets weekly. See the section pages for meeting days and times: [Joey Scouts](/sections/joeys/), [Cub Scouts](/sections/cubs/), [Scouts](/sections/scouts/) and [Venturer Scouts](/sections/venturers/).
 
 **Location:** 11 Bee Street, Bardon
 
@@ -54,7 +54,7 @@ Each section meets weekly. See the section pages for meeting days and times: [Jo
 
 **Term 1 ends** - 2 April
 
-**[Cuboree](/cuboree/)** (Cubs) - Every 2-3 years (April 9-13, 2026)
+**[Cuboree](/cuboree/)** (Cub Scouts) - Every 2-3 years (April 9-13, 2026)
 
 **Term 2 starts** - 20 April
 
@@ -78,7 +78,7 @@ Each section meets weekly. See the section pages for meeting days and times: [Jo
 
 **Term 3 starts** - 13 July
 
-**[KnightMoves](/knightmoves/)** (Scouts, Venturers) - Late July/early August
+**[KnightMoves](/knightmoves/)** (Scouts, Venturer Scouts) - Late July/early August
 
 ---
 
@@ -92,7 +92,7 @@ Each section meets weekly. See the section pages for meeting days and times: [Jo
 
 ### September
 
-**[Skillorama](/skillorama/)** (Joeys, Cubs) - September
+**[Skillorama](/skillorama/)** (Joey Scouts, Cub Scouts) - September
 
 **Term 3 ends** - 18 September
 
@@ -120,23 +120,23 @@ Each section meets weekly. See the section pages for meeting days and times: [Jo
 
 **Term 4 ends** - 11 December
 
-**[AJ2028](/aj2028/)** (Scouts, Venturers) - 29 December 2027 to 7 January 2028
+**[AJ2028](/aj2028/)** (Scouts, Venturer Scouts) - 29 December 2027 to 7 January 2028
 
 ---
 
 ## Year-Round Activities
 
-**[Pizza and Paddle](/pizza-and-paddle/)** (Scouts, Venturers and Rovers) - Friday nights throughout the year
+**[Pizza and Paddle](/pizza-and-paddle/)** (Scouts, Venturer Scouts and Rover Scouts) - Friday nights throughout the year
 
 **[Rock Climbing](/rock-climbing/)** - Once or twice per year
 
-**[District Camps](/district-camps/)** (Joeys, Cubs, Scouts) - Throughout the year
+**[District Camps](/district-camps/)** (Joey Scouts, Cub Scouts, Scouts) - Throughout the year
 
-**[District Swimming](/district-swimming/)** (Cubs) - Annually
+**[District Swimming](/district-swimming/)** (Cub Scouts) - Annually
 
 **[Fishing](/fishing/)** (all sections) - Throughout the year
 
-**[Overnight Hikes](/overnight-hikes/)** (Scouts, Venturers) - Usually between April and September
+**[Overnight Hikes](/overnight-hikes/)** (Scouts, Venturer Scouts) - Usually between April and September
 
 ---
 

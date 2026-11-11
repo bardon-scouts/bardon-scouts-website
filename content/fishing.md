@@ -11,7 +11,7 @@ Fishing is a year-round activity at Bardon Scouts, open to every section.
 ## Event Details
 
 **When:** Throughout the year (dates to be announced)\
-**Who:** Joeys, Cubs, Scouts, Venturers - all sections\
+**Who:** Joey Scouts, Cub Scouts, Scouts, Venturer Scouts - all sections\
 **Where:** The fishing platform near Breakfast Creek (to be confirmed)
 
 ## Where We Fish

@@ -1,15 +1,15 @@
 ---
-title: "Venturers"
+title: "Venturer Scouts"
 type: sections
 ---
 
 ## Program & Activities
 
-<!-- TODO: Add Venturer-specific program and activities content -->
+<!-- TODO: Add Venturer Scout specific program and activities content -->
 
-## Venturer Events
+## Venturer Scout Events
 
-Venturers participate in these annual events and activities:
+Venturer Scouts participate in these annual events and activities:
 
 - **[ANZAC Day March](/anzac-day-march/)**
 - **[Australian Jamboree 2028 (AJ2028)](/aj2028/)**

@@ -59,6 +59,8 @@ If your child can't come, please reply No. It tells the leaders who to expect, s
 
 **Changing your RSVP.** The link in the invitation email can only be used once. If you open it again to change your answer, you'll see a message saying the link is single use. Contact the leaders and ask them to send you a new invitation.
 
+**Consent2go won't let you reply.** Sometimes Consent2go blocks a reply, for example when you're overseas. Email the leader named on the Consent2go invitation with your answer, and they can record the RSVP for you.
+
 ### Need Help?
 
 If you have questions about using Consent2go or need help with your account, please [contact us](/contact/) or speak with your child's Section Leader.

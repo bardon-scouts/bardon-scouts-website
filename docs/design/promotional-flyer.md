@@ -38,7 +38,7 @@ From the Scouts Australia Brand Book (August 2026), which the Scouts Queensland 
 - **Logo:** use the official files from the Scouts Australia Brand Centre (members log in with their membership number), never redrawn or AI-generated. A Scout Group uses the logo with its name: "Bardon" in Nunito Sans Black and "Scout Group" in Nunito Sans Regular. Keep clear space of 2.5 times the "S" on each side and 1 times above. The logo with its words must be at least 30 mm wide. Use full colour with black lettering on light backgrounds, and full colour with white lettering (or white only) on dark ones. Don't place it on a busy part of a photo.
 - **Section material:** material for one section uses that section's logo and colours. The families side is about Joeys, so it uses the Joey Scouts logo and the Joeys colours.
 - **Typeface:** Nunito Sans. Headings in Black, body in Regular or Bold, mostly left aligned. Arial if Nunito Sans isn't available.
-- **Colours:** the flyer uses brand colours, not the website's teal and red:
+- **Colours:** the flyer uses brand colours, not the website's maroon and green:
 
   | Use | Colour | Hex | Print |
   |---|---|---|---|
@@ -48,7 +48,7 @@ From the Scouts Australia Brand Book (August 2026), which the Scouts Queensland 
   | Volunteers side accent | Scouts Teal | `#008f88` | PMS 7714c, C95 M16 Y53 K0 |
   | Text on white | Dark Grey | `#575756` | K80 |
 
-  White text goes on the darker shades, which read clearly; Joeys Brown and Scouts Teal are too light for small white text. The website's red (`#d9432d`) is close to the Rovers colour, so it's left off.
+  White text goes on the darker shades, which read clearly; Joeys Brown and Scouts Teal are too light for small white text.
 - **Gumtree Graphics:** the brand's gum bark pattern can be used as a border or background, cropped but never redrawn, recoloured or used in greyscale. No text over the figures in it. The Joey Scouts version goes on the families side.
 - **Photos:** Scouting in action, usually young people outdoors, or the view from a participant's point of view.
 - **AI images:** allowed only to support ideas. They must never stand in for brand assets, and must never show wrong uniforms, scarves or badges.

@@ -1,0 +1,44 @@
+{{ define "main" }}
+{{/* The cookbook print page, /recipes/print/ (content/recipes-print.md, #117).
+     assets/js/recipes.js reads the picked recipes from localStorage, fetches
+     /recipes/index.json and renders them into #cookbook. Print styles: assets/scss/_print.scss */}}
+<div class="content">
+  <section class="section section--gradient">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-10 is-offset-1">
+          <div class="no-print">
+            <h1 class="title">{{ .Title }}</h1>
+            <div class="content">
+              {{ .Content }}
+            </div>
+            <div class="buttons">
+              <button type="button" class="button is-primary" data-cookbook-print disabled>Print / Save as PDF</button>
+              <a class="button is-primary is-light" href="/recipes/">Choose recipes</a>
+              <button type="button" class="button" data-cookbook-clear>Clear cookbook</button>
+            </div>
+            <noscript><div class="notification">Your cookbook needs JavaScript turned on to show the recipes you picked.</div></noscript>
+          </div>
+
+          <div class="notification is-warning is-light no-print" data-cookbook-empty hidden>
+            <p>No recipes in your cookbook yet.</p>
+            <p><a href="/recipes/">Choose recipes</a> by ticking them on the Recipes page, or use <strong>Add to cookbook</strong> on a recipe's page.</p>
+          </div>
+          <div class="notification is-danger is-light no-print" data-cookbook-error hidden>
+            The recipes couldn't be loaded. Check your connection and reload the page.
+          </div>
+
+          <div id="cookbook" class="cookbook" data-cookbook-json="/recipes/index.json" hidden>
+            <header class="cookbook-header">
+              <p class="cookbook-name">Bardon Scouts cookbook</p>
+              <p class="cookbook-site">bardonscouts.org.au/recipes/</p>
+            </header>
+            <div data-cookbook-recipes></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+{{ partial "recipes-script.html" . }}
+{{ end }}

@@ -20,9 +20,9 @@ Our history has seen two and three family generations involved in Bardon Scouts.
 - **1908** - Patrols of Scouts commenced at Kangaroo Point, Bowen Hills, Ashgrove and Toowong
 - **1910** - Girl Guides commenced in the UK
 - **1910** - First documented reference of Scouts active in Bardon
-- **1916** - Scouts Cub section commenced in the UK
+- **1916** - Cub Scout section commenced in the UK
 - **1918** - First Cub packs established in Brisbane
-- **1919** - Rover section commenced in the UK, after the end of World War I
+- **1919** - Rover Scout section commenced in the UK, after the end of World War I
 - **1923** - Milton Rover Crew established, Queensland's first Rover crew
 - **1924** - Earliest documented evidence of 1st Bardon Scouts
 - **1934** - 1st Australian Scout Jamboree, Frankston, Victoria. Baden-Powell attended.
@@ -37,7 +37,7 @@ Our history has seen two and three family generations involved in Bardon Scouts.
 - **1937** - 1st Bardon Scout Group's first King's Scout: A J Best
 - **1938** - 2nd Australian Scout Jamboree, Bradfield Park, Sydney. Bardon contingent: 5 Scouts, 4 Leaders.
 - **1941** - Air Scouts established
-- **1946** - Scouts Venturer section commenced (formerly Senior Scouts)
+- **1946** - Venturer Scout section commenced (formerly Senior Scouts)
 - **1946** - 2nd Bardon Scout Group at St Bartholomew's Church, Simpsons Road, commenced and ceased
 - **1948** - Scout Hut flag pole erected
 - **1948** - 3rd Australian Scout Jamboree, Wonga Park, Melbourne. Bardon contingent: 9 Scouts, 2 Leaders.
@@ -53,12 +53,12 @@ Our history has seen two and three family generations involved in Bardon Scouts.
 - **1957** - Taylor Range District Badge created and approved to be worn on uniform by the District Commissioner
 - **1960** - 25th anniversary of the group: Arch Gateway on the corner of Bee and Mackay Streets opened by Sir Henry Abel Smith, Governor of Queensland
 - **1960** - 7th Australian Scout Jamboree, Lansdowne, Sydney. Bardon contingent: 5 Scouts, 1 Leader.
-- **1961** - Mary Lyall reaches 25 years as Cub Leader with one Cub pack, unequalled at that time
-- **1961** - Manfred Cross commenced as a Federal Minister (a former Bardon Cub, Scout and Senior Scout)
+- **1961** - Mary Lyall reaches 25 years as Cub Scout Leader with one Cub pack, unequalled at that time
+- **1961** - Manfred Cross commenced as a Federal Minister (a former Bardon Cub Scout, Scout and Senior Scout)
 - **1962** - The number designation of Scout Groups was dropped, e.g. 1st Bardon became Bardon
 - **1962** - 2nd Bardon renamed Jubilee Group
 - **1963** - 23 March: official opening of Lyall Den, the Senior Scouts Den
-- **1963** - Highest youth membership: 106 (39 Cubs, 56 Scouts, 11 Senior Scouts)
+- **1963** - Highest youth membership: 106 (39 Cub Scouts, 56 Scouts, 11 Senior Scouts)
 - **1964** - 2nd Bardon Scout Group's first Queen's Scout: John L Knowles
 - **1967** - Scout Hut retaining wall built with reclaimed railway rails and sleepers, backfilled with ashes
 - **1968** - 8th Australian Scout Jamboree, Jindalee, Brisbane. Bardon contingent: 4 Scouts, 1 Leader.
@@ -69,42 +69,42 @@ Our history has seen two and three family generations involved in Bardon Scouts.
 - **1971** - 21 September: 2nd Bardon Scouts (Jubilee) closes
 - **1971** - Jubilee (previously North Bardon) amalgamated with Bardon at Bee Street
 - **1972** - The Boy Scouts Association became the Scout Association of Australia. Uniforms changed: no sock tops, garter tabs or metal buttons.
-- **1973** - Venturer section replaced Senior Scouts in Australia
+- **1973** - Venturer Scout section replaced Senior Scouts in Australia
 - **1973** - 11th Australian Scout Jamboree, Dandenong, Victoria. Bardon contingent: 1 Leader.
-- **1975** - First girls allowed in Venturer and Rover sections in Australia
+- **1975** - First girls allowed in Venturer Scout and Rover Scout sections in Australia
 - **1975** - Cub Flat flag pole erected
-- **1975** - Second highest youth membership: 100 (26 Cubs, 28 Scouts, 39 Senior Scouts, 7 Rovers)
-- **1979** - 12th Australian Scout Jamboree, Perth, WA. Bardon contingent: 5 Scouts, 3 Venturers, 1 Leader.
-- **1982** - 13th Australian Scout Jamboree, Collingwood Park, Brisbane. Bardon contingent: 10 Scouts, 3 Venturers, 3 Leaders.
+- **1975** - Second highest youth membership: 100 (26 Cub Scouts, 28 Scouts, 39 Senior Scouts, 7 Rover Scouts)
+- **1979** - 12th Australian Scout Jamboree, Perth, WA. Bardon contingent: 5 Scouts, 3 Venturer Scouts, 1 Leader.
+- **1982** - 13th Australian Scout Jamboree, Collingwood Park, Brisbane. Bardon contingent: 10 Scouts, 3 Venturer Scouts, 3 Leaders.
 - **1982** - Bardon Scout Group logo created by Cub Mathew Missow
 - **1985** - 50th anniversary and 50th anniversary book printed, assuming Bardon commenced in 1935
-- **1988** - First girls allowed in Scout and Cub sections in Australia
-- **1990** - Joey section commenced in Scouts Queensland
+- **1988** - First girls allowed in Scout and Cub Scout sections in Australia
+- **1990** - Joey Scout section commenced in Scouts Queensland
 - **1991** - 16th Australian Scout Jamboree, Ballarat, Victoria. Bardon contingent: 2 Scouts.
 - **1991** - Bardon Rover Crew's first BP Award: Chris Goninon
-- **1992** - 30 January: first official Joey Mob parade, with 12 Joeys
+- **1992** - 30 January: first official Joey Mob parade, with 12 Joey Scouts
 - **1993** - First female Group Leader: Patricia Lye (1993 to 1996)
 - **1995** - 60th anniversary and 60th anniversary book printed, assuming Bardon commenced in 1935
-- **1996** - Atlanta Paralympic Games silver medallist Paul Gockel (a former Bardon Cub)
+- **1996** - Atlanta Paralympic Games silver medallist Paul Gockel (a former Bardon Cub Scout)
 - **1998** - 18th Australian Scout Jamboree, Springfield, Queensland. Bardon Scouts attended; contingent numbers unknown.
 - **1998** - First Bardon Scouts website created by Group Leader Chris Goninon
 - **2004** - Scout uniform changed to a new navy uniform, replacing the traditional khaki
 - **2005** - 70th anniversary and 70th anniversary book printed, assuming Bardon commenced in 1935
 - **2009** - Bardon Scouts' first email address started (info@bardonscouts.com)
-- **2010** - 22nd Australian Scout Jamboree, Cataract Park, Sydney. Bardon contingent: 16 Scouts, 1 Venturer, 3 Leaders, 1 Parent Helper.
-- **2010** - 1st Queensland Cuboree, Stanthorpe. Bardon contingent: 11 Cubs, 6 Leaders, 2 Parent Supporters.
+- **2010** - 22nd Australian Scout Jamboree, Cataract Park, Sydney. Bardon contingent: 16 Scouts, 1 Venturer Scout, 3 Leaders, 1 Parent Helper.
+- **2010** - 1st Queensland Cuboree, Stanthorpe. Bardon contingent: 11 Cub Scouts, 6 Leaders, 2 Parent Supporters.
 - **2010** - Our second website set up by Angela Sibley, running from 4 October 2010
 - **2010** - 1st Grey Wolf Award: B Gray
 - **2010** - 21 November: 75th anniversary
 - **2011** - Started using DIBBS cloud-based club management software, the 1st group in Queensland and 18th Scout group in Australia to do so
 - **2012** - 77-year-old Scout Hut refurbished
-- **2012** - 2nd Queensland Cuboree, Rockhampton. Bardon contingent: 1 Cub.
-- **2013** - 23rd Australian Scout Jamboree, Maryborough, Queensland. Bardon contingent: 16 Scouts, 1 Venturer, 3 Leaders, 1 Parent Supporter.
+- **2012** - 2nd Queensland Cuboree, Rockhampton. Bardon contingent: 1 Cub Scout.
+- **2013** - 23rd Australian Scout Jamboree, Maryborough, Queensland. Bardon contingent: 16 Scouts, 1 Venturer Scout, 3 Leaders, 1 Parent Supporter.
 - **2013** - 1st Scout Medallion Award: R Fraser
-- **2014** - 3rd Queensland Cuboree, Maryborough. Bardon contingent: 4 Cubs, 1 Leader.
+- **2014** - 3rd Queensland Cuboree, Maryborough. Bardon contingent: 4 Cub Scouts, 1 Leader.
 - **2015** - 80th anniversary, assuming Bardon commenced in 1935
 - **2016** - 24th Australian Scout Jamboree, Cataract Park, Sydney. Bardon contingent: 8 Scouts, 2 Leaders.
-- **2016** - 4th Queensland Cuboree, Maryborough. Bardon contingent: 2 Cubs.
+- **2016** - 4th Queensland Cuboree, Maryborough. Bardon contingent: 2 Cub Scouts.
 - **2017** - Discovery that Bardon Scouts commenced in 1924 and was very active until 1933
 - **2017** - Taylor Range District Badge celebrates 60 years
 

@@ -2,8 +2,13 @@
   <div class="container">
     <div class="navbar-brand">
       <a class="navbar-item" href="/">
-        <img src="/img/bardon-scouts-text.png" alt="{{ .Site.Title }}">
+        <img src="/img/bardon-scout-group-logo.png" alt="{{ .Site.Title }}">
       </a>
+
+      <!-- Ask to join, shown beside the menu button on phones and tablets -->
+      <div class="navbar-item navbar-cta-touch is-hidden-desktop">
+        <a class="button navbar-cta" href="/ask-to-join/">Join</a>
+      </div>
 
       <!-- Hamburger menu -->
       <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navMenu">
@@ -35,7 +40,10 @@
         {{- end }}
       </div>
       <div class="navbar-end has-text-centered">
-        <!-- Future: Add social media icons or other items -->
+        <!-- Ask to join on every page (docs/requirements/pages-and-navigation.md) -->
+        <div class="navbar-item is-hidden-touch">
+          <a class="button navbar-cta" href="/ask-to-join/">Join</a>
+        </div>
       </div>
     </div>
   </div>

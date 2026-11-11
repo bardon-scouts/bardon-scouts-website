@@ -30,6 +30,15 @@ disableKinds = ["taxonomy", "term"]
   home = ["HTML", "RSS"]
   section = ["HTML", "RSS"]
 
+# The Recipes page also has a JSON version (/recipes/index.json, from
+# layouts/recipes/list.json), which the cookbook print page reads (#117).
+# Set here rather than in content/recipes/_index.md so a CMS save can't drop it
+[[cascade]]
+  outputs = ["HTML", "JSON"]
+  [cascade._target]
+    path = "/recipes"
+    kind = "section"
+
 # Taxonomies
 [taxonomies]
   tag = "tags"

@@ -1,0 +1,43 @@
+{{/*
+  One recipe ingredient as a line of text, e.g. "1½ cups self-raising flour, sifted" (#117).
+  Takes the ingredient map from a recipe's front matter: quantity (optional number),
+  unit (optional, from the CMS's fixed list), name, plural (optional) and note (optional).
+  Used by the recipe page and the JSON the cookbook print page reads, so both show the same text.
+*/}}
+{{/* strings.Trim, not strings.TrimSpace: TrimSpace is newer than Netlify's Hugo 0.128.2 */}}
+{{ $text := "" }}
+{{ $q := .quantity }}
+{{ $many := false }}
+{{ with $q }}
+  {{ $q = float . }}
+  {{ $many = gt $q 1.0 }}
+  {{ $whole := math.Floor $q }}
+  {{ $frac := sub $q $whole }}
+  {{ $sym := "" }}
+  {{ if lt (math.Abs (sub $frac 0.25)) 0.01 }}{{ $sym = "¼" }}
+  {{ else if lt (math.Abs (sub $frac 0.5)) 0.01 }}{{ $sym = "½" }}
+  {{ else if lt (math.Abs (sub $frac 0.75)) 0.01 }}{{ $sym = "¾" }}
+  {{ else if lt (math.Abs (sub $frac 0.333)) 0.01 }}{{ $sym = "⅓" }}
+  {{ else if lt (math.Abs (sub $frac 0.667)) 0.01 }}{{ $sym = "⅔" }}
+  {{ end }}
+  {{ if lt $frac 0.001 }}
+    {{ $text = string (int $whole) }}
+  {{ else if $sym }}
+    {{ $text = cond (gt $whole 0.0) (printf "%d%s" (int $whole) $sym) $sym }}
+  {{ else }}
+    {{ $text = string $q }}
+  {{ end }}
+{{ end }}
+{{ $plurals := dict "cup" "cups" "pinch" "pinches" "handful" "handfuls" "can" "cans" "packet" "packets" "jar" "jars" "bunch" "bunches" "clove" "cloves" "slice" "slices" }}
+{{ with .unit }}
+  {{ $unit := . }}
+  {{ if $many }}{{ $unit = index $plurals . | default . }}{{ end }}
+  {{ $text = strings.Trim (printf "%s %s" $text $unit) " " }}
+{{ end }}
+{{ $name := .name }}
+{{ if and $many (not .unit) }}
+  {{ $name = .plural | default (cond (strings.HasSuffix $name "s") $name (printf "%ss" $name)) }}
+{{ end }}
+{{ $text = strings.Trim (printf "%s %s" $text $name) " " }}
+{{ with .note }}{{ $text = printf "%s, %s" $text . }}{{ end }}
+{{ return $text }}

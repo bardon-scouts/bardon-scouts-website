@@ -23,15 +23,15 @@ Scouts are active members of their community. We participate in ANZAC Day servic
 
 Bardon Scout Group has been serving the local community for many years, providing young people with opportunities for adventure, friendship, and personal growth.
 
-We meet at our Scout Den at 11 Bee Street, Bardon, where Joeys, Cubs, Scouts and Venturers meet each week for activities, games, and planning their next adventure.
+We meet at our Scout Den at 11 Bee Street, Bardon, where Joey Scouts, Cub Scouts, Scouts and Venturer Scouts meet each week for activities, games, and planning their next adventure.
 
 ## What We Do
 
 - **Camping and Hiking** - Overnight camps, bush walks, and outdoor adventures
 - **Skills Development** - From cooking to first aid, navigation to leadership
 - **Community Service** - ANZAC Day parades, fundraising, environmental projects
-- **Friendships** - Making lifelong friends and being part of a global movement
-- **Personal Growth** - Building confidence, resilience, and independence
+- **Friendships** - Making friends and being part of a global movement
+- **Personal Growth** - Support to build confidence, resilience and independence
 
 ## Join Us
 

@@ -1,10 +1,11 @@
 // Bardon Scout colors
-$bardon: #43a09b;
-$bardon-invert: #d9432d;
-$bardon-light: #65c2bd;
-$bardon-mid: #32908a;
-$bardon-darker: #218079;
-$bardon-invert-mid: #c8321c;
+// Maroon from scoutsqld.au, so the site matches Scouts Queensland's branding (#105).
+$bardon: #681d34;
+// Scouts green from scoutsqld.au (the Scouts section colour), for the navbar (#105).
+$bardon-invert: #00ad50;
+$bardon-light: #f2c4cf;  // Pale pink: hover text on maroon (footer links)
+$bardon-mid: #8c314d;    // Lighter maroon: hover background, as on scoutsqld.au
+$bardon-darker: #4f1527; // Darker maroon: borders, hover text on white
 
 // Bulma color references (since we're using Bulma from CDN)
 $white-ter: #f3f4f6;

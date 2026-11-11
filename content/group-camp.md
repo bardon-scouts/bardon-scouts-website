@@ -15,7 +15,7 @@ Once a year, the whole of Bardon Scouts heads away together for Group Camp. It i
 **Arrive:** Friday at 7pm\
 **Depart:** Sunday at 2pm\
 **Where:** BP Park, 68 Cash Ave, Samford Village QLD 4520 ([map](https://maps.app.goo.gl/7bAzxh6ifB4FaCgT6))\
-**Who:** Joeys, Cubs, Scouts, Venturers - all sections, plus adult helpers
+**Who:** Joey Scouts, Cub Scouts, Scouts, Venturer Scouts - all sections, plus adult helpers
 
 ## Arrival
 
@@ -54,7 +54,7 @@ We use sign in and out sheets at camp. Whenever anyone arrives or leaves, adults
 
 ## Sleeping Arrangements
 
-Your child can bring their own tent or use a Bardon Scouts tent. Young people choose their own tent partners, with a maximum of 4 to a tent. Joeys sleep in their parents' tent.
+Your child can bring their own tent or use a Bardon Scouts tent. Young people choose their own tent partners, with a maximum of 4 to a tent. Joey Scouts sleep in their parents' tent.
 
 ## Menu
 

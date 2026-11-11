@@ -26,7 +26,7 @@ Sveltia CMS commits to `master`, not `dev` (`backend.branch` in `static/admin/co
 
 ## Content model
 
-**Pages** are Markdown files with YAML front matter in `content/`. Most pages use `type: page` and the `_default/single.html` template. Event pages are `content/<slug>.md`; the other areas have their own folders (`join/`, `leaders/`, `sections/`, `skills/`, `news/`, `contact/`, `complaints/`, `website-feedback/`, and `hire-the-den/` and `ask-to-join/` for their forms' thanks pages). A folder's `_index.md` is its landing page.
+**Pages** are Markdown files with YAML front matter in `content/`. Most pages use `type: page` and the `_default/single.html` template. Event pages are `content/<slug>.md`; the other areas have their own folders (`join/`, `leaders/`, `sections/`, `skills/`, `news/`, `recipes/`, `contact/`, `complaints/`, `website-feedback/`, and `hire-the-den/` and `ask-to-join/` for their forms' thanks pages). A folder's `_index.md` is its landing page.
 
 Common front matter:
 - `title`, `description` (used for the page title, meta description and share preview)
@@ -42,28 +42,33 @@ Common front matter:
 
 `content/sections/<slug>.md` adds extra content to a section page, such as the list of events that section attends.
 
-**Menus** are in `config/_default/menus.toml` (the `main` menu, with dropdowns set by `parent`). The home page "Our Events" grid is built from the Events dropdown (`partials/events-list.html`), so adding an event to the Events menu also adds it to the home page. The footer (`partials/footer.html`) is a hand-written list and must be updated separately. Program pages (how to run a section's meeting programs, e.g. Joey Programs) are in the footer but not the menu (`docs/requirements/pages-and-navigation.md`).
+**Recipes** (#117) are `content/recipes/<slug>.md`, one per recipe, with structured ingredients (amount, unit, name, plural, note, group) so they can be scaled later (#118). The Recipes page (`layouts/recipes/list.html`) and recipe pages (`layouts/recipes/single.html`) let visitors pick recipes, kept in `localStorage`. The Recipes section also has a JSON version, `/recipes/index.json` (`layouts/recipes/list.json`, switched on by a `cascade` in `config.toml`), which the cookbook print page (`content/recipes-print.md` at `/recipes/print/`, `layouts/_default/cookbook.html`) fetches and renders with `assets/js/recipes.js`. Ingredient lines are built by `partials/recipe-ingredient.html`, used by both the recipe page and the JSON, so they read the same. Requirements: `docs/requirements/recipes.md`; leaders' guide: `docs/training/entering-recipes.md`.
+
+**Menus** are in `config/_default/menus.toml` (the `main` menu, with dropdowns set by `parent`). The home page event cards ("Outdoor adventures all year", each with the event page's `image` and name) are built from the Events dropdown (`partials/events-list.html`), so adding an event to the Events menu also adds it to the home page. The footer (`partials/footer.html`) is a hand-written list and must be updated separately. Every page has a "Join" button at the right of the navbar, linking to Ask to Join, (`partials/navbar.html`) and a Privacy Policy link in the footer's bottom row (#111). Program pages (how to run a section's meeting programs, e.g. Joey Scout Programs) are in the footer but not the menu (`docs/requirements/pages-and-navigation.md`).
 
 **Site settings** are in `config/_default/`: `config.toml` (base URL, Markdown rendering with HTML allowed, tags and categories taxonomies, with taxonomy pages turned off), `params.toml` (description, brand colours, address, Facebook link).
 
-**The CMS** (`static/admin/config.yml`) has a file entry for each page and data file, plus folder collections for news. Every page must have an entry so leaders can edit it (`docs/principles.md`). The `events` folder collection is unused (#13).
+**The CMS** (`static/admin/config.yml`) has a file entry for each page and data file, plus folder collections for news and recipes. Every page must have an entry so leaders can edit it (`docs/principles.md`). The `events` folder collection is unused (#13).
 
 ## Templates
 
 There's no theme; all templates are in `layouts/`:
 - `_default/baseof.html`: the page shell (head, navbar, main block, footer, script)
-- `index.html`: the home page (hero, main pitch, features, events grid, sections list, contact call to action)
+- `index.html`: the home page (hero, main pitch with the "who we are" line, an optional contact call to action that is off (`contactCTA`, #122), then a carousel (#122) of the features, sections list and event cards, run by `assets/js/main.js`; without JavaScript its slides stack)
 - `_default/single.html`: ordinary pages
 - `sections/list.html` and `sections/single.html`: the Sections page and each section page
 - `news/`, `events/`, `join/`, `leaders/`, `skills/` list templates for those folders' landing pages
+- `recipes/list.html`, `recipes/single.html` and `recipes/list.json`, and `_default/cookbook.html` for the cookbook print page
 - `404.html`
-- `partials/`: `head`, `navbar`, `footer`, `hero`, `features`, `sections-list`, `events-list`, `contact-cta` (optional `text` and `url`; section pages send it to `/ask-to-join/`), `section-times`, and the five forms
+- `partials/`: `head`, `navbar`, `footer`, `hero`, `features`, `sections-list`, `events-list`, `recipe-facts`, `recipe-ingredient` (returns an ingredient's text), `recipes-script`, `contact-cta` (optional `text` and `url`; section pages send it to `/ask-to-join/`), `section-times`, and the five forms
 
-Brand colours are teal `#43a09b` and red `#d9432d`, in `assets/scss/_variables.scss` and `params.toml`.
+Brand colours are maroon `#681d34` (Scouts Queensland's, from scoutsqld.au) and Scouts green `#00ad50` (Scouts Queensland's Scouts section colour, from scoutsqld.au), used for the navbar, in `assets/scss/_variables.scss` and `params.toml`. Hover states on maroon use a lighter maroon, `#8c314d`. Bulma's primary colour (`is-primary` buttons and tags) is set to the same maroon with Bulma's CSS variables at the top of `assets/scss/main.scss`, because Bulma comes from a CDN and would otherwise be turquoise.
+
+Print styles for the whole site are in `assets/scss/_print.scss`: A4 pages, no navbar or footer, and the `.print-item` class keeps an item (such as a recipe) on one page unless it's marked `.long`. It's meant to be reused by any later printable collection, such as an activities catalogue.
 
 ### Deploy stamp
 
-`partials/head.html` writes `<meta name="deploy-commit" content="...">` on every page, from Netlify's `COMMIT_REF` (allowed in `config.toml` under `security.funcs`). It shows which commit a page was built from, so a change can be checked on the dev site after it deploys. The `verify` skill relies on it.
+`partials/head.html` writes `<meta name="deploy-commit" content="...">` on every page, from Netlify's `COMMIT_REF` (allowed in `config.toml` under `security.funcs`). It shows which commit a page was built from, so a change can be checked on the dev site after it deploys. The `verify` skill relies on it, through `scripts/check_deploy.py`, so checking a deploy needs no Netlify login.
 
 ### Redirects
 
@@ -88,3 +93,6 @@ Add new decisions at the bottom: date, decision, and why. Where the reason wasn'
 | 4 Oct 2026 | Turn off tag and category pages (`disableKinds`, #67) | The site has no template for them, so the sitemap listed 15 addresses that returned 404. News posts still show their tags as text. The unused `sections` taxonomy was removed too: Hugo had been building the Our Sections page (`/sections/`) as that taxonomy's list page, so turning taxonomy pages off would have removed it. |
 | 6 Oct 2026 | Program pages go in the footer, not the menu (#81) | The site has outgrown putting every page on the menu. Program pages are for leaders and adult supporters, so they stay out of the menu but can still be found from the footer. |
 | 16 Oct 2026 | The site is light only: `data-theme="light"` on `<html>` and a `color-scheme: light` meta tag (#89) | Bulma 1.0 switches its colours when a device is in dark mode, but the custom styles are written for a light page, so parts of pages (such as quote boxes) turned black. Forcing Bulma's light theme fixes every element at once. |
+| 9 Nov 2026 | Maroon replaces teal as the main brand colour (#105) | To match Scouts Queensland's branding on scoutsqld.au. The navbar's red then became the Scouts green, `#00ad50`, the Scouts section colour on scoutsqld.au, at the owner's request. |
+| 9 Nov 2026 | Recipes and a printable cookbook built in the browser, printed with the browser's print dialog (#117) | No server or new service is needed. JS PDF libraries were ruled out because they cut pages at arbitrary points; CSS page breaks keep each recipe on one page where it fits. Ingredients are structured from the start so scaling (#118) doesn't mean converting every recipe. The JSON output is switched on in `config.toml` rather than the section's front matter, as a CMS save can drop front matter the CMS doesn't declare (#52). |
+| 9 Nov 2026 | Check deploys from the deploy stamp only, with `scripts/check_deploy.py`, not the Netlify CLI (#120) | The CLI holds one account at a time, so on a machine also used for other Netlify work, `verify` stopped and issues went to Question unverified. The stamp passes for a commit or a later one containing it. Agreed on lvlup-labs/lvluplabs_operations#254 (option A). |

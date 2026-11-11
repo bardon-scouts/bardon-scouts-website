@@ -262,13 +262,13 @@
 
 # Sections dropdown items
 [[main]]
-  name = "Joeys"
+  name = "Joey Scouts"
   parent = "sections"
   url = "/sections/joeys/"
   weight = 1
 
 [[main]]
-  name = "Cubs"
+  name = "Cub Scouts"
   parent = "sections"
   url = "/sections/cubs/"
   weight = 2
@@ -280,13 +280,13 @@
   weight = 3
 
 [[main]]
-  name = "Venturers"
+  name = "Venturer Scouts"
   parent = "sections"
   url = "/sections/venturers/"
   weight = 4
 
 [[main]]
-  name = "Rovers - Coming Soon"
+  name = "Rover Scouts - Coming Soon"
   parent = "sections"
   url = "/sections/rovers/"
   weight = 5
@@ -394,6 +394,12 @@
   parent = "skills"
   url = "/skills/water-activities/"
   weight = 5.75
+
+[[main]]
+  name = "Recipes"
+  parent = "skills"
+  url = "/recipes/"
+  weight = 5.76
 
 # Leaders & Volunteers dropdown items
 [[main]]

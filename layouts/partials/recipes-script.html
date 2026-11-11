@@ -1,0 +1,5 @@
+{{/* The recipes and cookbook script (#117), on the Recipes list, each recipe page and the cookbook print page */}}
+{{ with resources.Get "js/recipes.js" }}
+  {{ $js := . | resources.Minify | resources.Fingerprint }}
+  <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>
+{{ end }}

@@ -7,7 +7,7 @@ The Bardon Scout Group website: a Hugo static site with Sveltia CMS, hosted on N
 - **How we work** (GitHub Issues workflow, testing before review, writing style, commit rules, permissions) comes from the **lvlup-workflow plugin**, loaded at the start of every session. Don't repeat it here.
 - **What this project cares about** is in **`docs/`**: `docs/principles.md` is loaded every session; `docs/requirements/` covers content standards, event pages, forms, news posts, pages and navigation, sections and the home page. Read the relevant requirement before changing an area, and update it when a change alters what it describes.
 - **How the site is built and why** (stack, content model, templates, decisions log) is in **`docs/design/README.md`**. Update it when a change alters what it describes.
-- **How to verify a change** is the **`verify` skill** (`.claude/skills/verify/SKILL.md`): confirm the Netlify dev deploy of the commit, then check the pages on the dev site. **`docs/testing/README.md`** covers the test approach, the test case IDs in the requirements, the whole-site check (`scripts/site_check.py`) and what a person checks.
+- **How to verify a change** is the **`verify` skill** (`.claude/skills/verify/SKILL.md`): confirm the dev site is serving the commit (from its deploy stamp, with no Netlify login), then check the pages on the dev site. **`docs/testing/README.md`** covers the test approach, the test case IDs in the requirements, the whole-site check (`scripts/site_check.py`) and what a person checks.
 
 ## Branches and environments
 
@@ -22,11 +22,17 @@ The Bardon Scout Group website: a Hugo static site with Sveltia CMS, hosted on N
 
 ## Tool accounts
 
-The person at the machine switches accounts when they change project. Skills check the active account and stop if it's wrong; they don't switch.
+None. Deploys are checked from the dev site's deploy stamp (`scripts/check_deploy.py`), so no Netlify login is needed. A person logs in to the Bardon Scouts Netlify team only to read a failed build's log, change environment variables or deploy by hand.
 
-| Tool | Account | Check |
-|---|---|---|
-| Netlify CLI | The Bardon Scouts account, whose teams include `bardon-scouts` (email kept out of this public repo) | `netlify status`: the "Teams" list includes `bardon-scouts`. Read the output, not the exit code. To fix: `netlify switch`, or `netlify login --new` the first time on a machine |
+## Tool versions
+
+The tools this project needs on the machine. The plugin's `health-check` skill runs each check and flags a missing or old version.
+
+| Tool | Check | Upgrade |
+|------|-------|---------|
+| Playwright for Python and its browsers ([design](https://github.com/lvlup-labs/lvluplabs_operations/blob/dev/docs/design/tools/playwright.md)), used by the `verify` skill's browser check | `python ../lvluplabs_operations/scripts/playwright_check.py` | `python ../lvluplabs_operations/scripts/playwright_check.py --upgrade` |
+
+The scripts are in the operations project, cloned on every machine under `C:\Apps`.
 
 ## Connectors
 
@@ -59,7 +65,7 @@ scripts/site_check.py  Whole-site check, run before publishing dev to master
 
 ## Notes
 
-- **Styling:** Bulma 1.0.2 from a CDN (`layouts/partials/head.html`), plus custom SCSS. Brand colours are teal `#43a09b` and red `#d9432d`, in `assets/scss/_variables.scss`.
+- **Styling:** Bulma 1.0.2 from a CDN (`layouts/partials/head.html`), plus custom SCSS. Brand colours are maroon `#681d34` (Scouts Queensland's) and Scouts green `#00ad50` (the navbar), in `assets/scss/_variables.scss`.
 - **Forms** (contact, feedback, complaints) are Netlify forms (`data-netlify="true"`).
 - **Deploy stamp:** every page has `<meta name="deploy-commit">` with the commit it was built from (`layouts/partials/head.html`, from Netlify's `COMMIT_REF`). The `verify` skill relies on it.
 - The site was converted from Gatsby in July 2026. `CONVERSION-SUMMARY.md` has the history.

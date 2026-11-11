@@ -6,7 +6,7 @@ image: /img/scouts_logo.jpg
 ---
 
 
-PL Adventure is an overnight camp for Patrol Leaders in the Scout section, held late each year. It's ideal for older Scouts, especially those looking for a last adventure before they move up to Venturers. The 2026 details haven't been released yet; the details below are from 2025 and give an idea of what to expect.
+PL Adventure is an overnight camp for Patrol Leaders in the Scout section, held late each year. It's ideal for older Scouts, especially those looking for a last adventure before they move up to Venturer Scouts. The 2026 details haven't been released yet; the details below are from 2025 and give an idea of what to expect.
 
 ## Event Details
 

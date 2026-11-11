@@ -13,7 +13,7 @@ Operation NightHawk is an overnight bush hike for Scouts on the Darling Downs, r
 **When:** Usually the second full weekend in August\
 **Duration:** Overnight, Friday evening to Saturday\
 **Where:** A different Darling Downs venue each year (recently Crows Nest Showgrounds and Clifton Airfield)\
-**Who:** Scouts (not Joeys, Cubs or Venturers)
+**Who:** Scouts (not Joey Scouts, Cub Scouts or Venturer Scouts)
 
 ## The Challenge
 

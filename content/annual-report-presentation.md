@@ -17,7 +17,7 @@ The Annual Report Presentation (ARP) is Bardon Scouts' annual general meeting. F
 
 ## What Happens at the ARP
 
-The meeting opens with a welcome and the adoption of last year's minutes. The Treasurer presents the year's financial statement, and there are reports on the Den and equipment, from the committee, and from each section (Joeys, Cubs, Scouts and Venturers). The Group Leader gives an overview of the year and plans for the next. The committee for the coming year is announced, and volunteers are thanked. There's time for questions throughout, and light refreshments.
+The meeting opens with a welcome and the adoption of last year's minutes. The Treasurer presents the year's financial statement, and there are reports on the Den and equipment, from the committee, and from each section (Joey Scouts, Cub Scouts, Scouts and Venturer Scouts). The Group Leader gives an overview of the year and plans for the next. The committee for the coming year is announced, and volunteers are thanked. There's time for questions throughout, and light refreshments.
 
 The agenda is sent out before the meeting, and the minutes are sent to families afterwards. You can send questions in advance if you can't attend.
 

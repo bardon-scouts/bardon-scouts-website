@@ -19,7 +19,7 @@ No Scouting experience is needed. Leaders will show you what's needed each week,
 
 ### What You Get From It
 
-You see your child's skills, confidence and friendships grow at first hand, and you share their activities and camps. You also get to know the other parents in your section: many of the closest friendships at Bardon Scouts started between Adult Supporters.
+You can see your child's skills, confidence and friendships grow at first hand, and you share their activities and camps. You also get to know the other parents in your section: many of the closest friendships at Bardon Scouts started between Adult Supporters.
 
 ### Requirements
 
