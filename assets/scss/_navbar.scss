@@ -97,6 +97,7 @@ nav.navbar {
     color: $bardon-invert;
     border: 2px solid white;
     font-weight: bold;
+    min-height: 44px; // big enough to tap on a phone
   }
 
   a.button.navbar-cta:hover,
