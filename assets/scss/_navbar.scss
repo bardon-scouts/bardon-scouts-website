@@ -121,6 +121,22 @@ nav.navbar {
   }
 }
 
+// On the narrowest phones (320 pixels), tighten the Try Scouts button so the
+// menu button still fits beside it.
+@media screen and (max-width: 359px) {
+  nav.navbar {
+    .navbar-cta-touch {
+      padding-left: 0.25rem;
+      padding-right: 0.25rem;
+    }
+
+    a.button.navbar-cta {
+      padding-left: 0.6em;
+      padding-right: 0.6em;
+    }
+  }
+}
+
 .navbar .navbar-menu {
   box-shadow: none !important;
 }
