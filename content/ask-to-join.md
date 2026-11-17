@@ -1,5 +1,5 @@
 ---
-title: "Ask to Join"
+title: "Try Scouts"
 description: "Ask to bring your child to a free trial meeting at Bardon Scouts"
 showTrialForm: true
 type: page

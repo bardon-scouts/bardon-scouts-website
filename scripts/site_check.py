@@ -53,7 +53,7 @@ def fail(msg):
 
 
 def check_pages():
-    print("1. Pages linked from the site return 200 and link to Ask to Join and the Privacy Policy")
+    print("1. Pages linked from the site return 200 and link to Try Scouts (/ask-to-join/) and the Privacy Policy")
     seen, queue, stamp = set(), ["/"], None
     while queue:
         path = queue.pop()

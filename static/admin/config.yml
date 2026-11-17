@@ -670,7 +670,7 @@ collections:
           - { label: "Body", name: "body", widget: "markdown" }
 
       - file: "content/ask-to-join.md"
-        label: "Ask to Join"
+        label: "Try Scouts"
         name: "ask-to-join"
         fields:
           - { label: "Title", name: "title", widget: "string" }
@@ -906,7 +906,7 @@ collections:
           - { label: "Body", name: "body", widget: "markdown", required: false }
 
       - file: "content/ask-to-join/thanks.md"
-        label: "Ask to Join Thank You"
+        label: "Try Scouts Thank You"
         name: "ask-to-join-thanks"
         fields:
           - { label: "Title", name: "title", widget: "string" }

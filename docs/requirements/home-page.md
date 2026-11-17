@@ -17,7 +17,7 @@ Sections, in this order (`layouts/index.html`):
 
 All home page text is editable in the CMS (Homepage, Homepage Features, Scout Sections). The events grid follows the Events menu automatically.
 
-The page has no "Contact us" button: the navbar's "Join" button, on every page, is its call to action (#122, `pages-and-navigation.md`). The CMS's "Show Contact Button" toggle (`contactCTA`) is off.
+The page has no "Contact us" button: the navbar's "Try Scouts" button, on every page, is its call to action (#122, `pages-and-navigation.md`). The CMS's "Show Contact Button" toggle (`contactCTA`) is off.
 
 ## How to check
 
@@ -25,5 +25,5 @@ On the dev site's home page:
 - **HP-1:** The sections appear in the order above, with the carousel's three slides in order and a tab for each; the tabs and arrows change the slide, and one slide shows at a time.
 - **HP-2:** The event cards list the same events as the Events menu, in order, each with its event page's photo, and every link returns 200.
 - **HP-3:** The page says we are part of Scouts Australia and Scouts Queensland, and the Scouts Queensland link returns 200.
-- **HP-4:** The page has no "Contact us" button, has the navbar's "Join" button linking to `/ask-to-join/`, and has four feature images, with no "Get ready for adventure" heading above them.
+- **HP-4:** The page has no "Contact us" button, has the navbar's "Try Scouts" button linking to `/ask-to-join/`, and has four feature images, with no "Get ready for adventure" heading above them.
 - **HP-5:** The main pitch says what Scouts gives a young person and how (for example: they plan their own adventures, build skills outdoors and grow in confidence).

@@ -13,7 +13,7 @@ The website only collects the details you type into one of its forms:
 | Form | What it asks for |
 |---|---|
 | [Contact](/contact/) | Your name, email and message |
-| [Ask to Join](/ask-to-join/) | Your name and email, your children's names and ages, and an optional message |
+| [Try Scouts](/ask-to-join/) | Your name and email, your children's names and ages, and an optional message |
 | [Website Feedback](/website-feedback/) | Your name, an optional email, the page, the kind of feedback and the details |
 | [Complaints](/complaints/) | Your name, email, an optional phone number, the kind of complaint, when it happened, the details and how you'd like us to reply |
 | [Hire the Den](/hire-the-den/) | Your name, organisation, email, an optional phone number, the dates and any details |

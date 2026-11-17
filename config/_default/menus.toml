@@ -61,7 +61,7 @@
   weight = 7.1
 
 [[main]]
-  name = "Ask to Join"
+  name = "Try Scouts"
   parent = "contact"
   url = "/ask-to-join/"
   weight = 7.12

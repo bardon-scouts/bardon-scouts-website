@@ -5,7 +5,7 @@ type: page
 image: /img/thank-you.jpg
 ---
 
-## Thanks for asking to join
+## Thanks for asking to try Scouts
 
 We've received your request. We'll reply by email to confirm the day and where to meet.
 
