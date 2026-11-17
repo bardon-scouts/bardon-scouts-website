@@ -11,6 +11,8 @@ The Bardon Scout Group website: a Hugo static site with Sveltia CMS, hosted on N
 
 ## Branches and environments
 
+- **Working branch: `dev`.** All work is committed and pushed to `dev`.
+
 | Branch | Deployed to | Use |
 |---|---|---|
 | `dev` | https://dev--bardon-scouts-website.netlify.app/ | All work. Every push deploys here. |
