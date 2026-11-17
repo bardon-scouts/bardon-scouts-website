@@ -179,7 +179,7 @@ Each Joey Scout draws a map of their home.
 
 **Aim:** for Joey Scouts to find items around their suburb, using a map. We normally run this program soon after [Maps and Finding Hidden Secrets](#maps-and-finding-hidden-secrets).
 
-**Prep:** we provide a map of the suburb and a sheet of things to find. Print the [Suburb Scavenger Hunt sheet](/img/joey-suburb-scavenger-hunt.pdf) (PDF, 1 page) before the meeting. Joey Scouts tick off each item as they find it.
+**Prep:** we provide a map of the suburb and a sheet of things to find. Print the [Suburb Scavenger Hunt sheet](/img/joey-suburb-scavenger-hunt.pdf) (PDF, 1 page) and the [map of the area around the Den](/img/joey-suburb-map.pdf) (PDF, 1 page) before the meeting. Joey Scouts tick off each item as they find it.
 
 **Adult helpers:** Joey Scouts are accompanied by an adult, who also has a radio. As the Joey Scouts hunt for items using the map, the adult can use a phone's maps to help them navigate and to show them at any time where they are on the map.
 
