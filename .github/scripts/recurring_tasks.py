@@ -32,6 +32,11 @@ STAGE_FIELD = "Stage"
 WORK_STAGE = "Build"
 WEEKDAYS = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"]
 QUARTER_MONTHS = (1, 4, 7, 10)
+# The reopening comment ends with queue.py's mark, so the queue doesn't read it as the owner's
+# feedback, and starts with DUE_AGAIN, so the queue knows a new occurrence began there
+# (lvlup-labs/lvluplabs_operations#410). Both are the same as queue.py's.
+CLAUDE_MARK = "<!-- lvlup-workflow: posted by Claude -->"
+DUE_AGAIN = "Due again on"
 
 
 def marker(task_id):
@@ -167,7 +172,7 @@ def handle(task, day, issues, github):
                        "-F", f"issue_field_values[][field_id]={stage[0]}",
                        "-f", f"issue_field_values[][value]={WORK_STAGE}"],
                       f"set Stage on #{number} to {WORK_STAGE} (was {stage[1]})")
-    github.change(["issue", "comment", number, "--body", f"Due again on {day.isoformat()}."],
+    github.change(["issue", "comment", number, "--body", f"{DUE_AGAIN} {day.isoformat()}.\n\n{CLAUDE_MARK}"],
                   f"comment on #{number}")
     return "reopened"
 
