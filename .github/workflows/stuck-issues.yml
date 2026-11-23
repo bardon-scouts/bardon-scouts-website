@@ -1,0 +1,45 @@
+# Shared by the lvlup-workflow plugin, which keeps each project's copy up to date.
+# Change it in the plugin, not in a project.
+
+name: Stuck issues
+
+on:
+  schedule:
+    - cron: "30 20 * * *"  # 06:30 Brisbane time (UTC+10), after the recurring tasks run
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Print the actions without making them
+        type: boolean
+        default: false
+      days:
+        description: Days with no activity before an issue is stuck
+        type: string
+        default: "7"
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: stuck-issues
+  cancel-in-progress: false
+
+jobs:
+  stuck-issues:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - name: Hand stuck issues to the owner
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          # The lvlup-labs Stage issue field. Not a secret: the run's token can't list the
+          # organisation's fields, so its id is given here.
+          STAGE_FIELD_ID: "48104276"
+          DAYS: ${{ inputs.days || '7' }}
+          DRY_RUN: ${{ inputs.dry_run && '--dry-run' || '' }}
+        run: python .github/scripts/stuck_issues.py --days "$DAYS" $DRY_RUN
