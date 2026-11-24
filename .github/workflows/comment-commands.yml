@@ -1,0 +1,39 @@
+# Shared by the lvlup-workflow plugin, which keeps each project's copy up to date.
+# Change it in the plugin, not in a project.
+
+name: Comment commands
+
+on:
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  comment-commands:
+    # Keeps the cost down: a comment without a command, or with a mark (Claude's and the
+    # automations'), skips the job, which uses no minutes. The script makes the exact checks.
+    if: >-
+      !github.event.issue.pull_request &&
+      github.event.comment.user.type == 'User' &&
+      !contains(github.event.comment.body, '<!-- lvlup-workflow:') &&
+      (contains(github.event.comment.body, '/build') ||
+      contains(github.event.comment.body, '/backlog') ||
+      contains(github.event.comment.body, '/close'))
+    runs-on: ubuntu-slim  # 1 core, the cheapest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          sparse-checkout: .github/scripts
+      - name: Do the comment's commands
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          # The lvlup-labs Stage issue field. Not a secret: the run's token can't list the
+          # organisation's fields, so its id is given here. Another owner's repository uses the
+          # stage labels.
+          STAGE_FIELD_ID: ${{ github.repository_owner == 'lvlup-labs' && '48104276' || '' }}
+        run: python3 .github/scripts/comment_commands.py
