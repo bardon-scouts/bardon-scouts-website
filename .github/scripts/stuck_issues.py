@@ -1,9 +1,10 @@
 """Find open issues stuck at a working stage and hand them to the owner.
 
-An issue is stuck when it's at a working stage (Design, Build or Test) and nothing has
+An issue is stuck when it's at a working stage (Build or Test) and nothing has
 happened on it (a comment, commit reference, label, stage or other change) for --days days
 (default 7), so nothing in the workflow is moving it (lvlup-labs/lvluplabs_operations#419).
-Issues that wait on purpose are left alone: labelled blocked or manual, or with a Start date
+Issues that wait on purpose are left alone: labelled blocked or manual, a recurring task already
+labelled overdue (the recurring tasks check told the owner), or with a Start date
 after today. Triage, Backlog, Question, Review and Done aren't working stages.
 
 For each stuck issue, once, in this order:
@@ -48,14 +49,18 @@ BLOCKED_LABEL = "blocked"
 MANUAL_LABEL = "manual"
 REVIEW_LABEL = "needs-review"
 RECURRING_LABEL = "recurring"
-TRIAGE, BACKLOG, DESIGN, BUILD, QUESTION, REVIEW, TEST, DONE = STAGES = [
-    "Triage", "Backlog", "Design", "Build", "Question", "Review", "Test", "Done"]
-WORK_STAGES = [DESIGN, BUILD, TEST]
+OVERDUE_LABEL = "overdue"
+TRIAGE, BACKLOG, BUILD, QUESTION, REVIEW, TEST, DONE = STAGES = [
+    "Triage", "Backlog", "Build", "Question", "Review", "Test", "Done"]
+WORK_STAGES = [BUILD, TEST]
+# As queue.py: an issue still at the old Design stage reads as Build with the design label
+OLD_DESIGN_STAGE = "Design"
+DESIGN_LABEL = "design"
 LABEL_STAGES = {REVIEW_LABEL: REVIEW, "triage": TRIAGE, "backlog": BACKLOG}
 # As queue.py: the working stage each role takes (any other role takes Build), and the roles
 # that take only their stage's issues with a label
-ROLE_STAGES = {"designer": DESIGN, "tester": TEST}
-ROLE_LABELS = {"test-manager": "testing"}
+ROLE_STAGES = {"tester": TEST}
+ROLE_LABELS = {"designer": DESIGN_LABEL, "test-manager": "testing", "change-manager": "user-docs"}
 DEFAULT_ROLES = ["app-builder"]
 CONFIG_FILE = os.path.join(".claude", "lvlup-workflow.json")
 DEFAULT_DAYS = 7
@@ -132,7 +137,12 @@ def stage_of(issue, fields):
         return QUESTION
     if stage in STAGES:
         return stage
-    return BUILD if RECURRING_LABEL in labels else TRIAGE
+    return BUILD if stage == OLD_DESIGN_STAGE or RECURRING_LABEL in labels else TRIAGE
+
+
+def old_design_label(fields):
+    """The design label, as a list, for an issue still at the old Design stage."""
+    return [DESIGN_LABEL] if (fields or {}).get(STAGE_FIELD) == OLD_DESIGN_STAGE else []
 
 
 def waits_on_purpose(issue, fields, today):
@@ -142,6 +152,9 @@ def waits_on_purpose(issue, fields, today):
         return "blocked"
     if MANUAL_LABEL in labels:
         return "manual"
+    if OVERDUE_LABEL in labels and RECURRING_LABEL in labels:
+        # The recurring tasks check has told the owner already (lvluplabs_operations#420)
+        return "overdue recurring task"
     start = (fields or {}).get(START_DATE_FIELD)
     if start and datetime.date.fromisoformat(start) > today:
         return f"scheduled for {start}"
@@ -202,18 +215,21 @@ def role_for(stage, roles, labels=()):
     return next((r for r in roles if stage_of_role(r) == stage and r not in ROLE_LABELS), roles[0])
 
 
-def comment_body(issue, stage, idle_days, since, roles, stage_mode):
+def comment_body(issue, fields, stage, idle_days, since, roles):
     who = ", ".join(a["login"] for a in issue.get("assignees", [])) or "no one"
-    role = role_for(stage, roles, labels_of(issue))
-    if stage_mode:
+    labels = labels_of(issue) + old_design_label(fields)
+    role = role_for(stage, roles, labels)
+    if fields is not None:
         back = (f"set its Stage back to {stage} (and take off `{BLOCKED_LABEL}` if this check added it, which "
                 "it does where the Stage field has no Question option)")
     else:
         back = f"remove the `{REVIEW_LABEL}` and `{BLOCKED_LABEL}` labels"
-    role_line = f"In this project, {stage} is taken by the {role} role. It's assigned to {who}."
+    label = ROLE_LABELS.get(role)
+    taken = f"{stage} issues labelled `{label}` are" if label in labels else f"{stage} is"
+    role_line = f"In this project, {taken} taken by the {role} role. It's assigned to {who}."
     return "\n".join([
         f"**Stuck:** nothing has happened on this issue for {idle_days} days (last on {since}) while at {stage}, "
-        "so it's moved to Question for the Company Director to see.",
+        "so it's moved to Question for the Company Director (@anthoneyrimmer) to see.",
         "",
         role_line,
         "",
@@ -280,11 +296,15 @@ def handle(issue, fields, times, now, days, roles, field_id, github):
         print(f"#{number}: active, left as it is")
         return "active"
     since = last.astimezone(BRISBANE).date().isoformat()
+    for label in old_design_label(fields):
+        # Question replaces the stage that marked it as design work: the label first, so a
+        # repository without it fails here with nothing lost
+        github.change(["issue", "edit", str(number), "--add-label", label], f"add {label} to #{number}")
     # Comment, move, then label: the comment comes before the move so queue.py doesn't read it as
     # the owner's feedback, and the label comes last so `stuck` at a working stage always means
     # the owner has moved it back
     github.change(["issue", "comment", str(number), "--body",
-                   comment_body(issue, stage, idle.days, since, roles, fields is not None)],
+                   comment_body(issue, fields, stage, idle.days, since, roles)],
                   f"comment on #{number} (idle {idle.days} days at {stage})")
     to_question(number, fields, labels, field_id, github)
     github.change(["issue", "edit", str(number), "--add-label", STUCK_LABEL], f"add {STUCK_LABEL} to #{number}")

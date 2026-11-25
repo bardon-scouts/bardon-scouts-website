@@ -7,9 +7,9 @@ A command is a line of its own in a new comment:
 - /close-when-done  add the close-when-done label
 
 It counts only in a comment by a person with write access, on an open issue. It never counts on a
-pull request, in a comment of Claude's or an automation's (one with a "<!-- lvlup-workflow:" mark:
-Claude posts from the owner's account, so the author doesn't tell them apart), or in a quote, a code
-block or a hidden HTML comment. The plugin's hook also stops Claude posting an unmarked comment.
+pull request, in a comment by Claude's account, in one with a "<!-- lvlup-workflow:" mark (Claude's,
+from a PC that uses the owner's account, or an automation's), or in a quote, a code block or a
+hidden HTML comment. The plugin's hook also stops Claude posting an unmarked comment.
 A re-run never counts: what it says may since have been done another way. Post the command again.
 
 /close-when-done can go with /build or /backlog. Any other mix of commands (such as /build and
@@ -39,6 +39,7 @@ DONE_STAGE = "Done"
 CLOSE_LABEL, RECURRING_LABEL = "close-when-done", "recurring"
 REVIEW_LABEL, BLOCKED_LABEL, TRIAGE_LABEL, BACKLOG_LABEL = "needs-review", "blocked", "triage", "backlog"
 MARK = "<!-- lvlup-workflow:"
+CLAUDE_LOGIN = "lvluplabspty"  # the same as queue.py's (lvlup-labs/lvluplabs_operations#463)
 WRITE_ACCESS = {"admin", "maintain", "write"}
 
 COMMAND = re.compile(r"^/(build|backlog|close|close-when-done)\s*$", re.IGNORECASE)  # an indented line may be a list's
@@ -205,7 +206,7 @@ def handle(event, field_id, github, attempt="1"):
         return ignored(number, "a pull request")
     if user.get("type") != "User":
         return ignored(number, "not a person's comment")
-    if MARK in body:
+    if MARK in body or user["login"].lower() == CLAUDE_LOGIN:
         return ignored(number, "Claude's or an automation's comment")
     commands = find_commands(body)
     if not commands:
